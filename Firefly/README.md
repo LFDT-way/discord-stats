@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515688758751282
 - **Total Messages in Category:** 4,405
-- **Last 30 Days:** 23
+- **Last 30 Days:** 22
 - **Last 90 Days:** 85
-- **Last 365 Days:** 259
+- **Last 365 Days:** 258
 - **First Message:** 2022-01-05
 - **Last Message:** 2026-05-13
 
@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [firefly](firefly_928377875827154984.md) | 2026-05-13 | 4 | 49 | 198 | 4,064 |
-| [firefly-maintainers](firefly-maintainers_1151539141826322482.md) | 2026-05-12 | 19 | 36 | 58 | 217 |
+| [firefly](firefly_928377875827154984.md) | 2026-05-13 | 4 | 49 | 197 | 4,064 |
+| [firefly-maintainers](firefly-maintainers_1151539141826322482.md) | 2026-05-12 | 18 | 36 | 58 | 217 |
 | [firefly-workshop](firefly-workshop_1063562168064282685.md) | 2025-08-08 | 0 | 0 | 3 | 123 |
 | [firefly-announcements](firefly-announcements_928380528422432769.md) | 2022-04-13 | 0 | 0 | 0 | 1 |
 
@@ -24,29 +24,28 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Enrique Lacal | 8 | TAC member, Project Maintainer, Firefly Maintainer |
+| 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 8 | TAC member, Project Maintainer, Firefly Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 6 | gw, LFDT Staff, Admins |
-| 3 | JessicaG | 6 | gw, LF Staff, LFDT Staff, Admins |
-| 4 | SonicSwordcane | 2 | Project Maintainer, Firefly Maintainer |
-| 5 | cheng | 1 | Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 3 | [JessicaG](https://github.com/jwagantall) | 6 | gw, LF Staff, LFDT Staff, Admins |
+| 4 | [SonicSwordcane](https://github.com/SupernaviX) | 2 | Project Maintainer, Firefly Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 34 | gw, LFDT Staff, Admins |
-| 2 | Enrique Lacal | 29 | TAC member, Project Maintainer, Firefly Maintainer |
-| 3 | JessicaG | 6 | gw, LF Staff, LFDT Staff, Admins |
-| 4 | Sean Bohan (LFDT Staff) | 4 | LFDT Staff, Admins |
+| 2 | [Enrique Lacal](https://github.com/EnriqueL8) | 29 | TAC member, Project Maintainer, Firefly Maintainer |
+| 3 | [JessicaG](https://github.com/jwagantall) | 6 | gw, LF Staff, LFDT Staff, Admins |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | LFDT Staff, Admins |
 | 5 | Dan | 3 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Enrique Lacal | 102 | TAC member, Project Maintainer, Firefly Maintainer |
+| 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 102 | TAC member, Project Maintainer, Firefly Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 37 | gw, LFDT Staff, Admins |
-| 3 | SonicSwordcane | 11 | Project Maintainer, Firefly Maintainer |
+| 3 | [SonicSwordcane](https://github.com/SupernaviX) | 11 | Project Maintainer, Firefly Maintainer |
 | 4 | 0xbharat | 10 | — |
 | 5 | M₳X | 9 | — |
 
@@ -54,9 +53,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Nicko Guyer | 960 | Project Maintainer, Firefly Maintainer |
-| 2 | Enrique Lacal | 343 | TAC member, Project Maintainer, Firefly Maintainer |
-| 3 | Peter Broadhurst | 237 | Paladin Maintainer, Project Maintainer, Lab Leader, Firefly Maintainer |
+| 1 | [Nicko Guyer](https://github.com/nguyer) | 960 | Project Maintainer, Firefly Maintainer |
+| 2 | [Enrique Lacal](https://github.com/EnriqueL8) | 343 | TAC member, Project Maintainer, Firefly Maintainer |
+| 3 | [Peter Broadhurst](https://github.com/peterbroadhurst) | 237 | Paladin Maintainer, Project Maintainer, Lab Leader, Firefly Maintainer |
 | 4 | andrew.richardson | 189 | Project Maintainer, SRL, Paladin Maintainer, Firefly Maintainer |
 | 5 | jjs357 | 121 | — |
 

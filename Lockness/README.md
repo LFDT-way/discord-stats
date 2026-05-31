@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1255573270007251024
 - **Total Messages in Category:** 517
-- **Last 30 Days:** 17
+- **Last 30 Days:** 13
 - **Last 90 Days:** 114
 - **Last 365 Days:** 213
 - **First Message:** 2024-06-27
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [lockness-contribute](lockness-contribute_1285268686147424388.md) | 2026-05-28 | 17 | 94 | 141 | 341 |
+| [lockness-contribute](lockness-contribute_1285268686147424388.md) | 2026-05-28 | 13 | 94 | 141 | 341 |
 | [lockness-maintainers](lockness-maintainers_1255573353683746856.md) | 2026-03-25 | 0 | 16 | 43 | 143 |
 | [lockness](lockness_1294284489635139585.md) | 2025-09-16 | 0 | 0 | 24 | 24 |
 | [lockness-announce](lockness-announce_1285268049913712641.md) | 2026-04-20 | 0 | 4 | 5 | 9 |
@@ -24,11 +24,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Denis | 5 | Project Maintainer, Lockness Maintainer |
+| 1 | Denis | 3 | Project Maintainer, Lockness Maintainer |
 | 2 | Gyan ranjan | 3 | — |
-| 3 | Siddharth Gautam | 3 | — |
-| 4 | Aditya | 2 | — |
-| 5 | Manthan | 1 | — |
+| 3 | Aditya | 2 | — |
+| 4 | Manthan | 1 | — |
+| 5 | shridhar panigrahi | 1 | — |
 
 ### Last 90 Days
 

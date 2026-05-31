@@ -34,15 +34,15 @@ _No activity in this period._
 | 2 | kukgini | 2 | — |
 | 3 | Harshitha | 2 | — |
 | 4 | Alex Walker | 2 | — |
-| 5 | swcurran | 2 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
+| 5 | [swcurran](https://github.com/swcurran) | 2 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | swcurran | 207 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
-| 2 | conanoc | 103 | Project Maintainer |
-| 3 | Wade Barnes | 72 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
+| 1 | [swcurran](https://github.com/swcurran) | 207 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
+| 2 | [conanoc](https://github.com/conanoc) | 103 | Project Maintainer |
+| 3 | [Wade Barnes](https://github.com/WadeBarnes) | 72 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
 | 4 | Deleted User | 71 | — |
 | 5 | kukgini | 71 | — |
 

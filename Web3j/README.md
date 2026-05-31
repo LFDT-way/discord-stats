@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 1,225
 - **Last 30 Days:** 10
 - **Last 90 Days:** 22
-- **Last 365 Days:** 188
+- **Last 365 Days:** 182
 - **First Message:** 2024-01-11
 - **Last Message:** 2026-05-30
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-04-23 | 0 | 1 | 85 | 742 |
+| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-04-23 | 0 | 1 | 79 | 742 |
 | [web3j-general](web3j-general_1195062053682032700.md) | 2026-05-30 | 10 | 21 | 103 | 483 |
 
 ## Most Active Users
@@ -26,7 +26,7 @@
 | 2 | George Tebrean | 2 | Project Maintainer, Web3j Maintainer |
 | 3 | Ashhar | 2 | — |
 | 4 | Gaurav | 1 | — |
-| 5 | Sean Bohan (LFDT Staff) | 1 | LFDT Staff, Admins |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff, Admins |
 
 ### Last 90 Days
 
@@ -35,16 +35,16 @@
 | 1 | Dev | 9 | — |
 | 2 | George Tebrean | 4 | Project Maintainer, Web3j Maintainer |
 | 3 | Ashhar | 2 | — |
-| 4 | Sean Bohan (LFDT Staff) | 2 | LFDT Staff, Admins |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff, Admins |
 | 5 | Marcus Brandenburger | 1 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | George Tebrean | 71 | Project Maintainer, Web3j Maintainer |
+| 1 | George Tebrean | 68 | Project Maintainer, Web3j Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 19 | gw, LFDT Staff, Admins |
-| 3 | Abdelrahman Hedia | 14 | — |
+| 3 | Abdelrahman Hedia | 13 | — |
 | 4 | irzinfante | 12 | — |
 | 5 | Dev | 9 | — |
 
@@ -52,7 +52,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Nischal \| nischal.eth | 310 | Project Maintainer, Web3j Maintainer |
+| 1 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 310 | Project Maintainer, Web3j Maintainer |
 | 2 | Shashank Kumar | 289 | — |
 | 3 | George Tebrean | 231 | Project Maintainer, Web3j Maintainer |
 | 4 | [Ry Jones](https://github.com/ryjones) | 52 | gw, LFDT Staff, Admins |

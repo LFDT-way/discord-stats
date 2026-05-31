@@ -28,7 +28,7 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | alexander.shenshin | 10 | Project Maintainer, Hiero maintainer |
-| 2 | Roger | 7 | Project Maintainer, Hiero maintainer |
+| 2 | [Roger](https://github.com/rbarker-dev) | 7 | Project Maintainer, Hiero maintainer |
 | 3 | explorer3 | 1 | Project Maintainer, Hiero maintainer |
 | 4 | Taro | 1 | — |
 | 5 | hendrik.ebbers | 1 | TAC member, Project Maintainer, Hiero maintainer |
@@ -38,7 +38,7 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | alexander.shenshin | 10 | Project Maintainer, Hiero maintainer |
-| 2 | Roger | 7 | Project Maintainer, Hiero maintainer |
+| 2 | [Roger](https://github.com/rbarker-dev) | 7 | Project Maintainer, Hiero maintainer |
 | 3 | explorer3 | 1 | Project Maintainer, Hiero maintainer |
 | 4 | Taro | 1 | — |
 | 5 | hendrik.ebbers | 1 | TAC member, Project Maintainer, Hiero maintainer |

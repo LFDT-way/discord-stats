@@ -27,7 +27,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Sean Bohan (LFDT Staff) | 1 | LFDT Staff, Admins |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff, Admins |
 
 ### Last 90 Days
 
@@ -35,15 +35,15 @@
 | ---: | :--- | ---: | :--- |
 | 1 | SophiaUgo | 2 | — |
 | 2 | tsheringgyeltshen | 1 | — |
-| 3 | Sean Bohan (LFDT Staff) | 1 | LFDT Staff, Admins |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff, Admins |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | swcurran | 7 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
-| 2 | Sean Bohan (LFDT Staff) | 5 | LFDT Staff, Admins |
-| 3 | Arun S M | 2 | TAC member, Chapter Leader |
+| 1 | [swcurran](https://github.com/swcurran) | 7 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | LFDT Staff, Admins |
+| 3 | [Arun S M](https://github.com/arsulegai) | 2 | TAC member, Chapter Leader |
 | 4 | SophiaUgo | 2 | — |
 | 5 | tsheringgyeltshen | 1 | — |
 
@@ -51,7 +51,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | swcurran | 239 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
+| 1 | [swcurran](https://github.com/swcurran) | 239 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
 | 2 | mikelodder | 80 | Project Maintainer, Lab Leader |
 | 3 | Patrick St-Louis | 59 | Project Maintainer, ToIP |
 | 4 | [Ry Jones](https://github.com/ryjones) | 33 | gw, LFDT Staff, Admins |

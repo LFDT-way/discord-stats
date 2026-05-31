@@ -2,22 +2,22 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1226983696306012181
-- **Total Messages in Category:** 1,229
-- **Last 30 Days:** 27
-- **Last 90 Days:** 81
-- **Last 365 Days:** 645
+- **Total Messages in Category:** 1,232
+- **Last 30 Days:** 30
+- **Last 90 Days:** 84
+- **Last 365 Days:** 624
 - **First Message:** 2024-04-10
-- **Last Message:** 2026-05-30
+- **Last Message:** 2026-05-31
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-05-30 | 13 | 32 | 211 | 508 |
-| [sdk-ts](sdk-ts_1252629747389829152.md) | 2026-05-24 | 8 | 18 | 155 | 208 |
+| [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-05-31 | 16 | 35 | 211 | 511 |
+| [sdk-ts](sdk-ts_1252629747389829152.md) | 2026-05-24 | 8 | 18 | 154 | 208 |
 | [cloud-agent](cloud-agent_1252629630763012116.md) | 2025-12-02 | 0 | 0 | 54 | 191 |
-| [general](general_1252630735269925057.md) | 2026-05-26 | 3 | 27 | 128 | 149 |
-| [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 65 | 65 |
+| [general](general_1252630735269925057.md) | 2026-05-26 | 3 | 27 | 126 | 149 |
+| [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 47 | 65 |
 | [identus-faq](identus-faq_1252622748073853083.md) | 2025-11-29 | 0 | 0 | 16 | 46 |
 | [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-05-12 | 3 | 3 | 6 | 20 |
 | [mediator](mediator_1252629675943919679.md) | 2026-04-28 | 0 | 1 | 2 | 20 |
@@ -31,9 +31,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Prakhar Singh | 7 | — |
+| 1 | Prakhar Singh | 10 | — |
 | 2 | Yurii Shynbuiev | 5 | Identus Maintainer, Project Maintainer |
-| 3 | Sean Bohan (LFDT Staff) | 3 | LFDT Staff, Admins |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | LFDT Staff, Admins |
 | 4 | Anshikaa | 3 | — |
 | 5 | Abhigyan Singh | 3 | — |
 
@@ -43,19 +43,19 @@
 | ---: | :--- | ---: | :--- |
 | 1 | FabioPinheiro | 15 | Identus Maintainer, Project Maintainer |
 | 2 | Zion'sEarthlyPrince | 13 | — |
-| 3 | Abhigyan Singh | 9 | — |
-| 4 | Prakhar Singh | 7 | — |
+| 3 | Prakhar Singh | 10 | — |
+| 4 | Abhigyan Singh | 9 | — |
 | 5 | Yurii Shynbuiev | 6 | Identus Maintainer, Project Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | roberto | 97 | — |
-| 2 | Yurii Shynbuiev | 79 | Identus Maintainer, Project Maintainer |
+| 1 | roberto | 96 | — |
+| 2 | Yurii Shynbuiev | 76 | Identus Maintainer, Project Maintainer |
 | 3 | FabioPinheiro | 70 | Identus Maintainer, Project Maintainer |
-| 4 | jonbauer | 62 | Identus Maintainer, Project Maintainer |
-| 5 | JessicaG | 58 | gw, LF Staff, LFDT Staff, Admins |
+| 4 | [JessicaG](https://github.com/jwagantall) | 58 | gw, LF Staff, LFDT Staff, Admins |
+| 5 | havy | 55 | Identus Maintainer, Project Maintainer |
 
 ### All Time
 
@@ -71,7 +71,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 120 |
+| 2026 | 123 |
 | 2025 | 782 |
 | 2024 | 327 |
 
@@ -79,7 +79,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-05 | 27 |
+| 2026-05 | 30 |
 | 2026-04 | 31 |
 | 2026-03 | 23 |
 | 2026-02 | 15 |
@@ -110,7 +110,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-05-30 | 2 |
+| 2026-05-31 | 1 |
+| 2026-05-30 | 4 |
 | 2026-05-26 | 1 |
 | 2026-05-24 | 3 |
 | 2026-05-21 | 2 |

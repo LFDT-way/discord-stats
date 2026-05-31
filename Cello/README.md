@@ -47,7 +47,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Deleted User | 8 | — |
 | 2 | Kirin Chu | 4 | — |
-| 3 | Marek Mahut | 3 | — |
+| 3 | [Marek Mahut](https://github.com/mmahut) | 3 | — |
 | 4 | tysonx | 3 | — |
 | 5 | AgrimTawani \| Cryptobazaar | 3 | — |
 

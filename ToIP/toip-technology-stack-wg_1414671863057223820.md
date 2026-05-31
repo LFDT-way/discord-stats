@@ -20,7 +20,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | drummondreed | 7 | Project Maintainer, ToIP |
+| 1 | [drummondreed](https://github.com/talltree) | 7 | Project Maintainer, ToIP |
 | 2 | sankarshan | 5 | Lab Leader |
 | 3 | microbiocarly | 3 | Project Maintainer, ToIP |
 | 4 | Tweeddalex | 2 | Project Maintainer, ToIP |
@@ -30,7 +30,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | drummondreed | 16 | Project Maintainer, ToIP |
+| 1 | [drummondreed](https://github.com/talltree) | 16 | Project Maintainer, ToIP |
 | 2 | sankarshan | 6 | Lab Leader |
 | 3 | microbiocarly | 4 | Project Maintainer, ToIP |
 | 4 | Tweeddalex | 2 | Project Maintainer, ToIP |
@@ -40,7 +40,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | drummondreed | 16 | Project Maintainer, ToIP |
+| 1 | [drummondreed](https://github.com/talltree) | 16 | Project Maintainer, ToIP |
 | 2 | sankarshan | 6 | Lab Leader |
 | 3 | microbiocarly | 4 | Project Maintainer, ToIP |
 | 4 | Tweeddalex | 2 | Project Maintainer, ToIP |

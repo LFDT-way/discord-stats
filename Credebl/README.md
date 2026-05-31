@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 274
 - **Last 30 Days:** 5
 - **Last 90 Days:** 24
-- **Last 365 Days:** 165
+- **Last 365 Days:** 164
 - **First Message:** 2025-01-23
 - **Last Message:** 2026-05-27
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credebl](credebl_1331657363161219082.md) | 2026-05-27 | 5 | 19 | 122 | 175 |
+| [credebl](credebl_1331657363161219082.md) | 2026-05-27 | 5 | 19 | 121 | 175 |
 | [credebl-platform](credebl-platform_1354090545043210362.md) | 2025-09-30 | 0 | 0 | 2 | 52 |
 | [credebl-maintainers](credebl-maintainers_1354091009813905488.md) | 2026-04-25 | 0 | 3 | 30 | 33 |
 | [credebl-announcement](credebl-announcement_1354090474654404660.md) | 2026-04-09 | 0 | 2 | 11 | 14 |
@@ -25,7 +25,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | amitthosare | 3 | Credebl maintainer, Project Maintainer |
-| 2 | Sean Bohan (LFDT Staff) | 2 | LFDT Staff, Admins |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff, Admins |
 
 ### Last 90 Days
 
@@ -33,7 +33,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | amitthosare | 8 | Credebl maintainer, Project Maintainer |
 | 2 | Ajay Jadhav | 4 | Credebl maintainer, Project Maintainer |
-| 3 | Sean Bohan (LFDT Staff) | 3 | LFDT Staff, Admins |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | LFDT Staff, Admins |
 | 4 | rinkal.bhojani | 2 | — |
 | 5 | C.OG | 2 | — |
 

@@ -25,25 +25,25 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | SonicSwordcane | 2 | Project Maintainer, Firefly Maintainer |
-| 2 | Arun S M | 1 | TAC member, Chapter Leader |
+| 1 | [SonicSwordcane](https://github.com/SupernaviX) | 2 | Project Maintainer, Firefly Maintainer |
+| 2 | [Arun S M](https://github.com/arsulegai) | 1 | TAC member, Chapter Leader |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | SonicSwordcane | 3 | Project Maintainer, Firefly Maintainer |
+| 1 | [SonicSwordcane](https://github.com/SupernaviX) | 3 | Project Maintainer, Firefly Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 1 | gw, LFDT Staff, Admins |
-| 3 | Arun S M | 1 | TAC member, Chapter Leader |
+| 3 | [Arun S M](https://github.com/arsulegai) | 1 | TAC member, Chapter Leader |
 | 4 | davidwboswell | 1 | LFDT Staff |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | SonicSwordcane | 3 | Project Maintainer, Firefly Maintainer |
+| 1 | [SonicSwordcane](https://github.com/SupernaviX) | 3 | Project Maintainer, Firefly Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 1 | gw, LFDT Staff, Admins |
-| 3 | Arun S M | 1 | TAC member, Chapter Leader |
+| 3 | [Arun S M](https://github.com/arsulegai) | 1 | TAC member, Chapter Leader |
 | 4 | davidwboswell | 1 | LFDT Staff |
 
 ## Yearly Traffic

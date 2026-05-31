@@ -24,13 +24,13 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Attila Klenik | 1 | Project Maintainer, Lab Leader |
+| 1 | [Attila Klenik](https://github.com/aklenik) | 1 | Project Maintainer, Lab Leader |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Attila Klenik | 3 | Project Maintainer, Lab Leader |
+| 1 | [Attila Klenik](https://github.com/aklenik) | 3 | Project Maintainer, Lab Leader |
 | 2 | NorfolkAndChance | 2 | Project Maintainer |
 
 ## Yearly Traffic

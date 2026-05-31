@@ -4,7 +4,7 @@
 - **Category ID:** 1009860102301417542
 - **Total Messages in Category:** 10,070
 - **Last 30 Days:** 3
-- **Last 90 Days:** 33
+- **Last 90 Days:** 32
 - **Last 365 Days:** 97
 - **First Message:** 2021-11-05
 - **Last Message:** 2026-05-10
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [solang-contributors](solang-contributors_905834552965103638.md) | 2026-05-10 | 3 | 33 | 97 | 9,630 |
+| [solang-contributors](solang-contributors_905834552965103638.md) | 2026-05-10 | 3 | 32 | 97 | 9,630 |
 | [solang-solana](solang-solana_1133399591610482779.md) | 2025-04-30 | 0 | 0 | 0 | 417 |
 | [solang-polkadot](solang-polkadot_1133399534442123355.md) | 2023-12-28 | 0 | 0 | 0 | 15 |
 | [solang-github](solang-github_953040199565320192.md) | 2024-04-06 | 0 | 0 | 0 | 8 |
@@ -24,24 +24,24 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Salaheldin | 2 | Project Maintainer, Solang Maintainer |
+| 1 | [Salaheldin](https://github.com/salaheldinsoliman) | 2 | Project Maintainer, Solang Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 1 | gw, LFDT Staff, Admins |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Salaheldin | 8 | Project Maintainer, Solang Maintainer |
+| 1 | [Salaheldin](https://github.com/salaheldinsoliman) | 8 | Project Maintainer, Solang Maintainer |
 | 2 | Somesh | 5 | — |
 | 3 | [Ry Jones](https://github.com/ryjones) | 5 | gw, LFDT Staff, Admins |
 | 4 | thinPanda | 3 | — |
-| 5 | Arun S M | 3 | TAC member, Chapter Leader |
+| 5 | [Arun S M](https://github.com/arsulegai) | 3 | TAC member, Chapter Leader |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Salaheldin | 34 | Project Maintainer, Solang Maintainer |
+| 1 | [Salaheldin](https://github.com/salaheldinsoliman) | 34 | Project Maintainer, Solang Maintainer |
 | 2 | seanyoung | 26 | Project Maintainer, Solang Maintainer |
 | 3 | Mephistol | 6 | — |
 | 4 | [Ry Jones](https://github.com/ryjones) | 6 | gw, LFDT Staff, Admins |
@@ -53,8 +53,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | seanyoung | 2,918 | Project Maintainer, Solang Maintainer |
 | 2 | LucasSte | 2,793 | Project Maintainer, Solang Maintainer |
-| 3 | Cyrill | 1,924 | Project Maintainer, Solang Maintainer |
-| 4 | Salaheldin | 983 | Project Maintainer, Solang Maintainer |
+| 3 | [Cyrill](https://github.com/xermicus) | 1,924 | Project Maintainer, Solang Maintainer |
+| 4 | [Salaheldin](https://github.com/salaheldinsoliman) | 983 | Project Maintainer, Solang Maintainer |
 | 5 | Ray | 216 | — |
 
 ## Yearly Traffic

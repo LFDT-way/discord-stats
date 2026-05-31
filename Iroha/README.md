@@ -30,7 +30,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Arun S M | 2 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 2 | TAC member, Chapter Leader |
 | 2 | Raj | 1 | — |
 
 ### All Time

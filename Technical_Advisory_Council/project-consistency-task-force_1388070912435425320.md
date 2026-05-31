@@ -24,20 +24,20 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Matthew Whitehead | 24 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 24 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 15 | gw, LFDT Staff, Admins |
-| 3 | Enrique Lacal | 2 | TAC member, Project Maintainer, Firefly Maintainer |
-| 4 | Sean Bohan (LFDT Staff) | 2 | LFDT Staff, Admins |
+| 3 | [Enrique Lacal](https://github.com/EnriqueL8) | 2 | TAC member, Project Maintainer, Firefly Maintainer |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff, Admins |
 | 5 | davidwboswell | 1 | LFDT Staff |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Matthew Whitehead | 24 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 24 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 15 | gw, LFDT Staff, Admins |
-| 3 | Enrique Lacal | 2 | TAC member, Project Maintainer, Firefly Maintainer |
-| 4 | Sean Bohan (LFDT Staff) | 2 | LFDT Staff, Admins |
+| 3 | [Enrique Lacal](https://github.com/EnriqueL8) | 2 | TAC member, Project Maintainer, Firefly Maintainer |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff, Admins |
 | 5 | davidwboswell | 1 | LFDT Staff |
 
 ## Yearly Traffic

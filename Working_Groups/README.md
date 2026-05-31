@@ -42,7 +42,7 @@ _No activity in this period._
 | 2 | Bobbi | 10 | Working Group Leader |
 | 3 | bw2019 | 10 | Working Group Leader |
 | 4 | [Ry Jones](https://github.com/ryjones) | 8 | gw, LFDT Staff, Admins |
-| 5 | Attila Klenik | 8 | Project Maintainer, Lab Leader |
+| 5 | [Attila Klenik](https://github.com/aklenik) | 8 | Project Maintainer, Lab Leader |
 
 ## Yearly Traffic
 

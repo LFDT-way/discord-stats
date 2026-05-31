@@ -29,7 +29,7 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Shankar | 2 | Lab Leader |
-| 2 | rafaelapb | 1 | Project Maintainer, Cacti Maintainer |
+| 2 | [rafaelapb](https://github.com/RafaelAPB) | 1 | Project Maintainer, Cacti Maintainer |
 | 3 | Tracy | 1 | — |
 
 ## Yearly Traffic

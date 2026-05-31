@@ -24,10 +24,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | sankarshan | 12 | Lab Leader |
-| 2 | Charles Lanahan (daidoji@github) | 8 | Project Maintainer, ToIP |
+| 2 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 8 | Project Maintainer, ToIP |
 | 3 | Nicky H | 6 | Project Maintainer, ToIP |
 | 4 | microbiocarly | 5 | Project Maintainer, ToIP |
-| 5 | drummondreed | 3 | Project Maintainer, ToIP |
+| 5 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 
@@ -35,8 +35,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | sankarshan | 37 | Lab Leader |
 | 2 | Nicky H | 17 | Project Maintainer, ToIP |
-| 3 | Charles Lanahan (daidoji@github) | 11 | Project Maintainer, ToIP |
-| 4 | drummondreed | 11 | Project Maintainer, ToIP |
+| 3 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
+| 4 | [drummondreed](https://github.com/talltree) | 11 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 5 | Project Maintainer, ToIP |
 
 ### All Time
@@ -45,8 +45,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | sankarshan | 37 | Lab Leader |
 | 2 | Nicky H | 17 | Project Maintainer, ToIP |
-| 3 | Charles Lanahan (daidoji@github) | 11 | Project Maintainer, ToIP |
-| 4 | drummondreed | 11 | Project Maintainer, ToIP |
+| 3 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
+| 4 | [drummondreed](https://github.com/talltree) | 11 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 5 | Project Maintainer, ToIP |
 
 ## Yearly Traffic

@@ -24,13 +24,13 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Roger | 2 | Project Maintainer, Hiero maintainer |
+| 1 | [Roger](https://github.com/rbarker-dev) | 2 | Project Maintainer, Hiero maintainer |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Roger | 2 | Project Maintainer, Hiero maintainer |
+| 1 | [Roger](https://github.com/rbarker-dev) | 2 | Project Maintainer, Hiero maintainer |
 
 ## Yearly Traffic
 

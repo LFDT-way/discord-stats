@@ -33,7 +33,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | TsvetanG | 48 | — |
 | 2 | kostiantyn.bonebriukh | 17 | — |
-| 3 | mbwhite | 12 | Project Maintainer, Fabric Maintainer |
+| 3 | [mbwhite](https://github.com/mbwhite) | 12 | Project Maintainer, Fabric Maintainer |
 | 4 | Amin.Chegeni | 9 | — |
 | 5 | Isak | 4 | — |
 

@@ -35,7 +35,7 @@
 | 2 | otakucomrade | 2 | — |
 | 3 | Byteledger | 2 | — |
 | 4 | mjc | 2 | — |
-| 5 | Min Yu | 2 | LFDT Staff |
+| 5 | [Min Yu](https://github.com/minyu66) | 2 | LFDT Staff |
 
 ### Last 365 Days
 
@@ -43,7 +43,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Boma_Naps | 4 | — |
 | 2 | Zion'sEarthlyPrince | 3 | — |
-| 3 | Min Yu | 3 | LFDT Staff |
+| 3 | [Min Yu](https://github.com/minyu66) | 3 | LFDT Staff |
 | 4 | otakucomrade | 2 | — |
 | 5 | Byteledger | 2 | — |
 
@@ -51,7 +51,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Min Yu | 32 | LFDT Staff |
+| 1 | [Min Yu](https://github.com/minyu66) | 32 | LFDT Staff |
 | 2 | tobytobias | 26 | — |
 | 3 | [Ry Jones](https://github.com/ryjones) | 26 | gw, LFDT Staff, Admins |
 | 4 | Niks | 9 | — |

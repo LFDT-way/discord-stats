@@ -25,7 +25,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | sankarshan | 8 | Lab Leader |
 | 2 | Tweeddalex | 7 | Project Maintainer, ToIP |
-| 3 | drummondreed | 6 | Project Maintainer, ToIP |
+| 3 | [drummondreed](https://github.com/talltree) | 6 | Project Maintainer, ToIP |
 | 4 | Scott Perry | 1 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 1 | Project Maintainer, ToIP |
 
@@ -33,7 +33,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | drummondreed | 13 | Project Maintainer, ToIP |
+| 1 | [drummondreed](https://github.com/talltree) | 13 | Project Maintainer, ToIP |
 | 2 | Tweeddalex | 10 | Project Maintainer, ToIP |
 | 3 | sankarshan | 8 | Lab Leader |
 | 4 | Scott Perry | 3 | Project Maintainer, ToIP |
@@ -43,7 +43,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | drummondreed | 13 | Project Maintainer, ToIP |
+| 1 | [drummondreed](https://github.com/talltree) | 13 | Project Maintainer, ToIP |
 | 2 | Tweeddalex | 10 | Project Maintainer, ToIP |
 | 3 | sankarshan | 8 | Lab Leader |
 | 4 | Scott Perry | 3 | Project Maintainer, ToIP |

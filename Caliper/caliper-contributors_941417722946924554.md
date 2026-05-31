@@ -21,23 +21,23 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | tunedev | 2 | — |
-| 2 | Attila Klenik | 1 | Project Maintainer, Lab Leader |
+| 2 | [Attila Klenik](https://github.com/aklenik) | 1 | Project Maintainer, Lab Leader |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 61 | gw, LFDT Staff, Admins |
-| 2 | Attila Klenik | 60 | Project Maintainer, Lab Leader |
+| 2 | [Attila Klenik](https://github.com/aklenik) | 60 | Project Maintainer, Lab Leader |
 | 3 | NorfolkAndChance | 57 | Project Maintainer |
 | 4 | davidfdr | 6 | — |
-| 5 | Arun S M | 5 | TAC member, Chapter Leader |
+| 5 | [Arun S M](https://github.com/arsulegai) | 5 | TAC member, Chapter Leader |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Attila Klenik | 225 | Project Maintainer, Lab Leader |
+| 1 | [Attila Klenik](https://github.com/aklenik) | 225 | Project Maintainer, Lab Leader |
 | 2 | NorfolkAndChance | 209 | Project Maintainer |
 | 3 | [Ry Jones](https://github.com/ryjones) | 87 | gw, LFDT Staff, Admins |
 | 4 | Pratiksha | 38 | — |

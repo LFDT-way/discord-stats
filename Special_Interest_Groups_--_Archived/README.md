@@ -43,7 +43,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | davidwboswell | 4 | LFDT Staff |
 | 2 | Ankita | 3 | Credebl maintainer, Project Maintainer |
-| 3 | Sean Bohan (LFDT Staff) | 3 | LFDT Staff, Admins |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | LFDT Staff, Admins |
 | 4 | Tomaz | 2 | LFDT Staff |
 | 5 | DanielSzego | 1 | Meetup Organizer |
 
@@ -54,7 +54,7 @@ _No activity in this period._
 | 1 | cjhowland | 102 | Working Group Leader |
 | 2 | alician | 65 | — |
 | 3 | rgivens84 | 64 | — |
-| 4 | Sean Bohan (LFDT Staff) | 50 | LFDT Staff, Admins |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 50 | LFDT Staff, Admins |
 | 5 | Sandy Aggarwal | 34 | SIG leader, Community Leader |
 
 ## Yearly Traffic

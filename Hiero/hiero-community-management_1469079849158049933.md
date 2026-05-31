@@ -29,7 +29,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | explorer3 | 12 | Project Maintainer, Hiero maintainer |
-| 2 | JessicaG | 2 | gw, LF Staff, LFDT Staff, Admins |
+| 2 | [JessicaG](https://github.com/jwagantall) | 2 | gw, LF Staff, LFDT Staff, Admins |
 | 3 | ocean-oc3ean | 1 | — |
 | 4 | Deleted User | 1 | — |
 
@@ -38,7 +38,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | explorer3 | 12 | Project Maintainer, Hiero maintainer |
-| 2 | JessicaG | 2 | gw, LF Staff, LFDT Staff, Admins |
+| 2 | [JessicaG](https://github.com/jwagantall) | 2 | gw, LF Staff, LFDT Staff, Admins |
 | 3 | ocean-oc3ean | 1 | — |
 | 4 | Deleted User | 1 | — |
 

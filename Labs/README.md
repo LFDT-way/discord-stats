@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515858846158889
 - **Total Messages in Category:** 3,248
-- **Last 30 Days:** 88
+- **Last 30 Days:** 87
 - **Last 90 Days:** 225
 - **Last 365 Days:** 508
 - **First Message:** 2022-02-14
@@ -39,7 +39,7 @@
 | [weaver](weaver_986350461886033980.md) | 2024-09-05 | 0 | 0 | 0 | 29 |
 | [cbweb3](cbweb3_1400427588287074364.md) | 2026-05-29 | 1 | 14 | 29 | 29 |
 | [hypernate](hypernate_1417903966464770159.md) | 2026-04-21 | 0 | 8 | 28 | 28 |
-| [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-05-16 | 11 | 14 | 14 | 20 |
+| [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-05-16 | 10 | 14 | 14 | 20 |
 | [chaindeploy](chaindeploy_1351886901988163635.md) | 2025-07-07 | 0 | 0 | 5 | 16 |
 | [fabric-opssc](fabric-opssc_942805501681496094.md) | 2025-01-14 | 0 | 0 | 0 | 13 |
 | [hlf-connector](hlf-connector_943223554709790771.md) | 2023-04-12 | 0 | 0 | 0 | 10 |
@@ -66,14 +66,14 @@
 | 1 | Byteledger | 14 | — |
 | 2 | OpenAssets | 7 | Lab Leader |
 | 3 | ManKia | 7 | — |
-| 4 | Angelo De Caro | 7 | gw, Project Maintainer, Fabric Maintainer, Lab Leader |
+| 4 | [Angelo De Caro](https://github.com/adecaro) | 7 | gw, Project Maintainer, Fabric Maintainer, Lab Leader |
 | 5 | Anurag Gupta | 6 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Angelo De Caro | 33 | gw, Project Maintainer, Fabric Maintainer, Lab Leader |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 33 | gw, Project Maintainer, Fabric Maintainer, Lab Leader |
 | 2 | Marcus Brandenburger | 33 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 | 3 | Siddhi Khandelwal | 16 | — |
 | 4 | Byteledger | 14 | — |
@@ -84,7 +84,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | RAWx18 | 93 | Lab Leader |
-| 2 | Angelo De Caro | 68 | gw, Project Maintainer, Fabric Maintainer, Lab Leader |
+| 2 | [Angelo De Caro](https://github.com/adecaro) | 68 | gw, Project Maintainer, Fabric Maintainer, Lab Leader |
 | 3 | Marcus Brandenburger | 57 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 | 4 | [Ry Jones](https://github.com/ryjones) | 32 | gw, LFDT Staff, Admins |
 | 5 | nayamhb | 18 | Lab Leader |
@@ -93,7 +93,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Angelo De Caro | 276 | gw, Project Maintainer, Fabric Maintainer, Lab Leader |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 276 | gw, Project Maintainer, Fabric Maintainer, Lab Leader |
 | 2 | gianlucacapuzzi | 181 | Lab Leader |
 | 3 | Marcus Brandenburger | 154 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 | 4 | [Ry Jones](https://github.com/ryjones) | 147 | gw, LFDT Staff, Admins |

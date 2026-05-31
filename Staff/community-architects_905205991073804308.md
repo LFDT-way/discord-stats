@@ -33,7 +33,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Sean Bohan (LFDT Staff) | 4 | LFDT Staff, Admins |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | LFDT Staff, Admins |
 | 2 | [Ry Jones](https://github.com/ryjones) | 3 | gw, LFDT Staff, Admins |
 | 3 | Prof.xoxo | 2 | — |
 | 4 | xeeneey | 2 | — |
@@ -44,10 +44,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 338 | gw, LFDT Staff, Admins |
-| 2 | Sean Bohan (LFDT Staff) | 89 | LFDT Staff, Admins |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 89 | LFDT Staff, Admins |
 | 3 | seanyoung | 49 | Project Maintainer, Solang Maintainer |
-| 4 | Nicko Guyer | 46 | Project Maintainer, Firefly Maintainer |
-| 5 | swcurran | 37 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
+| 4 | [Nicko Guyer](https://github.com/nguyer) | 46 | Project Maintainer, Firefly Maintainer |
+| 5 | [swcurran](https://github.com/swcurran) | 37 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
 
 ## Yearly Traffic
 

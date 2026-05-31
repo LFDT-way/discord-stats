@@ -25,7 +25,7 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Diane Mueller | 21 | TAC member, Hedera Employee |
-| 2 | JessicaG | 8 | gw, LF Staff, LFDT Staff, Admins |
+| 2 | [JessicaG](https://github.com/jwagantall) | 8 | gw, LF Staff, LFDT Staff, Admins |
 | 3 | cjhowland | 8 | Working Group Leader |
 | 4 | [Ry Jones](https://github.com/ryjones) | 5 | gw, LFDT Staff, Admins |
 | 5 | Tracy | 5 | — |
@@ -35,7 +35,7 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Diane Mueller | 21 | TAC member, Hedera Employee |
-| 2 | JessicaG | 8 | gw, LF Staff, LFDT Staff, Admins |
+| 2 | [JessicaG](https://github.com/jwagantall) | 8 | gw, LF Staff, LFDT Staff, Admins |
 | 3 | cjhowland | 8 | Working Group Leader |
 | 4 | [Ry Jones](https://github.com/ryjones) | 5 | gw, LFDT Staff, Admins |
 | 5 | Tracy | 5 | — |

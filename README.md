@@ -1,43 +1,43 @@
 # Guild Report: Linux Foundation Decentralized Trust
 
 - **Guild ID:** 905194001349627914
-- **Total Messages:** 104,704
-- **Last 30 Days:** 968
-- **Last 90 Days:** 3,076
-- **Last 365 Days:** 10,708 — [active users](users.md)
+- **Total Messages:** 104,711
+- **Last 30 Days:** 955
+- **Last 90 Days:** 3,077
+- **Last 365 Days:** 10,668 — [active users](users.md)
 - **First Message:** 2021-11-02
-- **Last Message:** 2026-05-30
+- **Last Message:** 2026-05-31
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Besu](Besu/README.md) | 30,048 | 115 | 374 | 1,701 | 2021-11-09 | 2026-05-30 |
-| [Fabric](Fabric/README.md) | 13,149 | 72 | 182 | 697 | 2021-11-07 | 2026-05-28 |
+| [Besu](Besu/README.md) | 30,051 | 117 | 376 | 1,695 | 2021-11-09 | 2026-05-31 |
+| [Fabric](Fabric/README.md) | 13,149 | 67 | 182 | 697 | 2021-11-07 | 2026-05-28 |
 | [Welcome](Welcome/README.md) | 12,751 | 27 | 83 | 334 | 2022-03-03 | 2026-05-29 |
-| [Solang](Solang/README.md) | 10,070 | 3 | 33 | 97 | 2021-11-05 | 2026-05-10 |
+| [Solang](Solang/README.md) | 10,070 | 3 | 32 | 97 | 2021-11-05 | 2026-05-10 |
 | [Bevel](Bevel/README.md) | 5,086 | 1 | 33 | 90 | 2022-02-11 | 2026-05-11 |
-| [Firefly](Firefly/README.md) | 4,405 | 23 | 85 | 259 | 2022-01-05 | 2026-05-13 |
+| [Firefly](Firefly/README.md) | 4,405 | 22 | 85 | 258 | 2022-01-05 | 2026-05-13 |
 | [Indy](Indy/README.md) | 3,657 | 30 | 52 | 142 | 2022-01-20 | 2026-05-26 |
-| [Labs](Labs/README.md) | 3,248 | 88 | 225 | 508 | 2022-02-14 | 2026-05-29 |
-| [ToIP](ToIP/README.md) | 2,448 | 128 | 792 | 2,430 | 2025-04-03 | 2026-05-29 |
-| [Cacti](Cacti/README.md) | 1,994 | 33 | 131 | 426 | 2021-11-11 | 2026-05-29 |
+| [Labs](Labs/README.md) | 3,248 | 87 | 225 | 508 | 2022-02-14 | 2026-05-29 |
+| [ToIP](ToIP/README.md) | 2,448 | 127 | 792 | 2,430 | 2025-04-03 | 2026-05-29 |
+| [Cacti](Cacti/README.md) | 1,994 | 31 | 131 | 425 | 2021-11-11 | 2026-05-29 |
 | [Aries -- Archived](Aries_--_Archived/README.md) | 1,761 | 0 | 0 | 13 | 2022-02-12 | 2026-01-05 |
 | [Iroha](Iroha/README.md) | 1,671 | 0 | 0 | 3 | 2022-02-10 | 2025-10-27 |
-| [Hiero](Hiero/README.md) | 1,663 | 276 | 561 | 1,315 | 2024-09-11 | 2026-05-28 |
+| [Hiero](Hiero/README.md) | 1,664 | 273 | 560 | 1,314 | 2024-09-11 | 2026-05-31 |
 | [Caliper](Caliper/README.md) | 1,630 | 1 | 17 | 242 | 2022-02-14 | 2026-05-29 |
-| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,497 | 38 | 91 | 314 | 2022-02-10 | 2026-05-28 |
+| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,497 | 38 | 90 | 314 | 2022-02-10 | 2026-05-28 |
 | [Community](Community/README.md) | 1,315 | 6 | 27 | 195 | 2022-02-15 | 2026-05-29 |
-| [Newbies](Newbies/README.md) | 1,244 | 17 | 34 | 162 | 2023-09-10 | 2026-05-23 |
-| [Identus](Identus/README.md) | 1,229 | 27 | 81 | 645 | 2024-04-10 | 2026-05-30 |
-| [Web3j](Web3j/README.md) | 1,225 | 10 | 22 | 188 | 2024-01-11 | 2026-05-30 |
+| [Newbies](Newbies/README.md) | 1,244 | 16 | 34 | 160 | 2023-09-10 | 2026-05-23 |
+| [Identus](Identus/README.md) | 1,232 | 30 | 84 | 624 | 2024-04-10 | 2026-05-31 |
+| [Web3j](Web3j/README.md) | 1,225 | 10 | 22 | 182 | 2024-01-11 | 2026-05-30 |
 | [Staff](Staff/README.md) | 1,135 | 5 | 15 | 84 | 2021-11-03 | 2026-05-29 |
 | [Anoncreds](Anoncreds/README.md) | 754 | 1 | 4 | 19 | 2022-10-26 | 2026-05-26 |
-| [Paladin](Paladin/README.md) | 692 | 27 | 58 | 389 | 2024-07-08 | 2026-05-29 |
+| [Paladin](Paladin/README.md) | 692 | 27 | 57 | 388 | 2024-07-08 | 2026-05-29 |
 | [Special Interest Groups -- Archived](Special_Interest_Groups_--_Archived/README.md) | 679 | 0 | 3 | 15 | 2022-02-15 | 2026-04-25 |
-| [Lockness](Lockness/README.md) | 517 | 17 | 114 | 213 | 2024-06-27 | 2026-05-28 |
+| [Lockness](Lockness/README.md) | 517 | 13 | 114 | 213 | 2024-06-27 | 2026-05-28 |
 | [Mentorship Program](Mentorship_Program/README.md) | 365 | 9 | 20 | 25 | 2022-03-16 | 2026-05-28 |
-| [Credebl](Credebl/README.md) | 274 | 5 | 24 | 165 | 2025-01-23 | 2026-05-27 |
+| [Credebl](Credebl/README.md) | 274 | 5 | 24 | 164 | 2025-01-23 | 2026-05-27 |
 | [Working Groups](Working_Groups/README.md) | 120 | 0 | 0 | 2 | 2022-02-18 | 2025-11-02 |
 | [Cello](Cello/README.md) | 51 | 6 | 7 | 8 | 2022-02-17 | 2026-05-24 |
 | [Smoot](Smoot/README.md) | 17 | 1 | 2 | 14 | 2025-05-08 | 2026-05-21 |
@@ -52,9 +52,9 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | explorer3 | 71 | Project Maintainer, Hiero maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 38 | gw, LFDT Staff, Admins |
-| 3 | JessicaG | 30 | gw, LF Staff, LFDT Staff, Admins |
-| 4 | Sean Bohan (LFDT Staff) | 29 | LFDT Staff, Admins |
+| 2 | [Ry Jones](https://github.com/ryjones) | 35 | gw, LFDT Staff, Admins |
+| 3 | [JessicaG](https://github.com/jwagantall) | 30 | gw, LF Staff, LFDT Staff, Admins |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 29 | LFDT Staff, Admins |
 | 5 | sankarshan | 26 | Lab Leader |
 
 ### Last 90 Days
@@ -62,19 +62,19 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | sankarshan | 203 | Lab Leader |
-| 2 | explorer3 | 165 | Project Maintainer, Hiero maintainer |
+| 2 | explorer3 | 164 | Project Maintainer, Hiero maintainer |
 | 3 | [Ry Jones](https://github.com/ryjones) | 160 | gw, LFDT Staff, Admins |
 | 4 | microbiocarly | 111 | Project Maintainer, ToIP |
-| 5 | drummondreed | 106 | Project Maintainer, ToIP |
+| 5 | [drummondreed](https://github.com/talltree) | 106 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 616 | gw, LFDT Staff, Admins |
+| 1 | [Ry Jones](https://github.com/ryjones) | 614 | gw, LFDT Staff, Admins |
 | 2 | explorer3 | 408 | Project Maintainer, Hiero maintainer |
 | 3 | sankarshan | 382 | Lab Leader |
-| 4 | drummondreed | 367 | Project Maintainer, ToIP |
+| 4 | [drummondreed](https://github.com/talltree) | 367 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 353 | Project Maintainer, ToIP |
 
 ### All Time
@@ -91,7 +91,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 4,892 |
+| 2026 | 4,899 |
 | 2025 | 11,238 |
 | 2024 | 18,007 |
 | 2023 | 33,058 |
@@ -102,7 +102,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-05 | 948 |
+| 2026-05 | 955 |
 | 2026-04 | 1,154 |
 | 2026-03 | 974 |
 | 2026-02 | 867 |
@@ -161,7 +161,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-05-30 | 5 |
+| 2026-05-31 | 4 |
+| 2026-05-30 | 8 |
 | 2026-05-29 | 13 |
 | 2026-05-28 | 35 |
 | 2026-05-27 | 37 |

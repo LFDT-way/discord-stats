@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1357322461947101405
 - **Total Messages in Category:** 2,448
-- **Last 30 Days:** 128
+- **Last 30 Days:** 127
 - **Last 90 Days:** 792
 - **Last 365 Days:** 2,430
 - **First Message:** 2025-04-03
@@ -16,7 +16,7 @@
 | [toip-aim-wg](toip-aim-wg_1379651804790264018.md) | 2026-05-27 | 34 | 251 | 660 | 660 |
 | [toip-decen-trust-graph-wg](toip-decen-trust-graph-wg_1414670897037443205.md) | 2026-05-27 | 26 | 75 | 277 | 277 |
 | [toip-bite-size-trust-tf](toip-bite-size-trust-tf_1414670208085528607.md) | 2026-05-25 | 9 | 89 | 276 | 276 |
-| [toip-trust-registry-tf](toip-trust-registry-tf_1414671976831910049.md) | 2026-05-21 | 6 | 69 | 228 | 228 |
+| [toip-trust-registry-tf](toip-trust-registry-tf_1414671976831910049.md) | 2026-05-21 | 5 | 69 | 228 | 228 |
 | [toip-general](toip-general_1357323158935572581.md) | 2026-05-28 | 5 | 56 | 184 | 202 |
 | [toip-steering-committee](toip-steering-committee_1414671746065371186.md) | 2026-05-28 | 11 | 48 | 134 | 134 |
 | [toip-governance-architecture-tf](toip-governance-architecture-tf_1414671405383159808.md) | 2026-05-05 | 4 | 29 | 129 | 129 |
@@ -42,9 +42,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | sankarshan | 26 | Lab Leader |
 | 2 | microbiocarly | 24 | Project Maintainer, ToIP |
-| 3 | drummondreed | 19 | Project Maintainer, ToIP |
+| 3 | [drummondreed](https://github.com/talltree) | 19 | Project Maintainer, ToIP |
 | 4 | stevevitka | 14 | ToIP |
-| 5 | Eric Drury | 7 | Project Maintainer, ToIP |
+| 5 | [firegod](https://github.com/wenjing) | 6 | Webhooks, Project Maintainer, ToIP |
 
 ### Last 90 Days
 
@@ -52,8 +52,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | sankarshan | 203 | Lab Leader |
 | 2 | microbiocarly | 111 | Project Maintainer, ToIP |
-| 3 | drummondreed | 103 | Project Maintainer, ToIP |
-| 4 | firegod | 72 | Webhooks, Project Maintainer, ToIP |
+| 3 | [drummondreed](https://github.com/talltree) | 103 | Project Maintainer, ToIP |
+| 4 | [firegod](https://github.com/wenjing) | 72 | Webhooks, Project Maintainer, ToIP |
 | 5 | stevevitka | 63 | ToIP |
 
 ### Last 365 Days
@@ -61,20 +61,20 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | sankarshan | 379 | Lab Leader |
-| 2 | drummondreed | 363 | Project Maintainer, ToIP |
+| 2 | [drummondreed](https://github.com/talltree) | 363 | Project Maintainer, ToIP |
 | 3 | microbiocarly | 352 | Project Maintainer, ToIP |
-| 4 | firegod | 260 | Webhooks, Project Maintainer, ToIP |
-| 5 | Charles Lanahan (daidoji@github) | 126 | Project Maintainer, ToIP |
+| 4 | [firegod](https://github.com/wenjing) | 260 | Webhooks, Project Maintainer, ToIP |
+| 5 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 126 | Project Maintainer, ToIP |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | sankarshan | 379 | Lab Leader |
-| 2 | drummondreed | 369 | Project Maintainer, ToIP |
+| 2 | [drummondreed](https://github.com/talltree) | 369 | Project Maintainer, ToIP |
 | 3 | microbiocarly | 356 | Project Maintainer, ToIP |
-| 4 | firegod | 260 | Webhooks, Project Maintainer, ToIP |
-| 5 | Charles Lanahan (daidoji@github) | 126 | Project Maintainer, ToIP |
+| 4 | [firegod](https://github.com/wenjing) | 260 | Webhooks, Project Maintainer, ToIP |
+| 5 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 126 | Project Maintainer, ToIP |
 
 ## Yearly Traffic
 

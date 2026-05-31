@@ -4,7 +4,7 @@
 - **Category:** Hiero
 - **Channel ID:** 1474117589692317823
 - **Total Messages:** 31
-- **Last 30 Days:** 22
+- **Last 30 Days:** 20
 - **Last 90 Days:** 31
 - **Last 365 Days:** 31
 - **First Message:** 2026-03-02
@@ -17,7 +17,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | JASHK | 8 | — |
-| 2 | SHADY | 7 | — |
+| 2 | SHADY | 6 | — |
 | 3 | explorer3 | 2 | Project Maintainer, Hiero maintainer |
 | 4 | Byteledger | 2 | — |
 | 5 | Ashwani Singh | 1 | — |

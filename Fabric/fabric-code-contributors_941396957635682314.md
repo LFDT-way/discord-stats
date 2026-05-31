@@ -29,21 +29,21 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | yacovm | 5 | Project Maintainer, SRL, Fabric Maintainer |
+| 1 | [yacovm](https://github.com/yacovm) | 5 | Project Maintainer, SRL, Fabric Maintainer |
 | 2 | Ben Thomas | 4 | LFDT Staff |
 | 3 | Somesh | 4 | — |
-| 4 | bestbeforetoday | 3 | gw, Project Maintainer, Fabric Maintainer |
-| 5 | Arun S M | 3 | TAC member, Chapter Leader |
+| 4 | [bestbeforetoday](https://github.com/bestbeforetoday) | 3 | gw, Project Maintainer, Fabric Maintainer |
+| 5 | [Arun S M](https://github.com/arsulegai) | 3 | TAC member, Chapter Leader |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | tobytobias | 86 | — |
-| 2 | bestbeforetoday | 43 | gw, Project Maintainer, Fabric Maintainer |
+| 2 | [bestbeforetoday](https://github.com/bestbeforetoday) | 43 | gw, Project Maintainer, Fabric Maintainer |
 | 3 | [Ry Jones](https://github.com/ryjones) | 29 | gw, LFDT Staff, Admins |
-| 4 | Dave Enyeart | 22 | Project Maintainer, SRL, Fabric Maintainer, security |
-| 5 | yacovm | 13 | Project Maintainer, SRL, Fabric Maintainer |
+| 4 | [Dave Enyeart](https://github.com/denyeart) | 22 | Project Maintainer, SRL, Fabric Maintainer, security |
+| 5 | [yacovm](https://github.com/yacovm) | 13 | Project Maintainer, SRL, Fabric Maintainer |
 
 ## Yearly Traffic
 

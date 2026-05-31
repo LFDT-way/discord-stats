@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1155727691216076911
 - **Total Messages in Category:** 1,244
-- **Last 30 Days:** 17
+- **Last 30 Days:** 16
 - **Last 90 Days:** 34
-- **Last 365 Days:** 162
+- **Last 365 Days:** 160
 - **First Message:** 2023-09-10
 - **Last Message:** 2026-05-23
 
@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric-newbies](fabric-newbies_1150488600975245412.md) | 2026-05-23 | 17 | 26 | 143 | 1,095 |
-| [firefly-newbies](firefly-newbies_1154921177207275520.md) | 2026-04-07 | 0 | 8 | 19 | 149 |
+| [fabric-newbies](fabric-newbies_1150488600975245412.md) | 2026-05-23 | 16 | 26 | 142 | 1,095 |
+| [firefly-newbies](firefly-newbies_1154921177207275520.md) | 2026-04-07 | 0 | 8 | 18 | 149 |
 
 ## Most Active Users
 
@@ -22,7 +22,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | bestbeforetoday | 8 | gw, Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 7 | gw, Project Maintainer, Fabric Maintainer |
 | 2 | JRM | 4 | — |
 | 3 | Heshan Nirmitha | 1 | — |
 | 4 | [Ry Jones](https://github.com/ryjones) | 1 | gw, LFDT Staff, Admins |
@@ -32,7 +32,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | bestbeforetoday | 8 | gw, Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 8 | gw, Project Maintainer, Fabric Maintainer |
 | 2 | JRM | 4 | — |
 | 3 | 76miles | 4 | — |
 | 4 | Heshan Nirmitha | 3 | — |
@@ -42,20 +42,20 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | bestbeforetoday | 32 | gw, Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 32 | gw, Project Maintainer, Fabric Maintainer |
 | 2 | katie | 8 | — |
 | 3 | Glayer | 7 | — |
 | 4 | Sir Petronim | 6 | — |
-| 5 | Enrique Lacal | 6 | TAC member, Project Maintainer, Firefly Maintainer |
+| 5 | JRM | 5 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | bestbeforetoday | 110 | gw, Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 110 | gw, Project Maintainer, Fabric Maintainer |
 | 2 | tobytobias | 73 | — |
 | 3 | JRM | 64 | — |
-| 4 | Enrique Lacal | 36 | TAC member, Project Maintainer, Firefly Maintainer |
+| 4 | [Enrique Lacal](https://github.com/EnriqueL8) | 36 | TAC member, Project Maintainer, Firefly Maintainer |
 | 5 | bulbolicRed | 23 | — |
 
 ## Yearly Traffic

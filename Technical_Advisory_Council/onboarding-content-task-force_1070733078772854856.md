@@ -26,7 +26,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | Admiral OOM | 6 | — |
 | 2 | Tevo | 3 | — |
-| 3 | Charles Lanahan (daidoji@github) | 1 | Project Maintainer, ToIP |
+| 3 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 1 | Project Maintainer, ToIP |
 
 ### All Time
 

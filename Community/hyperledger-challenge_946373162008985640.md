@@ -28,7 +28,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Arun S M | 16 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 16 | TAC member, Chapter Leader |
 | 2 | msarres | 4 | — |
 | 3 | Avadam | 3 | — |
 | 4 | Guillermodiazg | 3 | Chapter Leader, Community Leader |

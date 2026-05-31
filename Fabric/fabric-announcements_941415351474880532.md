@@ -24,14 +24,14 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | bestbeforetoday | 2 | gw, Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 2 | gw, Project Maintainer, Fabric Maintainer |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Dave Enyeart | 7 | Project Maintainer, SRL, Fabric Maintainer, security |
-| 2 | bestbeforetoday | 5 | gw, Project Maintainer, Fabric Maintainer |
+| 1 | [Dave Enyeart](https://github.com/denyeart) | 7 | Project Maintainer, SRL, Fabric Maintainer, security |
+| 2 | [bestbeforetoday](https://github.com/bestbeforetoday) | 5 | gw, Project Maintainer, Fabric Maintainer |
 
 ## Yearly Traffic
 

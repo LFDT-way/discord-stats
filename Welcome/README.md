@@ -27,7 +27,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Sean Bohan (LFDT Staff) | 7 | LFDT Staff, Admins |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 7 | LFDT Staff, Admins |
 | 2 | Zerah | 3 | — |
 | 3 | Mohit Yadav | 2 | — |
 | 4 | Parth Singh PS | 2 | — |
@@ -38,7 +38,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Zion'sEarthlyPrince | 13 | — |
-| 2 | Sean Bohan (LFDT Staff) | 9 | LFDT Staff, Admins |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 9 | LFDT Staff, Admins |
 | 3 | k!ller | 4 | — |
 | 4 | Zerah | 3 | — |
 | 5 | SlackGuru | 3 | — |
@@ -47,7 +47,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Sean Bohan (LFDT Staff) | 46 | LFDT Staff, Admins |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 46 | LFDT Staff, Admins |
 | 2 | [Ry Jones](https://github.com/ryjones) | 18 | gw, LFDT Staff, Admins |
 | 3 | Zion'sEarthlyPrince | 13 | — |
 | 4 | Tsafaras | 12 | — |
@@ -58,7 +58,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Deleted User | 697 | — |
-| 2 | Sean Bohan (LFDT Staff) | 395 | LFDT Staff, Admins |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 395 | LFDT Staff, Admins |
 | 3 | [Ry Jones](https://github.com/ryjones) | 255 | gw, LFDT Staff, Admins |
 | 4 | tobytobias | 38 | — |
 | 5 | Tracy | 21 | — |

@@ -24,13 +24,13 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Arun S M | 1 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 1 | TAC member, Chapter Leader |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Arun S M | 25 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 25 | TAC member, Chapter Leader |
 | 2 | Archana | 19 | Lab Leader, Blockchain Explorer Maintainer |
 | 3 | [Ry Jones](https://github.com/ryjones) | 14 | gw, LFDT Staff, Admins |
 | 4 | Tracy | 4 | — |

@@ -32,7 +32,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Robin Huiser \| Omnumi | 9 | — |
 | 2 | NorfolkAndChance | 2 | Project Maintainer |
-| 3 | Attila Klenik | 2 | Project Maintainer, Lab Leader |
+| 3 | [Attila Klenik](https://github.com/aklenik) | 2 | Project Maintainer, Lab Leader |
 | 4 | tunedev | 2 | — |
 | 5 | Ember | 1 | — |
 
@@ -41,7 +41,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | NorfolkAndChance | 70 | Project Maintainer |
-| 2 | Attila Klenik | 63 | Project Maintainer, Lab Leader |
+| 2 | [Attila Klenik](https://github.com/aklenik) | 63 | Project Maintainer, Lab Leader |
 | 3 | [Ry Jones](https://github.com/ryjones) | 61 | gw, LFDT Staff, Admins |
 | 4 | davidfdr | 24 | — |
 | 5 | Robin Huiser \| Omnumi | 9 | — |
@@ -51,7 +51,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | NorfolkAndChance | 363 | Project Maintainer |
-| 2 | Attila Klenik | 325 | Project Maintainer, Lab Leader |
+| 2 | [Attila Klenik](https://github.com/aklenik) | 325 | Project Maintainer, Lab Leader |
 | 3 | [Ry Jones](https://github.com/ryjones) | 91 | gw, LFDT Staff, Admins |
 | 4 | R³ | 63 | — |
 | 5 | Pratiksha | 38 | — |
