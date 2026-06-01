@@ -4,7 +4,7 @@
 - **Category ID:** 948958931512873030
 - **Total Messages in Category:** 12,751
 - **Last 30 Days:** 27
-- **Last 90 Days:** 83
+- **Last 90 Days:** 81
 - **Last 365 Days:** 334
 - **First Message:** 2022-03-03
 - **Last Message:** 2026-05-29
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [welcome](welcome_948959099842883654.md) | 2026-05-02 | 3 | 26 | 43 | 10,702 |
-| [general](general_1021077182501621830.md) | 2026-05-29 | 13 | 43 | 245 | 1,675 |
+| [general](general_1021077182501621830.md) | 2026-05-29 | 13 | 41 | 245 | 1,675 |
 | [connections](connections_948959243095130142.md) | 2026-04-03 | 0 | 1 | 29 | 321 |
 | [announcements](announcements_953133039372877844.md) | 2026-05-26 | 4 | 6 | 9 | 37 |
 | [git-help](git-help_1098621099681513492.md) | 2024-09-06 | 0 | 0 | 0 | 6 |

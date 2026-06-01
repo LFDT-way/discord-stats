@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205464046915585
 - **Total Messages in Category:** 13,149
-- **Last 30 Days:** 67
+- **Last 30 Days:** 64
 - **Last 90 Days:** 182
 - **Last 365 Days:** 697
 - **First Message:** 2021-11-07
@@ -22,7 +22,7 @@
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-07 | 0 | 0 | 2 | 554 |
 | [fabric-code-contributors](fabric-code-contributors_941396957635682314.md) | 2026-05-09 | 1 | 5 | 23 | 354 |
 | [fabric-contract-apis](fabric-contract-apis_943090527920877598.md) | 2025-12-30 | 0 | 0 | 4 | 306 |
-| [fabric-x](fabric-x_1427642480504999976.md) | 2026-05-26 | 44 | 106 | 242 | 242 |
+| [fabric-x](fabric-x_1427642480504999976.md) | 2026-05-26 | 41 | 106 | 242 | 242 |
 | [fabric-japanese](fabric-japanese_942950198836092958.md) | 2026-05-20 | 2 | 7 | 29 | 228 |
 | [fabric-documentation](fabric-documentation_945038395825070141.md) | 2026-01-29 | 0 | 0 | 12 | 196 |
 | [fabric-dublin-workshop](fabric-dublin-workshop_1005123918740332604.md) | 2024-09-27 | 0 | 0 | 0 | 78 |
@@ -39,11 +39,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Aaradhy Chinche | 16 | — |
+| 1 | Aaradhy Chinche | 15 | — |
 | 2 | [Ry Jones](https://github.com/ryjones) | 6 | gw, LFDT Staff, Admins |
 | 3 | MoneySimp | 6 | — |
 | 4 | [bestbeforetoday](https://github.com/bestbeforetoday) | 6 | gw, Project Maintainer, Fabric Maintainer |
-| 5 | Sachin Kumar | 4 | — |
+| 5 | Sachin Kumar | 3 | — |
 
 ### Last 90 Days
 

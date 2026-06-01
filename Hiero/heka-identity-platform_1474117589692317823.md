@@ -5,7 +5,7 @@
 - **Channel ID:** 1474117589692317823
 - **Total Messages:** 31
 - **Last 30 Days:** 20
-- **Last 90 Days:** 31
+- **Last 90 Days:** 28
 - **Last 365 Days:** 31
 - **First Message:** 2026-03-02
 - **Last Message:** 2026-05-18
@@ -28,9 +28,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | SHADY | 9 | — |
 | 2 | JASHK | 8 | — |
-| 3 | alexander.shenshin | 3 | Project Maintainer, Hiero maintainer |
-| 4 | explorer3 | 2 | Project Maintainer, Hiero maintainer |
-| 5 | Byteledger | 2 | — |
+| 3 | explorer3 | 2 | Project Maintainer, Hiero maintainer |
+| 4 | Byteledger | 2 | — |
+| 5 | alexander.shenshin | 1 | Project Maintainer, Hiero maintainer |
 
 ### Last 365 Days
 

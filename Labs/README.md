@@ -2,19 +2,19 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515858846158889
-- **Total Messages in Category:** 3,248
-- **Last 30 Days:** 87
-- **Last 90 Days:** 225
-- **Last 365 Days:** 508
+- **Total Messages in Category:** 3,249
+- **Last 30 Days:** 86
+- **Last 90 Days:** 222
+- **Last 365 Days:** 509
 - **First Message:** 2022-02-14
-- **Last Message:** 2026-05-29
+- **Last Message:** 2026-06-01
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [aifaq](aifaq_1182418263460819085.md) | 2025-09-14 | 0 | 0 | 2 | 585 |
-| [fabric-token-sdk](fabric-token-sdk_945691840110272522.md) | 2026-05-28 | 13 | 37 | 45 | 530 |
+| [fabric-token-sdk](fabric-token-sdk_945691840110272522.md) | 2026-05-28 | 11 | 37 | 45 | 530 |
 | [blockchain-explorer](blockchain-explorer_1039606111654920255.md) | 2025-07-12 | 0 | 0 | 1 | 325 |
 | [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-05-27 | 8 | 83 | 139 | 315 |
 | [fabric-operations-console](fabric-operations-console_951489306143363093.md) | 2025-11-05 | 0 | 0 | 10 | 119 |
@@ -27,7 +27,7 @@
 | [blockchain-explorer-maintainers](blockchain-explorer-maintainers_1117849577534525510.md) | 2025-07-24 | 0 | 0 | 1 | 75 |
 | [open-enterprise-agent](open-enterprise-agent_1156985986174165032.md) | 2024-04-18 | 0 | 0 | 0 | 68 |
 | [fablo](fablo_1109190949394989127.md) | 2026-05-13 | 1 | 8 | 11 | 66 |
-| [general](general_988569914266775662.md) | 2026-05-20 | 3 | 5 | 7 | 61 |
+| [general](general_988569914266775662.md) | 2026-05-20 | 3 | 4 | 7 | 61 |
 | [vs-code-plugin](vs-code-plugin_1249243593475096647.md) | 2025-04-08 | 0 | 0 | 0 | 60 |
 | [cc-tools](cc-tools_1156653969133809715.md) | 2025-05-07 | 0 | 0 | 0 | 45 |
 | [cardea](cardea_1098698391137046679.md) | 2024-10-10 | 0 | 0 | 0 | 44 |
@@ -37,9 +37,9 @@
 | [learning-tokens](learning-tokens_1120853856360878271.md) | 2025-12-17 | 0 | 0 | 2 | 32 |
 | [fabric-operator](fabric-operator_1044651861799620638.md) | 2025-11-05 | 0 | 0 | 1 | 30 |
 | [weaver](weaver_986350461886033980.md) | 2024-09-05 | 0 | 0 | 0 | 29 |
-| [cbweb3](cbweb3_1400427588287074364.md) | 2026-05-29 | 1 | 14 | 29 | 29 |
+| [cbweb3](cbweb3_1400427588287074364.md) | 2026-05-29 | 1 | 11 | 29 | 29 |
 | [hypernate](hypernate_1417903966464770159.md) | 2026-04-21 | 0 | 8 | 28 | 28 |
-| [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-05-16 | 10 | 14 | 14 | 20 |
+| [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-06-01 | 11 | 15 | 15 | 21 |
 | [chaindeploy](chaindeploy_1351886901988163635.md) | 2025-07-07 | 0 | 0 | 5 | 16 |
 | [fabric-opssc](fabric-opssc_942805501681496094.md) | 2025-01-14 | 0 | 0 | 0 | 13 |
 | [hlf-connector](hlf-connector_943223554709790771.md) | 2023-04-12 | 0 | 0 | 0 | 10 |
@@ -77,7 +77,7 @@
 | 2 | Marcus Brandenburger | 33 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 | 3 | Siddhi Khandelwal | 16 | — |
 | 4 | Byteledger | 14 | — |
-| 5 | [Ry Jones](https://github.com/ryjones) | 13 | gw, LFDT Staff, Admins |
+| 5 | [Ry Jones](https://github.com/ryjones) | 12 | gw, LFDT Staff, Admins |
 
 ### Last 365 Days
 
@@ -103,7 +103,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 309 |
+| 2026 | 310 |
 | 2025 | 317 |
 | 2024 | 1,094 |
 | 2023 | 779 |
@@ -113,6 +113,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 1 |
 | 2026-05 | 87 |
 | 2026-04 | 95 |
 | 2026-03 | 43 |
@@ -170,6 +171,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-01 | 1 |
 | 2026-05-29 | 2 |
 | 2026-05-28 | 5 |
 | 2026-05-27 | 5 |

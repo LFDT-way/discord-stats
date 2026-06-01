@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515688758751282
 - **Total Messages in Category:** 4,405
-- **Last 30 Days:** 22
+- **Last 30 Days:** 8
 - **Last 90 Days:** 85
 - **Last 365 Days:** 258
 - **First Message:** 2022-01-05
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [firefly](firefly_928377875827154984.md) | 2026-05-13 | 4 | 49 | 197 | 4,064 |
-| [firefly-maintainers](firefly-maintainers_1151539141826322482.md) | 2026-05-12 | 18 | 36 | 58 | 217 |
+| [firefly-maintainers](firefly-maintainers_1151539141826322482.md) | 2026-05-12 | 4 | 36 | 58 | 217 |
 | [firefly-workshop](firefly-workshop_1063562168064282685.md) | 2025-08-08 | 0 | 0 | 3 | 123 |
 | [firefly-announcements](firefly-announcements_928380528422432769.md) | 2022-04-13 | 0 | 0 | 0 | 1 |
 
@@ -24,10 +24,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 8 | TAC member, Project Maintainer, Firefly Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 6 | gw, LFDT Staff, Admins |
-| 3 | [JessicaG](https://github.com/jwagantall) | 6 | gw, LF Staff, LFDT Staff, Admins |
-| 4 | [SonicSwordcane](https://github.com/SupernaviX) | 2 | Project Maintainer, Firefly Maintainer |
+| 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 4 | TAC member, Project Maintainer, Firefly Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 2 | gw, LFDT Staff, Admins |
+| 3 | [SonicSwordcane](https://github.com/SupernaviX) | 2 | Project Maintainer, Firefly Maintainer |
 
 ### Last 90 Days
 

@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 1,225
 - **Last 30 Days:** 10
 - **Last 90 Days:** 22
-- **Last 365 Days:** 182
+- **Last 365 Days:** 181
 - **First Message:** 2024-01-11
 - **Last Message:** 2026-05-30
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-04-23 | 0 | 1 | 79 | 742 |
+| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-04-23 | 0 | 1 | 78 | 742 |
 | [web3j-general](web3j-general_1195062053682032700.md) | 2026-05-30 | 10 | 21 | 103 | 483 |
 
 ## Most Active Users

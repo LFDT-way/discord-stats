@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515538766254102
-- **Total Messages in Category:** 1,994
-- **Last 30 Days:** 31
-- **Last 90 Days:** 131
+- **Total Messages in Category:** 1,995
+- **Last 30 Days:** 30
+- **Last 90 Days:** 132
 - **Last 365 Days:** 425
 - **First Message:** 2021-11-11
-- **Last Message:** 2026-05-29
+- **Last Message:** 2026-05-31
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-05-29 | 28 | 101 | 343 | 1,517 |
+| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-05-31 | 27 | 102 | 343 | 1,518 |
 | [cacti-users](cacti-users_908379366650703943.md) | 2026-05-03 | 1 | 24 | 70 | 443 |
 | [cacti-resources](cacti-resources_908349711537299497.md) | 2026-04-03 | 0 | 1 | 3 | 20 |
 | [cacti-announcements](cacti-announcements_908380513310498847.md) | 2026-05-29 | 2 | 5 | 9 | 14 |
@@ -25,7 +25,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [rafaelapb](https://github.com/RafaelAPB) | 10 | Project Maintainer, Cacti Maintainer |
-| 2 | Abhayraj_jais__ | 7 | — |
+| 2 | Abhayraj_jais__ | 5 | — |
 | 3 | Parth Singh PS | 4 | — |
 | 4 | Mustafa | 2 | — |
 | 5 | Arsh \| arshlabs.eth | 2 | — |
@@ -44,7 +44,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [rafaelapb](https://github.com/RafaelAPB) | 160 | Project Maintainer, Cacti Maintainer |
+| 1 | [rafaelapb](https://github.com/RafaelAPB) | 159 | Project Maintainer, Cacti Maintainer |
 | 2 | vramaiitkgp | 49 | TAC member, Cacti Maintainer |
 | 3 | [Carlos Amaro](https://github.com/LordKubaya) | 31 | Project Maintainer, Cacti Maintainer |
 | 4 | Somesh | 27 | — |
@@ -64,7 +64,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 161 |
+| 2026 | 162 |
 | 2025 | 423 |
 | 2024 | 413 |
 | 2023 | 334 |
@@ -75,7 +75,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-05 | 31 |
+| 2026-05 | 32 |
 | 2026-04 | 79 |
 | 2026-03 | 21 |
 | 2026-02 | 21 |
@@ -133,6 +133,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-05-31 | 1 |
 | 2026-05-29 | 3 |
 | 2026-05-28 | 1 |
 | 2026-05-25 | 2 |
