@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205929920856137
-- **Total Messages in Category:** 1,135
-- **Last 30 Days:** 5
-- **Last 90 Days:** 15
-- **Last 365 Days:** 84
+- **Total Messages in Category:** 1,078
+- **Last 30 Days:** 2
+- **Last 90 Days:** 12
+- **Last 365 Days:** 27
 - **First Message:** 2021-11-03
-- **Last Message:** 2026-05-29
+- **Last Message:** 2026-06-02
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [community-architects](community-architects_905205991073804308.md) | 2026-05-18 | 2 | 12 | 26 | 1,077 |
+| [community-architects](community-architects_905205991073804308.md) | 2026-06-02 | 2 | 12 | 27 | 1,078 |
 
 ## Most Active Users
 
@@ -21,37 +21,36 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 3 | gw, LFDT Staff, Admins |
-| 2 | algos | 1 | — |
-| 3 | Kripesh | 1 | — |
+| 1 | Robert | 1 | — |
+| 2 | Kripesh | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 6 | gw, LFDT Staff, Admins |
+| 1 | [Ry Jones](https://github.com/ryjones) | 3 | gw, LFDT Staff, Admins |
 | 2 | Prof.xoxo | 2 | — |
-| 3 | Piotrek | 1 | — |
-| 4 | Laiba | 1 | — |
+| 3 | Robert | 1 | — |
+| 4 | Piotrek | 1 | — |
 | 5 | Vineet | 1 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 40 | gw, LFDT Staff, Admins |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 25 | LFDT Staff, Admins |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | LFDT Staff, Admins |
+| 2 | [Ry Jones](https://github.com/ryjones) | 3 | gw, LFDT Staff, Admins |
 | 3 | Prof.xoxo | 2 | — |
 | 4 | xeeneey | 2 | — |
-| 5 | Piotrek | 1 | — |
+| 5 | Robert | 1 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 375 | gw, LFDT Staff, Admins |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 110 | LFDT Staff, Admins |
-| 3 | seanyoung | 49 | Project Maintainer, Solang Maintainer |
+| 1 | [Ry Jones](https://github.com/ryjones) | 338 | gw, LFDT Staff, Admins |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 89 | LFDT Staff, Admins |
+| 3 | [seanyoung](https://github.com/seanyoung) | 49 | Project Maintainer, Solang Maintainer |
 | 4 | [Nicko Guyer](https://github.com/nguyer) | 46 | Project Maintainer, Firefly Maintainer |
 | 5 | [swcurran](https://github.com/swcurran) | 37 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
 
@@ -59,7 +58,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 71 |
+| 2026 | 14 |
 | 2025 | 51 |
 | 2024 | 200 |
 | 2023 | 300 |
@@ -70,11 +69,11 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-05 | 5 |
+| 2026-06 | 1 |
+| 2026-05 | 2 |
 | 2026-04 | 7 |
 | 2026-03 | 3 |
-| 2026-02 | 44 |
-| 2026-01 | 12 |
+| 2026-02 | 1 |
 | 2025-10 | 4 |
 | 2025-09 | 3 |
 | 2025-08 | 1 |
@@ -127,9 +126,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-05-29 | 1 |
-| 2026-05-22 | 1 |
-| 2026-05-20 | 1 |
+| 2026-06-02 | 1 |
 | 2026-05-18 | 1 |
 | 2026-05-02 | 1 |
 | 2026-04-20 | 5 |
@@ -139,14 +136,6 @@
 | 2026-03-05 | 1 |
 | 2026-03-02 | 1 |
 | 2026-02-25 | 1 |
-| 2026-02-11 | 3 |
-| 2026-02-10 | 30 |
-| 2026-02-09 | 9 |
-| 2026-02-01 | 1 |
-| 2026-01-29 | 7 |
-| 2026-01-22 | 1 |
-| 2026-01-16 | 2 |
-| 2026-01-15 | 2 |
 | 2025-10-09 | 4 |
 | 2025-09-15 | 1 |
 | 2025-09-12 | 2 |

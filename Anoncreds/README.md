@@ -55,7 +55,7 @@
 | 2 | mikelodder | 80 | Project Maintainer, Lab Leader |
 | 3 | Patrick St-Louis | 59 | Project Maintainer, ToIP |
 | 4 | [Ry Jones](https://github.com/ryjones) | 33 | gw, LFDT Staff, Admins |
-| 5 | Timo Glastra | 28 | Project Maintainer, Anoncreds Maintainer |
+| 5 | [Timo Glastra](https://github.com/TimoGlastra) | 28 | Project Maintainer, Anoncreds Maintainer |
 
 ## Yearly Traffic
 

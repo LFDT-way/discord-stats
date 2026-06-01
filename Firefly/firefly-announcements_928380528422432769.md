@@ -28,7 +28,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | danielabarbosa | 1 | gw, LFDT Staff |
+| 1 | [danielabarbosa](https://github.com/daniela-barbosa) | 1 | gw, LFDT Staff |
 
 ## Yearly Traffic
 

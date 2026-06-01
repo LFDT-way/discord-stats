@@ -21,7 +21,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Kirin Chu | 3 | — |
+| 1 | [Kirin Chu](https://github.com/dodo920306) | 3 | — |
 | 2 | AgrimTawani \| Cryptobazaar | 2 | — |
 | 3 | ujjwal | 1 | — |
 
@@ -30,14 +30,14 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | AgrimTawani \| Cryptobazaar | 3 | — |
-| 2 | Kirin Chu | 3 | — |
+| 2 | [Kirin Chu](https://github.com/dodo920306) | 3 | — |
 | 3 | ujjwal | 1 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Kirin Chu | 4 | — |
+| 1 | [Kirin Chu](https://github.com/dodo920306) | 4 | — |
 | 2 | AgrimTawani \| Cryptobazaar | 3 | — |
 | 3 | ujjwal | 1 | — |
 
@@ -46,7 +46,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Deleted User | 8 | — |
-| 2 | Kirin Chu | 4 | — |
+| 2 | [Kirin Chu](https://github.com/dodo920306) | 4 | — |
 | 3 | [Marek Mahut](https://github.com/mmahut) | 3 | — |
 | 4 | tysonx | 3 | — |
 | 5 | AgrimTawani \| Cryptobazaar | 3 | — |

@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205464046915585
 - **Total Messages in Category:** 13,149
-- **Last 30 Days:** 67
-- **Last 90 Days:** 182
-- **Last 365 Days:** 697
+- **Last 30 Days:** 52
+- **Last 90 Days:** 180
+- **Last 365 Days:** 694
 - **First Message:** 2021-11-07
 - **Last Message:** 2026-05-28
 
@@ -13,16 +13,16 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric](fabric_905205541326975046.md) | 2026-05-28 | 13 | 42 | 218 | 6,686 |
+| [fabric](fabric_905205541326975046.md) | 2026-05-28 | 11 | 42 | 217 | 6,686 |
 | [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 1 | 34 | 964 |
 | [fabric-private-chaincode](fabric-private-chaincode_943059293765267497.md) | 2026-05-12 | 1 | 1 | 30 | 948 |
-| [fabric-peer](fabric-peer_945037339170836501.md) | 2026-04-10 | 0 | 4 | 19 | 863 |
-| [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-05-10 | 1 | 7 | 24 | 776 |
+| [fabric-peer](fabric-peer_945037339170836501.md) | 2026-04-10 | 0 | 4 | 18 | 863 |
+| [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-05-10 | 1 | 7 | 23 | 776 |
 | [fabric-orderer](fabric-orderer_945037581500940298.md) | 2026-04-12 | 0 | 3 | 46 | 727 |
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-07 | 0 | 0 | 2 | 554 |
 | [fabric-code-contributors](fabric-code-contributors_941396957635682314.md) | 2026-05-09 | 1 | 5 | 23 | 354 |
 | [fabric-contract-apis](fabric-contract-apis_943090527920877598.md) | 2025-12-30 | 0 | 0 | 4 | 306 |
-| [fabric-x](fabric-x_1427642480504999976.md) | 2026-05-26 | 44 | 106 | 242 | 242 |
+| [fabric-x](fabric-x_1427642480504999976.md) | 2026-05-26 | 31 | 104 | 242 | 242 |
 | [fabric-japanese](fabric-japanese_942950198836092958.md) | 2026-05-20 | 2 | 7 | 29 | 228 |
 | [fabric-documentation](fabric-documentation_945038395825070141.md) | 2026-01-29 | 0 | 0 | 12 | 196 |
 | [fabric-dublin-workshop](fabric-dublin-workshop_1005123918740332604.md) | 2024-09-27 | 0 | 0 | 0 | 78 |
@@ -39,11 +39,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Aaradhy Chinche | 16 | — |
+| 1 | Aaradhy Chinche | 13 | — |
 | 2 | [Ry Jones](https://github.com/ryjones) | 6 | gw, LFDT Staff, Admins |
-| 3 | MoneySimp | 6 | — |
-| 4 | [bestbeforetoday](https://github.com/bestbeforetoday) | 6 | gw, Project Maintainer, Fabric Maintainer |
-| 5 | Sachin Kumar | 4 | — |
+| 3 | [bestbeforetoday](https://github.com/bestbeforetoday) | 6 | gw, Project Maintainer, Fabric Maintainer |
+| 4 | MoneySimp | 4 | — |
+| 5 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 3 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 
 ### Last 90 Days
 
@@ -51,7 +51,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Aaradhy Chinche | 28 | — |
 | 2 | [bestbeforetoday](https://github.com/bestbeforetoday) | 17 | gw, Project Maintainer, Fabric Maintainer |
-| 3 | Marcus Brandenburger | 10 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
+| 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 10 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 | 4 | [Ry Jones](https://github.com/ryjones) | 9 | gw, LFDT Staff, Admins |
 | 5 | JRM | 8 | — |
 
@@ -61,7 +61,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 53 | gw, Project Maintainer, Fabric Maintainer |
 | 2 | Frank_The_Fish | 37 | Lab Leader |
-| 3 | Marcus Brandenburger | 34 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
+| 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 34 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 | 4 | Aaradhy Chinche | 28 | — |
 | 5 | [Liran Funaro](https://github.com/liran-funaro) | 23 | — |
 
@@ -72,7 +72,7 @@
 | 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 743 | gw, Project Maintainer, Fabric Maintainer |
 | 2 | Deleted User | 617 | — |
 | 3 | [yacovm](https://github.com/yacovm) | 519 | Project Maintainer, SRL, Fabric Maintainer |
-| 4 | Marcus Brandenburger | 282 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
+| 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 282 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 | 5 | [Dave Enyeart](https://github.com/denyeart) | 279 | Project Maintainer, SRL, Fabric Maintainer, security |
 
 ## Yearly Traffic

@@ -4,7 +4,7 @@
 - **Category ID:** Uncategorized
 - **Total Messages in Category:** 2
 - **Last 30 Days:** 1
-- **Last 90 Days:** 2
+- **Last 90 Days:** 1
 - **Last 365 Days:** 6
 - **First Message:** 2021-11-02
 - **Last Message:** 2021-11-02
@@ -27,7 +27,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Chrissy Harter | 2 | LFDT Staff, Admins |
+| 1 | Chrissy Harter | 1 | LFDT Staff, Admins |
 
 ### Last 365 Days
 

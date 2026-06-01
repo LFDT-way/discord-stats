@@ -6,7 +6,7 @@
 - **Total Messages:** 130
 - **Last 30 Days:** 3
 - **Last 90 Days:** 8
-- **Last 365 Days:** 62
+- **Last 365 Days:** 61
 - **First Message:** 2025-01-15
 - **Last Message:** 2026-05-29
 
@@ -16,19 +16,19 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | DanielSzego | 3 | Meetup Organizer |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 3 | Meetup Organizer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | DanielSzego | 8 | Meetup Organizer |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 8 | Meetup Organizer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | DanielSzego | 57 | Meetup Organizer |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 56 | Meetup Organizer |
 | 2 | k Gunjan | 2 | — |
 | 3 | meldsun | 1 | — |
 | 4 | Mehdi | 1 | — |
@@ -38,10 +38,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | DanielSzego | 89 | Meetup Organizer |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 89 | Meetup Organizer |
 | 2 | Andrew Puch 🛡⬆🇺🇸 | 12 | — |
 | 3 | tz18 | 6 | — |
-| 4 | davidwboswell | 6 | LFDT Staff |
+| 4 | [davidwboswell](https://github.com/davidwboswell) | 6 | LFDT Staff |
 | 5 | Sudip Phuyal | 2 | — |
 
 ## Yearly Traffic

@@ -2,30 +2,30 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1283486767546237040
-- **Total Messages in Category:** 1,664
-- **Last 30 Days:** 273
-- **Last 90 Days:** 560
-- **Last 365 Days:** 1,314
+- **Total Messages in Category:** 1,673
+- **Last 30 Days:** 232
+- **Last 90 Days:** 553
+- **Last 365 Days:** 1,319
 - **First Message:** 2024-09-11
-- **Last Message:** 2026-05-31
+- **Last Message:** 2026-06-03
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [hiero-sdk-python](hiero-sdk-python_1336494517544681563.md) | 2026-05-14 | 65 | 122 | 323 | 463 |
-| [hiero-general](hiero-general_1289954446712770600.md) | 2026-05-31 | 78 | 141 | 178 | 218 |
+| [hiero-sdk-python](hiero-sdk-python_1336494517544681563.md) | 2026-06-03 | 56 | 120 | 323 | 464 |
+| [hiero-general](hiero-general_1289954446712770600.md) | 2026-06-03 | 50 | 144 | 181 | 221 |
 | [hiero-website](hiero-website_1458790070986215567.md) | 2026-05-28 | 11 | 64 | 166 | 166 |
-| [hiero-announcements](hiero-announcements_1283487046484234270.md) | 2026-05-28 | 15 | 28 | 91 | 116 |
-| [hiero-maintainers](hiero-maintainers_1283487103006543952.md) | 2026-05-28 | 8 | 19 | 74 | 109 |
+| [hiero-announcements](hiero-announcements_1283487046484234270.md) | 2026-06-01 | 16 | 26 | 89 | 117 |
+| [hiero-maintainers](hiero-maintainers_1283487103006543952.md) | 2026-05-31 | 9 | 18 | 75 | 110 |
 | [solo](solo_1364886813017247775.md) | 2026-04-02 | 0 | 1 | 82 | 102 |
-| [hiero-sdk-community](hiero-sdk-community_1460295344620572907.md) | 2026-05-18 | 17 | 48 | 74 | 74 |
+| [hiero-sdk-community](hiero-sdk-community_1460295344620572907.md) | 2026-05-18 | 11 | 44 | 74 | 74 |
 | [hiero-solo-action](hiero-solo-action_1337046798472052776.md) | 2025-10-17 | 0 | 0 | 14 | 73 |
 | [hiero-did-sdk-js](hiero-did-sdk-js_1403132892007366806.md) | 2026-05-06 | 1 | 2 | 65 | 65 |
 | [hiero-sdk-cpp](hiero-sdk-cpp_1337424839761465364.md) | 2026-05-13 | 21 | 30 | 56 | 57 |
-| [heka-identity-platform](heka-identity-platform_1474117589692317823.md) | 2026-05-18 | 20 | 31 | 31 | 31 |
-| [hiero-sdk-rust](hiero-sdk-rust_1400196736244518982.md) | 2026-05-26 | 16 | 28 | 28 | 28 |
-| [hiero-sdk-js](hiero-sdk-js_1337424656138899537.md) | 2026-05-27 | 4 | 18 | 23 | 24 |
+| [heka-identity-platform](heka-identity-platform_1474117589692317823.md) | 2026-05-18 | 17 | 28 | 31 | 31 |
+| [hiero-sdk-rust](hiero-sdk-rust_1400196736244518982.md) | 2026-06-02 | 17 | 29 | 29 | 29 |
+| [hiero-sdk-js](hiero-sdk-js_1337424656138899537.md) | 2026-06-01 | 6 | 19 | 25 | 26 |
 | [hiero-did-sdk-python](hiero-did-sdk-python_1339549374782378027.md) | 2026-04-29 | 0 | 5 | 11 | 23 |
 | [hiero-identity-collaboration-hub](hiero-identity-collaboration-hub_1448622189011144847.md) | 2026-03-11 | 0 | 2 | 21 | 21 |
 | [hiero-consensus-node](hiero-consensus-node_1380936805897080862.md) | 2026-03-11 | 0 | 1 | 19 | 19 |
@@ -48,38 +48,38 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | explorer3 | 70 | Project Maintainer, Hiero maintainer |
-| 2 | Ang | 23 | Hiero maintainer |
-| 3 | JASHK | 22 | — |
-| 4 | [JessicaG](https://github.com/jwagantall) | 21 | gw, LF Staff, LFDT Staff, Admins |
-| 5 | NssGourav | 13 | — |
+| 1 | [explorer3](https://github.com/exploreriii) | 61 | Project Maintainer, Hiero maintainer |
+| 2 | Ang | 29 | Hiero maintainer |
+| 3 | [JessicaG](https://github.com/jwagantall) | 21 | gw, LF Staff, LFDT Staff, Admins |
+| 4 | JASHK | 18 | — |
+| 5 | NssGourav | 10 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | explorer3 | 163 | Project Maintainer, Hiero maintainer |
-| 2 | Ang | 30 | Hiero maintainer |
-| 3 | [JessicaG](https://github.com/jwagantall) | 29 | gw, LF Staff, LFDT Staff, Admins |
+| 1 | [explorer3](https://github.com/exploreriii) | 160 | Project Maintainer, Hiero maintainer |
+| 2 | Ang | 36 | Hiero maintainer |
+| 3 | [JessicaG](https://github.com/jwagantall) | 26 | gw, LF Staff, LFDT Staff, Admins |
 | 4 | ocean-oc3ean | 25 | — |
-| 5 | robborg | 24 | Hiero maintainer |
+| 5 | robborg | 23 | Hiero maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | explorer3 | 407 | Project Maintainer, Hiero maintainer |
-| 2 | [JessicaG](https://github.com/jwagantall) | 106 | gw, LF Staff, LFDT Staff, Admins |
+| 1 | [explorer3](https://github.com/exploreriii) | 407 | Project Maintainer, Hiero maintainer |
+| 2 | [JessicaG](https://github.com/jwagantall) | 104 | gw, LF Staff, LFDT Staff, Admins |
 | 3 | Deleted User | 84 | — |
-| 4 | hendrik.ebbers | 63 | TAC member, Project Maintainer, Hiero maintainer |
-| 5 | [Roger](https://github.com/rbarker-dev) | 62 | Project Maintainer, Hiero maintainer |
+| 4 | [Roger](https://github.com/rbarker-dev) | 62 | Project Maintainer, Hiero maintainer |
+| 5 | [hendrik.ebbers](https://github.com/hendrikebbers) | 61 | TAC member, Project Maintainer, Hiero maintainer |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | explorer3 | 454 | Project Maintainer, Hiero maintainer |
-| 2 | hendrik.ebbers | 155 | TAC member, Project Maintainer, Hiero maintainer |
+| 1 | [explorer3](https://github.com/exploreriii) | 454 | Project Maintainer, Hiero maintainer |
+| 2 | [hendrik.ebbers](https://github.com/hendrikebbers) | 155 | TAC member, Project Maintainer, Hiero maintainer |
 | 3 | [JessicaG](https://github.com/jwagantall) | 134 | gw, LF Staff, LFDT Staff, Admins |
 | 4 | Deleted User | 113 | — |
 | 5 | [Roger](https://github.com/rbarker-dev) | 85 | Project Maintainer, Hiero maintainer |
@@ -88,7 +88,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,029 |
+| 2026 | 1,038 |
 | 2025 | 611 |
 | 2024 | 24 |
 
@@ -96,7 +96,8 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-05 | 273 |
+| 2026-06 | 8 |
+| 2026-05 | 274 |
 | 2026-04 | 227 |
 | 2026-03 | 62 |
 | 2026-02 | 225 |
@@ -121,7 +122,10 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-05-31 | 1 |
+| 2026-06-03 | 2 |
+| 2026-06-02 | 2 |
+| 2026-06-01 | 4 |
+| 2026-05-31 | 2 |
 | 2026-05-28 | 4 |
 | 2026-05-27 | 13 |
 | 2026-05-26 | 8 |

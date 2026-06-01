@@ -32,7 +32,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | davidwboswell | 17 | LFDT Staff |
+| 1 | [davidwboswell](https://github.com/davidwboswell) | 17 | LFDT Staff |
 | 2 | Niks | 12 | — |
 | 3 | [Ry Jones](https://github.com/ryjones) | 7 | gw, LFDT Staff, Admins |
 | 4 | Pranit | 6 | — |

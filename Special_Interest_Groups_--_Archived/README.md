@@ -33,19 +33,19 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | DanielSzego | 1 | Meetup Organizer |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 1 | Meetup Organizer |
 | 2 | willt3e | 1 | — |
-| 3 | Ajay Jadhav | 1 | Credebl maintainer, Project Maintainer |
+| 3 | [Ajay Jadhav](https://github.com/ajile-in) | 1 | Credebl maintainer, Project Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | davidwboswell | 4 | LFDT Staff |
+| 1 | [davidwboswell](https://github.com/davidwboswell) | 4 | LFDT Staff |
 | 2 | Ankita | 3 | Credebl maintainer, Project Maintainer |
 | 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | LFDT Staff, Admins |
 | 4 | Tomaz | 2 | LFDT Staff |
-| 5 | DanielSzego | 1 | Meetup Organizer |
+| 5 | [DanielSzego](https://github.com/Daniel-Szego) | 1 | Meetup Organizer |
 
 ### All Time
 

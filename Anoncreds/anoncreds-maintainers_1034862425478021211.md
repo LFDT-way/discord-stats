@@ -38,7 +38,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 10 | gw, LFDT Staff, Admins |
 | 2 | [swcurran](https://github.com/swcurran) | 9 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
-| 3 | Timo Glastra | 4 | Project Maintainer, Anoncreds Maintainer |
+| 3 | [Timo Glastra](https://github.com/TimoGlastra) | 4 | Project Maintainer, Anoncreds Maintainer |
 | 4 | [Arun S M](https://github.com/arsulegai) | 2 | TAC member, Chapter Leader |
 | 5 | SophiaUgo | 2 | — |
 

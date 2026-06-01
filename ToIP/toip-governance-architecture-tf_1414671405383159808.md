@@ -5,7 +5,7 @@
 - **Channel ID:** 1414671405383159808
 - **Total Messages:** 129
 - **Last 30 Days:** 4
-- **Last 90 Days:** 29
+- **Last 90 Days:** 25
 - **Last 365 Days:** 129
 - **First Message:** 2025-09-24
 - **Last Message:** 2026-05-05
@@ -23,11 +23,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 16 | Lab Leader |
+| 1 | sankarshan | 14 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 5 | Project Maintainer, ToIP |
 | 3 | John Phillips | 3 | Project Maintainer, ToIP |
-| 4 | NeilJT | 2 | ToIP |
-| 5 | stevevitka | 2 | ToIP |
+| 4 | stevevitka | 2 | ToIP |
+| 5 | microbiocarly | 1 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 

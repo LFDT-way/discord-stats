@@ -28,7 +28,7 @@ _No activity in this period._
 | 2 | mudit sarda | 2 | — |
 | 3 | suz00i | 1 | — |
 | 4 | darrello | 1 | Project Maintainer |
-| 5 | Amar Tumballi | 1 | — |
+| 5 | [Amar Tumballi](https://github.com/amarts) | 1 | — |
 
 ### All Time
 
@@ -38,7 +38,7 @@ _No activity in this period._
 | 2 | mudit sarda | 2 | — |
 | 3 | suz00i | 1 | — |
 | 4 | darrello | 1 | Project Maintainer |
-| 5 | Amar Tumballi | 1 | — |
+| 5 | [Amar Tumballi](https://github.com/amarts) | 1 | — |
 
 ## Yearly Traffic
 

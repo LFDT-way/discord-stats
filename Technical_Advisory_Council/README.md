@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 941383941217222708
-- **Total Messages in Category:** 1,497
+- **Total Messages in Category:** 1,498
 - **Last 30 Days:** 38
 - **Last 90 Days:** 90
-- **Last 365 Days:** 314
+- **Last 365 Days:** 313
 - **First Message:** 2022-02-10
-- **Last Message:** 2026-05-28
+- **Last Message:** 2026-06-02
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-05-28 | 38 | 72 | 186 | 1,080 |
+| [tac](tac_941384040316018790.md) | 2026-06-02 | 38 | 72 | 185 | 1,081 |
 | [documentation-task-force](documentation-task-force_1070733392020246620.md) | 2025-06-11 | 0 | 0 | 1 | 117 |
 | [onboarding-content-task-force](onboarding-content-task-force_1070733078772854856.md) | 2025-11-07 | 0 | 0 | 10 | 94 |
 | [badging-lifecycle-tf](badging-lifecycle-tf_1139220569531875389.md) | 2024-08-16 | 0 | 0 | 0 | 66 |
@@ -29,19 +29,19 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 11 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 12 | TAC member, Chapter Leader |
 | 2 | [Angelo De Caro](https://github.com/adecaro) | 7 | gw, Project Maintainer, Fabric Maintainer, Lab Leader |
-| 3 | davidwboswell | 6 | LFDT Staff |
+| 3 | [davidwboswell](https://github.com/davidwboswell) | 6 | LFDT Staff |
 | 4 | [Ry Jones](https://github.com/ryjones) | 5 | gw, LFDT Staff, Admins |
-| 5 | Diane Mueller | 4 | TAC member, Hedera Employee |
+| 5 | [Diane Mueller](https://github.com/dmueller2001) | 4 | TAC member, Hedera Employee |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 29 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 30 | TAC member, Chapter Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 17 | gw, LFDT Staff, Admins |
-| 3 | davidwboswell | 14 | LFDT Staff |
+| 3 | [davidwboswell](https://github.com/davidwboswell) | 13 | LFDT Staff |
 | 4 | Justin Florentine | 9 | gw, Project Maintainer, Besu Maintainer |
 | 5 | [Angelo De Caro](https://github.com/adecaro) | 7 | gw, Project Maintainer, Fabric Maintainer, Lab Leader |
 
@@ -50,10 +50,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 51 | gw, LFDT Staff, Admins |
-| 2 | [Arun S M](https://github.com/arsulegai) | 49 | TAC member, Chapter Leader |
-| 3 | Tracy | 42 | — |
+| 2 | [Arun S M](https://github.com/arsulegai) | 50 | TAC member, Chapter Leader |
+| 3 | Tracy | 41 | — |
 | 4 | [Matthew Whitehead](https://github.com/matthew1001) | 34 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 5 | Diane Mueller | 26 | TAC member, Hedera Employee |
+| 5 | [Diane Mueller](https://github.com/dmueller2001) | 26 | TAC member, Hedera Employee |
 
 ### All Time
 
@@ -61,15 +61,15 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Tracy | 378 | — |
 | 2 | [Ry Jones](https://github.com/ryjones) | 208 | gw, LFDT Staff, Admins |
-| 3 | [Arun S M](https://github.com/arsulegai) | 142 | TAC member, Chapter Leader |
+| 3 | [Arun S M](https://github.com/arsulegai) | 143 | TAC member, Chapter Leader |
 | 4 | vramaiitkgp | 72 | TAC member, Cacti Maintainer |
-| 5 | davidwboswell | 70 | LFDT Staff |
+| 5 | [davidwboswell](https://github.com/davidwboswell) | 70 | LFDT Staff |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 125 |
+| 2026 | 126 |
 | 2025 | 247 |
 | 2024 | 313 |
 | 2023 | 512 |
@@ -79,6 +79,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 1 |
 | 2026-05 | 38 |
 | 2026-04 | 38 |
 | 2026-03 | 15 |
@@ -136,6 +137,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-02 | 1 |
 | 2026-05-28 | 2 |
 | 2026-05-27 | 3 |
 | 2026-05-21 | 10 |

@@ -24,7 +24,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 12 | gw, LFDT Staff, Admins |
 | 2 | CalvinCreator | 8 | — |
-| 3 | dnakashima | 2 | Project Maintainer, Fabric Maintainer, Lab Leader |
+| 3 | [dnakashima](https://github.com/dnakashima) | 2 | Project Maintainer, Fabric Maintainer, Lab Leader |
 | 4 | Rubén | 1 | — |
 
 ### Last 365 Days

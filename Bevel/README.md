@@ -45,14 +45,14 @@
 | 2 | KaitouKID | 9 | — |
 | 3 | CalvinCreator | 8 | — |
 | 4 | EliMbadi | 4 | — |
-| 5 | Alvaro Picazo | 4 | lab stewards |
+| 5 | [Alvaro Picazo](https://github.com/alvaropicazo) | 4 | lab stewards |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | kfs | 705 | Lab Leader |
-| 2 | Sownak | 537 | Project Maintainer |
+| 2 | [Sownak](https://github.com/sownak) | 537 | Project Maintainer |
 | 3 | rohitrj22 | 243 | — |
 | 4 | johanowski | 239 | — |
 | 5 | Deleted User | 185 | — |

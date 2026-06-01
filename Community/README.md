@@ -2,21 +2,21 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 942821993391202394
-- **Total Messages in Category:** 1,315
-- **Last 30 Days:** 6
-- **Last 90 Days:** 27
+- **Total Messages in Category:** 1,316
+- **Last 30 Days:** 7
+- **Last 90 Days:** 25
 - **Last 365 Days:** 195
 - **First Message:** 2022-02-15
-- **Last Message:** 2026-05-29
+- **Last Message:** 2026-06-03
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [india-chapter](india-chapter_942822085917556777.md) | 2026-05-20 | 2 | 9 | 38 | 412 |
+| [india-chapter](india-chapter_942822085917556777.md) | 2026-05-20 | 2 | 6 | 38 | 412 |
 | [brasil-chapter](brasil-chapter_943207619508723723.md) | 2026-05-25 | 1 | 5 | 17 | 273 |
-| [zero-knowledge-learning-group](zero-knowledge-learning-group_1329201532628898036.md) | 2026-05-29 | 3 | 8 | 62 | 130 |
-| [european-chapter](european-chapter_1289237830081581158.md) | 2026-04-08 | 0 | 3 | 43 | 128 |
+| [zero-knowledge-learning-group](zero-knowledge-learning-group_1329201532628898036.md) | 2026-05-29 | 3 | 8 | 61 | 130 |
+| [european-chapter](european-chapter_1289237830081581158.md) | 2026-06-03 | 1 | 4 | 44 | 129 |
 | [latinoamerica-chapter](latinoamerica-chapter_946127492622721095.md) | 2026-04-02 | 0 | 1 | 3 | 107 |
 | [francophone](francophone_973545038128762941.md) | 2024-07-24 | 0 | 0 | 0 | 58 |
 | [africa-chapter](africa-chapter_1042889475782623262.md) | 2026-04-02 | 0 | 1 | 6 | 50 |
@@ -34,25 +34,26 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | DanielSzego | 3 | Meetup Organizer |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 3 | Meetup Organizer |
 | 2 | amitthosare | 2 | Credebl maintainer, Project Maintainer |
-| 3 | joselio.teider | 1 | — |
+| 3 | Dominik Zyskowski (Espeo) | 1 | — |
+| 4 | joselio.teider | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | DanielSzego | 9 | Meetup Organizer |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 9 | Meetup Organizer |
 | 2 | amitthosare | 4 | Credebl maintainer, Project Maintainer |
 | 3 | joselio.teider | 4 | — |
-| 4 | Ajay Jadhav | 3 | Credebl maintainer, Project Maintainer |
+| 4 | [Ajay Jadhav](https://github.com/ajile-in) | 3 | Credebl maintainer, Project Maintainer |
 | 5 | MH | 2 | Chapter Leader |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | DanielSzego | 58 | Meetup Organizer |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 57 | Meetup Organizer |
 | 2 | amitthosare | 24 | Credebl maintainer, Project Maintainer |
 | 3 | MH | 14 | Chapter Leader |
 | 4 | knagware | 12 | Chapter Leader |
@@ -63,7 +64,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | joselio.teider | 132 | — |
-| 2 | DanielSzego | 92 | Meetup Organizer |
+| 2 | [DanielSzego](https://github.com/Daniel-Szego) | 92 | Meetup Organizer |
 | 3 | knagware | 66 | Chapter Leader |
 | 4 | [Arun S M](https://github.com/arsulegai) | 63 | TAC member, Chapter Leader |
 | 5 | MH | 40 | Chapter Leader |
@@ -72,7 +73,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 63 |
+| 2026 | 64 |
 | 2025 | 338 |
 | 2024 | 187 |
 | 2023 | 301 |
@@ -82,6 +83,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 1 |
 | 2026-05 | 6 |
 | 2026-04 | 11 |
 | 2026-03 | 10 |
@@ -139,6 +141,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-03 | 1 |
 | 2026-05-29 | 1 |
 | 2026-05-28 | 2 |
 | 2026-05-25 | 1 |

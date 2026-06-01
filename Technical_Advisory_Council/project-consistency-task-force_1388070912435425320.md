@@ -28,7 +28,7 @@ _No activity in this period._
 | 2 | [Ry Jones](https://github.com/ryjones) | 15 | gw, LFDT Staff, Admins |
 | 3 | [Enrique Lacal](https://github.com/EnriqueL8) | 2 | TAC member, Project Maintainer, Firefly Maintainer |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff, Admins |
-| 5 | davidwboswell | 1 | LFDT Staff |
+| 5 | [davidwboswell](https://github.com/davidwboswell) | 1 | LFDT Staff |
 
 ### All Time
 
@@ -38,7 +38,7 @@ _No activity in this period._
 | 2 | [Ry Jones](https://github.com/ryjones) | 15 | gw, LFDT Staff, Admins |
 | 3 | [Enrique Lacal](https://github.com/EnriqueL8) | 2 | TAC member, Project Maintainer, Firefly Maintainer |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff, Admins |
-| 5 | davidwboswell | 1 | LFDT Staff |
+| 5 | [davidwboswell](https://github.com/davidwboswell) | 1 | LFDT Staff |
 
 ## Yearly Traffic
 

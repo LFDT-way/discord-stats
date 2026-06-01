@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Staff
 - **Channel ID:** 905205991073804308
-- **Total Messages:** 1,077
+- **Total Messages:** 1,078
 - **Last 30 Days:** 2
 - **Last 90 Days:** 12
-- **Last 365 Days:** 26
+- **Last 365 Days:** 27
 - **First Message:** 2021-11-03
-- **Last Message:** 2026-05-18
+- **Last Message:** 2026-06-02
 
 ## Most Active Users
 
@@ -16,7 +16,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | algos | 1 | — |
+| 1 | Robert | 1 | — |
 | 2 | Kripesh | 1 | — |
 
 ### Last 90 Days
@@ -25,8 +25,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 3 | gw, LFDT Staff, Admins |
 | 2 | Prof.xoxo | 2 | — |
-| 3 | Piotrek | 1 | — |
-| 4 | Laiba | 1 | — |
+| 3 | Robert | 1 | — |
+| 4 | Piotrek | 1 | — |
 | 5 | Vineet | 1 | — |
 
 ### Last 365 Days
@@ -37,7 +37,7 @@
 | 2 | [Ry Jones](https://github.com/ryjones) | 3 | gw, LFDT Staff, Admins |
 | 3 | Prof.xoxo | 2 | — |
 | 4 | xeeneey | 2 | — |
-| 5 | Piotrek | 1 | — |
+| 5 | Robert | 1 | — |
 
 ### All Time
 
@@ -45,7 +45,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 338 | gw, LFDT Staff, Admins |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 89 | LFDT Staff, Admins |
-| 3 | seanyoung | 49 | Project Maintainer, Solang Maintainer |
+| 3 | [seanyoung](https://github.com/seanyoung) | 49 | Project Maintainer, Solang Maintainer |
 | 4 | [Nicko Guyer](https://github.com/nguyer) | 46 | Project Maintainer, Firefly Maintainer |
 | 5 | [swcurran](https://github.com/swcurran) | 37 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
 
@@ -53,7 +53,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 13 |
+| 2026 | 14 |
 | 2025 | 51 |
 | 2024 | 200 |
 | 2023 | 300 |
@@ -64,6 +64,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 1 |
 | 2026-05 | 2 |
 | 2026-04 | 7 |
 | 2026-03 | 3 |
@@ -120,6 +121,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-02 | 1 |
 | 2026-05-18 | 1 |
 | 2026-05-02 | 1 |
 | 2026-04-20 | 5 |

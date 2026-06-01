@@ -2,23 +2,23 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 948958931512873030
-- **Total Messages in Category:** 12,751
-- **Last 30 Days:** 27
-- **Last 90 Days:** 83
-- **Last 365 Days:** 334
+- **Total Messages in Category:** 12,753
+- **Last 30 Days:** 25
+- **Last 90 Days:** 82
+- **Last 365 Days:** 335
 - **First Message:** 2022-03-03
-- **Last Message:** 2026-05-29
+- **Last Message:** 2026-06-03
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [welcome](welcome_948959099842883654.md) | 2026-05-02 | 3 | 26 | 43 | 10,702 |
-| [general](general_1021077182501621830.md) | 2026-05-29 | 13 | 43 | 245 | 1,675 |
+| [welcome](welcome_948959099842883654.md) | 2026-05-02 | 0 | 26 | 43 | 10,702 |
+| [general](general_1021077182501621830.md) | 2026-06-01 | 14 | 41 | 245 | 1,676 |
 | [connections](connections_948959243095130142.md) | 2026-04-03 | 0 | 1 | 29 | 321 |
-| [announcements](announcements_953133039372877844.md) | 2026-05-26 | 4 | 6 | 9 | 37 |
+| [announcements](announcements_953133039372877844.md) | 2026-06-03 | 5 | 7 | 10 | 38 |
 | [git-help](git-help_1098621099681513492.md) | 2024-09-06 | 0 | 0 | 0 | 6 |
-| [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-05-04 | 2 | 2 | 3 | 5 |
+| [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-05-04 | 1 | 2 | 3 | 5 |
 | [job-postings](job-postings_1050607623566802984.md) | 2026-05-29 | 5 | 5 | 5 | 5 |
 
 ## Most Active Users
@@ -27,18 +27,18 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 7 | LFDT Staff, Admins |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 8 | LFDT Staff, Admins |
 | 2 | Zerah | 3 | — |
 | 3 | Mohit Yadav | 2 | — |
 | 4 | Parth Singh PS | 2 | — |
-| 5 | ReHaan | 2 | — |
+| 5 | [JessicaG](https://github.com/jwagantall) | 2 | gw, LF Staff, LFDT Staff, Admins |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Zion'sEarthlyPrince | 13 | — |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 9 | LFDT Staff, Admins |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 11 | LFDT Staff, Admins |
 | 3 | k!ller | 4 | — |
 | 4 | Zerah | 3 | — |
 | 5 | SlackGuru | 3 | — |
@@ -47,7 +47,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 46 | LFDT Staff, Admins |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 48 | LFDT Staff, Admins |
 | 2 | [Ry Jones](https://github.com/ryjones) | 18 | gw, LFDT Staff, Admins |
 | 3 | Zion'sEarthlyPrince | 13 | — |
 | 4 | Tsafaras | 12 | — |
@@ -58,7 +58,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Deleted User | 697 | — |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 395 | LFDT Staff, Admins |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 397 | LFDT Staff, Admins |
 | 3 | [Ry Jones](https://github.com/ryjones) | 255 | gw, LFDT Staff, Admins |
 | 4 | tobytobias | 38 | — |
 | 5 | Tracy | 21 | — |
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 113 |
+| 2026 | 115 |
 | 2025 | 346 |
 | 2024 | 1,050 |
 | 2023 | 6,951 |
@@ -77,6 +77,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 2 |
 | 2026-05 | 27 |
 | 2026-04 | 20 |
 | 2026-03 | 36 |
@@ -133,6 +134,8 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-03 | 1 |
+| 2026-06-01 | 1 |
 | 2026-05-29 | 3 |
 | 2026-05-28 | 1 |
 | 2026-05-26 | 4 |

@@ -20,14 +20,14 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Ajay Jadhav | 1 | Credebl maintainer, Project Maintainer |
+| 1 | [Ajay Jadhav](https://github.com/ajile-in) | 1 | Credebl maintainer, Project Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | amitthosare | 1 | Credebl maintainer, Project Maintainer |
-| 2 | Ajay Jadhav | 1 | Credebl maintainer, Project Maintainer |
+| 2 | [Ajay Jadhav](https://github.com/ajile-in) | 1 | Credebl maintainer, Project Maintainer |
 | 3 | knagware | 1 | Chapter Leader |
 
 ### All Time
@@ -35,7 +35,7 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Guillermodiazg | 27 | Chapter Leader, Community Leader |
-| 2 | Alfonso Govela | 11 | — |
+| 2 | [Alfonso Govela](https://github.com/AlfonsoGovela) | 11 | — |
 | 3 | ZIDUKXUD | 6 | — |
 | 4 | Javier \| Chainlink Labs | 6 | — |
 | 5 | oscarmedina | 5 | — |

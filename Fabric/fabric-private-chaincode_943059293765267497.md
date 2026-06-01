@@ -16,20 +16,20 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Marcus Brandenburger | 1 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
+| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 1 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Marcus Brandenburger | 1 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
+| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 1 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Maria Munaro | 6 | — |
-| 2 | Marcus Brandenburger | 5 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
+| 1 | [Maria Munaro](https://github.com/munapower) | 6 | — |
+| 2 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 5 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 | 3 | Glayer | 4 | — |
 | 4 | nomadic | 4 | — |
 | 5 | Casol | 3 | — |
@@ -38,9 +38,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Marcus Brandenburger | 252 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
+| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 252 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 | 2 | nomadic | 139 | — |
-| 3 | Maria Munaro | 108 | — |
+| 3 | [Maria Munaro](https://github.com/munapower) | 108 | — |
 | 4 | Παναγιώλτερ Ο'Μπανάβιεν | 62 | — |
 | 5 | Osama Magdy | 59 | — |
 

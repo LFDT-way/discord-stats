@@ -26,7 +26,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | ZenDox.X | 4 | — |
 | 2 | Ali | 4 | — |
-| 3 | Osama_Rabea | 1 | TAC member |
+| 3 | [Osama_Rabea](https://github.com/OsamaRab3) | 1 | TAC member |
 | 4 | JRM | 1 | — |
 | 5 | saikat21 | 1 | — |
 

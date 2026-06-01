@@ -5,7 +5,7 @@
 - **Channel ID:** 1414671746065371186
 - **Total Messages:** 134
 - **Last 30 Days:** 11
-- **Last 90 Days:** 48
+- **Last 90 Days:** 42
 - **Last 365 Days:** 134
 - **First Message:** 2025-09-24
 - **Last Message:** 2026-05-28
@@ -25,8 +25,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 20 | Project Maintainer, ToIP |
-| 2 | [firegod](https://github.com/wenjing) | 10 | Webhooks, Project Maintainer, ToIP |
+| 1 | microbiocarly | 16 | Project Maintainer, ToIP |
+| 2 | [firegod](https://github.com/wenjing) | 8 | Webhooks, Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 8 | Project Maintainer, ToIP |
 | 4 | [Arun S M](https://github.com/arsulegai) | 3 | TAC member, Chapter Leader |
 | 5 | Henk van Cann | 2 | Project Maintainer, ToIP |

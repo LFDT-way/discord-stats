@@ -5,7 +5,7 @@
 - **Channel ID:** 1445860549685678080
 - **Total Messages:** 95
 - **Last 30 Days:** 3
-- **Last 90 Days:** 37
+- **Last 90 Days:** 21
 - **Last 365 Days:** 95
 - **First Message:** 2025-12-03
 - **Last Message:** 2026-05-09
@@ -23,11 +23,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 12 | Lab Leader |
-| 2 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 8 | Project Maintainer, ToIP |
-| 3 | Nicky H | 6 | Project Maintainer, ToIP |
-| 4 | microbiocarly | 5 | Project Maintainer, ToIP |
-| 5 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
+| 1 | sankarshan | 11 | Lab Leader |
+| 2 | Nicky H | 5 | Project Maintainer, ToIP |
+| 3 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
+| 4 | Eric Drury | 2 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 
