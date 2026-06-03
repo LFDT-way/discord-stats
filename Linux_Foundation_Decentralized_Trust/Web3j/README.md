@@ -26,7 +26,7 @@
 | 2 | George Tebrean | 2 | Project Maintainer, Web3j Maintainer |
 | 3 | Ashhar | 2 | — |
 | 4 | Gaurav | 1 | — |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff, Admins |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
 
 ### Last 90 Days
 
@@ -35,7 +35,7 @@
 | 1 | Dev | 9 | — |
 | 2 | George Tebrean | 4 | Project Maintainer, Web3j Maintainer |
 | 3 | Ashhar | 2 | — |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff, Admins |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
 | 5 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 1 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 
 ### Last 365 Days
@@ -43,7 +43,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | George Tebrean | 61 | Project Maintainer, Web3j Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 19 | gw, LFDT Staff, Admins |
+| 2 | [Ry Jones](https://github.com/ryjones) | 19 | LFDT Staff |
 | 3 | irzinfante | 12 | — |
 | 4 | Abdelrahman Hedia | 11 | — |
 | 5 | Dev | 9 | — |
@@ -55,7 +55,7 @@
 | 1 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 310 | Project Maintainer, Web3j Maintainer |
 | 2 | Shashank Kumar | 289 | — |
 | 3 | George Tebrean | 231 | Project Maintainer, Web3j Maintainer |
-| 4 | [Ry Jones](https://github.com/ryjones) | 52 | gw, LFDT Staff, Admins |
+| 4 | [Ry Jones](https://github.com/ryjones) | 52 | LFDT Staff |
 | 5 | Deleted User | 49 | — |
 
 ## Yearly Traffic

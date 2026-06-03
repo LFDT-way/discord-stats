@@ -38,7 +38,7 @@
 | 2 | Kyle Kao | 3 | — |
 | 3 | [davidwboswell](https://github.com/davidwboswell) | 2 | LFDT Staff |
 | 4 | Pavel | 1 | — |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff, Admins |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
 
 ### All Time
 
@@ -46,7 +46,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | weijia0328 | 5 | Project Maintainer, Smoot Maintainer |
 | 2 | Kyle Kao | 3 | — |
-| 3 | [Ry Jones](https://github.com/ryjones) | 2 | gw, LFDT Staff, Admins |
+| 3 | [Ry Jones](https://github.com/ryjones) | 2 | LFDT Staff |
 | 4 | [davidwboswell](https://github.com/davidwboswell) | 2 | LFDT Staff |
 | 5 | Pavel | 1 | — |
 

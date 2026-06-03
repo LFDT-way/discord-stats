@@ -19,7 +19,7 @@
 | 1 | [drummondreed](https://github.com/talltree) | 10 | Project Maintainer, ToIP |
 | 2 | sankarshan | 6 | Lab Leader |
 | 3 | microbiocarly | 2 | Project Maintainer, ToIP |
-| 4 | [Ry Jones](https://github.com/ryjones) | 2 | gw, LFDT Staff, Admins |
+| 4 | [Ry Jones](https://github.com/ryjones) | 2 | LFDT Staff |
 | 5 | jonbauer | 2 | Identus Maintainer, Project Maintainer |
 
 ### Last 90 Days
@@ -30,7 +30,7 @@
 | 2 | [drummondreed](https://github.com/talltree) | 25 | Project Maintainer, ToIP |
 | 3 | stevevitka | 8 | ToIP |
 | 4 | microbiocarly | 4 | Project Maintainer, ToIP |
-| 5 | [Ry Jones](https://github.com/ryjones) | 2 | gw, LFDT Staff, Admins |
+| 5 | [Ry Jones](https://github.com/ryjones) | 2 | LFDT Staff |
 
 ### Last 365 Days
 

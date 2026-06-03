@@ -30,37 +30,37 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Arun S M](https://github.com/arsulegai) | 12 | TAC member, Chapter Leader |
-| 2 | [Angelo De Caro](https://github.com/adecaro) | 7 | gw, Project Maintainer, Fabric Maintainer, Lab Leader |
+| 2 | [Angelo De Caro](https://github.com/adecaro) | 7 | Project Maintainer, Fabric Maintainer, Lab Leader |
 | 3 | [davidwboswell](https://github.com/davidwboswell) | 6 | LFDT Staff |
-| 4 | [Ry Jones](https://github.com/ryjones) | 5 | gw, LFDT Staff, Admins |
-| 5 | [Diane Mueller](https://github.com/dmueller2001) | 4 | TAC member, Hedera Employee |
+| 4 | [Ry Jones](https://github.com/ryjones) | 5 | LFDT Staff |
+| 5 | [Diane Mueller](https://github.com/dmueller2001) | 4 | TAC member |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Arun S M](https://github.com/arsulegai) | 30 | TAC member, Chapter Leader |
-| 2 | [Ry Jones](https://github.com/ryjones) | 17 | gw, LFDT Staff, Admins |
+| 2 | [Ry Jones](https://github.com/ryjones) | 17 | LFDT Staff |
 | 3 | [davidwboswell](https://github.com/davidwboswell) | 13 | LFDT Staff |
-| 4 | Justin Florentine | 9 | gw, Project Maintainer, Besu Maintainer |
-| 5 | [Angelo De Caro](https://github.com/adecaro) | 7 | gw, Project Maintainer, Fabric Maintainer, Lab Leader |
+| 4 | Justin Florentine | 9 | Project Maintainer, Besu Maintainer |
+| 5 | [Angelo De Caro](https://github.com/adecaro) | 7 | Project Maintainer, Fabric Maintainer, Lab Leader |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 51 | gw, LFDT Staff, Admins |
+| 1 | [Ry Jones](https://github.com/ryjones) | 51 | LFDT Staff |
 | 2 | [Arun S M](https://github.com/arsulegai) | 50 | TAC member, Chapter Leader |
 | 3 | Tracy | 41 | — |
 | 4 | [Matthew Whitehead](https://github.com/matthew1001) | 34 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 5 | [Diane Mueller](https://github.com/dmueller2001) | 26 | TAC member, Hedera Employee |
+| 5 | [Diane Mueller](https://github.com/dmueller2001) | 26 | TAC member |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Tracy | 378 | — |
-| 2 | [Ry Jones](https://github.com/ryjones) | 208 | gw, LFDT Staff, Admins |
+| 2 | [Ry Jones](https://github.com/ryjones) | 208 | LFDT Staff |
 | 3 | [Arun S M](https://github.com/arsulegai) | 143 | TAC member, Chapter Leader |
 | 4 | vramaiitkgp | 72 | TAC member, Cacti Maintainer |
 | 5 | [davidwboswell](https://github.com/davidwboswell) | 70 | LFDT Staff |

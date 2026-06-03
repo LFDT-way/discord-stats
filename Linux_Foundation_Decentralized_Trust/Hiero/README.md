@@ -33,14 +33,14 @@
 | [hiero-sdk-go](hiero-sdk-go_1337424630289404015.md) | 2026-05-12 | 8 | 8 | 9 | 10 |
 | [hiero-hips](hiero-hips_1354514446898430032.md) | 2026-02-09 | 0 | 0 | 4 | 9 |
 | [hiero-gfi](hiero-gfi_1466829260919673056.md) | 2026-02-12 | 0 | 0 | 9 | 9 |
-| [hiero-sdk-java](hiero-sdk-java_1337424581652381696.md) | 2026-02-02 | 0 | 0 | 4 | 8 |
 | [hiero-enterprise-java](hiero-enterprise-java_1370373361942663178.md) | 2026-05-27 | 3 | 6 | 6 | 8 |
+| [hiero-sdk-java](hiero-sdk-java_1337424581652381696.md) | 2026-02-02 | 0 | 0 | 4 | 8 |
 | [hiero-analytics](hiero-analytics_1471877661856104649.md) | 2026-05-07 | 4 | 4 | 5 | 5 |
 | [hiero-sdk-tck](hiero-sdk-tck_1336034637310464031.md) | 2025-04-29 | 0 | 0 | 0 | 4 |
-| [hiero-sdk-v3-playground](hiero-sdk-v3-playground_1441095054944112710.md) | 2025-11-26 | 0 | 0 | 2 | 2 |
 | [hedera-dev-announcements-xp](hedera-dev-announcements-xp_1444905832025423892.md) | 2025-12-09 | 0 | 0 | 2 | 2 |
-| [hiero-sdk-swift](hiero-sdk-swift_1337424716238946344.md) | 2025-03-06 | 0 | 0 | 0 | 1 |
+| [hiero-sdk-v3-playground](hiero-sdk-v3-playground_1441095054944112710.md) | 2025-11-26 | 0 | 0 | 2 | 2 |
 | [hiero-mirror-node](hiero-mirror-node_1374414879334596739.md) | 2026-05-16 | 1 | 1 | 1 | 1 |
+| [hiero-sdk-swift](hiero-sdk-swift_1337424716238946344.md) | 2025-03-06 | 0 | 0 | 0 | 1 |
 
 ## Most Active Users
 
@@ -50,7 +50,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [explorer3](https://github.com/exploreriii) | 61 | Project Maintainer, Hiero maintainer |
 | 2 | Ang | 29 | Hiero maintainer |
-| 3 | [JessicaG](https://github.com/jwagantall) | 21 | gw, LF Staff, LFDT Staff, Admins |
+| 3 | [JessicaG](https://github.com/jwagantall) | 21 | LFDT Staff |
 | 4 | JASHK | 18 | — |
 | 5 | NssGourav | 10 | — |
 
@@ -60,7 +60,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [explorer3](https://github.com/exploreriii) | 160 | Project Maintainer, Hiero maintainer |
 | 2 | Ang | 36 | Hiero maintainer |
-| 3 | [JessicaG](https://github.com/jwagantall) | 26 | gw, LF Staff, LFDT Staff, Admins |
+| 3 | [JessicaG](https://github.com/jwagantall) | 26 | LFDT Staff |
 | 4 | ocean-oc3ean | 25 | — |
 | 5 | robborg | 23 | Hiero maintainer |
 
@@ -69,7 +69,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [explorer3](https://github.com/exploreriii) | 407 | Project Maintainer, Hiero maintainer |
-| 2 | [JessicaG](https://github.com/jwagantall) | 104 | gw, LF Staff, LFDT Staff, Admins |
+| 2 | [JessicaG](https://github.com/jwagantall) | 104 | LFDT Staff |
 | 3 | Deleted User | 84 | — |
 | 4 | [Roger](https://github.com/rbarker-dev) | 62 | Project Maintainer, Hiero maintainer |
 | 5 | [hendrik.ebbers](https://github.com/hendrikebbers) | 61 | TAC member, Project Maintainer, Hiero maintainer |
@@ -80,7 +80,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [explorer3](https://github.com/exploreriii) | 454 | Project Maintainer, Hiero maintainer |
 | 2 | [hendrik.ebbers](https://github.com/hendrikebbers) | 155 | TAC member, Project Maintainer, Hiero maintainer |
-| 3 | [JessicaG](https://github.com/jwagantall) | 134 | gw, LF Staff, LFDT Staff, Admins |
+| 3 | [JessicaG](https://github.com/jwagantall) | 134 | LFDT Staff |
 | 4 | Deleted User | 113 | — |
 | 5 | [Roger](https://github.com/rbarker-dev) | 85 | Project Maintainer, Hiero maintainer |
 

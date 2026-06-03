@@ -25,17 +25,17 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 2 | Project Maintainer, ToIP |
-| 2 | [Ry Jones](https://github.com/ryjones) | 1 | gw, LFDT Staff, Admins |
+| 2 | [Ry Jones](https://github.com/ryjones) | 1 | LFDT Staff |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 3 | gw, LFDT Staff, Admins |
+| 1 | [Ry Jones](https://github.com/ryjones) | 3 | LFDT Staff |
 | 2 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 2 | Project Maintainer, ToIP |
 | 3 | Peter Metz | 1 | — |
 | 4 | essbante | 1 | — |
-| 5 | Justin Florentine | 1 | gw, Project Maintainer, Besu Maintainer |
+| 5 | Justin Florentine | 1 | Project Maintainer, Besu Maintainer |
 
 ## Yearly Traffic
 

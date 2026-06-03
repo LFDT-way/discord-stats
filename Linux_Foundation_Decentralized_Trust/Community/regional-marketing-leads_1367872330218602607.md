@@ -35,7 +35,7 @@ _No activity in this period._
 | 1 | Ben Thomas | 7 | LFDT Staff |
 | 2 | Przemysław Koper | 6 | — |
 | 3 | knagware | 2 | Chapter Leader |
-| 4 | [danielabarbosa](https://github.com/daniela-barbosa) | 2 | gw, LFDT Staff |
+| 4 | [danielabarbosa](https://github.com/daniela-barbosa) | 2 | LFDT Staff |
 | 5 | Shafayet Ahmed Chowdhury | 1 | — |
 
 ## Yearly Traffic

@@ -44,7 +44,7 @@
 | 2 | sankarshan | 24 | Lab Leader |
 | 3 | [drummondreed](https://github.com/talltree) | 23 | Project Maintainer, ToIP |
 | 4 | stevevitka | 14 | ToIP |
-| 5 | [firegod](https://github.com/wenjing) | 6 | Webhooks, Project Maintainer, ToIP |
+| 5 | [firegod](https://github.com/wenjing) | 6 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
@@ -53,7 +53,7 @@
 | 1 | sankarshan | 196 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 105 | Project Maintainer, ToIP |
 | 3 | microbiocarly | 100 | Project Maintainer, ToIP |
-| 4 | [firegod](https://github.com/wenjing) | 68 | Webhooks, Project Maintainer, ToIP |
+| 4 | [firegod](https://github.com/wenjing) | 68 | Project Maintainer, ToIP |
 | 5 | stevevitka | 59 | ToIP |
 
 ### Last 365 Days
@@ -63,7 +63,7 @@
 | 1 | sankarshan | 379 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 367 | Project Maintainer, ToIP |
 | 3 | microbiocarly | 352 | Project Maintainer, ToIP |
-| 4 | [firegod](https://github.com/wenjing) | 260 | Webhooks, Project Maintainer, ToIP |
+| 4 | [firegod](https://github.com/wenjing) | 260 | Project Maintainer, ToIP |
 | 5 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 126 | Project Maintainer, ToIP |
 
 ### All Time
@@ -73,7 +73,7 @@
 | 1 | sankarshan | 379 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 373 | Project Maintainer, ToIP |
 | 3 | microbiocarly | 356 | Project Maintainer, ToIP |
-| 4 | [firegod](https://github.com/wenjing) | 260 | Webhooks, Project Maintainer, ToIP |
+| 4 | [firegod](https://github.com/wenjing) | 260 | Project Maintainer, ToIP |
 | 5 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 126 | Project Maintainer, ToIP |
 
 ## Yearly Traffic

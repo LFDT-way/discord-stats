@@ -21,28 +21,28 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Chrissy Harter | 1 | LFDT Staff, Admins |
+| 1 | Chrissy Harter | 1 | LFDT Staff |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Chrissy Harter | 1 | LFDT Staff, Admins |
+| 1 | Chrissy Harter | 1 | LFDT Staff |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Chrissy Harter | 4 | LFDT Staff, Admins |
+| 1 | Chrissy Harter | 4 | LFDT Staff |
 | 2 | Dadofpips | 1 | — |
-| 3 | [Ry Jones](https://github.com/ryjones) | 1 | gw, LFDT Staff, Admins |
+| 3 | [Ry Jones](https://github.com/ryjones) | 1 | LFDT Staff |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 4 | gw, LFDT Staff, Admins |
-| 2 | Chrissy Harter | 4 | LFDT Staff, Admins |
+| 1 | [Ry Jones](https://github.com/ryjones) | 4 | LFDT Staff |
+| 2 | Chrissy Harter | 4 | LFDT Staff |
 | 3 | privatename | 1 | — |
 | 4 | Dadofpips | 1 | — |
 

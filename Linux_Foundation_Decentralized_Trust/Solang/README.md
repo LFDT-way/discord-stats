@@ -25,7 +25,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Salaheldin](https://github.com/salaheldinsoliman) | 2 | Project Maintainer, Solang Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 1 | gw, LFDT Staff, Admins |
+| 2 | [Ry Jones](https://github.com/ryjones) | 1 | LFDT Staff |
 
 ### Last 90 Days
 
@@ -33,7 +33,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Salaheldin](https://github.com/salaheldinsoliman) | 8 | Project Maintainer, Solang Maintainer |
 | 2 | Somesh | 5 | — |
-| 3 | [Ry Jones](https://github.com/ryjones) | 5 | gw, LFDT Staff, Admins |
+| 3 | [Ry Jones](https://github.com/ryjones) | 5 | LFDT Staff |
 | 4 | thinPanda | 3 | — |
 | 5 | [Arun S M](https://github.com/arsulegai) | 3 | TAC member, Chapter Leader |
 
@@ -44,7 +44,7 @@
 | 1 | [Salaheldin](https://github.com/salaheldinsoliman) | 34 | Project Maintainer, Solang Maintainer |
 | 2 | [seanyoung](https://github.com/seanyoung) | 26 | Project Maintainer, Solang Maintainer |
 | 3 | Mephistol | 6 | — |
-| 4 | [Ry Jones](https://github.com/ryjones) | 6 | gw, LFDT Staff, Admins |
+| 4 | [Ry Jones](https://github.com/ryjones) | 6 | LFDT Staff |
 | 5 | Somesh | 5 | — |
 
 ### All Time

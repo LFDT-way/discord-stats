@@ -53,10 +53,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [explorer3](https://github.com/exploreriii) | 62 | Project Maintainer, Hiero maintainer |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 31 | LFDT Staff, Admins |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 31 | LFDT Staff |
 | 3 | Ang | 29 | Hiero maintainer |
-| 4 | [Ry Jones](https://github.com/ryjones) | 28 | gw, LFDT Staff, Admins |
-| 5 | [JessicaG](https://github.com/jwagantall) | 24 | gw, LF Staff, LFDT Staff, Admins |
+| 4 | [Ry Jones](https://github.com/ryjones) | 28 | LFDT Staff |
+| 5 | [JessicaG](https://github.com/jwagantall) | 24 | LFDT Staff |
 
 ### Last 90 Days
 
@@ -64,7 +64,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | sankarshan | 196 | Lab Leader |
 | 2 | [explorer3](https://github.com/exploreriii) | 161 | Project Maintainer, Hiero maintainer |
-| 3 | [Ry Jones](https://github.com/ryjones) | 155 | gw, LFDT Staff, Admins |
+| 3 | [Ry Jones](https://github.com/ryjones) | 155 | LFDT Staff |
 | 4 | [drummondreed](https://github.com/talltree) | 108 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 100 | Project Maintainer, ToIP |
 
@@ -72,7 +72,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 575 | gw, LFDT Staff, Admins |
+| 1 | [Ry Jones](https://github.com/ryjones) | 575 | LFDT Staff |
 | 2 | [explorer3](https://github.com/exploreriii) | 408 | Project Maintainer, Hiero maintainer |
 | 3 | sankarshan | 382 | Lab Leader |
 | 4 | [drummondreed](https://github.com/talltree) | 371 | Project Maintainer, ToIP |
@@ -85,7 +85,7 @@
 | 1 | [seanyoung](https://github.com/seanyoung) | 2,970 | Project Maintainer, Solang Maintainer |
 | 2 | Deleted User | 2,837 | — |
 | 3 | [LucasSte](https://github.com/LucasSte) | 2,796 | Project Maintainer, Solang Maintainer |
-| 4 | [Ry Jones](https://github.com/ryjones) | 2,515 | gw, LFDT Staff, Admins |
+| 4 | [Ry Jones](https://github.com/ryjones) | 2,515 | LFDT Staff |
 | 5 | [Simon Dudley](https://github.com/siladu) | 2,283 | Project Maintainer, Besu Maintainer |
 
 ## Yearly Traffic

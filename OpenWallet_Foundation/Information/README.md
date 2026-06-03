@@ -32,8 +32,8 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | [Lukas.J.Han](https://github.com/lukasjhan) | 7 | Lab Maintainer |
 | 2 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 2 | Linux Foundation Staff, admins |
-| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff, admins |
+| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 2 | Linux Foundation Staff |
+| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
 | 5 | Azandure | 1 | — |
 
 ### All Time
@@ -41,8 +41,8 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Lukas.J.Han](https://github.com/lukasjhan) | 10 | Lab Maintainer |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 7 | Linux Foundation Staff, admins |
-| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 6 | Linux Foundation Staff, admins |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 7 | Linux Foundation Staff |
+| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 6 | Linux Foundation Staff |
 | 4 | Thierry (Talao) | 6 | — |
 | 5 | [drummondreed](https://github.com/talltree) | 6 | — |
 

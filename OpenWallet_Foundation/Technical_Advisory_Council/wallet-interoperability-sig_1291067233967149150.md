@@ -16,14 +16,14 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 4 | Linux Foundation Staff, admins |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 4 | Linux Foundation Staff |
 | 2 | [drummondreed](https://github.com/talltree) | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 5 | Linux Foundation Staff, admins |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 5 | Linux Foundation Staff |
 | 2 | davidejalexander | 1 | SIG member |
 | 3 | [drummondreed](https://github.com/talltree) | 1 | — |
 
@@ -31,7 +31,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 39 | Linux Foundation Staff, admins |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 39 | Linux Foundation Staff |
 | 2 | cjhowland | 32 | Project Maintainer |
 | 3 | Jim St.Clair | 5 | SIG member |
 | 4 | davidejalexander | 3 | SIG member |
@@ -42,7 +42,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | cjhowland | 79 | Project Maintainer |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 66 | Linux Foundation Staff, admins |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 66 | Linux Foundation Staff |
 | 3 | [swcurran](https://github.com/swcurran) | 9 | Lab Maintainer, TAC members, Project Maintainer |
 | 4 | [Mirko](https://github.com/cre8) | 7 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 5 | [Stavros](https://github.com/skounis) | 6 | TAC members, SIG member |

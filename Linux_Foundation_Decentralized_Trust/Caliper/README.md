@@ -42,7 +42,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | NorfolkAndChance | 70 | Project Maintainer |
 | 2 | [Attila Klenik](https://github.com/aklenik) | 63 | Project Maintainer, Lab Leader |
-| 3 | [Ry Jones](https://github.com/ryjones) | 61 | gw, LFDT Staff, Admins |
+| 3 | [Ry Jones](https://github.com/ryjones) | 61 | LFDT Staff |
 | 4 | davidfdr | 24 | — |
 | 5 | Robin Huiser \| Omnumi | 9 | — |
 
@@ -52,7 +52,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | NorfolkAndChance | 363 | Project Maintainer |
 | 2 | [Attila Klenik](https://github.com/aklenik) | 325 | Project Maintainer, Lab Leader |
-| 3 | [Ry Jones](https://github.com/ryjones) | 91 | gw, LFDT Staff, Admins |
+| 3 | [Ry Jones](https://github.com/ryjones) | 91 | LFDT Staff |
 | 4 | R³ | 63 | — |
 | 5 | Pratiksha | 38 | — |
 

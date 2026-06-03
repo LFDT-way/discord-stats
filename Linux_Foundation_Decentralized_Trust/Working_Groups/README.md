@@ -31,7 +31,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 1 | gw, LFDT Staff, Admins |
+| 1 | [Ry Jones](https://github.com/ryjones) | 1 | LFDT Staff |
 | 2 | zzj_666_40083 | 1 | — |
 
 ### All Time
@@ -41,7 +41,7 @@ _No activity in this period._
 | 1 | Bobbi | 11 | Working Group Leader |
 | 2 | Bobbi | 10 | Working Group Leader |
 | 3 | bw2019 | 10 | Working Group Leader |
-| 4 | [Ry Jones](https://github.com/ryjones) | 8 | gw, LFDT Staff, Admins |
+| 4 | [Ry Jones](https://github.com/ryjones) | 8 | LFDT Staff |
 | 5 | [Attila Klenik](https://github.com/aklenik) | 8 | Project Maintainer, Lab Leader |
 
 ## Yearly Traffic

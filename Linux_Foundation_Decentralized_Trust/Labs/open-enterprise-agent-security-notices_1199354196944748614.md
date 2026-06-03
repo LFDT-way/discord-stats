@@ -30,9 +30,9 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | Deleted User | 3 | — |
 | 2 | Fay | 2 | Lab Leader |
-| 3 | [Ry Jones](https://github.com/ryjones) | 2 | gw, LFDT Staff, Admins |
+| 3 | [Ry Jones](https://github.com/ryjones) | 2 | LFDT Staff |
 | 4 | Tracy | 2 | — |
-| 5 | [bestbeforetoday](https://github.com/bestbeforetoday) | 1 | gw, Project Maintainer, Fabric Maintainer |
+| 5 | [bestbeforetoday](https://github.com/bestbeforetoday) | 1 | Project Maintainer, Fabric Maintainer |
 
 ## Yearly Traffic
 

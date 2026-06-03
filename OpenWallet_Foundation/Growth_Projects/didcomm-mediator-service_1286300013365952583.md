@@ -16,13 +16,13 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff, admins |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff, admins |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
 | 2 | Muhammad Ahmer Khan | 1 | — |
 
 ### Last 365 Days
@@ -31,7 +31,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | albertoleon_7794 | 3 | — |
 | 2 | [jamshale](https://github.com/jamshale) | 3 | Project Maintainer |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 3 | Linux Foundation Staff, admins |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 3 | Linux Foundation Staff |
 | 4 | Muhammad Ahmer Khan | 1 | — |
 | 5 | Pragya Jain | 1 | — |
 
@@ -40,7 +40,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [jamshale](https://github.com/jamshale) | 7 | Project Maintainer |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 6 | Linux Foundation Staff, admins |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 6 | Linux Foundation Staff |
 | 3 | albertoleon_7794 | 3 | — |
 | 4 | Akshay Kurhekar | 3 | — |
 | 5 | [GenAris](https://github.com/genaris) | 2 | credo maintainers, Project Maintainer |

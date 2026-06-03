@@ -17,7 +17,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff, Admins |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
 | 3 | havy | 1 | Identus Maintainer, Project Maintainer |
 
 ### Last 90 Days
@@ -25,7 +25,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff, Admins |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
 | 3 | havy | 1 | Identus Maintainer, Project Maintainer |
 
 ### Last 365 Days
@@ -34,7 +34,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Yurii Shynbuiev | 3 | Identus Maintainer, Project Maintainer |
 | 2 | havy | 2 | Identus Maintainer, Project Maintainer |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff, Admins |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
 
 ### All Time
 
@@ -44,7 +44,7 @@
 | 2 | Yurii Shynbuiev | 3 | Identus Maintainer, Project Maintainer |
 | 3 | havy | 3 | Identus Maintainer, Project Maintainer |
 | 4 | essbante | 3 | — |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff, Admins |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
 
 ## Yearly Traffic
 

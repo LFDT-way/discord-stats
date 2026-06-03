@@ -29,13 +29,13 @@
 | [tuvali](tuvali_1240339442011476008.md) | 2025-04-17 | 0 | 0 | 0 | 8 |
 | [sd-jwt-kotlin](sd-jwt-kotlin_1108449794831159397.md) | 2024-06-24 | 0 | 0 | 0 | 7 |
 | [sd-jwt-python](sd-jwt-python_1108449835176169513.md) | 2025-03-10 | 0 | 0 | 0 | 5 |
+| [axle](axle_1404761591710355506.md) | 2025-08-12 | 0 | 0 | 3 | 3 |
 | [multiformat-vc-ios](multiformat-vc-ios_1199766370880069762.md) | 2024-02-05 | 0 | 0 | 0 | 3 |
 | [solid-data-wallet](solid-data-wallet_1291098042422005801.md) | 2024-11-14 | 0 | 0 | 0 | 3 |
-| [axle](axle_1404761591710355506.md) | 2025-08-12 | 0 | 0 | 3 | 3 |
 | [build-wallet-core](build-wallet-core_1268222388982775879.md) | 2025-12-10 | 0 | 0 | 2 | 2 |
+| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-03-12 | 0 | 2 | 2 | 2 |
 | [openid-federation-ts](openid-federation-ts_1326618196245221426.md) | 2025-10-23 | 0 | 0 | 1 | 2 |
 | [trs](trs_1379838543823900773.md) | 2025-06-04 | 0 | 0 | 2 | 2 |
-| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-03-12 | 0 | 2 | 2 | 2 |
 | [learner-credential-wallet](learner-credential-wallet_1271193837880217640.md) | 2025-09-10 | 0 | 0 | 1 | 1 |
 
 ## Most Active Users
@@ -44,7 +44,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones, OWF](https://github.com/ryjones) | 3 | Linux Foundation Staff, admins |
+| 1 | [Ry Jones, OWF](https://github.com/ryjones) | 3 | Linux Foundation Staff |
 | 2 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | RMLearney | 2 | — |
 | 4 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 1 | Lab Maintainer |
@@ -57,14 +57,14 @@
 | 1 | [Lukas.J.Han](https://github.com/lukasjhan) | 7 | Lab Maintainer |
 | 2 | [Timo Glastra](https://github.com/TimoGlastra) | 7 | credo maintainers, Project Maintainer |
 | 3 | [Mirko](https://github.com/cre8) | 3 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 3 | Linux Foundation Staff, admins |
+| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 3 | Linux Foundation Staff |
 | 5 | Thomas Tran | 3 | Lab Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones, OWF](https://github.com/ryjones) | 73 | Linux Foundation Staff, admins |
+| 1 | [Ry Jones, OWF](https://github.com/ryjones) | 73 | Linux Foundation Staff |
 | 2 | [Lukas.J.Han](https://github.com/lukasjhan) | 67 | Lab Maintainer |
 | 3 | [Timo Glastra](https://github.com/TimoGlastra) | 63 | credo maintainers, Project Maintainer |
 | 4 | kevinaboos | 54 | — |
@@ -75,7 +75,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Lukas.J.Han](https://github.com/lukasjhan) | 132 | Lab Maintainer |
-| 2 | [Ry Jones, OWF](https://github.com/ryjones) | 103 | Linux Foundation Staff, admins |
+| 2 | [Ry Jones, OWF](https://github.com/ryjones) | 103 | Linux Foundation Staff |
 | 3 | [Timo Glastra](https://github.com/TimoGlastra) | 84 | credo maintainers, Project Maintainer |
 | 4 | [firegod](https://github.com/wenjing) | 64 | — |
 | 5 | ayu | 59 | — |

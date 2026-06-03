@@ -29,19 +29,19 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 33 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | Cyril | 21 | — |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 18 | Linux Foundation Staff, admins |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 18 | Linux Foundation Staff |
 | 4 | Sodium | 10 | — |
-| 5 | [Ry Jones, OWF](https://github.com/ryjones) | 9 | Linux Foundation Staff, admins |
+| 5 | [Ry Jones, OWF](https://github.com/ryjones) | 9 | Linux Foundation Staff |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 73 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 47 | Linux Foundation Staff, admins |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 47 | Linux Foundation Staff |
 | 3 | Cyril | 41 | — |
 | 4 | [davidz25](https://github.com/davidz25) | 18 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 5 | [Ry Jones, OWF](https://github.com/ryjones) | 15 | Linux Foundation Staff, admins |
+| 5 | [Ry Jones, OWF](https://github.com/ryjones) | 15 | Linux Foundation Staff |
 
 ### Last 365 Days
 
@@ -49,18 +49,18 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 260 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [davidz25](https://github.com/davidz25) | 224 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 211 | Linux Foundation Staff, admins |
-| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 141 | Linux Foundation Staff, admins |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 211 | Linux Foundation Staff |
+| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 141 | Linux Foundation Staff |
 | 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 121 | Lab Maintainer |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 478 | Linux Foundation Staff, admins |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 478 | Linux Foundation Staff |
 | 2 | [Mirko](https://github.com/cre8) | 477 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | Tracy | 399 | Secret Squirrels, admins, Task Force member, SIG member |
-| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 371 | Linux Foundation Staff, admins |
+| 3 | Tracy | 399 | Task Force member, SIG member |
+| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 371 | Linux Foundation Staff |
 | 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 286 | Lab Maintainer |
 
 ## Yearly Traffic

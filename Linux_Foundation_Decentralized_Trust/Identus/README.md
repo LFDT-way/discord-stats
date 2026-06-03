@@ -33,7 +33,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Prakhar Singh | 14 | — |
 | 2 | Yurii Shynbuiev | 7 | Identus Maintainer, Project Maintainer |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | LFDT Staff, Admins |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | LFDT Staff |
 | 4 | Anshikaa | 3 | — |
 | 5 | Abhigyan Singh | 2 | — |
 
@@ -54,7 +54,7 @@
 | 1 | roberto | 96 | — |
 | 2 | Yurii Shynbuiev | 78 | Identus Maintainer, Project Maintainer |
 | 3 | [FabioPinheiro](https://github.com/FabioPinheiro) | 70 | Identus Maintainer, Project Maintainer |
-| 4 | [JessicaG](https://github.com/jwagantall) | 58 | gw, LF Staff, LFDT Staff, Admins |
+| 4 | [JessicaG](https://github.com/jwagantall) | 58 | LFDT Staff |
 | 5 | havy | 55 | Identus Maintainer, Project Maintainer |
 
 ### All Time
@@ -63,7 +63,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | roberto | 185 | — |
 | 2 | Yurii Shynbuiev | 160 | Identus Maintainer, Project Maintainer |
-| 3 | [Ry Jones](https://github.com/ryjones) | 122 | gw, LFDT Staff, Admins |
+| 3 | [Ry Jones](https://github.com/ryjones) | 122 | LFDT Staff |
 | 4 | [FabioPinheiro](https://github.com/FabioPinheiro) | 79 | Identus Maintainer, Project Maintainer |
 | 5 | jonbauer | 77 | Identus Maintainer, Project Maintainer |
 

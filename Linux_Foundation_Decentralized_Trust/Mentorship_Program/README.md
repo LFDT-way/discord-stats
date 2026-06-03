@@ -53,7 +53,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Min Yu](https://github.com/minyu66) | 32 | LFDT Staff |
 | 2 | tobytobias | 26 | — |
-| 3 | [Ry Jones](https://github.com/ryjones) | 26 | gw, LFDT Staff, Admins |
+| 3 | [Ry Jones](https://github.com/ryjones) | 26 | LFDT Staff |
 | 4 | Niks | 9 | — |
 | 5 | shogun | 9 | — |
 

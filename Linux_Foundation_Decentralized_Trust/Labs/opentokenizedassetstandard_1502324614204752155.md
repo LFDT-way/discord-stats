@@ -18,7 +18,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Byteledger | 14 | — |
 | 2 | [OpenAssets](https://github.com/pv-sarvesh) | 7 | Lab Leader |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | LFDT Staff, Admins |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | LFDT Staff |
 | 4 | ManKia | 5 | — |
 | 5 | Abhigyan Singh | 4 | — |
 
@@ -28,7 +28,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Byteledger | 14 | — |
 | 2 | [OpenAssets](https://github.com/pv-sarvesh) | 7 | Lab Leader |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | LFDT Staff, Admins |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | LFDT Staff |
 | 4 | ManKia | 5 | — |
 | 5 | Abhigyan Singh | 4 | — |
 
@@ -38,7 +38,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Byteledger | 14 | — |
 | 2 | [OpenAssets](https://github.com/pv-sarvesh) | 7 | Lab Leader |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | LFDT Staff, Admins |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | LFDT Staff |
 | 4 | ManKia | 5 | — |
 | 5 | Abhigyan Singh | 4 | — |
 
@@ -48,7 +48,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Byteledger | 14 | — |
 | 2 | [OpenAssets](https://github.com/pv-sarvesh) | 7 | Lab Leader |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | LFDT Staff, Admins |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | LFDT Staff |
 | 4 | ManKia | 5 | — |
 | 5 | Abhigyan Singh | 4 | — |
 

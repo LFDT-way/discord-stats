@@ -34,7 +34,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 3 | Linux Foundation Staff, admins |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 3 | Linux Foundation Staff |
 | 2 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | BrunoM | 1 | — |
 | 4 | tume2104 | 1 | — |
@@ -43,7 +43,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 5 | Linux Foundation Staff, admins |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 5 | Linux Foundation Staff |
 | 2 | [Mirko](https://github.com/cre8) | 3 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | BrunoM | 1 | — |
 | 4 | [drummondreed](https://github.com/talltree) | 1 | — |
@@ -53,7 +53,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 22 | Linux Foundation Staff, admins |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 22 | Linux Foundation Staff |
 | 2 | [Mirko](https://github.com/cre8) | 16 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | [drummondreed](https://github.com/talltree) | 9 | — |
 | 4 | sirawt | 8 | — |
@@ -65,7 +65,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Deleted User | 139 | — |
 | 2 | [drummondreed](https://github.com/talltree) | 81 | — |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 70 | Linux Foundation Staff, admins |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 70 | Linux Foundation Staff |
 | 4 | OR13 | 50 | — |
 | 5 | [Mirko](https://github.com/cre8) | 46 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 

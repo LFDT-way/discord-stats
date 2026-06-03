@@ -24,16 +24,16 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff, admins |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 8 | Lab Maintainer |
-| 2 | Tracy | 5 | Secret Squirrels, admins, Task Force member, SIG member |
-| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 2 | Linux Foundation Staff, admins |
-| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff, admins |
+| 2 | Tracy | 5 | Task Force member, SIG member |
+| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 2 | Linux Foundation Staff |
+| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
 | 5 | [Mirko](https://github.com/cre8) | 1 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 
 ## Yearly Traffic

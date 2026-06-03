@@ -26,7 +26,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | davidejalexander | 5 | SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 4 | Linux Foundation Staff, admins |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 4 | Linux Foundation Staff |
 | 3 | Ginga | 1 | — |
 | 4 | [drummondreed](https://github.com/talltree) | 1 | — |
 
@@ -35,7 +35,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | davidejalexander | 14 | SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 6 | Linux Foundation Staff, admins |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 6 | Linux Foundation Staff |
 | 3 | Ginga | 1 | — |
 | 4 | [Mirko](https://github.com/cre8) | 1 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 5 | [drummondreed](https://github.com/talltree) | 1 | — |
@@ -44,7 +44,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 53 | Linux Foundation Staff, admins |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 53 | Linux Foundation Staff |
 | 2 | davidejalexander | 43 | SIG member |
 | 3 | cjhowland | 32 | Project Maintainer |
 | 4 | [Mirko](https://github.com/cre8) | 12 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
@@ -54,9 +54,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Tracy | 297 | Secret Squirrels, admins, Task Force member, SIG member |
+| 1 | Tracy | 297 | Task Force member, SIG member |
 | 2 | OR13 | 157 | — |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 151 | Linux Foundation Staff, admins |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 151 | Linux Foundation Staff |
 | 4 | Andy Tobin | 130 | — |
 | 5 | [drummondreed](https://github.com/talltree) | 115 | — |
 

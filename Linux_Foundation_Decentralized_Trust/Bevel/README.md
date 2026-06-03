@@ -31,7 +31,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 12 | gw, LFDT Staff, Admins |
+| 1 | [Ry Jones](https://github.com/ryjones) | 12 | LFDT Staff |
 | 2 | CalvinCreator | 8 | — |
 | 3 | Somesh | 4 | — |
 | 4 | SevenXtar | 3 | — |
@@ -41,7 +41,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 16 | gw, LFDT Staff, Admins |
+| 1 | [Ry Jones](https://github.com/ryjones) | 16 | LFDT Staff |
 | 2 | KaitouKID | 9 | — |
 | 3 | CalvinCreator | 8 | — |
 | 4 | EliMbadi | 4 | — |

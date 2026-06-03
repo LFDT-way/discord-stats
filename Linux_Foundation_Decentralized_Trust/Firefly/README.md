@@ -25,17 +25,17 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 4 | TAC member, Project Maintainer, Firefly Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 2 | gw, LFDT Staff, Admins |
+| 2 | [Ry Jones](https://github.com/ryjones) | 2 | LFDT Staff |
 | 3 | [SonicSwordcane](https://github.com/SupernaviX) | 2 | Project Maintainer, Firefly Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 34 | gw, LFDT Staff, Admins |
+| 1 | [Ry Jones](https://github.com/ryjones) | 34 | LFDT Staff |
 | 2 | [Enrique Lacal](https://github.com/EnriqueL8) | 29 | TAC member, Project Maintainer, Firefly Maintainer |
-| 3 | [JessicaG](https://github.com/jwagantall) | 6 | gw, LF Staff, LFDT Staff, Admins |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | LFDT Staff, Admins |
+| 3 | [JessicaG](https://github.com/jwagantall) | 6 | LFDT Staff |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | LFDT Staff |
 | 5 | Dan | 3 | — |
 
 ### Last 365 Days
@@ -43,7 +43,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 101 | TAC member, Project Maintainer, Firefly Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 37 | gw, LFDT Staff, Admins |
+| 2 | [Ry Jones](https://github.com/ryjones) | 37 | LFDT Staff |
 | 3 | [SonicSwordcane](https://github.com/SupernaviX) | 11 | Project Maintainer, Firefly Maintainer |
 | 4 | 0xbharat | 10 | — |
 | 5 | M₳X | 9 | — |
@@ -55,7 +55,7 @@
 | 1 | [Nicko Guyer](https://github.com/nguyer) | 960 | Project Maintainer, Firefly Maintainer |
 | 2 | [Enrique Lacal](https://github.com/EnriqueL8) | 343 | TAC member, Project Maintainer, Firefly Maintainer |
 | 3 | [Peter Broadhurst](https://github.com/peterbroadhurst) | 237 | Paladin Maintainer, Project Maintainer, Lab Leader, Firefly Maintainer |
-| 4 | [andrew.richardson](https://github.com/awrichar) | 189 | Project Maintainer, SRL, Paladin Maintainer, Firefly Maintainer |
+| 4 | [andrew.richardson](https://github.com/awrichar) | 189 | Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 5 | jjs357 | 121 | — |
 
 ## Yearly Traffic

@@ -30,8 +30,8 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | Sebastian Bickerle <lissi> | 7 | Lab Maintainer |
 | 2 | Thomas Tran | 6 | Lab Maintainer |
-| 3 | Tracy | 5 | Secret Squirrels, admins, Task Force member, SIG member |
-| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 4 | Linux Foundation Staff, admins |
+| 3 | Tracy | 5 | Task Force member, SIG member |
+| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 4 | Linux Foundation Staff |
 | 5 | Ryan | 3 | — |
 
 ## Yearly Traffic

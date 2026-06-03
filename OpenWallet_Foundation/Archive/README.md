@@ -36,7 +36,7 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 1 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff, admins |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
 
 ### All Time
 
@@ -45,7 +45,7 @@ _No activity in this period._
 | 1 | hakan.yildiz | 71 | Task Force member |
 | 2 | [Mirko](https://github.com/cre8) | 57 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | Thierry (Talao) | 39 | — |
-| 4 | Tracy | 17 | Secret Squirrels, admins, Task Force member, SIG member |
+| 4 | Tracy | 17 | Task Force member, SIG member |
 | 5 | [drummondreed](https://github.com/talltree) | 13 | — |
 
 ## Yearly Traffic

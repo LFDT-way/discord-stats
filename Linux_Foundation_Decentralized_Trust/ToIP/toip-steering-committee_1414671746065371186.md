@@ -18,7 +18,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [drummondreed](https://github.com/talltree) | 5 | Project Maintainer, ToIP |
 | 2 | microbiocarly | 4 | Project Maintainer, ToIP |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff, Admins |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
 | 4 | Adligo | 1 | — |
 
 ### Last 90 Days
@@ -26,7 +26,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | microbiocarly | 16 | Project Maintainer, ToIP |
-| 2 | [firegod](https://github.com/wenjing) | 8 | Webhooks, Project Maintainer, ToIP |
+| 2 | [firegod](https://github.com/wenjing) | 8 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 8 | Project Maintainer, ToIP |
 | 4 | [Arun S M](https://github.com/arsulegai) | 3 | TAC member, Chapter Leader |
 | 5 | Henk van Cann | 2 | Project Maintainer, ToIP |
@@ -37,7 +37,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | microbiocarly | 38 | Project Maintainer, ToIP |
 | 2 | [drummondreed](https://github.com/talltree) | 24 | Project Maintainer, ToIP |
-| 3 | [firegod](https://github.com/wenjing) | 20 | Webhooks, Project Maintainer, ToIP |
+| 3 | [firegod](https://github.com/wenjing) | 20 | Project Maintainer, ToIP |
 | 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 10 | Project Maintainer, ToIP |
 | 5 | [Min Yu](https://github.com/minyu66) | 7 | LFDT Staff |
 
@@ -47,7 +47,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | microbiocarly | 38 | Project Maintainer, ToIP |
 | 2 | [drummondreed](https://github.com/talltree) | 24 | Project Maintainer, ToIP |
-| 3 | [firegod](https://github.com/wenjing) | 20 | Webhooks, Project Maintainer, ToIP |
+| 3 | [firegod](https://github.com/wenjing) | 20 | Project Maintainer, ToIP |
 | 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 10 | Project Maintainer, ToIP |
 | 5 | [Min Yu](https://github.com/minyu66) | 7 | LFDT Staff |
 

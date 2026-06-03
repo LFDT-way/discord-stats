@@ -2,7 +2,7 @@
 
 Members holding at least one assigned (non-@everyone) role, sorted **inactive-first**. "Inactive" means zero messages in the trailing 365 days. Bot and webhook authors are excluded.
 
-> Roles that gate non-public channels are hidden from this per-guild report, along with any member visible only through such a role. See the master roster under `reports/role_holders/` for the complete list.
+> Redacted roles are hidden from this per-guild copy, along with any member visible only through one. See the master roster under `reports/role_holders/` for the complete list.
 
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214

@@ -34,11 +34,11 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 17 | gw, Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 17 | Project Maintainer, Fabric Maintainer |
 | 2 | jhorton99 | 10 | Project Maintainer, Fabric Maintainer |
 | 3 | JRM | 8 | — |
 | 4 | Martin Stuwe | 7 | — |
-| 5 | [Ry Jones](https://github.com/ryjones) | 6 | gw, LFDT Staff, Admins |
+| 5 | [Ry Jones](https://github.com/ryjones) | 6 | LFDT Staff |
 
 ## Yearly Traffic
 

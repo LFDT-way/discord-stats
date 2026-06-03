@@ -25,7 +25,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | amitthosare | 4 | Credebl maintainer, Project Maintainer |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff, Admins |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
 
 ### Last 90 Days
 
@@ -35,7 +35,7 @@
 | 2 | [Ajay Jadhav](https://github.com/ajile-in) | 4 | Credebl maintainer, Project Maintainer |
 | 3 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 2 | — |
 | 4 | C.OG | 2 | — |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff, Admins |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
 
 ### Last 365 Days
 

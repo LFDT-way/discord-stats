@@ -58,7 +58,7 @@
 | 2 | [rafaelapb](https://github.com/RafaelAPB) | 259 | Project Maintainer, Cacti Maintainer |
 | 3 | vramaiitkgp | 140 | TAC member, Cacti Maintainer |
 | 4 | Diderot1937 | 114 | — |
-| 5 | [Ry Jones](https://github.com/ryjones) | 76 | gw, LFDT Staff, Admins |
+| 5 | [Ry Jones](https://github.com/ryjones) | 76 | LFDT Staff |
 
 ## Yearly Traffic
 

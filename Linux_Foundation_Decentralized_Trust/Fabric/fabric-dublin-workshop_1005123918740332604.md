@@ -30,7 +30,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | [jkneubuhl](https://github.com/jkneubuh) | 39 | Project Maintainer, Fabric Maintainer, Lab Leader |
 | 2 | jpsauvebr | 8 | — |
-| 3 | [Ry Jones](https://github.com/ryjones) | 8 | gw, LFDT Staff, Admins |
+| 3 | [Ry Jones](https://github.com/ryjones) | 8 | LFDT Staff |
 | 4 | [mbwhite](https://github.com/mbwhite) | 6 | Project Maintainer, Fabric Maintainer |
 | 5 | knagware | 3 | Chapter Leader |
 

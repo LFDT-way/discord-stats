@@ -29,7 +29,7 @@
 | 2 | abhi sogal | 4 | — |
 | 3 | Sagar Khandagre | 4 | — |
 | 4 | divyam-jha | 3 | — |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff, Admins |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
 
 ### Last 90 Days
 
@@ -47,8 +47,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Matthew Whitehead](https://github.com/matthew1001) | 100 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 2 | [Anna McAllister](https://github.com/annamcallister) | 76 | Paladin Maintainer, Project Maintainer, Lab Leader |
-| 3 | [Ry Jones](https://github.com/ryjones) | 62 | gw, LFDT Staff, Admins |
-| 4 | [jimthematrix](https://github.com/jimthematrix) | 26 | Lab Leader, Hyperledger Member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 3 | [Ry Jones](https://github.com/ryjones) | 62 | LFDT Staff |
+| 4 | [jimthematrix](https://github.com/jimthematrix) | 26 | Lab Leader, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 5 | [dwertent](https://github.com/dwertent) | 10 | Paladin Maintainer, Project Maintainer, Lab Leader |
 
 ### All Time
@@ -56,8 +56,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Matthew Whitehead](https://github.com/matthew1001) | 102 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 88 | gw, LFDT Staff, Admins |
-| 3 | [jimthematrix](https://github.com/jimthematrix) | 84 | Lab Leader, Hyperledger Member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 88 | LFDT Staff |
+| 3 | [jimthematrix](https://github.com/jimthematrix) | 84 | Lab Leader, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 4 | [Anna McAllister](https://github.com/annamcallister) | 82 | Paladin Maintainer, Project Maintainer, Lab Leader |
 | 5 | [dwertent](https://github.com/dwertent) | 37 | Paladin Maintainer, Project Maintainer, Lab Leader |
 

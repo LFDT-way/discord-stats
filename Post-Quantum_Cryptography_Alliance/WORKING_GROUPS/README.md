@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [wg-security](wg-security_1233455131660390511.md) | 2024-04-30 | 0 | 0 | 0 | 1 |
 | [wg-algorithms](wg-algorithms_1233458593928450150.md) | 2024-09-11 | 0 | 0 | 0 | 1 |
+| [wg-security](wg-security_1233455131660390511.md) | 2024-04-30 | 0 | 0 | 0 | 1 |
 
 ## Most Active Users
 

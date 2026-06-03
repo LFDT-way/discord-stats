@@ -31,7 +31,7 @@ _No activity in this period._
 | 1 | Bobbi | 11 | Working Group Leader |
 | 2 | Bobbi | 10 | Working Group Leader |
 | 3 | bw2019 | 10 | Working Group Leader |
-| 4 | [Ry Jones](https://github.com/ryjones) | 7 | gw, LFDT Staff, Admins |
+| 4 | [Ry Jones](https://github.com/ryjones) | 7 | LFDT Staff |
 | 5 | tobytobias | 5 | — |
 
 ## Yearly Traffic

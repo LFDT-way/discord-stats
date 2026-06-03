@@ -22,7 +22,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 12 | gw, LFDT Staff, Admins |
+| 1 | [Ry Jones](https://github.com/ryjones) | 12 | LFDT Staff |
 | 2 | CalvinCreator | 8 | — |
 | 3 | [dnakashima](https://github.com/dnakashima) | 2 | Project Maintainer, Fabric Maintainer, Lab Leader |
 | 4 | Rubén | 1 | — |
@@ -31,7 +31,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 14 | gw, LFDT Staff, Admins |
+| 1 | [Ry Jones](https://github.com/ryjones) | 14 | LFDT Staff |
 | 2 | KaitouKID | 9 | — |
 | 3 | CalvinCreator | 8 | — |
 | 4 | Piyush Gupta | 3 | — |

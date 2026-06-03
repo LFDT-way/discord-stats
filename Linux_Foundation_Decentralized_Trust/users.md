@@ -9,17 +9,17 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 575 | gw, LFDT Staff, Admins |
+| 1 | [Ry Jones](https://github.com/ryjones) | 575 | LFDT Staff |
 | 2 | [explorer3](https://github.com/exploreriii) | 408 | Project Maintainer, Hiero maintainer |
 | 3 | sankarshan | 382 | Lab Leader |
 | 4 | [drummondreed](https://github.com/talltree) | 371 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 353 | Project Maintainer, ToIP |
 | 6 | [Matthew Whitehead](https://github.com/matthew1001) | 283 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 7 | [firegod](https://github.com/wenjing) | 260 | Webhooks, Project Maintainer, ToIP |
+| 7 | [firegod](https://github.com/wenjing) | 260 | Project Maintainer, ToIP |
 | 8 | [Simon Dudley](https://github.com/siladu) | 213 | Project Maintainer, Besu Maintainer |
 | 9 | [macfarla \| Besu](https://github.com/macfarla) | 207 | Project Maintainer, Besu Maintainer |
-| 10 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 197 | LFDT Staff, Admins |
-| 11 | [JessicaG](https://github.com/jwagantall) | 196 | gw, LF Staff, LFDT Staff, Admins |
+| 10 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 197 | LFDT Staff |
+| 11 | [JessicaG](https://github.com/jwagantall) | 196 | LFDT Staff |
 | 12 | [rafaelapb](https://github.com/RafaelAPB) | 164 | Project Maintainer, Cacti Maintainer |
 | 13 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 137 | Project Maintainer, ToIP |
 | 14 | [Enrique Lacal](https://github.com/EnriqueL8) | 121 | TAC member, Project Maintainer, Firefly Maintainer |
@@ -31,14 +31,14 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 20 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 93 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 | 21 | NeilJT | 93 | ToIP |
 | 22 | darrello | 93 | Project Maintainer |
-| 23 | [bestbeforetoday](https://github.com/bestbeforetoday) | 88 | gw, Project Maintainer, Fabric Maintainer |
+| 23 | [bestbeforetoday](https://github.com/bestbeforetoday) | 88 | Project Maintainer, Fabric Maintainer |
 | 24 | Denis | 86 | Project Maintainer, Lockness Maintainer |
 | 25 | [Attila Klenik](https://github.com/aklenik) | 81 | Project Maintainer, Lab Leader |
 | 26 | Yurii Shynbuiev | 78 | Identus Maintainer, Project Maintainer |
-| 27 | [Angelo De Caro](https://github.com/adecaro) | 77 | gw, Project Maintainer, Fabric Maintainer, Lab Leader |
+| 27 | [Angelo De Caro](https://github.com/adecaro) | 77 | Project Maintainer, Fabric Maintainer, Lab Leader |
 | 28 | [Anna McAllister](https://github.com/annamcallister) | 76 | Paladin Maintainer, Project Maintainer, Lab Leader |
 | 29 | [davidwboswell](https://github.com/davidwboswell) | 73 | LFDT Staff |
-| 30 | Justin Florentine | 72 | gw, Project Maintainer, Besu Maintainer |
+| 30 | Justin Florentine | 72 | Project Maintainer, Besu Maintainer |
 | 31 | stevevitka | 71 | ToIP |
 | 32 | NorfolkAndChance | 71 | Project Maintainer |
 | 33 | [FabioPinheiro](https://github.com/FabioPinheiro) | 70 | Identus Maintainer, Project Maintainer |
@@ -67,7 +67,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 56 | [Jason Frame](https://github.com/jframe) | 34 | Project Maintainer, Besu Maintainer |
 | 57 | Aseem | 34 | — |
 | 58 | [Salaheldin](https://github.com/salaheldinsoliman) | 34 | Project Maintainer, Solang Maintainer |
-| 59 | [swcurran](https://github.com/swcurran) | 31 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
+| 59 | [swcurran](https://github.com/swcurran) | 31 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
 | 60 | [Wade Barnes](https://github.com/WadeBarnes) | 31 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
 | 61 | [Carlos Amaro](https://github.com/LordKubaya) | 31 | Project Maintainer, Cacti Maintainer |
 | 62 | Ankita | 30 | Credebl maintainer, Project Maintainer |
@@ -83,8 +83,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 72 | genome | 27 | — |
 | 73 | [Ajay Jadhav](https://github.com/ajile-in) | 26 | Credebl maintainer, Project Maintainer |
 | 74 | [fab10](https://github.com/fab-10) | 26 | Project Maintainer, Besu Maintainer |
-| 75 | [jimthematrix](https://github.com/jimthematrix) | 26 | Lab Leader, Hyperledger Member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 76 | [Diane Mueller](https://github.com/dmueller2001) | 26 | TAC member, Hedera Employee |
+| 75 | [jimthematrix](https://github.com/jimthematrix) | 26 | Lab Leader, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 76 | [Diane Mueller](https://github.com/dmueller2001) | 26 | TAC member |
 | 77 | [seanyoung](https://github.com/seanyoung) | 26 | Project Maintainer, Solang Maintainer |
 | 78 | EliMbadi | 25 | — |
 | 79 | Golang Ninja | 25 | — |
@@ -107,7 +107,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 96 | Beatt | 19 | — |
 | 97 | PriyanshuZone | 19 | — |
 | 98 | Krishna Mewara(DeathGun44) | 19 | — |
-| 99 | [yacovm](https://github.com/yacovm) | 19 | Project Maintainer, SRL, Fabric Maintainer |
+| 99 | [yacovm](https://github.com/yacovm) | 19 | Project Maintainer, Fabric Maintainer |
 | 100 | [nayamhb](https://github.com/nayamhb) | 18 | Lab Leader |
 | 101 | Sagar Khandagre | 18 | — |
 | 102 | Byteledger | 18 | — |
@@ -139,7 +139,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 128 | MH | 14 | Chapter Leader |
 | 129 | [Gary Schulte](https://github.com/garyschulte) | 14 | Project Maintainer, Besu Maintainer |
 | 130 | [Ilie Circiumaru](https://github.com/iliecirciumaru) | 14 | Project Maintainer, Fabric Maintainer |
-| 131 | [lynnbendixsen](https://github.com/lynnbendixsen) | 14 | Hyperledger Member |
+| 131 | [lynnbendixsen](https://github.com/lynnbendixsen) | 14 | — |
 | 132 | harshita | 14 | — |
 | 133 | 0xgabey | 14 | — |
 | 134 | irzinfante | 13 | — |
@@ -168,7 +168,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 157 | Mac | 11 | — |
 | 158 | kyleo | 11 | — |
 | 159 | Abdelrahman Hedia | 11 | — |
-| 160 | [Hart Montgomery](https://github.com/hartm) | 11 | gw, LFDT Staff |
+| 160 | [Hart Montgomery](https://github.com/hartm) | 11 | LFDT Staff |
 | 161 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 11 | — |
 | 162 | iparthdagia | 11 | — |
 | 163 | Arsh \| arshlabs.eth | 11 | — |
@@ -177,7 +177,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 166 | Smita | 10 | — |
 | 167 | vocalise0219 | 10 | — |
 | 168 | [dwertent](https://github.com/dwertent) | 10 | Paladin Maintainer, Project Maintainer, Lab Leader |
-| 169 | [andrew.richardson](https://github.com/awrichar) | 10 | Project Maintainer, SRL, Paladin Maintainer, Firefly Maintainer |
+| 169 | [andrew.richardson](https://github.com/awrichar) | 10 | Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 170 | Phoebe | 10 | — |
 | 171 | Rolf | 10 | — |
 | 172 | Armaver | 10 | — |
@@ -188,7 +188,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 177 | katie | 9 | — |
 | 178 | qwe638853 | 9 | — |
 | 179 | Dev | 9 | — |
-| 180 | [danielabarbosa](https://github.com/daniela-barbosa) | 9 | gw, LFDT Staff |
+| 180 | [danielabarbosa](https://github.com/daniela-barbosa) | 9 | LFDT Staff |
 | 181 | KrishNa | 9 | Credebl maintainer, Project Maintainer |
 | 182 | Torfinn | 9 | Hiero maintainer |
 | 183 | lyn brooks | 9 | Project Maintainer, ToIP |
@@ -295,7 +295,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 284 | Parv | 5 | — |
 | 285 | Sachin Kumar | 5 | — |
 | 286 | Vivek singh solanki | 5 | — |
-| 287 | shemnon | 5 | exempt |
+| 287 | shemnon | 5 | — |
 | 288 | diegoll | 5 | Project Maintainer, Besu Maintainer |
 | 289 | Frost Dragon | 5 | — |
 | 290 | ζατch bell | 5 | — |
@@ -321,7 +321,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 310 | Rubén | 4 | — |
 | 311 | Aryan Patel | 4 | — |
 | 312 | JJ | 4 | — |
-| 313 | [Ale](https://github.com/ale-linux) | 4 | gw, Project Maintainer, Fabric Maintainer |
+| 313 | [Ale](https://github.com/ale-linux) | 4 | Project Maintainer, Fabric Maintainer |
 | 314 | magisterroff | 4 | — |
 | 315 | Sainy Gabriel | 4 | — |
 | 316 | m | 4 | — |
@@ -455,7 +455,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 444 | ashborn9260 | 3 | — |
 | 445 | Akshay Kurhekar | 3 | — |
 | 446 | lobovh | 3 | — |
-| 447 | Chrissy Harter | 3 | LFDT Staff, Admins |
+| 447 | Chrissy Harter | 3 | LFDT Staff |
 | 448 | Atharva Borade | 3 | — |
 | 449 | lz5 | 3 | — |
 | 450 | SlackGuru | 3 | — |
@@ -707,7 +707,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 696 | Mehdi | 1 | — |
 | 697 | Giuseppe Bertone | 1 | — |
 | 698 | [GenAris](https://github.com/genaris) | 1 | — |
-| 699 | [Dave Enyeart](https://github.com/denyeart) | 1 | Project Maintainer, SRL, Fabric Maintainer, security |
+| 699 | [Dave Enyeart](https://github.com/denyeart) | 1 | Project Maintainer, Fabric Maintainer |
 | 700 | Galileo Syrene \|\| LTS | 1 | — |
 | 701 | Sylvain Martel | 1 | — |
 | 702 | piyush588 | 1 | — |

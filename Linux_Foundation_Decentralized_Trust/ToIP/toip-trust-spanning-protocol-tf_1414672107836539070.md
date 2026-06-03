@@ -24,7 +24,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [firegod](https://github.com/wenjing) | 5 | Webhooks, Project Maintainer, ToIP |
+| 1 | [firegod](https://github.com/wenjing) | 5 | Project Maintainer, ToIP |
 | 2 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 5 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 2 | Project Maintainer, ToIP |
 
@@ -32,7 +32,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [firegod](https://github.com/wenjing) | 5 | Webhooks, Project Maintainer, ToIP |
+| 1 | [firegod](https://github.com/wenjing) | 5 | Project Maintainer, ToIP |
 | 2 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 5 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 2 | Project Maintainer, ToIP |
 

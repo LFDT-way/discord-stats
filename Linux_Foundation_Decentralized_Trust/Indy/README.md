@@ -31,9 +31,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Sohn | 17 | — |
 | 2 | [Wade Barnes](https://github.com/WadeBarnes) | 10 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
-| 3 | [Ry Jones](https://github.com/ryjones) | 2 | gw, LFDT Staff, Admins |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff, Admins |
-| 5 | [swcurran](https://github.com/swcurran) | 1 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
+| 3 | [Ry Jones](https://github.com/ryjones) | 2 | LFDT Staff |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
+| 5 | [swcurran](https://github.com/swcurran) | 1 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
 
 ### Last 90 Days
 
@@ -41,7 +41,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Sohn | 17 | — |
 | 2 | [Wade Barnes](https://github.com/WadeBarnes) | 14 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 7 | LFDT Staff, Admins |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 7 | LFDT Staff |
 | 4 | Somesh | 5 | — |
 | 5 | [Kim Ebert](https://github.com/KimEbert42) | 3 | Indy Maintainer |
 
@@ -51,16 +51,16 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Wade Barnes](https://github.com/WadeBarnes) | 31 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
 | 2 | Sohn | 17 | — |
-| 3 | [lynnbendixsen](https://github.com/lynnbendixsen) | 14 | Hyperledger Member |
+| 3 | [lynnbendixsen](https://github.com/lynnbendixsen) | 14 | — |
 | 4 | cjhowland | 14 | Working Group Leader |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 13 | LFDT Staff, Admins |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 13 | LFDT Staff |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Wade Barnes](https://github.com/WadeBarnes) | 927 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
-| 2 | [swcurran](https://github.com/swcurran) | 254 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
+| 2 | [swcurran](https://github.com/swcurran) | 254 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
 | 3 | Guillaume Bourque | 182 | Project Maintainer, Indy Maintainer |
 | 4 | tnkhanh | 145 | — |
 | 5 | cjhowland | 100 | Working Group Leader |

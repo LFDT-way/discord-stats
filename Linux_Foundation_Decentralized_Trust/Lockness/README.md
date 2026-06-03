@@ -35,7 +35,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Denis | 41 | Project Maintainer, Lockness Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 18 | gw, LFDT Staff, Admins |
+| 2 | [Ry Jones](https://github.com/ryjones) | 18 | LFDT Staff |
 | 3 | TheRogueVigilante | 13 | — |
 | 4 | shridhar panigrahi | 9 | — |
 | 5 | Prowler | 8 | — |
@@ -45,7 +45,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Denis | 84 | Project Maintainer, Lockness Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 24 | gw, LFDT Staff, Admins |
+| 2 | [Ry Jones](https://github.com/ryjones) | 24 | LFDT Staff |
 | 3 | Alfonz | 16 | — |
 | 4 | TheRogueVigilante | 13 | — |
 | 5 | vramaiitkgp | 9 | TAC member, Cacti Maintainer |
@@ -56,7 +56,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Denis | 259 | Project Maintainer, Lockness Maintainer |
 | 2 | manel1874 | 64 | — |
-| 3 | [Ry Jones](https://github.com/ryjones) | 52 | gw, LFDT Staff, Admins |
+| 3 | [Ry Jones](https://github.com/ryjones) | 52 | LFDT Staff |
 | 4 | Alfonz | 16 | — |
 | 5 | TheRogueVigilante | 13 | — |
 

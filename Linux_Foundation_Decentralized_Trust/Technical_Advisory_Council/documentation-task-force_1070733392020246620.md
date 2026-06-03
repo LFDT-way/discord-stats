@@ -31,10 +31,10 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Tracy | 18 | — |
-| 2 | [Ry Jones](https://github.com/ryjones) | 11 | gw, LFDT Staff, Admins |
+| 2 | [Ry Jones](https://github.com/ryjones) | 11 | LFDT Staff |
 | 3 | Bobbi | 10 | Working Group Leader |
 | 4 | Frankenstein108 | 8 | — |
-| 5 | [swcurran](https://github.com/swcurran) | 8 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
+| 5 | [swcurran](https://github.com/swcurran) | 8 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
 
 ## Yearly Traffic
 

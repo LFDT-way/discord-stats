@@ -27,7 +27,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 61 | gw, LFDT Staff, Admins |
+| 1 | [Ry Jones](https://github.com/ryjones) | 61 | LFDT Staff |
 | 2 | [Attila Klenik](https://github.com/aklenik) | 60 | Project Maintainer, Lab Leader |
 | 3 | NorfolkAndChance | 57 | Project Maintainer |
 | 4 | davidfdr | 6 | — |
@@ -39,7 +39,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | [Attila Klenik](https://github.com/aklenik) | 225 | Project Maintainer, Lab Leader |
 | 2 | NorfolkAndChance | 209 | Project Maintainer |
-| 3 | [Ry Jones](https://github.com/ryjones) | 87 | gw, LFDT Staff, Admins |
+| 3 | [Ry Jones](https://github.com/ryjones) | 87 | LFDT Staff |
 | 4 | Pratiksha | 38 | — |
 | 5 | tejas | 38 | — |
 

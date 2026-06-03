@@ -40,8 +40,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Aaradhy Chinche | 13 | — |
-| 2 | [Ry Jones](https://github.com/ryjones) | 6 | gw, LFDT Staff, Admins |
-| 3 | [bestbeforetoday](https://github.com/bestbeforetoday) | 6 | gw, Project Maintainer, Fabric Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 6 | LFDT Staff |
+| 3 | [bestbeforetoday](https://github.com/bestbeforetoday) | 6 | Project Maintainer, Fabric Maintainer |
 | 4 | MoneySimp | 4 | — |
 | 5 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 3 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 
@@ -50,16 +50,16 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Aaradhy Chinche | 28 | — |
-| 2 | [bestbeforetoday](https://github.com/bestbeforetoday) | 17 | gw, Project Maintainer, Fabric Maintainer |
+| 2 | [bestbeforetoday](https://github.com/bestbeforetoday) | 17 | Project Maintainer, Fabric Maintainer |
 | 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 10 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
-| 4 | [Ry Jones](https://github.com/ryjones) | 9 | gw, LFDT Staff, Admins |
+| 4 | [Ry Jones](https://github.com/ryjones) | 9 | LFDT Staff |
 | 5 | JRM | 8 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 53 | gw, Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 53 | Project Maintainer, Fabric Maintainer |
 | 2 | Frank_The_Fish | 37 | Lab Leader |
 | 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 34 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 | 4 | Aaradhy Chinche | 28 | — |
@@ -69,11 +69,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 743 | gw, Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 743 | Project Maintainer, Fabric Maintainer |
 | 2 | Deleted User | 617 | — |
-| 3 | [yacovm](https://github.com/yacovm) | 519 | Project Maintainer, SRL, Fabric Maintainer |
+| 3 | [yacovm](https://github.com/yacovm) | 519 | Project Maintainer, Fabric Maintainer |
 | 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 282 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
-| 5 | [Dave Enyeart](https://github.com/denyeart) | 279 | Project Maintainer, SRL, Fabric Maintainer, security |
+| 5 | [Dave Enyeart](https://github.com/denyeart) | 279 | Project Maintainer, Fabric Maintainer |
 
 ## Yearly Traffic
 

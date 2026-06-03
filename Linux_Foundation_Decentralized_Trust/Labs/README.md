@@ -23,8 +23,8 @@
 | [harmonia](harmonia_1118266461736140841.md) | 2025-02-04 | 0 | 0 | 0 | 99 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-05-13 | 1 | 1 | 7 | 86 |
 | [private-data-objects](private-data-objects_1195066449685905548.md) | 2024-04-29 | 0 | 0 | 0 | 78 |
-| [perun](perun_955484679635632148.md) | 2024-12-03 | 0 | 0 | 0 | 75 |
 | [blockchain-explorer-maintainers](blockchain-explorer-maintainers_1117849577534525510.md) | 2025-07-24 | 0 | 0 | 1 | 75 |
+| [perun](perun_955484679635632148.md) | 2024-12-03 | 0 | 0 | 0 | 75 |
 | [open-enterprise-agent](open-enterprise-agent_1156985986174165032.md) | 2024-04-18 | 0 | 0 | 0 | 68 |
 | [fablo](fablo_1109190949394989127.md) | 2026-05-13 | 1 | 8 | 11 | 66 |
 | [general](general_988569914266775662.md) | 2026-05-20 | 1 | 4 | 6 | 61 |
@@ -36,25 +36,25 @@
 | [splice](splice_1210332028281688135.md) | 2026-04-22 | 0 | 1 | 5 | 34 |
 | [learning-tokens](learning-tokens_1120853856360878271.md) | 2025-12-17 | 0 | 0 | 2 | 32 |
 | [fabric-operator](fabric-operator_1044651861799620638.md) | 2025-11-05 | 0 | 0 | 1 | 30 |
-| [weaver](weaver_986350461886033980.md) | 2024-09-05 | 0 | 0 | 0 | 29 |
 | [cbweb3](cbweb3_1400427588287074364.md) | 2026-05-29 | 1 | 11 | 29 | 29 |
+| [weaver](weaver_986350461886033980.md) | 2024-09-05 | 0 | 0 | 0 | 29 |
 | [hypernate](hypernate_1417903966464770159.md) | 2026-04-21 | 0 | 8 | 28 | 28 |
 | [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-06-01 | 11 | 15 | 15 | 21 |
 | [chaindeploy](chaindeploy_1351886901988163635.md) | 2025-07-07 | 0 | 0 | 5 | 16 |
 | [fabric-opssc](fabric-opssc_942805501681496094.md) | 2025-01-14 | 0 | 0 | 0 | 13 |
 | [hlf-connector](hlf-connector_943223554709790771.md) | 2023-04-12 | 0 | 0 | 0 | 10 |
 | [open-enterprise-agent-security-notices](open-enterprise-agent-security-notices_1199354196944748614.md) | 2024-01-25 | 0 | 0 | 0 | 10 |
+| [agora](agora_1158477016102862962.md) | 2025-11-03 | 0 | 0 | 3 | 9 |
 | [mirbft](mirbft_954377029262909510.md) | 2023-09-19 | 0 | 0 | 0 | 9 |
 | [yui](yui_1036682184955809792.md) | 2023-09-29 | 0 | 0 | 0 | 9 |
-| [agora](agora_1158477016102862962.md) | 2025-11-03 | 0 | 0 | 3 | 9 |
 | [decentralized-directory-protocol](decentralized-directory-protocol_1412482928814063706.md) | 2025-11-19 | 0 | 0 | 8 | 8 |
-| [fabric-sdk-rust](fabric-sdk-rust_1419694192921153669.md) | 2026-02-02 | 0 | 0 | 5 | 5 |
 | [artizyou](artizyou_1433779247734063174.md) | 2025-10-31 | 0 | 0 | 5 | 5 |
+| [fabric-sdk-rust](fabric-sdk-rust_1419694192921153669.md) | 2026-02-02 | 0 | 0 | 5 | 5 |
 | [benchmarking-bridge-aggregators](benchmarking-bridge-aggregators_1194291892339347466.md) | 2024-01-18 | 0 | 0 | 0 | 4 |
 | [identity-bot](identity-bot_1428856635849310308.md) | 2025-10-29 | 0 | 0 | 4 | 4 |
 | [hoprs](hoprs_1379514363454423191.md) | 2025-06-05 | 0 | 0 | 3 | 3 |
-| [orion](orion_973301192300040283.md) | 2023-11-30 | 0 | 0 | 0 | 1 |
 | [one-attestation-api](one-attestation-api_1314367437814108222.md) | 2024-12-05 | 0 | 0 | 0 | 1 |
+| [orion](orion_973301192300040283.md) | 2023-11-30 | 0 | 0 | 0 | 1 |
 | [verii](verii_1394460724641665226.md) | 2025-07-17 | 0 | 0 | 1 | 1 |
 
 ## Most Active Users
@@ -66,37 +66,37 @@
 | 1 | Byteledger | 14 | — |
 | 2 | Anurag Gupta | 7 | — |
 | 3 | [OpenAssets](https://github.com/pv-sarvesh) | 7 | Lab Leader |
-| 4 | [Angelo De Caro](https://github.com/adecaro) | 7 | gw, Project Maintainer, Fabric Maintainer, Lab Leader |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | LFDT Staff, Admins |
+| 4 | [Angelo De Caro](https://github.com/adecaro) | 7 | Project Maintainer, Fabric Maintainer, Lab Leader |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | LFDT Staff |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 34 | gw, Project Maintainer, Fabric Maintainer, Lab Leader |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 34 | Project Maintainer, Fabric Maintainer, Lab Leader |
 | 2 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 33 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 | 3 | Siddhi Khandelwal | 16 | — |
 | 4 | Byteledger | 14 | — |
-| 5 | [Ry Jones](https://github.com/ryjones) | 12 | gw, LFDT Staff, Admins |
+| 5 | [Ry Jones](https://github.com/ryjones) | 12 | LFDT Staff |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [RAWx18](https://github.com/RAWx18) | 94 | Lab Leader |
-| 2 | [Angelo De Caro](https://github.com/adecaro) | 69 | gw, Project Maintainer, Fabric Maintainer, Lab Leader |
+| 2 | [Angelo De Caro](https://github.com/adecaro) | 69 | Project Maintainer, Fabric Maintainer, Lab Leader |
 | 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 57 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
-| 4 | [Ry Jones](https://github.com/ryjones) | 32 | gw, LFDT Staff, Admins |
+| 4 | [Ry Jones](https://github.com/ryjones) | 32 | LFDT Staff |
 | 5 | [nayamhb](https://github.com/nayamhb) | 18 | Lab Leader |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 277 | gw, Project Maintainer, Fabric Maintainer, Lab Leader |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 277 | Project Maintainer, Fabric Maintainer, Lab Leader |
 | 2 | gianlucacapuzzi | 181 | Lab Leader |
 | 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 154 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
-| 4 | [Ry Jones](https://github.com/ryjones) | 147 | gw, LFDT Staff, Admins |
+| 4 | [Ry Jones](https://github.com/ryjones) | 147 | LFDT Staff |
 | 5 | [RAWx18](https://github.com/RAWx18) | 94 | Lab Leader |
 
 ## Yearly Traffic

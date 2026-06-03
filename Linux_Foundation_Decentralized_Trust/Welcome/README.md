@@ -27,18 +27,18 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 8 | LFDT Staff, Admins |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 8 | LFDT Staff |
 | 2 | Zerah | 3 | — |
 | 3 | Mohit Yadav | 2 | — |
 | 4 | Parth Singh PS | 2 | — |
-| 5 | [JessicaG](https://github.com/jwagantall) | 2 | gw, LF Staff, LFDT Staff, Admins |
+| 5 | [JessicaG](https://github.com/jwagantall) | 2 | LFDT Staff |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Zion'sEarthlyPrince | 13 | — |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 11 | LFDT Staff, Admins |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 11 | LFDT Staff |
 | 3 | k!ller | 4 | — |
 | 4 | Zerah | 3 | — |
 | 5 | SlackGuru | 3 | — |
@@ -47,8 +47,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 48 | LFDT Staff, Admins |
-| 2 | [Ry Jones](https://github.com/ryjones) | 18 | gw, LFDT Staff, Admins |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 48 | LFDT Staff |
+| 2 | [Ry Jones](https://github.com/ryjones) | 18 | LFDT Staff |
 | 3 | Zion'sEarthlyPrince | 13 | — |
 | 4 | Tsafaras | 12 | — |
 | 5 | Casol | 8 | — |
@@ -58,8 +58,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Deleted User | 697 | — |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 397 | LFDT Staff, Admins |
-| 3 | [Ry Jones](https://github.com/ryjones) | 255 | gw, LFDT Staff, Admins |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 397 | LFDT Staff |
+| 3 | [Ry Jones](https://github.com/ryjones) | 255 | LFDT Staff |
 | 4 | tobytobias | 38 | — |
 | 5 | Tracy | 21 | — |
 

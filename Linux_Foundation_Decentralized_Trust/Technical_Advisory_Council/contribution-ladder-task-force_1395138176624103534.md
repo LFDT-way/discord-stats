@@ -24,20 +24,20 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Diane Mueller](https://github.com/dmueller2001) | 21 | TAC member, Hedera Employee |
-| 2 | [JessicaG](https://github.com/jwagantall) | 8 | gw, LF Staff, LFDT Staff, Admins |
+| 1 | [Diane Mueller](https://github.com/dmueller2001) | 21 | TAC member |
+| 2 | [JessicaG](https://github.com/jwagantall) | 8 | LFDT Staff |
 | 3 | cjhowland | 8 | Working Group Leader |
-| 4 | [Ry Jones](https://github.com/ryjones) | 5 | gw, LFDT Staff, Admins |
+| 4 | [Ry Jones](https://github.com/ryjones) | 5 | LFDT Staff |
 | 5 | Tracy | 5 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Diane Mueller](https://github.com/dmueller2001) | 21 | TAC member, Hedera Employee |
-| 2 | [JessicaG](https://github.com/jwagantall) | 8 | gw, LF Staff, LFDT Staff, Admins |
+| 1 | [Diane Mueller](https://github.com/dmueller2001) | 21 | TAC member |
+| 2 | [JessicaG](https://github.com/jwagantall) | 8 | LFDT Staff |
 | 3 | cjhowland | 8 | Working Group Leader |
-| 4 | [Ry Jones](https://github.com/ryjones) | 5 | gw, LFDT Staff, Admins |
+| 4 | [Ry Jones](https://github.com/ryjones) | 5 | LFDT Staff |
 | 5 | Tracy | 5 | — |
 
 ## Yearly Traffic

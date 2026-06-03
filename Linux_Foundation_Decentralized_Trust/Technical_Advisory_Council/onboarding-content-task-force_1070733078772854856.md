@@ -34,7 +34,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | [davidwboswell](https://github.com/davidwboswell) | 17 | LFDT Staff |
 | 2 | Niks | 12 | — |
-| 3 | [Ry Jones](https://github.com/ryjones) | 7 | gw, LFDT Staff, Admins |
+| 3 | [Ry Jones](https://github.com/ryjones) | 7 | LFDT Staff |
 | 4 | Pranit | 6 | — |
 | 5 | Admiral OOM | 6 | — |
 

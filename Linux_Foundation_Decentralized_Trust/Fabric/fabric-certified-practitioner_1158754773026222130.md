@@ -35,7 +35,7 @@
 | 1 | lyz4rd | 2 | — |
 | 2 | Esco | 2 | — |
 | 3 | Ethan | 1 | — |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff, Admins |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
 | 5 | Plukanine7.btc | 1 | — |
 
 ### All Time

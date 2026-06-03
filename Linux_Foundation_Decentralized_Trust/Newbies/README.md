@@ -22,17 +22,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 8 | gw, Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 8 | Project Maintainer, Fabric Maintainer |
 | 2 | JRM | 4 | — |
 | 3 | ibearua | 2 | — |
 | 4 | Heshan Nirmitha | 1 | — |
-| 5 | [Ry Jones](https://github.com/ryjones) | 1 | gw, LFDT Staff, Admins |
+| 5 | [Ry Jones](https://github.com/ryjones) | 1 | LFDT Staff |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 9 | gw, Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 9 | Project Maintainer, Fabric Maintainer |
 | 2 | JRM | 4 | — |
 | 3 | 76miles | 4 | — |
 | 4 | Heshan Nirmitha | 3 | — |
@@ -42,7 +42,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 33 | gw, Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 33 | Project Maintainer, Fabric Maintainer |
 | 2 | katie | 8 | — |
 | 3 | Glayer | 7 | — |
 | 4 | Sir Petronim | 6 | — |
@@ -52,7 +52,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 111 | gw, Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 111 | Project Maintainer, Fabric Maintainer |
 | 2 | tobytobias | 73 | — |
 | 3 | JRM | 64 | — |
 | 4 | [Enrique Lacal](https://github.com/EnriqueL8) | 36 | TAC member, Project Maintainer, Firefly Maintainer |

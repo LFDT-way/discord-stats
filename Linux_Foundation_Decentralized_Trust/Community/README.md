@@ -57,7 +57,7 @@
 | 2 | amitthosare | 24 | Credebl maintainer, Project Maintainer |
 | 3 | MH | 14 | Chapter Leader |
 | 4 | knagware | 12 | Chapter Leader |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 12 | LFDT Staff, Admins |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 12 | LFDT Staff |
 
 ### All Time
 

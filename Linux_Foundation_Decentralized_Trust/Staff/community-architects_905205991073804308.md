@@ -23,7 +23,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 3 | gw, LFDT Staff, Admins |
+| 1 | [Ry Jones](https://github.com/ryjones) | 3 | LFDT Staff |
 | 2 | Prof.xoxo | 2 | — |
 | 3 | Robert | 1 | — |
 | 4 | Piotrek | 1 | — |
@@ -33,8 +33,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | LFDT Staff, Admins |
-| 2 | [Ry Jones](https://github.com/ryjones) | 3 | gw, LFDT Staff, Admins |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | LFDT Staff |
+| 2 | [Ry Jones](https://github.com/ryjones) | 3 | LFDT Staff |
 | 3 | Prof.xoxo | 2 | — |
 | 4 | xeeneey | 2 | — |
 | 5 | Robert | 1 | — |
@@ -43,11 +43,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 338 | gw, LFDT Staff, Admins |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 89 | LFDT Staff, Admins |
+| 1 | [Ry Jones](https://github.com/ryjones) | 338 | LFDT Staff |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 89 | LFDT Staff |
 | 3 | [seanyoung](https://github.com/seanyoung) | 49 | Project Maintainer, Solang Maintainer |
 | 4 | [Nicko Guyer](https://github.com/nguyer) | 46 | Project Maintainer, Firefly Maintainer |
-| 5 | [swcurran](https://github.com/swcurran) | 37 | security, Anoncreds Maintainer, SRL, Indy Maintainer, Project Maintainer |
+| 5 | [swcurran](https://github.com/swcurran) | 37 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
 
 ## Yearly Traffic
 

@@ -32,9 +32,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 29 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | Cyril | 21 | — |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 10 | Linux Foundation Staff, admins |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 10 | Linux Foundation Staff |
 | 4 | Sodium | 10 | — |
-| 5 | [Ry Jones, OWF](https://github.com/ryjones) | 6 | Linux Foundation Staff, admins |
+| 5 | [Ry Jones, OWF](https://github.com/ryjones) | 6 | Linux Foundation Staff |
 
 ### Last 90 Days
 
@@ -42,9 +42,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 66 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | Cyril | 41 | — |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 31 | Linux Foundation Staff, admins |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 31 | Linux Foundation Staff |
 | 4 | [davidz25](https://github.com/davidz25) | 18 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 5 | [Ry Jones, OWF](https://github.com/ryjones) | 12 | Linux Foundation Staff, admins |
+| 5 | [Ry Jones, OWF](https://github.com/ryjones) | 12 | Linux Foundation Staff |
 
 ### Last 365 Days
 
@@ -52,9 +52,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [davidz25](https://github.com/davidz25) | 224 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 2 | [Mirko](https://github.com/cre8) | 196 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 97 | Linux Foundation Staff, admins |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 97 | Linux Foundation Staff |
 | 4 | Cyril | 78 | — |
-| 5 | [Ry Jones, OWF](https://github.com/ryjones) | 61 | Linux Foundation Staff, admins |
+| 5 | [Ry Jones, OWF](https://github.com/ryjones) | 61 | Linux Foundation Staff |
 
 ### All Time
 
@@ -62,9 +62,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [davidz25](https://github.com/davidz25) | 258 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 2 | [Mirko](https://github.com/cre8) | 241 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 184 | Linux Foundation Staff, admins |
+| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 184 | Linux Foundation Staff |
 | 4 | [Timo Glastra](https://github.com/TimoGlastra) | 169 | credo maintainers, Project Maintainer |
-| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 168 | Linux Foundation Staff, admins |
+| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 168 | Linux Foundation Staff |
 
 ## Yearly Traffic
 
