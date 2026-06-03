@@ -1,0 +1,174 @@
+# Active Users — OpenWallet Foundation
+
+Users with activity in the last 365 days, sorted by message count. Bot and webhook messages are excluded.
+
+- **Guild:** OpenWallet Foundation
+- **Guild ID:** 1022962884864643214
+- **Active Users (365d):** 163
+- **Messages (365d):** 2,535
+
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | [Mirko](https://github.com/cre8) | 260 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [davidz25](https://github.com/davidz25) | 224 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 211 | Linux Foundation Staff, admins |
+| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 141 | Linux Foundation Staff, admins |
+| 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 121 | Lab Maintainer |
+| 6 | [Timo Glastra](https://github.com/TimoGlastra) | 100 | credo maintainers, Project Maintainer |
+| 7 | Cyril | 78 | — |
+| 8 | [bryce-mcmath](https://github.com/bryce-mcmath) | 57 | bifold maintainers, Project Maintainer |
+| 9 | albertoleon_7794 | 56 | — |
+| 10 | [firegod](https://github.com/wenjing) | 55 | — |
+| 11 | kevinaboos | 54 | — |
+| 12 | diegoz (OpenMobileHub, Multipaz) | 53 | Lab Maintainer, multipaz maintainer |
+| 13 | davidejalexander | 45 | SIG member |
+| 14 | Timbl | 42 | — |
+| 15 | PStLouis | 42 | Lab Maintainer, Project Maintainer |
+| 16 | ayu | 41 | — |
+| 17 | [Peter Sorotokin](https://github.com/sorotokin) | 39 | — |
+| 18 | [swcurran](https://github.com/swcurran) | 37 | Lab Maintainer, TAC members, Project Maintainer |
+| 19 | [jamshale](https://github.com/jamshale) | 37 | Project Maintainer |
+| 20 | coltonidle | 33 | — |
+| 21 | cjhowland | 32 | Project Maintainer |
+| 22 | ζατch bell | 31 | — |
+| 23 | thidalgo | 31 | — |
+| 24 | hanlu | 30 | multipaz maintainer |
+| 25 | Thomas Tran | 28 | Lab Maintainer |
+| 26 | [GenAris](https://github.com/genaris) | 28 | credo maintainers, Project Maintainer |
+| 27 | [VishnuSanal](https://github.com/VishnuSanal) | 28 | multipaz maintainer, Project Maintainer |
+| 28 | spheroid | 26 | — |
+| 29 | Michiel | 25 | — |
+| 30 | ai Igor | 24 | — |
+| 31 | Graham | 22 | — |
+| 32 | Pragya Jain | 17 | — |
+| 33 | [drummondreed](https://github.com/talltree) | 16 | — |
+| 34 | R4 | 16 | — |
+| 35 | [Wade Barnes](https://github.com/WadeBarnes) | 15 | — |
+| 36 | Jason | 14 | bifold maintainers, Project Maintainer |
+| 37 | Jorge F. | 14 | Lab Maintainer |
+| 38 | Anshulip | 13 | — |
+| 39 | Samuel | 13 | SIG member |
+| 40 | kukgini | 11 | — |
+| 41 | friendlyfire137 | 11 | Project Maintainer |
+| 42 | sirawt | 10 | — |
+| 43 | RMLearney | 10 | — |
+| 44 | Abhi | 10 | — |
+| 45 | MostafaGamal | 10 | — |
+| 46 | Sodium | 10 | — |
+| 47 | [gmulhearn](https://github.com/gmulhearn) | 10 | vcx maintainer, Project Maintainer |
+| 48 | [cvarjao](https://github.com/cvarjao) | 9 | bifold maintainers, Project Maintainer |
+| 49 | lippac | 9 | — |
+| 50 | senu | 9 | — |
+| 51 | Jim St.Clair | 8 | SIG member |
+| 52 | tkensinger | 8 | — |
+| 53 | [esune](https://github.com/esune) | 8 | Project Maintainer |
+| 54 | [amanji](https://github.com/amanji) | 7 | — |
+| 55 | aaron | 7 | — |
+| 56 | Jubayer Hossain | 6 | — |
+| 57 | jarosss_ | 6 | — |
+| 58 | Iancu Fofiu | 5 | — |
+| 59 | HashMapsData2Value | 5 | — |
+| 60 | Tarun | 5 | — |
+| 61 | gr0 | 5 | — |
+| 62 | lsz | 5 | — |
+| 63 | Maximilian Pohl | 5 | — |
+| 64 | Thierry (Talao) | 4 | — |
+| 65 | Harshitha | 4 | — |
+| 66 | Bilal | 4 | — |
+| 67 | geertdoornbos | 4 | — |
+| 68 | KrishNa | 4 | — |
+| 69 | akishiseki | 4 | — |
+| 70 | Neha | 4 | — |
+| 71 | Mac | 4 | — |
+| 72 | Micah Peltier | 4 | — |
+| 73 | Damignos | 4 | — |
+| 74 | [Sownak](https://github.com/sownak) | 4 | — |
+| 75 | Thiago Romano | 4 | — |
+| 76 | Thomas T | 3 | — |
+| 77 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 3 | — |
+| 78 | Romek Szczesniak | 3 | — |
+| 79 | Muhammad Ahmer Khan | 3 | — |
+| 80 | [Patrik Stas](https://github.com/Patrik-Stas) | 3 | — |
+| 81 | leva | 3 | — |
+| 82 | jrayback | 3 | — |
+| 83 | Caroline Calheirani | 3 | — |
+| 84 | [Gavinok](https://github.com/Gavinok) | 3 | — |
+| 85 | Alan poon | 3 | — |
+| 86 | sencond1800 | 3 | — |
+| 87 | vivek | 3 | — |
+| 88 | Pratik | 3 | — |
+| 89 | Alisson-Dev-Zolvency | 3 | — |
+| 90 | darrello | 3 | — |
+| 91 | LukeBC | 3 | — |
+| 92 | [JSyro](https://github.com/Jsyro) | 3 | Lab Maintainer, Project Maintainer |
+| 93 | bongbong | 3 | — |
+| 94 | André Engelhorn | 3 | — |
+| 95 | marnix | 3 | — |
+| 96 | ai-Igor | 3 | — |
+| 97 | BrunoM | 2 | — |
+| 98 | ademait | 2 | — |
+| 99 | Ginga | 2 | — |
+| 100 | Maticus | 2 | — |
+| 101 | ElmerDev (DIDX) | 2 | — |
+| 102 | Harsh | 2 | — |
+| 103 | Gordito Ancestral | 2 | — |
+| 104 | [Sai Ranjit](https://github.com/sairanjit) | 2 | — |
+| 105 | Crio | 2 | — |
+| 106 | Akshay Kurhekar | 2 | — |
+| 107 | esplinr | 2 | — |
+| 108 | Jim Ezesinachi | 2 | — |
+| 109 | Giannis | 2 | — |
+| 110 | Agent .\| | 2 | — |
+| 111 | Soloshade | 2 | — |
+| 112 | Elise | 2 | — |
+| 113 | Glenn Gore | 2 | — |
+| 114 | Alexis Delamare Deboutteville | 2 | — |
+| 115 | eshwar_sai | 2 | — |
+| 116 | Azandure | 1 | — |
+| 117 | Mirkea {Matt@JNCTN} | 1 | — |
+| 118 | Thomas | 1 | — |
+| 119 | Tree | 1 | — |
+| 120 | sherri58 | 1 | — |
+| 121 | Thilina Senarath | 1 | — |
+| 122 | Hanan | 1 | — |
+| 123 | FindingFilene | 1 | — |
+| 124 | Young_Ent | 1 | — |
+| 125 | anil.helvaci \| GMT +3 | 1 | — |
+| 126 | tume2104 | 1 | — |
+| 127 | Daev Mithran | 1 | — |
+| 128 | JohnH | 1 | — |
+| 129 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
+| 130 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 1 | Lab Maintainer |
+| 131 | michkauf | 1 | — |
+| 132 | Matthew Golshani | 1 | — |
+| 133 | SRellihan.Phinxlab | 1 | — |
+| 134 | latika_04_17594 | 1 | — |
+| 135 | rosterbyte | 1 | — |
+| 136 | Dolan Pump | 1 | — |
+| 137 | skamy | 1 | — |
+| 138 | ethanpunk_ | 1 | — |
+| 139 | Nahuel_NP | 1 | — |
+| 140 | Sagar Khole | 1 | — |
+| 141 | Ankita | 1 | — |
+| 142 | Pankti | 1 | — |
+| 143 | Gethin James | 1 | — |
+| 144 | José Puma | 1 | — |
+| 145 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
+| 146 | satoh | 1 | — |
+| 147 | Sophia Sales | 1 | — |
+| 148 | yorick | 1 | — |
+| 149 | mashukur.rahman | 1 | — |
+| 150 | Arsalan Shahzad | 1 | — |
+| 151 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
+| 152 | Cseh. Rafin | 1 | — |
+| 153 | Siva | 1 | — |
+| 154 | Adrian | 1 | — |
+| 155 | [TheTechmage](https://github.com/TheTechmage) | 1 | — |
+| 156 | Adarsh | 1 | — |
+| 157 | Sneha | 1 | — |
+| 158 | arifthehappy | 1 | — |
+| 159 | Mateus Sousa | 1 | — |
+| 160 | joaocruz | 1 | — |
+| 161 | BARIO.andrea | 1 | — |
+| 162 | Rafael Longeville | 1 | — |
+| 163 | Aaron | 1 | — |
