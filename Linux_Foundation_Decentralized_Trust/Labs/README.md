@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515858846158889
 - **Total Messages in Category:** 3,258
-- **Last 30 Days:** 91
+- **Last 30 Days:** 89
 - **Last 90 Days:** 230
-- **Last 365 Days:** 516
+- **Last 365 Days:** 515
 - **First Message:** 2022-02-14
 - **Last Message:** 2026-06-03
 
@@ -14,9 +14,9 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [aifaq](aifaq_1182418263460819085.md) | 2025-09-14 | 0 | 0 | 2 | 585 |
-| [fabric-token-sdk](fabric-token-sdk_945691840110272522.md) | 2026-06-02 | 12 | 40 | 48 | 533 |
+| [fabric-token-sdk](fabric-token-sdk_945691840110272522.md) | 2026-06-02 | 11 | 40 | 48 | 533 |
 | [blockchain-explorer](blockchain-explorer_1039606111654920255.md) | 2025-07-12 | 0 | 0 | 1 | 325 |
-| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-05-27 | 8 | 83 | 139 | 315 |
+| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-05-27 | 7 | 83 | 139 | 315 |
 | [gitmesh](gitmesh_1426307186027659319.md) | 2026-06-03 | 16 | 17 | 122 | 122 |
 | [fabric-operations-console](fabric-operations-console_951489306143363093.md) | 2025-11-05 | 0 | 0 | 10 | 119 |
 | [business-partner-agent](business-partner-agent_948240184124788736.md) | 2025-11-07 | 0 | 0 | 1 | 114 |
@@ -40,7 +40,7 @@
 | [weaver](weaver_986350461886033980.md) | 2024-09-05 | 0 | 0 | 0 | 29 |
 | [hypernate](hypernate_1417903966464770159.md) | 2026-04-21 | 0 | 8 | 28 | 28 |
 | [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-06-01 | 11 | 15 | 15 | 21 |
-| [chaindeploy](chaindeploy_1351886901988163635.md) | 2025-07-07 | 0 | 0 | 5 | 16 |
+| [chaindeploy](chaindeploy_1351886901988163635.md) | 2025-07-07 | 0 | 0 | 4 | 16 |
 | [fabric-opssc](fabric-opssc_942805501681496094.md) | 2025-01-14 | 0 | 0 | 0 | 13 |
 | [hlf-connector](hlf-connector_943223554709790771.md) | 2023-04-12 | 0 | 0 | 0 | 10 |
 | [open-enterprise-agent-security-notices](open-enterprise-agent-security-notices_1199354196944748614.md) | 2024-01-25 | 0 | 0 | 0 | 10 |
@@ -66,8 +66,8 @@
 | 1 | Byteledger | 14 | — |
 | 2 | Anurag Gupta | 7 | — |
 | 3 | [OpenAssets](https://github.com/pv-sarvesh) | 7 | Lab Leader |
-| 4 | [Angelo De Caro](https://github.com/adecaro) | 7 | Project Maintainer, Fabric Maintainer, Lab Leader |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | LFDT Staff |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | LFDT Staff |
+| 5 | [Angelo De Caro](https://github.com/adecaro) | 6 | Project Maintainer, Fabric Maintainer, Lab Leader |
 
 ### Last 90 Days
 

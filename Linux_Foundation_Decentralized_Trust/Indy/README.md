@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205653801431081
 - **Total Messages in Category:** 3,661
-- **Last 30 Days:** 32
+- **Last 30 Days:** 31
 - **Last 90 Days:** 56
-- **Last 365 Days:** 145
+- **Last 365 Days:** 144
 - **First Message:** 2022-01-20
 - **Last Message:** 2026-06-01
 
@@ -17,7 +17,7 @@
 | [indy-node](indy-node_941709259710808155.md) | 2026-06-01 | 28 | 28 | 51 | 860 |
 | [indy-ubuntu-2204-upgrade](indy-ubuntu-2204-upgrade_1333885568433524736.md) | 2026-01-06 | 0 | 0 | 4 | 690 |
 | [indy-sdk](indy-sdk_941709279289815070.md) | 2025-04-15 | 0 | 0 | 0 | 487 |
-| [indy-contributors](indy-contributors_933797403092475924.md) | 2026-05-05 | 2 | 22 | 45 | 329 |
+| [indy-contributors](indy-contributors_933797403092475924.md) | 2026-05-05 | 1 | 22 | 44 | 329 |
 | [indy-vdr](indy-vdr_941709303549685811.md) | 2025-11-25 | 0 | 0 | 2 | 158 |
 | [indy-did-method](indy-did-method_941708981825576960.md) | 2025-03-19 | 0 | 0 | 0 | 109 |
 | [indy-cli](indy-cli_1060304199981740032.md) | 2025-02-17 | 0 | 0 | 0 | 41 |
@@ -33,7 +33,6 @@
 | 2 | [Wade Barnes](https://github.com/WadeBarnes) | 10 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
 | 3 | [Ry Jones](https://github.com/ryjones) | 2 | LFDT Staff |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
-| 5 | [swcurran](https://github.com/swcurran) | 1 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
 
 ### Last 90 Days
 
@@ -52,8 +51,8 @@
 | 1 | [Wade Barnes](https://github.com/WadeBarnes) | 31 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
 | 2 | Sohn | 17 | — |
 | 3 | [lynnbendixsen](https://github.com/lynnbendixsen) | 14 | — |
-| 4 | cjhowland | 14 | Working Group Leader |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 13 | LFDT Staff |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 13 | LFDT Staff |
+| 5 | cjhowland | 13 | Working Group Leader |
 
 ### All Time
 

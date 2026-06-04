@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205464046915585
 - **Total Messages in Category:** 13,149
-- **Last 30 Days:** 52
-- **Last 90 Days:** 180
-- **Last 365 Days:** 694
+- **Last 30 Days:** 44
+- **Last 90 Days:** 175
+- **Last 365 Days:** 693
 - **First Message:** 2021-11-07
 - **Last Message:** 2026-05-28
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric](fabric_905205541326975046.md) | 2026-05-28 | 11 | 42 | 217 | 6,686 |
+| [fabric](fabric_905205541326975046.md) | 2026-05-28 | 10 | 42 | 216 | 6,686 |
 | [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 1 | 34 | 964 |
 | [fabric-private-chaincode](fabric-private-chaincode_943059293765267497.md) | 2026-05-12 | 1 | 1 | 30 | 948 |
 | [fabric-peer](fabric-peer_945037339170836501.md) | 2026-04-10 | 0 | 4 | 18 | 863 |
@@ -22,7 +22,7 @@
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-07 | 0 | 0 | 2 | 554 |
 | [fabric-code-contributors](fabric-code-contributors_941396957635682314.md) | 2026-05-09 | 1 | 5 | 23 | 354 |
 | [fabric-contract-apis](fabric-contract-apis_943090527920877598.md) | 2025-12-30 | 0 | 0 | 4 | 306 |
-| [fabric-x](fabric-x_1427642480504999976.md) | 2026-05-26 | 31 | 104 | 242 | 242 |
+| [fabric-x](fabric-x_1427642480504999976.md) | 2026-05-26 | 24 | 99 | 242 | 242 |
 | [fabric-japanese](fabric-japanese_942950198836092958.md) | 2026-05-20 | 2 | 7 | 29 | 228 |
 | [fabric-documentation](fabric-documentation_945038395825070141.md) | 2026-01-29 | 0 | 0 | 12 | 196 |
 | [fabric-dublin-workshop](fabric-dublin-workshop_1005123918740332604.md) | 2024-09-27 | 0 | 0 | 0 | 78 |
@@ -39,11 +39,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Aaradhy Chinche | 13 | — |
+| 1 | Aaradhy Chinche | 12 | — |
 | 2 | [Ry Jones](https://github.com/ryjones) | 6 | LFDT Staff |
-| 3 | [bestbeforetoday](https://github.com/bestbeforetoday) | 6 | Project Maintainer, Fabric Maintainer |
-| 4 | MoneySimp | 4 | — |
-| 5 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 3 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
+| 3 | [bestbeforetoday](https://github.com/bestbeforetoday) | 5 | Project Maintainer, Fabric Maintainer |
+| 4 | MoneySimp | 3 | — |
+| 5 | lyz4rd | 2 | — |
 
 ### Last 90 Days
 

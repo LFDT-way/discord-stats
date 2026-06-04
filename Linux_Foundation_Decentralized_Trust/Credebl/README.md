@@ -4,8 +4,8 @@
 - **Category ID:** 1331657844193231030
 - **Total Messages in Category:** 275
 - **Last 30 Days:** 6
-- **Last 90 Days:** 23
-- **Last 365 Days:** 165
+- **Last 90 Days:** 22
+- **Last 365 Days:** 159
 - **First Message:** 2025-01-23
 - **Last Message:** 2026-06-03
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credebl](credebl_1331657363161219082.md) | 2026-06-03 | 6 | 18 | 122 | 176 |
+| [credebl](credebl_1331657363161219082.md) | 2026-06-03 | 6 | 17 | 116 | 176 |
 | [credebl-platform](credebl-platform_1354090545043210362.md) | 2025-09-30 | 0 | 0 | 2 | 52 |
 | [credebl-maintainers](credebl-maintainers_1354091009813905488.md) | 2026-04-25 | 0 | 3 | 30 | 33 |
 | [credebl-announcement](credebl-announcement_1354090474654404660.md) | 2026-04-09 | 0 | 2 | 11 | 14 |
@@ -34,14 +34,14 @@
 | 1 | amitthosare | 8 | Credebl maintainer, Project Maintainer |
 | 2 | [Ajay Jadhav](https://github.com/ajile-in) | 4 | Credebl maintainer, Project Maintainer |
 | 3 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 2 | — |
-| 4 | C.OG | 2 | — |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
+| 5 | [Arun S M](https://github.com/arsulegai) | 2 | TAC member, Chapter Leader |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | amitthosare | 34 | Credebl maintainer, Project Maintainer |
+| 1 | amitthosare | 33 | Credebl maintainer, Project Maintainer |
 | 2 | PriyanshuZone | 19 | — |
 | 3 | [Ajay Jadhav](https://github.com/ajile-in) | 18 | Credebl maintainer, Project Maintainer |
 | 4 | Ankita | 16 | Credebl maintainer, Project Maintainer |

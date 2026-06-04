@@ -5,7 +5,7 @@
 - **Channel ID:** 905205991073804308
 - **Total Messages:** 1,078
 - **Last 30 Days:** 2
-- **Last 90 Days:** 12
+- **Last 90 Days:** 11
 - **Last 365 Days:** 27
 - **First Message:** 2021-11-03
 - **Last Message:** 2026-06-02
@@ -26,8 +26,8 @@
 | 1 | [Ry Jones](https://github.com/ryjones) | 3 | LFDT Staff |
 | 2 | Prof.xoxo | 2 | — |
 | 3 | Robert | 1 | — |
-| 4 | Piotrek | 1 | — |
-| 5 | Vineet | 1 | — |
+| 4 | Vineet | 1 | — |
+| 5 | algos | 1 | — |
 
 ### Last 365 Days
 

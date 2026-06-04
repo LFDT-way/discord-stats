@@ -3,8 +3,8 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 948958931512873030
 - **Total Messages in Category:** 12,753
-- **Last 30 Days:** 25
-- **Last 90 Days:** 82
+- **Last 30 Days:** 24
+- **Last 90 Days:** 81
 - **Last 365 Days:** 335
 - **First Message:** 2022-03-03
 - **Last Message:** 2026-06-03
@@ -13,12 +13,12 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [welcome](welcome_948959099842883654.md) | 2026-05-02 | 0 | 26 | 43 | 10,702 |
+| [welcome](welcome_948959099842883654.md) | 2026-05-02 | 0 | 25 | 43 | 10,702 |
 | [general](general_1021077182501621830.md) | 2026-06-01 | 14 | 41 | 245 | 1,676 |
 | [connections](connections_948959243095130142.md) | 2026-04-03 | 0 | 1 | 29 | 321 |
 | [announcements](announcements_953133039372877844.md) | 2026-06-03 | 5 | 7 | 10 | 38 |
 | [git-help](git-help_1098621099681513492.md) | 2024-09-06 | 0 | 0 | 0 | 6 |
-| [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-05-04 | 1 | 2 | 3 | 5 |
+| [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-05-04 | 0 | 2 | 3 | 5 |
 | [job-postings](job-postings_1050607623566802984.md) | 2026-05-29 | 5 | 5 | 5 | 5 |
 
 ## Most Active Users
@@ -27,7 +27,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 8 | LFDT Staff |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 7 | LFDT Staff |
 | 2 | Zerah | 3 | — |
 | 3 | Mohit Yadav | 2 | — |
 | 4 | Parth Singh PS | 2 | — |
@@ -41,7 +41,7 @@
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 11 | LFDT Staff |
 | 3 | k!ller | 4 | — |
 | 4 | Zerah | 3 | — |
-| 5 | SlackGuru | 3 | — |
+| 5 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 

@@ -1,22 +1,22 @@
 # Guild Report: OpenWallet Foundation
 
 - **Guild ID:** 1022962884864643214
-- **Total Messages:** 9,124
-- **Last 30 Days:** 140
-- **Last 90 Days:** 334
-- **Last 365 Days:** 2,535 — [active users](users.md)
+- **Total Messages:** 9,125
+- **Last 30 Days:** 138
+- **Last 90 Days:** 331
+- **Last 365 Days:** 2,521 — [active users](users.md)
 - **First Message:** 2022-09-23
-- **Last Message:** 2026-06-03
+- **Last Message:** 2026-06-04
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,393 | 96 | 248 | 1,484 | 2023-11-08 | 2026-06-03 |
-| [General](General/README.md) | 1,855 | 7 | 12 | 111 | 2022-09-23 | 2026-05-28 |
+| [Growth Projects](Growth_Projects/README.md) | 3,394 | 94 | 246 | 1,471 | 2023-11-08 | 2026-06-04 |
+| [General](General/README.md) | 1,855 | 7 | 11 | 111 | 2022-09-23 | 2026-05-28 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,815 | 11 | 23 | 170 | 2022-09-28 | 2026-06-01 |
-| [Impact Projects](Impact_Projects/README.md) | 840 | 15 | 21 | 244 | 2024-09-26 | 2026-06-02 |
+| [Impact Projects](Impact_Projects/README.md) | 840 | 15 | 21 | 243 | 2024-09-26 | 2026-06-02 |
 | [Labs](Labs/README.md) | 832 | 11 | 30 | 508 | 2023-06-02 | 2026-05-22 |
 | [Archive](Archive/README.md) | 321 | 0 | 0 | 2 | 2022-09-23 | 2025-08-08 |
 | [Information](Information/README.md) | 68 | 0 | 0 | 16 | 2022-09-28 | 2025-10-26 |
@@ -37,7 +37,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 73 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 71 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 47 | Linux Foundation Staff |
 | 3 | Cyril | 41 | — |
 | 4 | [davidz25](https://github.com/davidz25) | 18 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
@@ -48,7 +48,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 260 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [davidz25](https://github.com/davidz25) | 224 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 2 | [davidz25](https://github.com/davidz25) | 220 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 211 | Linux Foundation Staff |
 | 4 | [Ry Jones, OWF](https://github.com/ryjones) | 141 | Linux Foundation Staff |
 | 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 121 | Lab Maintainer |
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 916 |
+| 2026 | 917 |
 | 2025 | 2,831 |
 | 2024 | 2,596 |
 | 2023 | 1,595 |
@@ -77,7 +77,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 11 |
+| 2026-06 | 12 |
 | 2026-05 | 129 |
 | 2026-04 | 86 |
 | 2026-03 | 136 |
@@ -128,6 +128,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-04 | 1 |
 | 2026-06-03 | 2 |
 | 2026-06-02 | 5 |
 | 2026-06-01 | 4 |

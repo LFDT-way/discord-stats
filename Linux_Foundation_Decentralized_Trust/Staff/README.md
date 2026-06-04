@@ -4,7 +4,7 @@
 - **Category ID:** 905205929920856137
 - **Total Messages in Category:** 1,078
 - **Last 30 Days:** 2
-- **Last 90 Days:** 12
+- **Last 90 Days:** 11
 - **Last 365 Days:** 27
 - **First Message:** 2021-11-03
 - **Last Message:** 2026-06-02
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [community-architects](community-architects_905205991073804308.md) | 2026-06-02 | 2 | 12 | 27 | 1,078 |
+| [community-architects](community-architects_905205991073804308.md) | 2026-06-02 | 2 | 11 | 27 | 1,078 |
 
 ## Most Active Users
 
@@ -31,8 +31,8 @@
 | 1 | [Ry Jones](https://github.com/ryjones) | 3 | LFDT Staff |
 | 2 | Prof.xoxo | 2 | — |
 | 3 | Robert | 1 | — |
-| 4 | Piotrek | 1 | — |
-| 5 | Vineet | 1 | — |
+| 4 | Vineet | 1 | — |
+| 5 | algos | 1 | — |
 
 ### Last 365 Days
 

@@ -6,7 +6,7 @@
 - **Total Messages:** 2,069
 - **Last 30 Days:** 15
 - **Last 90 Days:** 82
-- **Last 365 Days:** 1,459
+- **Last 365 Days:** 1,453
 - **First Message:** 2025-02-12
 - **Last Message:** 2026-05-30
 
@@ -34,9 +34,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Matthias Kannwischer | 576 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | Rod | 574 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 99 | PQ Code Package Maintainer |
+| 1 | Matthias Kannwischer | 574 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | Rod | 572 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 97 | PQ Code Package Maintainer |
 | 4 | Jake | 83 | PQ Code Package Maintainer, Project Maintainer |
 | 5 | Brendan | 53 | — |
 

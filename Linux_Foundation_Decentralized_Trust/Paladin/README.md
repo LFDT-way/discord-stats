@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 694
 - **Last 30 Days:** 25
 - **Last 90 Days:** 56
-- **Last 365 Days:** 385
+- **Last 365 Days:** 384
 - **First Message:** 2024-07-08
 - **Last Message:** 2026-06-02
 
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [paladin-maintainers](paladin-maintainers_1332404027052392488.md) | 2026-06-02 | 6 | 13 | 205 | 267 |
-| [paladin](paladin_1303371167020879903.md) | 2026-05-26 | 4 | 19 | 109 | 247 |
+| [paladin](paladin_1303371167020879903.md) | 2026-05-26 | 4 | 19 | 108 | 247 |
 | [zeto](zeto_1259800071185367040.md) | 2026-04-20 | 0 | 2 | 24 | 133 |
 | [paladin-general](paladin-general_1430941784610963538.md) | 2026-06-01 | 15 | 22 | 36 | 36 |
 | [paladin-release](paladin-release_1435984838388875284.md) | 2025-11-10 | 0 | 0 | 11 | 11 |
@@ -49,7 +49,7 @@
 | 2 | [Anna McAllister](https://github.com/annamcallister) | 76 | Paladin Maintainer, Project Maintainer, Lab Leader |
 | 3 | [Ry Jones](https://github.com/ryjones) | 62 | LFDT Staff |
 | 4 | [jimthematrix](https://github.com/jimthematrix) | 26 | Lab Leader, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 5 | [dwertent](https://github.com/dwertent) | 10 | Paladin Maintainer, Project Maintainer, Lab Leader |
+| 5 | [andrew.richardson](https://github.com/awrichar) | 10 | Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 
 ### All Time
 

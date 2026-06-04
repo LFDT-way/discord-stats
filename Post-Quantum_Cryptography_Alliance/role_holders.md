@@ -9,7 +9,7 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 - **Role holders:** 23
 - **Inactive (no msgs in 365d):** 13
 - **Never posted (0 all-time):** 5
-- **Report generated:** 2026-06-03
+- **Report generated:** 2026-06-04
 
 | User | Roles | Last Msg | 30d | 90d | 365d | All-Time | All Guilds 365d |
 | :--- | :--- | :--- | ---: | ---: | ---: | ---: | ---: |
@@ -33,7 +33,7 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | CBOM maintainer, Project Maintainer | 2026-02-06 | 0 | 0 | 9 | 11 | 9 |
 | Jake | PQ Code Package Maintainer, Project Maintainer | 2026-04-30 | 0 | 2 | 83 | 163 | 83 |
 | [RyJones](https://github.com/ryjones) | LF Staff | 2026-05-30 | 2 | 12 | 103 | 316 | 819 |
-| Hanno | PQ Code Package Maintainer | 2026-05-30 | 2 | 12 | 151 | 381 | 151 |
-| Matthias Kannwischer | PQ Code Package Maintainer, Project Maintainer | 2026-05-30 | 11 | 61 | 723 | 1,038 | 723 |
-| Rod | PQ Code Package Maintainer, Project Maintainer | 2026-04-30 | 0 | 72 | 840 | 1,101 | 840 |
+| Hanno | PQ Code Package Maintainer | 2026-05-30 | 2 | 12 | 149 | 381 | 149 |
+| Matthias Kannwischer | PQ Code Package Maintainer, Project Maintainer | 2026-05-30 | 11 | 61 | 721 | 1,038 | 721 |
+| Rod | PQ Code Package Maintainer, Project Maintainer | 2026-04-30 | 0 | 72 | 838 | 1,101 | 838 |
 

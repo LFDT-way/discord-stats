@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 840
 - **Last 30 Days:** 15
 - **Last 90 Days:** 21
-- **Last 365 Days:** 244
+- **Last 365 Days:** 243
 - **First Message:** 2024-09-26
 - **Last Message:** 2026-06-02
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aca-py](aca-py_1286299858994462842.md) | 2026-06-02 | 15 | 21 | 242 | 779 |
+| [aca-py](aca-py_1286299858994462842.md) | 2026-06-02 | 15 | 21 | 241 | 779 |
 | [acapy-did-registration](acapy-did-registration_1303470616581509130.md) | 2025-10-25 | 0 | 0 | 2 | 61 |
 
 ## Most Active Users
@@ -46,7 +46,7 @@
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 22 | Linux Foundation Staff |
 | 3 | [swcurran](https://github.com/swcurran) | 22 | Lab Maintainer, TAC members, Project Maintainer |
 | 4 | [jamshale](https://github.com/jamshale) | 19 | Project Maintainer |
-| 5 | albertoleon_7794 | 15 | — |
+| 5 | albertoleon_7794 | 14 | — |
 
 ### All Time
 

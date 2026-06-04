@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1226983696306012181
 - **Total Messages in Category:** 1,238
-- **Last 30 Days:** 34
-- **Last 90 Days:** 82
-- **Last 365 Days:** 630
+- **Last 30 Days:** 32
+- **Last 90 Days:** 77
+- **Last 365 Days:** 628
 - **First Message:** 2024-04-10
 - **Last Message:** 2026-06-02
 
@@ -14,9 +14,9 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-06-02 | 21 | 40 | 216 | 516 |
-| [sdk-ts](sdk-ts_1252629747389829152.md) | 2026-05-24 | 6 | 18 | 154 | 208 |
+| [sdk-ts](sdk-ts_1252629747389829152.md) | 2026-05-24 | 4 | 18 | 154 | 208 |
 | [cloud-agent](cloud-agent_1252629630763012116.md) | 2025-12-02 | 0 | 0 | 54 | 191 |
-| [general](general_1252630735269925057.md) | 2026-06-02 | 4 | 20 | 127 | 150 |
+| [general](general_1252630735269925057.md) | 2026-06-02 | 4 | 15 | 125 | 150 |
 | [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 47 | 65 |
 | [identus-faq](identus-faq_1252622748073853083.md) | 2025-11-29 | 0 | 0 | 16 | 46 |
 | [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-05-12 | 3 | 3 | 6 | 20 |
@@ -41,11 +41,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [FabioPinheiro](https://github.com/FabioPinheiro) | 14 | Identus Maintainer, Project Maintainer |
-| 2 | Prakhar Singh | 14 | — |
+| 1 | Prakhar Singh | 14 | — |
+| 2 | [FabioPinheiro](https://github.com/FabioPinheiro) | 13 | Identus Maintainer, Project Maintainer |
 | 3 | Abhigyan Singh | 9 | — |
 | 4 | Yurii Shynbuiev | 8 | Identus Maintainer, Project Maintainer |
-| 5 | Zion'sEarthlyPrince | 7 | — |
+| 5 | havy | 6 | Identus Maintainer, Project Maintainer |
 
 ### Last 365 Days
 
@@ -53,7 +53,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | roberto | 96 | — |
 | 2 | Yurii Shynbuiev | 78 | Identus Maintainer, Project Maintainer |
-| 3 | [FabioPinheiro](https://github.com/FabioPinheiro) | 70 | Identus Maintainer, Project Maintainer |
+| 3 | [FabioPinheiro](https://github.com/FabioPinheiro) | 68 | Identus Maintainer, Project Maintainer |
 | 4 | [JessicaG](https://github.com/jwagantall) | 58 | LFDT Staff |
 | 5 | havy | 55 | Identus Maintainer, Project Maintainer |
 
