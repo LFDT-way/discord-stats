@@ -62,7 +62,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 191 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 191 | Lab Leader |
 | 2 | [explorer3](https://github.com/exploreriii) | 161 | Project Maintainer, Hiero maintainer |
 | 3 | [Ry Jones](https://github.com/ryjones) | 152 | LFDT Staff |
 | 4 | [drummondreed](https://github.com/talltree) | 105 | Project Maintainer, ToIP |
@@ -74,7 +74,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 575 | LFDT Staff |
 | 2 | [explorer3](https://github.com/exploreriii) | 407 | Project Maintainer, Hiero maintainer |
-| 3 | sankarshan | 382 | Lab Leader |
+| 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 382 | Lab Leader |
 | 4 | [drummondreed](https://github.com/talltree) | 371 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 352 | Project Maintainer, ToIP |
 

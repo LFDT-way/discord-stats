@@ -63,7 +63,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 52 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 2 | — |
 | 53 | Oumuamua | 2 | — |
 | 54 | Yunseong Kim | 2 | — |
-| 55 | mikelodder | 2 | — |
+| 55 | [mikelodder](https://github.com/mikelodder) | 2 | — |
 | 56 | DJ. XYZ | 2 | — |
 | 57 | amaury | 2 | — |
 | 58 | Fradique | 2 | — |

@@ -52,7 +52,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [swcurran](https://github.com/swcurran) | 239 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
-| 2 | mikelodder | 80 | Project Maintainer, Lab Leader |
+| 2 | [mikelodder](https://github.com/mikelodder) | 80 | Project Maintainer, Lab Leader |
 | 3 | Patrick St-Louis | 59 | Project Maintainer, ToIP |
 | 4 | [Ry Jones](https://github.com/ryjones) | 33 | LFDT Staff |
 | 5 | [Timo Glastra](https://github.com/TimoGlastra) | 28 | Project Maintainer, Anoncreds Maintainer |

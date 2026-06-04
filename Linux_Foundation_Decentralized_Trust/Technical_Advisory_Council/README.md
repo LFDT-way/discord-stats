@@ -42,7 +42,7 @@
 | 1 | [Arun S M](https://github.com/arsulegai) | 30 | TAC member, Chapter Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 16 | LFDT Staff |
 | 3 | [davidwboswell](https://github.com/davidwboswell) | 13 | LFDT Staff |
-| 4 | Justin Florentine | 9 | Project Maintainer, Besu Maintainer |
+| 4 | [Justin Florentine](https://github.com/jflo) | 9 | Project Maintainer, Besu Maintainer |
 | 5 | [Angelo De Caro](https://github.com/adecaro) | 7 | Project Maintainer, Fabric Maintainer, Lab Leader |
 
 ### Last 365 Days
@@ -62,7 +62,7 @@
 | 1 | Tracy | 378 | — |
 | 2 | [Ry Jones](https://github.com/ryjones) | 208 | LFDT Staff |
 | 3 | [Arun S M](https://github.com/arsulegai) | 143 | TAC member, Chapter Leader |
-| 4 | vramaiitkgp | 72 | TAC member, Cacti Maintainer |
+| 4 | [vramaiitkgp](https://github.com/VRamakrishna) | 72 | TAC member, Cacti Maintainer |
 | 5 | [davidwboswell](https://github.com/davidwboswell) | 70 | LFDT Staff |
 
 ## Yearly Traffic

@@ -29,7 +29,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 18 | [swcurran](https://github.com/swcurran) | 37 | Lab Maintainer, TAC members, Project Maintainer |
 | 19 | [jamshale](https://github.com/jamshale) | 37 | Project Maintainer |
 | 20 | coltonidle | 33 | — |
-| 21 | cjhowland | 32 | Project Maintainer |
+| 21 | [cjhowland](https://github.com/cjhowland) | 32 | Project Maintainer |
 | 22 | ζατch bell | 31 | — |
 | 23 | thidalgo | 31 | — |
 | 24 | hanlu | 30 | multipaz maintainer |
@@ -115,7 +115,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 104 | [Sai Ranjit](https://github.com/sairanjit) | 2 | — |
 | 105 | Crio | 2 | — |
 | 106 | Akshay Kurhekar | 2 | — |
-| 107 | esplinr | 2 | — |
+| 107 | [esplinr](https://github.com/esplinr) | 2 | — |
 | 108 | Jim Ezesinachi | 2 | — |
 | 109 | Giannis | 2 | — |
 | 110 | Soloshade | 2 | — |

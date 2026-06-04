@@ -39,7 +39,7 @@
 | 1 | [macfarla \| Besu](https://github.com/macfarla) | 20 | Project Maintainer, Besu Maintainer |
 | 2 | [Simon Dudley](https://github.com/siladu) | 16 | Project Maintainer, Besu Maintainer |
 | 3 | [Matthew Whitehead](https://github.com/matthew1001) | 8 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 4 | Justin Florentine | 7 | Project Maintainer, Besu Maintainer |
+| 4 | [Justin Florentine](https://github.com/jflo) | 7 | Project Maintainer, Besu Maintainer |
 | 5 | Abhay | 6 | — |
 
 ### Last 90 Days
@@ -50,7 +50,7 @@
 | 2 | [macfarla \| Besu](https://github.com/macfarla) | 30 | Project Maintainer, Besu Maintainer |
 | 3 | yorick | 20 | — |
 | 4 | [Uzi](https://github.com/usmansaleem) | 18 | Project Maintainer, Besu Maintainer |
-| 5 | Justin Florentine | 17 | Project Maintainer, Besu Maintainer |
+| 5 | [Justin Florentine](https://github.com/jflo) | 17 | Project Maintainer, Besu Maintainer |
 
 ### Last 365 Days
 
@@ -59,7 +59,7 @@
 | 1 | [Simon Dudley](https://github.com/siladu) | 210 | Project Maintainer, Besu Maintainer |
 | 2 | [macfarla \| Besu](https://github.com/macfarla) | 205 | Project Maintainer, Besu Maintainer |
 | 3 | [Matthew Whitehead](https://github.com/matthew1001) | 147 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 4 | Justin Florentine | 63 | Project Maintainer, Besu Maintainer |
+| 4 | [Justin Florentine](https://github.com/jflo) | 63 | Project Maintainer, Besu Maintainer |
 | 5 | VikiPedia | 56 | — |
 
 ### All Time
@@ -68,9 +68,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Simon Dudley](https://github.com/siladu) | 2,281 | Project Maintainer, Besu Maintainer |
 | 2 | [macfarla \| Besu](https://github.com/macfarla) | 1,553 | Project Maintainer, Besu Maintainer |
-| 3 | shemnon | 1,405 | — |
+| 3 | [shemnon](https://github.com/shemnon) | 1,405 | — |
 | 4 | Matt Nelson | 1,234 | — |
-| 5 | Justin Florentine | 1,032 | Project Maintainer, Besu Maintainer |
+| 5 | [Justin Florentine](https://github.com/jflo) | 1,032 | Project Maintainer, Besu Maintainer |
 
 ## Yearly Traffic
 

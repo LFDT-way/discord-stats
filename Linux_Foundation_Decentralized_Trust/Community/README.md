@@ -56,7 +56,7 @@
 | 1 | [DanielSzego](https://github.com/Daniel-Szego) | 57 | Meetup Organizer |
 | 2 | amitthosare | 24 | Credebl maintainer, Project Maintainer |
 | 3 | MH | 14 | Chapter Leader |
-| 4 | knagware | 12 | Chapter Leader |
+| 4 | [knagware](https://github.com/knagware) | 12 | Chapter Leader |
 | 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 12 | LFDT Staff |
 
 ### All Time
@@ -65,7 +65,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | joselio.teider | 132 | — |
 | 2 | [DanielSzego](https://github.com/Daniel-Szego) | 92 | Meetup Organizer |
-| 3 | knagware | 66 | Chapter Leader |
+| 3 | [knagware](https://github.com/knagware) | 66 | Chapter Leader |
 | 4 | [Arun S M](https://github.com/arsulegai) | 63 | TAC member, Chapter Leader |
 | 5 | MH | 40 | Chapter Leader |
 

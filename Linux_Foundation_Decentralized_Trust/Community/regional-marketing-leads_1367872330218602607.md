@@ -26,7 +26,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | Ben Thomas | 3 | LFDT Staff |
 | 2 | Przemysław Koper | 2 | — |
-| 3 | knagware | 1 | Chapter Leader |
+| 3 | [knagware](https://github.com/knagware) | 1 | Chapter Leader |
 
 ### All Time
 
@@ -34,7 +34,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | Ben Thomas | 7 | LFDT Staff |
 | 2 | Przemysław Koper | 6 | — |
-| 3 | knagware | 2 | Chapter Leader |
+| 3 | [knagware](https://github.com/knagware) | 2 | Chapter Leader |
 | 4 | [danielabarbosa](https://github.com/daniela-barbosa) | 2 | LFDT Staff |
 | 5 | Shafayet Ahmed Chowdhury | 1 | — |
 

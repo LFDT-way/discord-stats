@@ -35,7 +35,7 @@ _No activity in this period._
 | 2 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 2 | Project Maintainer, ToIP |
 | 3 | Peter Metz | 1 | — |
 | 4 | essbante | 1 | — |
-| 5 | Justin Florentine | 1 | Project Maintainer, Besu Maintainer |
+| 5 | [Justin Florentine](https://github.com/jflo) | 1 | Project Maintainer, Besu Maintainer |
 
 ## Yearly Traffic
 

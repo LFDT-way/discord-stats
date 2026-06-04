@@ -50,7 +50,7 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | [GenAris](https://github.com/genaris) | credo maintainers, Project Maintainer | 2026-05-14 | 1 | 3 | 28 | 97 | 29 |
 | [VishnuSanal](https://github.com/VishnuSanal) | multipaz maintainer, Project Maintainer | 2026-06-04 | 1 | 5 | 29 | 30 | 29 |
 | hanlu | multipaz maintainer | 2025-09-03 | 0 | 0 | 30 | 30 | 30 |
-| cjhowland | Project Maintainer | 2025-10-27 | 0 | 0 | 32 | 81 | 53 |
+| [cjhowland](https://github.com/cjhowland) | Project Maintainer | 2025-10-27 | 0 | 0 | 32 | 81 | 53 |
 | [jamshale](https://github.com/jamshale) | Project Maintainer | 2026-03-17 | 0 | 1 | 37 | 109 | 37 |
 | [swcurran](https://github.com/swcurran) | Lab Maintainer, TAC members, Project Maintainer | 2026-03-23 | 0 | 2 | 37 | 172 | 68 |
 | PStLouis | Lab Maintainer, Project Maintainer | 2026-05-22 | 1 | 3 | 42 | 205 | 63 |

@@ -51,7 +51,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | cjhowland | 102 | Working Group Leader |
+| 1 | [cjhowland](https://github.com/cjhowland) | 102 | Working Group Leader |
 | 2 | alician | 65 | — |
 | 3 | rgivens84 | 64 | — |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 50 | LFDT Staff |

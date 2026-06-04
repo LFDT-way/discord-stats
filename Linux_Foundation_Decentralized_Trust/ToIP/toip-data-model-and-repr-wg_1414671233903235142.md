@@ -16,14 +16,14 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 2 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 2 | Lab Leader |
 | 2 | NeilJT | 1 | ToIP |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 2 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 2 | Lab Leader |
 | 2 | NeilJT | 1 | ToIP |
 
 ### Last 365 Days
@@ -32,7 +32,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | NeilJT | 12 | ToIP |
 | 2 | Kent Bull | 9 | Project Maintainer, ToIP |
-| 3 | sankarshan | 4 | Lab Leader |
+| 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
 | 4 | microbiocarly | 1 | Project Maintainer, ToIP |
 | 5 | Patrick St-Louis | 1 | Project Maintainer, ToIP |
 
@@ -42,7 +42,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | NeilJT | 12 | ToIP |
 | 2 | Kent Bull | 9 | Project Maintainer, ToIP |
-| 3 | sankarshan | 4 | Lab Leader |
+| 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
 | 4 | microbiocarly | 1 | Project Maintainer, ToIP |
 | 5 | Patrick St-Louis | 1 | Project Maintainer, ToIP |
 

@@ -52,7 +52,7 @@
 | 2 | Sohn | 17 | — |
 | 3 | [lynnbendixsen](https://github.com/lynnbendixsen) | 14 | — |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 13 | LFDT Staff |
-| 5 | cjhowland | 13 | Working Group Leader |
+| 5 | [cjhowland](https://github.com/cjhowland) | 13 | Working Group Leader |
 
 ### All Time
 
@@ -62,7 +62,7 @@
 | 2 | [swcurran](https://github.com/swcurran) | 254 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
 | 3 | Guillaume Bourque | 182 | Project Maintainer, Indy Maintainer |
 | 4 | tnkhanh | 145 | — |
-| 5 | cjhowland | 100 | Working Group Leader |
+| 5 | [cjhowland](https://github.com/cjhowland) | 100 | Working Group Leader |
 
 ## Yearly Traffic
 

@@ -23,7 +23,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [drummondreed](https://github.com/talltree) | 8 | Project Maintainer, ToIP |
-| 2 | sankarshan | 5 | Lab Leader |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 5 | Lab Leader |
 | 3 | microbiocarly | 3 | Project Maintainer, ToIP |
 | 4 | Tweeddalex | 2 | Project Maintainer, ToIP |
 | 5 | Jo Spencer | 1 | Project Maintainer, ToIP |
@@ -33,7 +33,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [drummondreed](https://github.com/talltree) | 17 | Project Maintainer, ToIP |
-| 2 | sankarshan | 6 | Lab Leader |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 6 | Lab Leader |
 | 3 | microbiocarly | 4 | Project Maintainer, ToIP |
 | 4 | Tweeddalex | 2 | Project Maintainer, ToIP |
 | 5 | Jo Spencer | 2 | Project Maintainer, ToIP |
@@ -43,7 +43,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [drummondreed](https://github.com/talltree) | 17 | Project Maintainer, ToIP |
-| 2 | sankarshan | 6 | Lab Leader |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 6 | Lab Leader |
 | 3 | microbiocarly | 4 | Project Maintainer, ToIP |
 | 4 | Tweeddalex | 2 | Project Maintainer, ToIP |
 | 5 | Jo Spencer | 2 | Project Maintainer, ToIP |

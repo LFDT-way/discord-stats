@@ -16,13 +16,13 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 1 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 1 | Lab Leader |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 14 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 14 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 5 | Project Maintainer, ToIP |
 | 3 | John Phillips | 3 | Project Maintainer, ToIP |
 | 4 | stevevitka | 2 | ToIP |
@@ -32,7 +32,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 44 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 44 | Lab Leader |
 | 2 | John Phillips | 35 | Project Maintainer, ToIP |
 | 3 | NeilJT | 20 | ToIP |
 | 4 | [drummondreed](https://github.com/talltree) | 18 | Project Maintainer, ToIP |
@@ -42,7 +42,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 44 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 44 | Lab Leader |
 | 2 | John Phillips | 35 | Project Maintainer, ToIP |
 | 3 | NeilJT | 20 | ToIP |
 | 4 | [drummondreed](https://github.com/talltree) | 18 | Project Maintainer, ToIP |

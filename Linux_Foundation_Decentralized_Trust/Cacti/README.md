@@ -38,17 +38,17 @@
 | 2 | Somesh | 27 | — |
 | 3 | Abhayraj_jais__ | 9 | — |
 | 4 | [Carlos Amaro](https://github.com/LordKubaya) | 9 | Project Maintainer, Cacti Maintainer |
-| 5 | vramaiitkgp | 9 | TAC member, Cacti Maintainer |
+| 5 | [vramaiitkgp](https://github.com/VRamakrishna) | 9 | TAC member, Cacti Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [rafaelapb](https://github.com/RafaelAPB) | 160 | Project Maintainer, Cacti Maintainer |
-| 2 | vramaiitkgp | 48 | TAC member, Cacti Maintainer |
+| 2 | [vramaiitkgp](https://github.com/VRamakrishna) | 48 | TAC member, Cacti Maintainer |
 | 3 | [Carlos Amaro](https://github.com/LordKubaya) | 31 | Project Maintainer, Cacti Maintainer |
 | 4 | Somesh | 27 | — |
-| 5 | sandeepn | 25 | Lab Leader, Cacti Maintainer |
+| 5 | [sandeepn](https://github.com/sandeepnRES) | 25 | Lab Leader, Cacti Maintainer |
 
 ### All Time
 
@@ -56,7 +56,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Peter Metz | 392 | — |
 | 2 | [rafaelapb](https://github.com/RafaelAPB) | 260 | Project Maintainer, Cacti Maintainer |
-| 3 | vramaiitkgp | 140 | TAC member, Cacti Maintainer |
+| 3 | [vramaiitkgp](https://github.com/VRamakrishna) | 140 | TAC member, Cacti Maintainer |
 | 4 | Diderot1937 | 114 | — |
 | 5 | [Ry Jones](https://github.com/ryjones) | 76 | LFDT Staff |
 

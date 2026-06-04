@@ -24,7 +24,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 3 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 3 | Lab Leader |
 | 2 | mudit sarda | 2 | — |
 | 3 | suz00i | 1 | — |
 | 4 | darrello | 1 | Project Maintainer |
@@ -34,7 +34,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 3 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 3 | Lab Leader |
 | 2 | mudit sarda | 2 | — |
 | 3 | suz00i | 1 | — |
 | 4 | darrello | 1 | Project Maintainer |

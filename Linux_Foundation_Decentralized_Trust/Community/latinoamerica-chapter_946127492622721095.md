@@ -28,7 +28,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | amitthosare | 1 | Credebl maintainer, Project Maintainer |
 | 2 | [Ajay Jadhav](https://github.com/ajile-in) | 1 | Credebl maintainer, Project Maintainer |
-| 3 | knagware | 1 | Chapter Leader |
+| 3 | [knagware](https://github.com/knagware) | 1 | Chapter Leader |
 
 ### All Time
 

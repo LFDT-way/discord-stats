@@ -48,7 +48,7 @@
 | 2 | [Ry Jones](https://github.com/ryjones) | 24 | LFDT Staff |
 | 3 | Alfonz | 16 | — |
 | 4 | TheRogueVigilante | 13 | — |
-| 5 | vramaiitkgp | 9 | TAC member, Cacti Maintainer |
+| 5 | [vramaiitkgp](https://github.com/VRamakrishna) | 9 | TAC member, Cacti Maintainer |
 
 ### All Time
 

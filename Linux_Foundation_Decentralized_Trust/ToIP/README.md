@@ -41,7 +41,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | microbiocarly | 23 | Project Maintainer, ToIP |
-| 2 | sankarshan | 21 | Lab Leader |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 21 | Lab Leader |
 | 3 | [drummondreed](https://github.com/talltree) | 20 | Project Maintainer, ToIP |
 | 4 | stevevitka | 14 | ToIP |
 | 5 | [firegod](https://github.com/wenjing) | 7 | Project Maintainer, ToIP |
@@ -50,7 +50,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 191 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 191 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 102 | Project Maintainer, ToIP |
 | 3 | microbiocarly | 100 | Project Maintainer, ToIP |
 | 4 | [firegod](https://github.com/wenjing) | 68 | Project Maintainer, ToIP |
@@ -60,7 +60,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 379 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 379 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 367 | Project Maintainer, ToIP |
 | 3 | microbiocarly | 352 | Project Maintainer, ToIP |
 | 4 | [firegod](https://github.com/wenjing) | 261 | Project Maintainer, ToIP |
@@ -70,7 +70,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 379 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 379 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 373 | Project Maintainer, ToIP |
 | 3 | microbiocarly | 356 | Project Maintainer, ToIP |
 | 4 | [firegod](https://github.com/wenjing) | 261 | Project Maintainer, ToIP |

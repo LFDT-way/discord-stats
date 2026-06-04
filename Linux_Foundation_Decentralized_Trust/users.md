@@ -11,7 +11,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 575 | LFDT Staff |
 | 2 | [explorer3](https://github.com/exploreriii) | 407 | Project Maintainer, Hiero maintainer |
-| 3 | sankarshan | 382 | Lab Leader |
+| 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 382 | Lab Leader |
 | 4 | [drummondreed](https://github.com/talltree) | 371 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 352 | Project Maintainer, ToIP |
 | 6 | [Matthew Whitehead](https://github.com/matthew1001) | 282 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
@@ -38,12 +38,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 27 | [Angelo De Caro](https://github.com/adecaro) | 77 | Project Maintainer, Fabric Maintainer, Lab Leader |
 | 28 | [Anna McAllister](https://github.com/annamcallister) | 76 | Paladin Maintainer, Project Maintainer, Lab Leader |
 | 29 | [davidwboswell](https://github.com/davidwboswell) | 73 | LFDT Staff |
-| 30 | Justin Florentine | 72 | Project Maintainer, Besu Maintainer |
+| 30 | [Justin Florentine](https://github.com/jflo) | 72 | Project Maintainer, Besu Maintainer |
 | 31 | stevevitka | 71 | ToIP |
 | 32 | NorfolkAndChance | 71 | Project Maintainer |
 | 33 | [FabioPinheiro](https://github.com/FabioPinheiro) | 68 | Identus Maintainer, Project Maintainer |
 | 34 | George Tebrean | 66 | Project Maintainer, Web3j Maintainer |
-| 35 | vramaiitkgp | 65 | TAC member, Cacti Maintainer |
+| 35 | [vramaiitkgp](https://github.com/VRamakrishna) | 65 | TAC member, Cacti Maintainer |
 | 36 | [hendrik.ebbers](https://github.com/hendrikebbers) | 63 | TAC member, Project Maintainer, Hiero maintainer |
 | 37 | [Roger](https://github.com/rbarker-dev) | 62 | Project Maintainer, Hiero maintainer |
 | 38 | jonbauer | 58 | Identus Maintainer, Project Maintainer |
@@ -90,12 +90,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 79 | Golang Ninja | 25 | — |
 | 80 | JordyDutch \| Stakingverse.io | 25 | — |
 | 81 | [Liran Funaro](https://github.com/liran-funaro) | 25 | — |
-| 82 | sandeepn | 25 | Lab Leader, Cacti Maintainer |
+| 82 | [sandeepn](https://github.com/sandeepnRES) | 25 | Lab Leader, Cacti Maintainer |
 | 83 | davidfdr | 24 | — |
 | 84 | JASHK | 23 | — |
 | 85 | JRM | 22 | — |
 | 86 | Abhigyan Singh | 21 | — |
-| 87 | cjhowland | 21 | Working Group Leader |
+| 87 | [cjhowland](https://github.com/cjhowland) | 21 | Working Group Leader |
 | 88 | Patrick St-Louis | 21 | Project Maintainer, ToIP |
 | 89 | Tweeddalex | 20 | Project Maintainer, ToIP |
 | 90 | hstar | 20 | — |
@@ -113,7 +113,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 102 | Byteledger | 18 | — |
 | 103 | Robin Huiser \| Omnumi | 18 | — |
 | 104 | Mohit Yadav | 17 | — |
-| 105 | knagware | 17 | Chapter Leader |
+| 105 | [knagware](https://github.com/knagware) | 17 | Chapter Leader |
 | 106 | Vaclav.Janecek | 17 | — |
 | 107 | AgrimTawani \| Cryptobazaar | 17 | — |
 | 108 | Sohn | 17 | — |
@@ -132,7 +132,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 121 | matkt - on vacation ✈️ | 15 | Project Maintainer, Besu Maintainer |
 | 122 | noble883 | 14 | — |
 | 123 | [a.hamlat](https://github.com/ahamlat) | 14 | Project Maintainer, Besu Maintainer |
-| 124 | jtonline | 14 | Project Maintainer, Fabric Maintainer |
+| 124 | [jtonline](https://github.com/jt-nti) | 14 | Project Maintainer, Fabric Maintainer |
 | 125 | [SonicSwordcane](https://github.com/SupernaviX) | 14 | Project Maintainer, Firefly Maintainer |
 | 126 | rob | 14 | Project Maintainer, Hiero maintainer |
 | 127 | shridhar panigrahi | 14 | — |
@@ -221,7 +221,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 210 | bcman | 7 | — |
 | 211 | Cartoon | 7 | — |
 | 212 | Soul | 7 | — |
-| 213 | cheng | 7 | Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 213 | [cheng](https://github.com/Chengxuan) | 7 | Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 214 | Chandoo | 7 | — |
 | 215 | rg | 7 | — |
 | 216 | grokism | 7 | — |
@@ -294,8 +294,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 283 | Parv | 5 | — |
 | 284 | Sachin Kumar | 5 | — |
 | 285 | Vivek singh solanki | 5 | — |
-| 286 | shemnon | 5 | — |
-| 287 | diegoll | 5 | Project Maintainer, Besu Maintainer |
+| 286 | [shemnon](https://github.com/shemnon) | 5 | — |
+| 287 | [diegoll](https://github.com/diega) | 5 | Project Maintainer, Besu Maintainer |
 | 288 | Frost Dragon | 5 | — |
 | 289 | ζατch bell | 5 | — |
 | 290 | [Kim Ebert](https://github.com/KimEbert42) | 5 | Indy Maintainer |
@@ -341,7 +341,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 330 | [newton_meter (Kevin Millikin)](https://github.com/kmillikin) | 4 | TAC member, Project Maintainer, Minokawa Maintainer |
 | 331 | Jessie | 4 | — |
 | 332 | kfs | 4 | Lab Leader |
-| 333 | weijia0328 | 4 | Project Maintainer, Smoot Maintainer |
+| 333 | [weijia0328](https://github.com/weijia31415) | 4 | Project Maintainer, Smoot Maintainer |
 | 334 | Michael (Web 7.0 Foundation) | 4 | Project Maintainer, ToIP |
 | 335 | Peter Metz | 4 | — |
 | 336 | lisarue | 4 | — |
@@ -493,7 +493,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 482 | Fluent Crafter | 2 | — |
 | 483 | Ashhar | 2 | — |
 | 484 | Julius278 | 2 | — |
-| 485 | Wayne Collier | 2 | Lab Leader |
+| 485 | [Wayne Collier](https://github.com/waynecollier-da) | 2 | Lab Leader |
 | 486 | extraFair10👾 | 2 | — |
 | 487 | Kyle | 2 | — |
 | 488 | Anura_G | 2 | — |
@@ -644,7 +644,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 633 | tobias-mierzwa | 1 | — |
 | 634 | Narendra_311 | 1 | — |
 | 635 | BayuSwari | 1 | — |
-| 636 | mikelodder | 1 | Project Maintainer, Lab Leader |
+| 636 | [mikelodder](https://github.com/mikelodder) | 1 | Project Maintainer, Lab Leader |
 | 637 | Ethan | 1 | — |
 | 638 | Plukanine7.btc | 1 | — |
 | 639 | xarvis11 | 1 | — |

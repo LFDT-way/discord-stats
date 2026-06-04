@@ -46,7 +46,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 53 | Linux Foundation Staff |
 | 2 | davidejalexander | 43 | SIG member |
-| 3 | cjhowland | 32 | Project Maintainer |
+| 3 | [cjhowland](https://github.com/cjhowland) | 32 | Project Maintainer |
 | 4 | [Mirko](https://github.com/cre8) | 12 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 5 | Samuel | 5 | SIG member |
 

@@ -32,7 +32,7 @@ _No activity in this period._
 | 2 | jpsauvebr | 8 | — |
 | 3 | [Ry Jones](https://github.com/ryjones) | 8 | LFDT Staff |
 | 4 | [mbwhite](https://github.com/mbwhite) | 6 | Project Maintainer, Fabric Maintainer |
-| 5 | knagware | 3 | Chapter Leader |
+| 5 | [knagware](https://github.com/knagware) | 3 | Chapter Leader |
 
 ## Yearly Traffic
 

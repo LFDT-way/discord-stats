@@ -16,14 +16,14 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 2 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 2 | Lab Leader |
 | 2 | Nicky H | 1 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 10 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 10 | Lab Leader |
 | 2 | Nicky H | 5 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
 | 4 | Eric Drury | 2 | Project Maintainer, ToIP |
@@ -32,7 +32,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 37 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 37 | Lab Leader |
 | 2 | Nicky H | 17 | Project Maintainer, ToIP |
 | 3 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
 | 4 | [drummondreed](https://github.com/talltree) | 11 | Project Maintainer, ToIP |
@@ -42,7 +42,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | sankarshan | 37 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 37 | Lab Leader |
 | 2 | Nicky H | 17 | Project Maintainer, ToIP |
 | 3 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
 | 4 | [drummondreed](https://github.com/talltree) | 11 | Project Maintainer, ToIP |

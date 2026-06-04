@@ -20,7 +20,7 @@
 | 2 | Henk van Cann | 1 | Project Maintainer, ToIP |
 | 3 | microbiocarly | 1 | Project Maintainer, ToIP |
 | 4 | Adligo | 1 | — |
-| 5 | sankarshan | 1 | Lab Leader |
+| 5 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 1 | Lab Leader |
 
 ### Last 90 Days
 
@@ -29,7 +29,7 @@
 | 1 | [drummondreed](https://github.com/talltree) | 7 | Project Maintainer, ToIP |
 | 2 | microbiocarly | 4 | Project Maintainer, ToIP |
 | 3 | Henk van Cann | 2 | Project Maintainer, ToIP |
-| 4 | sankarshan | 2 | Lab Leader |
+| 4 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 2 | Lab Leader |
 | 5 | Adligo | 1 | — |
 
 ### Last 365 Days
@@ -40,7 +40,7 @@
 | 2 | Henk van Cann | 14 | Project Maintainer, ToIP |
 | 3 | microbiocarly | 9 | Project Maintainer, ToIP |
 | 4 | stevevitka | 4 | ToIP |
-| 5 | sankarshan | 3 | Lab Leader |
+| 5 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 3 | Lab Leader |
 
 ### All Time
 
@@ -50,7 +50,7 @@
 | 2 | Henk van Cann | 14 | Project Maintainer, ToIP |
 | 3 | microbiocarly | 9 | Project Maintainer, ToIP |
 | 4 | stevevitka | 4 | ToIP |
-| 5 | sankarshan | 3 | Lab Leader |
+| 5 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 3 | Lab Leader |
 
 ## Yearly Traffic
 
