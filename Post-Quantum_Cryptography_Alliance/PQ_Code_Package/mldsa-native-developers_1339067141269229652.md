@@ -16,7 +16,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Matthias Kannwischer | 11 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 11 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | Hanno | 2 | PQ Code Package Maintainer |
 | 3 | [RyJones](https://github.com/ryjones) | 2 | LF Staff |
 
@@ -24,7 +24,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Matthias Kannwischer | 46 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 46 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | Rod | 18 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | [RyJones](https://github.com/ryjones) | 10 | LF Staff |
 | 4 | Hanno | 5 | PQ Code Package Maintainer |
@@ -34,7 +34,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Matthias Kannwischer | 574 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 574 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | Rod | 572 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 97 | PQ Code Package Maintainer |
 | 4 | Jake | 83 | PQ Code Package Maintainer, Project Maintainer |
@@ -45,7 +45,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 800 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | Matthias Kannwischer | 797 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 797 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 162 | PQ Code Package Maintainer |
 | 4 | Jake | 162 | PQ Code Package Maintainer, Project Maintainer |
 | 5 | Brendan | 53 | — |

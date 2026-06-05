@@ -2,9 +2,9 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
-- **Total Messages in Category:** 3,394
-- **Last 30 Days:** 94
-- **Last 90 Days:** 246
+- **Total Messages in Category:** 3,401
+- **Last 30 Days:** 93
+- **Last 90 Days:** 253
 - **Last 365 Days:** 1,471
 - **First Message:** 2023-11-08
 - **Last Message:** 2026-06-04
@@ -13,10 +13,10 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credo](credo_1179453305856991263.md) | 2026-05-21 | 3 | 20 | 252 | 1,059 |
-| [bifold](bifold_1209891839071756419.md) | 2026-06-02 | 19 | 36 | 229 | 883 |
-| [multipaz](multipaz_1179828955717574707.md) | 2026-06-04 | 12 | 59 | 512 | 579 |
-| [eudiplo](eudiplo_1399429216604258365.md) | 2026-06-03 | 55 | 115 | 340 | 340 |
+| [credo](credo_1179453305856991263.md) | 2026-06-04 | 5 | 22 | 251 | 1,061 |
+| [bifold](bifold_1209891839071756419.md) | 2026-06-02 | 19 | 36 | 225 | 883 |
+| [multipaz](multipaz_1179828955717574707.md) | 2026-06-04 | 17 | 64 | 517 | 584 |
+| [eudiplo](eudiplo_1399429216604258365.md) | 2026-06-03 | 47 | 115 | 340 | 340 |
 | [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-03-14 | 0 | 1 | 80 | 240 |
 | [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 1 | 16 | 105 |
 | [owl](owl_1214965981470924911.md) | 2026-05-07 | 1 | 5 | 12 | 85 |
@@ -30,11 +30,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 29 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | Cyril | 21 | — |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 10 | Linux Foundation Staff |
+| 1 | [Mirko](https://github.com/cre8) | 27 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | Cyril | 15 | — |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 11 | Linux Foundation Staff |
 | 4 | Sodium | 10 | — |
-| 5 | [Ry Jones, OWF](https://github.com/ryjones) | 6 | Linux Foundation Staff |
+| 5 | [davidz25](https://github.com/davidz25) | 8 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 
 ### Last 90 Days
 
@@ -42,15 +42,15 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 64 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | Cyril | 41 | — |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 31 | Linux Foundation Staff |
-| 4 | [davidz25](https://github.com/davidz25) | 18 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 32 | Linux Foundation Staff |
+| 4 | [davidz25](https://github.com/davidz25) | 22 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 5 | [Ry Jones, OWF](https://github.com/ryjones) | 12 | Linux Foundation Staff |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [davidz25](https://github.com/davidz25) | 220 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 1 | [davidz25](https://github.com/davidz25) | 224 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 2 | [Mirko](https://github.com/cre8) | 196 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 97 | Linux Foundation Staff |
 | 4 | Cyril | 78 | — |
@@ -60,17 +60,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [davidz25](https://github.com/davidz25) | 258 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 1 | [davidz25](https://github.com/davidz25) | 262 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 2 | [Mirko](https://github.com/cre8) | 241 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 184 | Linux Foundation Staff |
-| 4 | [Timo Glastra](https://github.com/TimoGlastra) | 169 | credo maintainers, Project Maintainer |
-| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 168 | Linux Foundation Staff |
+| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 169 | Linux Foundation Staff |
+| 5 | [Timo Glastra](https://github.com/TimoGlastra) | 169 | credo maintainers, Project Maintainer |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 599 |
+| 2026 | 606 |
 | 2025 | 1,412 |
 | 2024 | 1,309 |
 | 2023 | 74 |
@@ -79,7 +79,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 8 |
+| 2026-06 | 15 |
 | 2026-05 | 89 |
 | 2026-04 | 73 |
 | 2026-03 | 95 |
@@ -116,7 +116,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-06-04 | 1 |
+| 2026-06-04 | 8 |
 | 2026-06-03 | 2 |
 | 2026-06-02 | 4 |
 | 2026-06-01 | 1 |

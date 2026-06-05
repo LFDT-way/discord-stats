@@ -5,7 +5,7 @@
 - **Channel ID:** 1414671336697233499
 - **Total Messages:** 74
 - **Last 30 Days:** 11
-- **Last 90 Days:** 40
+- **Last 90 Days:** 39
 - **Last 365 Days:** 74
 - **First Message:** 2025-09-30
 - **Last Message:** 2026-05-29
@@ -26,7 +26,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 12 | Project Maintainer, ToIP |
+| 1 | microbiocarly | 11 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 9 | Lab Leader |
 | 3 | Eric Drury | 7 | Project Maintainer, ToIP |
 | 4 | [drummondreed](https://github.com/talltree) | 6 | Project Maintainer, ToIP |

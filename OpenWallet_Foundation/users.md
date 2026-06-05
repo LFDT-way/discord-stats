@@ -5,50 +5,50 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 161
-- **Messages (365d):** 2,521
+- **Messages (365d):** 2,517
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 260 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [davidz25](https://github.com/davidz25) | 220 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 211 | Linux Foundation Staff |
+| 2 | [davidz25](https://github.com/davidz25) | 224 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 209 | Linux Foundation Staff |
 | 4 | [Ry Jones, OWF](https://github.com/ryjones) | 141 | Linux Foundation Staff |
-| 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 121 | Lab Maintainer |
+| 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 120 | Lab Maintainer |
 | 6 | [Timo Glastra](https://github.com/TimoGlastra) | 100 | credo maintainers, Project Maintainer |
 | 7 | Cyril | 78 | — |
 | 8 | [bryce-mcmath](https://github.com/bryce-mcmath) | 57 | bifold maintainers, Project Maintainer |
 | 9 | [firegod](https://github.com/wenjing) | 55 | — |
-| 10 | albertoleon_7794 | 55 | — |
-| 11 | kevinaboos | 54 | — |
+| 10 | kevinaboos | 54 | — |
+| 11 | albertoleon_7794 | 53 | — |
 | 12 | diegoz (OpenMobileHub, Multipaz) | 51 | Lab Maintainer, multipaz maintainer |
 | 13 | davidejalexander | 45 | SIG member |
 | 14 | Timbl | 42 | — |
 | 15 | PStLouis | 42 | Lab Maintainer, Project Maintainer |
 | 16 | ayu | 41 | — |
 | 17 | [Peter Sorotokin](https://github.com/sorotokin) | 39 | — |
-| 18 | [swcurran](https://github.com/swcurran) | 37 | Lab Maintainer, TAC members, Project Maintainer |
-| 19 | [jamshale](https://github.com/jamshale) | 37 | Project Maintainer |
+| 18 | [jamshale](https://github.com/jamshale) | 37 | Project Maintainer |
+| 19 | [swcurran](https://github.com/swcurran) | 35 | Lab Maintainer, TAC members, Project Maintainer |
 | 20 | coltonidle | 33 | — |
 | 21 | [cjhowland](https://github.com/cjhowland) | 32 | Project Maintainer |
 | 22 | ζατch bell | 31 | — |
 | 23 | thidalgo | 31 | — |
 | 24 | hanlu | 30 | multipaz maintainer |
-| 25 | [VishnuSanal](https://github.com/VishnuSanal) | 29 | multipaz maintainer, Project Maintainer |
-| 26 | Thomas Tran | 28 | Lab Maintainer |
-| 27 | [GenAris](https://github.com/genaris) | 28 | credo maintainers, Project Maintainer |
+| 25 | [GenAris](https://github.com/genaris) | 29 | credo maintainers, Project Maintainer |
+| 26 | [VishnuSanal](https://github.com/VishnuSanal) | 29 | multipaz maintainer, Project Maintainer |
+| 27 | Thomas Tran | 28 | Lab Maintainer |
 | 28 | Michiel | 25 | — |
 | 29 | spheroid | 24 | — |
 | 30 | ai Igor | 24 | — |
-| 31 | Graham | 22 | — |
+| 31 | Graham | 23 | — |
 | 32 | Pragya Jain | 17 | — |
 | 33 | [drummondreed](https://github.com/talltree) | 16 | — |
 | 34 | R4 | 16 | — |
 | 35 | [Wade Barnes](https://github.com/WadeBarnes) | 15 | — |
-| 36 | Jorge F. | 14 | Lab Maintainer |
-| 37 | Anshulip | 13 | — |
-| 38 | Samuel | 13 | SIG member |
-| 39 | Jason | 13 | bifold maintainers, Project Maintainer |
-| 40 | kukgini | 11 | — |
+| 36 | Anshulip | 13 | — |
+| 37 | Samuel | 13 | SIG member |
+| 38 | Jorge F. | 13 | Lab Maintainer |
+| 39 | kukgini | 11 | — |
+| 40 | Jason | 11 | bifold maintainers, Project Maintainer |
 | 41 | friendlyfire137 | 11 | Project Maintainer |
 | 42 | sirawt | 10 | — |
 | 43 | RMLearney | 10 | — |

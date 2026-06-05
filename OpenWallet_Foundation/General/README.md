@@ -3,7 +3,7 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1022962884864643218
 - **Total Messages in Category:** 1,855
-- **Last 30 Days:** 7
+- **Last 30 Days:** 5
 - **Last 90 Days:** 11
 - **Last 365 Days:** 111
 - **First Message:** 2022-09-23
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [welcome-landing](welcome-landing_1022962884864643219.md) | 2025-09-26 | 0 | 0 | 7 | 1,076 |
-| [general](general_1023188132042133574.md) | 2026-05-28 | 6 | 9 | 86 | 371 |
+| [general](general_1023188132042133574.md) | 2026-05-28 | 4 | 9 | 86 | 371 |
 | [introductions](introductions_1023219299902570589.md) | 2026-05-20 | 1 | 1 | 3 | 99 |
 | [community-connect](community-connect_1022965117362634855.md) | 2025-10-25 | 0 | 0 | 1 | 90 |
 | [ideas-and-feedback](ideas-and-feedback_1022962884864643221.md) | 2025-11-11 | 0 | 0 | 4 | 54 |
@@ -34,10 +34,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 3 | Linux Foundation Staff |
-| 2 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | BrunoM | 1 | — |
-| 4 | tume2104 | 1 | — |
+| 1 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
+| 3 | tume2104 | 1 | — |
 
 ### Last 90 Days
 

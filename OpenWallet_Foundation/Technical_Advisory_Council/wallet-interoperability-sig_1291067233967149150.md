@@ -4,7 +4,7 @@
 - **Category:** Technical Advisory Council
 - **Channel ID:** 1291067233967149150
 - **Total Messages:** 204
-- **Last 30 Days:** 5
+- **Last 30 Days:** 4
 - **Last 90 Days:** 7
 - **Last 365 Days:** 92
 - **First Message:** 2024-10-02
@@ -16,7 +16,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 4 | Linux Foundation Staff |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 3 | Linux Foundation Staff |
 | 2 | [drummondreed](https://github.com/talltree) | 1 | — |
 
 ### Last 90 Days

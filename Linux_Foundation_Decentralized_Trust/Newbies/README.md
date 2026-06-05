@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 1,247
 - **Last 30 Days:** 19
 - **Last 90 Days:** 37
-- **Last 365 Days:** 159
+- **Last 365 Days:** 158
 - **First Message:** 2023-09-10
 - **Last Message:** 2026-06-01
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric-newbies](fabric-newbies_1150488600975245412.md) | 2026-06-01 | 19 | 29 | 141 | 1,098 |
+| [fabric-newbies](fabric-newbies_1150488600975245412.md) | 2026-06-01 | 19 | 29 | 140 | 1,098 |
 | [firefly-newbies](firefly-newbies_1154921177207275520.md) | 2026-04-07 | 0 | 8 | 18 | 149 |
 
 ## Most Active Users

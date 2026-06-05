@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 941383941217222708
 - **Total Messages in Category:** 1,498
-- **Last 30 Days:** 37
+- **Last 30 Days:** 34
 - **Last 90 Days:** 89
 - **Last 365 Days:** 312
 - **First Message:** 2022-02-10
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-06-02 | 37 | 71 | 184 | 1,081 |
+| [tac](tac_941384040316018790.md) | 2026-06-02 | 34 | 71 | 184 | 1,081 |
 | [documentation-task-force](documentation-task-force_1070733392020246620.md) | 2025-06-11 | 0 | 0 | 1 | 117 |
 | [onboarding-content-task-force](onboarding-content-task-force_1070733078772854856.md) | 2025-11-07 | 0 | 0 | 10 | 94 |
 | [badging-lifecycle-tf](badging-lifecycle-tf_1139220569531875389.md) | 2024-08-16 | 0 | 0 | 0 | 66 |
@@ -31,9 +31,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Arun S M](https://github.com/arsulegai) | 12 | TAC member, Chapter Leader |
 | 2 | [Angelo De Caro](https://github.com/adecaro) | 7 | Project Maintainer, Fabric Maintainer, Lab Leader |
-| 3 | [davidwboswell](https://github.com/davidwboswell) | 6 | LFDT Staff |
-| 4 | [Ry Jones](https://github.com/ryjones) | 4 | LFDT Staff |
-| 5 | [Diane Mueller](https://github.com/dmueller2001) | 4 | TAC member |
+| 3 | [Ry Jones](https://github.com/ryjones) | 4 | LFDT Staff |
+| 4 | [Diane Mueller](https://github.com/dmueller2001) | 4 | TAC member |
+| 5 | [davidwboswell](https://github.com/davidwboswell) | 3 | LFDT Staff |
 
 ### Last 90 Days
 

@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 984081554458427402
 - **Total Messages in Category:** 365
-- **Last 30 Days:** 6
+- **Last 30 Days:** 5
 - **Last 90 Days:** 20
 - **Last 365 Days:** 25
 - **First Message:** 2022-03-16
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [lfdt-mentorships](lfdt-mentorships_953059038910890034.md) | 2026-05-28 | 6 | 20 | 25 | 365 |
+| [lfdt-mentorships](lfdt-mentorships_953059038910890034.md) | 2026-05-28 | 5 | 20 | 25 | 365 |
 
 ## Most Active Users
 
@@ -25,7 +25,6 @@
 | 2 | [explorer3](https://github.com/exploreriii) | 1 | Project Maintainer, Hiero maintainer |
 | 3 | AgrimTawani \| Cryptobazaar | 1 | — |
 | 4 | sidd_190 | 1 | — |
-| 5 | Parth Singh PS | 1 | — |
 
 ### Last 90 Days
 

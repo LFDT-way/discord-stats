@@ -4,7 +4,7 @@
 - **Category:** Hiero
 - **Channel ID:** 1469079849158049933
 - **Total Messages:** 16
-- **Last 30 Days:** 1
+- **Last 30 Days:** 0
 - **Last 90 Days:** 1
 - **Last 365 Days:** 16
 - **First Message:** 2026-02-05
@@ -14,9 +14,7 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | ocean-oc3ean | 1 | — |
+_No activity in this period._
 
 ### Last 90 Days
 

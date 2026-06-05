@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1430941644034670794
 - **Total Messages in Category:** 694
-- **Last 30 Days:** 25
+- **Last 30 Days:** 24
 - **Last 90 Days:** 56
-- **Last 365 Days:** 384
+- **Last 365 Days:** 382
 - **First Message:** 2024-07-08
 - **Last Message:** 2026-06-02
 
@@ -13,10 +13,10 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [paladin-maintainers](paladin-maintainers_1332404027052392488.md) | 2026-06-02 | 6 | 13 | 205 | 267 |
+| [paladin-maintainers](paladin-maintainers_1332404027052392488.md) | 2026-06-02 | 6 | 13 | 203 | 267 |
 | [paladin](paladin_1303371167020879903.md) | 2026-05-26 | 4 | 19 | 108 | 247 |
 | [zeto](zeto_1259800071185367040.md) | 2026-04-20 | 0 | 2 | 24 | 133 |
-| [paladin-general](paladin-general_1430941784610963538.md) | 2026-06-01 | 15 | 22 | 36 | 36 |
+| [paladin-general](paladin-general_1430941784610963538.md) | 2026-06-01 | 14 | 22 | 36 | 36 |
 | [paladin-release](paladin-release_1435984838388875284.md) | 2025-11-10 | 0 | 0 | 11 | 11 |
 
 ## Most Active Users

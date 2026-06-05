@@ -4,7 +4,7 @@
 - **Category:** ToIP
 - **Channel ID:** 1414671546940915854
 - **Total Messages:** 35
-- **Last 30 Days:** 5
+- **Last 30 Days:** 0
 - **Last 90 Days:** 23
 - **Last 365 Days:** 35
 - **First Message:** 2025-10-02
@@ -14,10 +14,7 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | Tweeddalex | 3 | Project Maintainer, ToIP |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 2 | Lab Leader |
+_No activity in this period._
 
 ### Last 90 Days
 

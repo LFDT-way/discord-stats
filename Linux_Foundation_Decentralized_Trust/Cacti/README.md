@@ -2,10 +2,10 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515538766254102
-- **Total Messages in Category:** 1,999
-- **Last 30 Days:** 31
-- **Last 90 Days:** 136
-- **Last 365 Days:** 423
+- **Total Messages in Category:** 2,003
+- **Last 30 Days:** 33
+- **Last 90 Days:** 140
+- **Last 365 Days:** 427
 - **First Message:** 2021-11-11
 - **Last Message:** 2026-06-04
 
@@ -13,10 +13,10 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-06-03 | 27 | 104 | 339 | 1,520 |
+| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-06-04 | 28 | 107 | 342 | 1,523 |
 | [cacti-users](cacti-users_908379366650703943.md) | 2026-06-04 | 2 | 26 | 72 | 445 |
 | [cacti-resources](cacti-resources_908349711537299497.md) | 2026-04-03 | 0 | 1 | 3 | 20 |
-| [cacti-announcements](cacti-announcements_908380513310498847.md) | 2026-05-29 | 2 | 5 | 9 | 14 |
+| [cacti-announcements](cacti-announcements_908380513310498847.md) | 2026-06-04 | 3 | 6 | 10 | 15 |
 
 ## Most Active Users
 
@@ -24,7 +24,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [rafaelapb](https://github.com/RafaelAPB) | 12 | Project Maintainer, Cacti Maintainer |
+| 1 | [rafaelapb](https://github.com/RafaelAPB) | 13 | Project Maintainer, Cacti Maintainer |
 | 2 | Parth Singh PS | 4 | — |
 | 3 | Abhayraj_jais__ | 3 | — |
 | 4 | Mustafa | 2 | — |
@@ -34,7 +34,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [rafaelapb](https://github.com/RafaelAPB) | 29 | Project Maintainer, Cacti Maintainer |
+| 1 | [rafaelapb](https://github.com/RafaelAPB) | 30 | Project Maintainer, Cacti Maintainer |
 | 2 | Somesh | 27 | — |
 | 3 | Abhayraj_jais__ | 9 | — |
 | 4 | [Carlos Amaro](https://github.com/LordKubaya) | 9 | Project Maintainer, Cacti Maintainer |
@@ -44,7 +44,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [rafaelapb](https://github.com/RafaelAPB) | 160 | Project Maintainer, Cacti Maintainer |
+| 1 | [rafaelapb](https://github.com/RafaelAPB) | 161 | Project Maintainer, Cacti Maintainer |
 | 2 | [vramaiitkgp](https://github.com/VRamakrishna) | 48 | TAC member, Cacti Maintainer |
 | 3 | [Carlos Amaro](https://github.com/LordKubaya) | 31 | Project Maintainer, Cacti Maintainer |
 | 4 | Somesh | 27 | — |
@@ -55,7 +55,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Peter Metz | 392 | — |
-| 2 | [rafaelapb](https://github.com/RafaelAPB) | 260 | Project Maintainer, Cacti Maintainer |
+| 2 | [rafaelapb](https://github.com/RafaelAPB) | 261 | Project Maintainer, Cacti Maintainer |
 | 3 | [vramaiitkgp](https://github.com/VRamakrishna) | 140 | TAC member, Cacti Maintainer |
 | 4 | Diderot1937 | 114 | — |
 | 5 | [Ry Jones](https://github.com/ryjones) | 76 | LFDT Staff |
@@ -64,7 +64,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 166 |
+| 2026 | 170 |
 | 2025 | 423 |
 | 2024 | 413 |
 | 2023 | 334 |
@@ -75,7 +75,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 4 |
+| 2026-06 | 8 |
 | 2026-05 | 32 |
 | 2026-04 | 79 |
 | 2026-03 | 21 |
@@ -134,7 +134,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-06-04 | 1 |
+| 2026-06-04 | 5 |
 | 2026-06-03 | 2 |
 | 2026-06-01 | 1 |
 | 2026-05-31 | 1 |

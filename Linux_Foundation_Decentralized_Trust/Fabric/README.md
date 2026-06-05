@@ -4,8 +4,8 @@
 - **Category ID:** 905205464046915585
 - **Total Messages in Category:** 13,149
 - **Last 30 Days:** 44
-- **Last 90 Days:** 175
-- **Last 365 Days:** 693
+- **Last 90 Days:** 169
+- **Last 365 Days:** 691
 - **First Message:** 2021-11-07
 - **Last Message:** 2026-05-28
 
@@ -16,9 +16,9 @@
 | [fabric](fabric_905205541326975046.md) | 2026-05-28 | 10 | 42 | 216 | 6,686 |
 | [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 1 | 34 | 964 |
 | [fabric-private-chaincode](fabric-private-chaincode_943059293765267497.md) | 2026-05-12 | 1 | 1 | 30 | 948 |
-| [fabric-peer](fabric-peer_945037339170836501.md) | 2026-04-10 | 0 | 4 | 18 | 863 |
-| [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-05-10 | 1 | 7 | 23 | 776 |
-| [fabric-orderer](fabric-orderer_945037581500940298.md) | 2026-04-12 | 0 | 3 | 46 | 727 |
+| [fabric-peer](fabric-peer_945037339170836501.md) | 2026-04-10 | 0 | 2 | 18 | 863 |
+| [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-05-10 | 1 | 5 | 23 | 776 |
+| [fabric-orderer](fabric-orderer_945037581500940298.md) | 2026-04-12 | 0 | 1 | 44 | 727 |
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-07 | 0 | 0 | 2 | 554 |
 | [fabric-code-contributors](fabric-code-contributors_941396957635682314.md) | 2026-05-09 | 1 | 5 | 23 | 354 |
 | [fabric-contract-apis](fabric-contract-apis_943090527920877598.md) | 2025-12-30 | 0 | 0 | 4 | 306 |
@@ -50,7 +50,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Aaradhy Chinche | 28 | — |
-| 2 | [bestbeforetoday](https://github.com/bestbeforetoday) | 17 | Project Maintainer, Fabric Maintainer |
+| 2 | [bestbeforetoday](https://github.com/bestbeforetoday) | 14 | Project Maintainer, Fabric Maintainer |
 | 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 10 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 | 4 | [Ry Jones](https://github.com/ryjones) | 9 | LFDT Staff |
 | 5 | JRM | 8 | — |

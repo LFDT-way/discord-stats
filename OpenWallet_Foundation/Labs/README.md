@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 832
 - **Last 30 Days:** 11
 - **Last 90 Days:** 30
-- **Last 365 Days:** 508
+- **Last 365 Days:** 506
 - **First Message:** 2023-06-02
 - **Last Message:** 2026-05-22
 
@@ -35,7 +35,7 @@
 | [build-wallet-core](build-wallet-core_1268222388982775879.md) | 2025-12-10 | 0 | 0 | 2 | 2 |
 | [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-03-12 | 0 | 2 | 2 | 2 |
 | [openid-federation-ts](openid-federation-ts_1326618196245221426.md) | 2025-10-23 | 0 | 0 | 1 | 2 |
-| [trs](trs_1379838543823900773.md) | 2025-06-04 | 0 | 0 | 2 | 2 |
+| [trs](trs_1379838543823900773.md) | 2025-06-04 | 0 | 0 | 0 | 2 |
 | [learner-credential-wallet](learner-credential-wallet_1271193837880217640.md) | 2025-09-10 | 0 | 0 | 1 | 1 |
 
 ## Most Active Users
@@ -65,7 +65,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones, OWF](https://github.com/ryjones) | 73 | Linux Foundation Staff |
-| 2 | [Lukas.J.Han](https://github.com/lukasjhan) | 67 | Lab Maintainer |
+| 2 | [Lukas.J.Han](https://github.com/lukasjhan) | 66 | Lab Maintainer |
 | 3 | [Timo Glastra](https://github.com/TimoGlastra) | 63 | credo maintainers, Project Maintainer |
 | 4 | kevinaboos | 54 | — |
 | 5 | [firegod](https://github.com/wenjing) | 52 | — |

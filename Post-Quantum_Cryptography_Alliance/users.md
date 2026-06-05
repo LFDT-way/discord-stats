@@ -10,7 +10,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 838 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | Matthias Kannwischer | 721 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 721 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 149 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 103 | LF Staff |
 | 5 | Jake | 83 | PQ Code Package Maintainer, Project Maintainer |

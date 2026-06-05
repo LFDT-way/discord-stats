@@ -3,7 +3,7 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1111041471768961044
 - **Total Messages in Category:** 1,815
-- **Last 30 Days:** 11
+- **Last 30 Days:** 10
 - **Last 90 Days:** 23
 - **Last 365 Days:** 170
 - **First Message:** 2022-09-28
@@ -15,7 +15,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [architecture-sig](architecture-sig_1024688298389688360.md) | 2026-06-01 | 6 | 15 | 49 | 895 |
 | [safe-wallet-sig](safe-wallet-sig_1154410858991067247.md) | 2025-05-12 | 0 | 0 | 0 | 393 |
-| [wallet-interoperability-sig](wallet-interoperability-sig_1291067233967149150.md) | 2026-06-01 | 5 | 7 | 92 | 204 |
+| [wallet-interoperability-sig](wallet-interoperability-sig_1291067233967149150.md) | 2026-06-01 | 4 | 7 | 92 | 204 |
 | [tac](tac_1080192375621685288.md) | 2026-03-12 | 0 | 1 | 19 | 185 |
 | [digital-wallet-and-agent-overviews-sig](digital-wallet-and-agent-overviews-sig_1154111877077532814.md) | 2025-11-17 | 0 | 0 | 10 | 138 |
 
@@ -26,7 +26,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | davidejalexander | 5 | SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 4 | Linux Foundation Staff |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 3 | Linux Foundation Staff |
 | 3 | Ginga | 1 | — |
 | 4 | [drummondreed](https://github.com/talltree) | 1 | — |
 

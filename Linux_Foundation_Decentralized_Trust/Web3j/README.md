@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1195061874950144120
 - **Total Messages in Category:** 1,225
-- **Last 30 Days:** 10
+- **Last 30 Days:** 8
 - **Last 90 Days:** 22
-- **Last 365 Days:** 163
+- **Last 365 Days:** 139
 - **First Message:** 2024-01-11
 - **Last Message:** 2026-05-30
 
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-04-23 | 0 | 1 | 63 | 742 |
-| [web3j-general](web3j-general_1195062053682032700.md) | 2026-05-30 | 10 | 21 | 100 | 483 |
+| [web3j-general](web3j-general_1195062053682032700.md) | 2026-05-30 | 8 | 21 | 76 | 483 |
 
 ## Most Active Users
 
@@ -22,9 +22,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Dev | 3 | — |
-| 2 | George Tebrean | 2 | Project Maintainer, Web3j Maintainer |
-| 3 | Ashhar | 2 | — |
+| 1 | George Tebrean | 2 | Project Maintainer, Web3j Maintainer |
+| 2 | Ashhar | 2 | — |
+| 3 | Dev | 1 | — |
 | 4 | Gaurav | 1 | — |
 | 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
 
@@ -43,10 +43,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | George Tebrean | 60 | Project Maintainer, Web3j Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 19 | LFDT Staff |
-| 3 | Abdelrahman Hedia | 11 | — |
-| 4 | irzinfante | 10 | — |
-| 5 | Dev | 9 | — |
+| 2 | Abdelrahman Hedia | 11 | — |
+| 3 | Dev | 9 | — |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 7 | LFDT Staff |
+| 5 | Roman | 6 | — |
 
 ### All Time
 

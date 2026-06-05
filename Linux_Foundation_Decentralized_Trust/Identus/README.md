@@ -2,21 +2,21 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1226983696306012181
-- **Total Messages in Category:** 1,238
-- **Last 30 Days:** 32
+- **Total Messages in Category:** 1,239
+- **Last 30 Days:** 33
 - **Last 90 Days:** 77
-- **Last 365 Days:** 628
+- **Last 365 Days:** 629
 - **First Message:** 2024-04-10
-- **Last Message:** 2026-06-02
+- **Last Message:** 2026-06-04
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-06-02 | 21 | 40 | 216 | 516 |
+| [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-06-04 | 22 | 41 | 217 | 517 |
 | [sdk-ts](sdk-ts_1252629747389829152.md) | 2026-05-24 | 4 | 18 | 154 | 208 |
 | [cloud-agent](cloud-agent_1252629630763012116.md) | 2025-12-02 | 0 | 0 | 54 | 191 |
-| [general](general_1252630735269925057.md) | 2026-06-02 | 4 | 15 | 125 | 150 |
+| [general](general_1252630735269925057.md) | 2026-06-02 | 4 | 14 | 125 | 150 |
 | [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 47 | 65 |
 | [identus-faq](identus-faq_1252622748073853083.md) | 2025-11-29 | 0 | 0 | 16 | 46 |
 | [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-05-12 | 3 | 3 | 6 | 20 |
@@ -31,7 +31,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Prakhar Singh | 14 | — |
+| 1 | Prakhar Singh | 15 | — |
 | 2 | Yurii Shynbuiev | 7 | Identus Maintainer, Project Maintainer |
 | 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | LFDT Staff |
 | 4 | Anshikaa | 3 | — |
@@ -41,11 +41,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Prakhar Singh | 14 | — |
+| 1 | Prakhar Singh | 15 | — |
 | 2 | [FabioPinheiro](https://github.com/FabioPinheiro) | 13 | Identus Maintainer, Project Maintainer |
 | 3 | Abhigyan Singh | 9 | — |
 | 4 | Yurii Shynbuiev | 8 | Identus Maintainer, Project Maintainer |
-| 5 | havy | 6 | Identus Maintainer, Project Maintainer |
+| 5 | [Magyar](https://github.com/amagyar-iohk) | 5 | Identus Maintainer, Project Maintainer |
 
 ### Last 365 Days
 
@@ -71,7 +71,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 129 |
+| 2026 | 130 |
 | 2025 | 782 |
 | 2024 | 327 |
 
@@ -79,7 +79,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 6 |
+| 2026-06 | 7 |
 | 2026-05 | 30 |
 | 2026-04 | 31 |
 | 2026-03 | 23 |
@@ -111,6 +111,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-04 | 1 |
 | 2026-06-02 | 6 |
 | 2026-05-31 | 1 |
 | 2026-05-30 | 4 |
