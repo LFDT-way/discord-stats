@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414671336697233499
-- **Total Messages:** 74
-- **Last 30 Days:** 11
-- **Last 90 Days:** 39
-- **Last 365 Days:** 74
+- **Total Messages:** 75
+- **Last 30 Days:** 12
+- **Last 90 Days:** 40
+- **Last 365 Days:** 75
 - **First Message:** 2025-09-30
-- **Last Message:** 2026-05-29
+- **Last Message:** 2026-06-05
 
 ## Most Active Users
 
@@ -17,8 +17,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | microbiocarly | 6 | Project Maintainer, ToIP |
-| 2 | NeilJT | 1 | ToIP |
-| 3 | lyn brooks | 1 | Project Maintainer, ToIP |
+| 2 | lyn brooks | 2 | Project Maintainer, ToIP |
+| 3 | NeilJT | 1 | ToIP |
 | 4 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 1 | Lab Leader |
 | 5 | Eric Drury | 1 | Project Maintainer, ToIP |
 
@@ -30,7 +30,7 @@
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 9 | Lab Leader |
 | 3 | Eric Drury | 7 | Project Maintainer, ToIP |
 | 4 | [drummondreed](https://github.com/talltree) | 6 | Project Maintainer, ToIP |
-| 5 | stevevitka | 3 | ToIP |
+| 5 | lyn brooks | 3 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 
@@ -56,13 +56,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 55 |
+| 2026 | 56 |
 | 2025 | 19 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 1 |
 | 2026-05 | 11 |
 | 2026-04 | 5 |
 | 2026-03 | 24 |
@@ -77,6 +78,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-05 | 1 |
 | 2026-05-29 | 1 |
 | 2026-05-25 | 2 |
 | 2026-05-14 | 7 |

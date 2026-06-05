@@ -2,18 +2,18 @@
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1202723483289780234
-- **Total Messages in Category:** 452
-- **Last 30 Days:** 18
-- **Last 90 Days:** 38
-- **Last 365 Days:** 172
+- **Total Messages in Category:** 453
+- **Last 30 Days:** 19
+- **Last 90 Days:** 39
+- **Last 365 Days:** 173
 - **First Message:** 2024-02-01
-- **Last Message:** 2026-05-28
+- **Last Message:** 2026-06-05
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [general](general_1202723483289780236.md) | 2026-05-28 | 17 | 37 | 164 | 414 |
+| [general](general_1202723483289780236.md) | 2026-06-05 | 18 | 38 | 165 | 415 |
 | [linkedin](linkedin_1205645746192261220.md) | 2026-05-24 | 1 | 1 | 8 | 33 |
 | [links](links_1205170239436754974.md) | 2024-02-13 | 0 | 0 | 0 | 4 |
 | [events](events_1214569223012089878.md) | 2025-03-11 | 0 | 0 | 0 | 1 |
@@ -64,7 +64,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 63 |
+| 2026 | 64 |
 | 2025 | 143 |
 | 2024 | 246 |
 
@@ -72,6 +72,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 1 |
 | 2026-05 | 20 |
 | 2026-04 | 14 |
 | 2026-03 | 5 |
@@ -104,6 +105,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-05 | 1 |
 | 2026-05-28 | 3 |
 | 2026-05-27 | 1 |
 | 2026-05-25 | 2 |

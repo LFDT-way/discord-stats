@@ -5,20 +5,20 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Linux Foundation Decentralized Trust
 - **Guild ID:** 905194001349627914
 - **Active Users (365d):** 893
-- **Messages (365d):** 10,553
+- **Messages (365d):** 10,559
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 559 | LFDT Staff |
+| 1 | [Ry Jones](https://github.com/ryjones) | 560 | LFDT Staff |
 | 2 | [explorer3](https://github.com/exploreriii) | 411 | Project Maintainer, Hiero maintainer |
 | 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 382 | Lab Leader |
 | 4 | [drummondreed](https://github.com/talltree) | 371 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 352 | Project Maintainer, ToIP |
-| 6 | [Matthew Whitehead](https://github.com/matthew1001) | 282 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 6 | [Matthew Whitehead](https://github.com/matthew1001) | 283 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 7 | [firegod](https://github.com/wenjing) | 259 | Project Maintainer, ToIP |
 | 8 | [macfarla \| Besu](https://github.com/macfarla) | 208 | Project Maintainer, Besu Maintainer |
 | 9 | [Simon Dudley](https://github.com/siladu) | 207 | Project Maintainer, Besu Maintainer |
-| 10 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 197 | LFDT Staff |
+| 10 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 199 | LFDT Staff |
 | 11 | [JessicaG](https://github.com/jwagantall) | 196 | LFDT Staff |
 | 12 | [rafaelapb](https://github.com/RafaelAPB) | 166 | Project Maintainer, Cacti Maintainer |
 | 13 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 137 | Project Maintainer, ToIP |
@@ -174,22 +174,22 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 163 | 0xbharat | 10 | — |
 | 164 | Smita | 10 | — |
 | 165 | vocalise0219 | 10 | — |
-| 166 | [andrew.richardson](https://github.com/awrichar) | 10 | Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 167 | Phoebe | 10 | — |
-| 168 | Rolf | 10 | — |
-| 169 | Armaver | 10 | — |
-| 170 | soumyaranjan7847 | 10 | — |
-| 171 | zach | 9 | — |
-| 172 | Parth Singh PS | 9 | — |
-| 173 | 76miles | 9 | — |
-| 174 | qwe638853 | 9 | — |
-| 175 | dherrero | 9 | — |
-| 176 | Dev | 9 | — |
-| 177 | [dwertent](https://github.com/dwertent) | 9 | Paladin Maintainer, Project Maintainer, Lab Leader |
-| 178 | [danielabarbosa](https://github.com/daniela-barbosa) | 9 | LFDT Staff |
-| 179 | KrishNa | 9 | Credebl maintainer, Project Maintainer |
-| 180 | Torfinn | 9 | Hiero maintainer |
-| 181 | lyn brooks | 9 | Project Maintainer, ToIP |
+| 166 | qwe638853 | 10 | — |
+| 167 | [andrew.richardson](https://github.com/awrichar) | 10 | Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 168 | lyn brooks | 10 | Project Maintainer, ToIP |
+| 169 | Phoebe | 10 | — |
+| 170 | Rolf | 10 | — |
+| 171 | Armaver | 10 | — |
+| 172 | soumyaranjan7847 | 10 | — |
+| 173 | zach | 9 | — |
+| 174 | Parth Singh PS | 9 | — |
+| 175 | 76miles | 9 | — |
+| 176 | dherrero | 9 | — |
+| 177 | Dev | 9 | — |
+| 178 | [dwertent](https://github.com/dwertent) | 9 | Paladin Maintainer, Project Maintainer, Lab Leader |
+| 179 | [danielabarbosa](https://github.com/daniela-barbosa) | 9 | LFDT Staff |
+| 180 | KrishNa | 9 | Credebl maintainer, Project Maintainer |
+| 181 | Torfinn | 9 | Hiero maintainer |
 | 182 | [Maria Munaro](https://github.com/munapower) | 9 | — |
 | 183 | M₳X | 9 | — |
 | 184 | Mkkoll | 9 | — |

@@ -2,12 +2,12 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515858846158889
-- **Total Messages in Category:** 13,330
-- **Last 30 Days:** 91
-- **Last 90 Days:** 263
-- **Last 365 Days:** 614
+- **Total Messages in Category:** 13,332
+- **Last 30 Days:** 93
+- **Last 90 Days:** 265
+- **Last 365 Days:** 616
 - **First Message:** 2021-11-05
-- **Last Message:** 2026-06-04
+- **Last Message:** 2026-06-05
 
 ## Channels in Category
 
@@ -33,7 +33,7 @@
 | [vs-code-plugin](vs-code-plugin_1249243593475096647.md) | 2025-04-08 | 0 | 0 | 0 | 60 |
 | [cc-tools](cc-tools_1156653969133809715.md) | 2025-05-07 | 0 | 0 | 0 | 45 |
 | [cardea](cardea_1098698391137046679.md) | 2024-10-10 | 0 | 0 | 0 | 44 |
-| [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-06-01 | 40 | 40 | 40 | 40 |
+| [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-06-05 | 42 | 42 | 42 | 42 |
 | [bdls](bdls_1035218321051746344.md) | 2026-03-24 | 0 | 2 | 14 | 37 |
 | [splice](splice_1210332028281688135.md) | 2026-04-22 | 0 | 1 | 5 | 34 |
 | [learning-tokens](learning-tokens_1120853856360878271.md) | 2025-12-17 | 0 | 0 | 2 | 32 |
@@ -68,10 +68,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Byteledger | 14 | — |
-| 2 | Anurag Gupta | 7 | — |
-| 3 | [OpenAssets](https://github.com/pv-sarvesh) | 7 | Lab Leader |
-| 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 7 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | LFDT Staff |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 8 | LFDT Staff |
+| 3 | Anurag Gupta | 7 | — |
+| 4 | [OpenAssets](https://github.com/pv-sarvesh) | 7 | Lab Leader |
+| 5 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 7 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 
 ### Last 90 Days
 
@@ -107,7 +107,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 357 |
+| 2026 | 359 |
 | 2025 | 416 |
 | 2024 | 1,472 |
 | 2023 | 5,274 |
@@ -118,7 +118,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 12 |
+| 2026-06 | 14 |
 | 2026-05 | 90 |
 | 2026-04 | 119 |
 | 2026-03 | 49 |
@@ -177,6 +177,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-05 | 2 |
 | 2026-06-04 | 2 |
 | 2026-06-03 | 1 |
 | 2026-06-02 | 7 |

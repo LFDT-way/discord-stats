@@ -59,8 +59,8 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | [bryce-mcmath](https://github.com/bryce-mcmath) | bifold maintainers, Project Maintainer | 2026-05-27 | 1 | 6 | 57 | 160 | 57 |
 | [Timo Glastra](https://github.com/TimoGlastra) | credo maintainers, Project Maintainer | 2026-04-01 | 0 | 9 | 100 | 261 | 100 |
 | [Lukas.J.Han](https://github.com/lukasjhan) | Lab Maintainer | 2026-03-20 | 0 | 7 | 120 | 286 | 120 |
-| [Ry Jones, OWF](https://github.com/ryjones) | Linux Foundation Staff | 2026-05-25 | 9 | 15 | 141 | 371 | 803 |
-| [Sean Bohan, OWF](https://github.com/SeanBohan) | Linux Foundation Staff | 2026-06-04 | 17 | 48 | 209 | 479 | 406 |
+| [Ry Jones, OWF](https://github.com/ryjones) | Linux Foundation Staff | 2026-05-25 | 9 | 15 | 141 | 371 | 804 |
+| [Sean Bohan, OWF](https://github.com/SeanBohan) | Linux Foundation Staff | 2026-06-04 | 17 | 48 | 209 | 479 | 408 |
 | [davidz25](https://github.com/davidz25) | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer | 2026-06-04 | 8 | 22 | 224 | 265 | 224 |
 | [Mirko](https://github.com/cre8) | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member | 2026-06-03 | 31 | 71 | 260 | 477 | 260 |
 

@@ -2,12 +2,12 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1357322461947101405
-- **Total Messages in Category:** 2,455
-- **Last 30 Days:** 111
-- **Last 90 Days:** 736
-- **Last 365 Days:** 2,432
+- **Total Messages in Category:** 2,456
+- **Last 30 Days:** 112
+- **Last 90 Days:** 737
+- **Last 365 Days:** 2,433
 - **First Message:** 2025-04-03
-- **Last Message:** 2026-06-04
+- **Last Message:** 2026-06-05
 
 ## Channels in Category
 
@@ -23,7 +23,7 @@
 | [toip-risk-assessment-harms-prevention-tf](toip-risk-assessment-harms-prevention-tf_1445860549685678080.md) | 2026-05-09 | 3 | 20 | 95 | 95 |
 | [toip-keri-suite-wg](toip-keri-suite-wg_1414671689005928579.md) | 2026-05-12 | 1 | 14 | 92 | 92 |
 | [toip-symposium](toip-symposium_1414380462863945768.md) | 2025-12-03 | 0 | 0 | 79 | 79 |
-| [toip-ecosystem-governance-wg](toip-ecosystem-governance-wg_1414671336697233499.md) | 2026-05-29 | 11 | 39 | 74 | 74 |
+| [toip-ecosystem-governance-wg](toip-ecosystem-governance-wg_1414671336697233499.md) | 2026-06-05 | 12 | 40 | 75 | 75 |
 | [toip-concepts-terminology-wg](toip-concepts-terminology-wg_1414670384539897876.md) | 2026-06-01 | 7 | 17 | 56 | 56 |
 | [toip-high-assurance-vid-tf](toip-high-assurance-vid-tf_1414671546940915854.md) | 2026-05-05 | 0 | 23 | 35 | 35 |
 | [toip-data-model-and-repr-wg](toip-data-model-and-repr-wg_1414671233903235142.md) | 2026-05-13 | 3 | 3 | 32 | 32 |
@@ -80,14 +80,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,325 |
+| 2026 | 1,326 |
 | 2025 | 1,130 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 7 |
+| 2026-06 | 8 |
 | 2026-05 | 127 |
 | 2026-04 | 173 |
 | 2026-03 | 492 |
@@ -107,6 +107,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-05 | 1 |
 | 2026-06-04 | 1 |
 | 2026-06-03 | 1 |
 | 2026-06-02 | 1 |

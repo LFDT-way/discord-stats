@@ -1,12 +1,12 @@
 # Guild Report: Post-Quantum Cryptography Alliance
 
 - **Guild ID:** 1202723482224295936
-- **Total Messages:** 4,064
-- **Last 30 Days:** 45
-- **Last 90 Days:** 226
-- **Last 365 Days:** 2,280 — [active users](users.md)
+- **Total Messages:** 4,065
+- **Last 30 Days:** 46
+- **Last 90 Days:** 227
+- **Last 365 Days:** 2,281 — [active users](users.md)
 - **First Message:** 2024-02-01
-- **Last Message:** 2026-05-30
+- **Last Message:** 2026-06-05
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
@@ -14,7 +14,7 @@
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [PQ Code Package](PQ_Code_Package/README.md) | 3,232 | 15 | 166 | 1,988 | 2024-02-03 | 2026-05-30 |
-| [Welcome](Welcome/README.md) | 452 | 18 | 38 | 172 | 2024-02-01 | 2026-05-28 |
+| [Welcome](Welcome/README.md) | 453 | 19 | 39 | 173 | 2024-02-01 | 2026-06-05 |
 | [Open Quantum Safe](Open_Quantum_Safe/README.md) | 247 | 8 | 18 | 67 | 2024-02-03 | 2026-05-29 |
 | [Governance](Governance/README.md) | 81 | 0 | 0 | 9 | 2024-02-05 | 2026-02-10 |
 | [CBOMKit](CBOMKit/README.md) | 42 | 3 | 3 | 38 | 2025-05-06 | 2026-05-28 |
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 441 |
+| 2026 | 442 |
 | 2025 | 2,680 |
 | 2024 | 943 |
 | 2021 | 2 |
@@ -76,6 +76,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 1 |
 | 2026-05 | 47 |
 | 2026-04 | 141 |
 | 2026-03 | 80 |
@@ -110,6 +111,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-05 | 1 |
 | 2026-05-30 | 4 |
 | 2026-05-29 | 10 |
 | 2026-05-28 | 8 |
