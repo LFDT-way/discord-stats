@@ -2,47 +2,47 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515858846158889
-- **Total Messages in Category:** 13,332
-- **Last 30 Days:** 93
-- **Last 90 Days:** 265
-- **Last 365 Days:** 616
+- **Total Messages in Category:** 13,344
+- **Last 30 Days:** 72
+- **Last 90 Days:** 264
+- **Last 365 Days:** 610
 - **First Message:** 2021-11-05
-- **Last Message:** 2026-06-05
+- **Last Message:** 2026-06-12
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [solang-contributors](solang-contributors_905834552965103638.md) | 2026-05-10 | 3 | 31 | 97 | 9,630 |
+| [solang-contributors](solang-contributors_905834552965103638.md) | 2026-05-10 | 0 | 27 | 93 | 9,630 |
 | [aifaq](aifaq_1182418263460819085.md) | 2025-09-14 | 0 | 0 | 2 | 585 |
-| [fabric-token-sdk](fabric-token-sdk_945691840110272522.md) | 2026-06-02 | 9 | 40 | 48 | 533 |
+| [fabric-token-sdk](fabric-token-sdk_945691840110272522.md) | 2026-06-02 | 5 | 40 | 48 | 533 |
 | [solang-solana](solang-solana_1133399591610482779.md) | 2025-04-30 | 0 | 0 | 0 | 417 |
 | [blockchain-explorer](blockchain-explorer_1039606111654920255.md) | 2025-07-12 | 0 | 0 | 1 | 325 |
-| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-06-04 | 7 | 84 | 140 | 316 |
-| [gitmesh](gitmesh_1426307186027659319.md) | 2026-06-03 | 16 | 17 | 122 | 122 |
+| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-06-04 | 3 | 84 | 140 | 316 |
+| [gitmesh](gitmesh_1426307186027659319.md) | 2026-06-09 | 15 | 21 | 126 | 126 |
 | [fabric-operations-console](fabric-operations-console_951489306143363093.md) | 2025-11-05 | 0 | 0 | 10 | 119 |
 | [business-partner-agent](business-partner-agent_948240184124788736.md) | 2025-11-07 | 0 | 0 | 1 | 114 |
 | [harmonia](harmonia_1118266461736140841.md) | 2025-02-04 | 0 | 0 | 0 | 99 |
-| [labs-governance](labs-governance_1182026443006414898.md) | 2026-05-13 | 1 | 1 | 7 | 86 |
+| [labs-governance](labs-governance_1182026443006414898.md) | 2026-06-10 | 2 | 3 | 9 | 88 |
 | [private-data-objects](private-data-objects_1195066449685905548.md) | 2024-04-29 | 0 | 0 | 0 | 78 |
 | [blockchain-explorer-maintainers](blockchain-explorer-maintainers_1117849577534525510.md) | 2025-07-24 | 0 | 0 | 1 | 75 |
 | [perun](perun_955484679635632148.md) | 2024-12-03 | 0 | 0 | 0 | 75 |
 | [open-enterprise-agent](open-enterprise-agent_1156985986174165032.md) | 2024-04-18 | 0 | 0 | 0 | 68 |
-| [fablo](fablo_1109190949394989127.md) | 2026-05-13 | 1 | 8 | 11 | 66 |
+| [fablo](fablo_1109190949394989127.md) | 2026-05-13 | 0 | 8 | 11 | 66 |
 | [general](general_988569914266775662.md) | 2026-05-20 | 1 | 4 | 6 | 61 |
 | [vs-code-plugin](vs-code-plugin_1249243593475096647.md) | 2025-04-08 | 0 | 0 | 0 | 60 |
 | [cc-tools](cc-tools_1156653969133809715.md) | 2025-05-07 | 0 | 0 | 0 | 45 |
+| [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-06-12 | 39 | 45 | 45 | 45 |
 | [cardea](cardea_1098698391137046679.md) | 2024-10-10 | 0 | 0 | 0 | 44 |
-| [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-06-05 | 42 | 42 | 42 | 42 |
-| [bdls](bdls_1035218321051746344.md) | 2026-03-24 | 0 | 2 | 14 | 37 |
+| [bdls](bdls_1035218321051746344.md) | 2026-03-24 | 0 | 2 | 5 | 37 |
 | [splice](splice_1210332028281688135.md) | 2026-04-22 | 0 | 1 | 5 | 34 |
 | [learning-tokens](learning-tokens_1120853856360878271.md) | 2025-12-17 | 0 | 0 | 2 | 32 |
 | [fabric-operator](fabric-operator_1044651861799620638.md) | 2025-11-05 | 0 | 0 | 1 | 30 |
-| [cbweb3](cbweb3_1400427588287074364.md) | 2026-05-29 | 1 | 11 | 29 | 29 |
+| [cbweb3](cbweb3_1400427588287074364.md) | 2026-05-29 | 1 | 2 | 29 | 29 |
 | [weaver](weaver_986350461886033980.md) | 2024-09-05 | 0 | 0 | 0 | 29 |
 | [hypernate](hypernate_1417903966464770159.md) | 2026-04-21 | 0 | 8 | 28 | 28 |
-| [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-06-04 | 12 | 16 | 16 | 22 |
-| [chaindeploy](chaindeploy_1351886901988163635.md) | 2025-07-07 | 0 | 0 | 4 | 16 |
+| [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-06-06 | 6 | 19 | 19 | 25 |
+| [chaindeploy](chaindeploy_1351886901988163635.md) | 2025-07-07 | 0 | 0 | 2 | 16 |
 | [solang-polkadot](solang-polkadot_1133399534442123355.md) | 2023-12-28 | 0 | 0 | 0 | 15 |
 | [fabric-opssc](fabric-opssc_942805501681496094.md) | 2025-01-14 | 0 | 0 | 0 | 13 |
 | [hlf-connector](hlf-connector_943223554709790771.md) | 2023-04-12 | 0 | 0 | 0 | 10 |
@@ -56,7 +56,7 @@
 | [fabric-sdk-rust](fabric-sdk-rust_1419694192921153669.md) | 2026-02-02 | 0 | 0 | 5 | 5 |
 | [benchmarking-bridge-aggregators](benchmarking-bridge-aggregators_1194291892339347466.md) | 2024-01-18 | 0 | 0 | 0 | 4 |
 | [identity-bot](identity-bot_1428856635849310308.md) | 2025-10-29 | 0 | 0 | 4 | 4 |
-| [hoprs](hoprs_1379514363454423191.md) | 2025-06-05 | 0 | 0 | 3 | 3 |
+| [hoprs](hoprs_1379514363454423191.md) | 2025-06-05 | 0 | 0 | 0 | 3 |
 | [one-attestation-api](one-attestation-api_1314367437814108222.md) | 2024-12-05 | 0 | 0 | 0 | 1 |
 | [orion](orion_973301192300040283.md) | 2023-11-30 | 0 | 0 | 0 | 1 |
 | [verii](verii_1394460724641665226.md) | 2025-07-17 | 0 | 0 | 1 | 1 |
@@ -67,11 +67,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Byteledger | 14 | — |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 8 | LFDT Staff |
-| 3 | Anurag Gupta | 7 | — |
-| 4 | [OpenAssets](https://github.com/pv-sarvesh) | 7 | Lab Leader |
-| 5 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 7 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
+| 1 | Byteledger | 13 | — |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 7 | LFDT Staff |
+| 3 | [OpenAssets](https://github.com/pv-sarvesh) | 7 | Lab Leader |
+| 4 | Anurag Gupta | 6 | — |
+| 5 | Parv | 5 | — |
 
 ### Last 90 Days
 
@@ -79,8 +79,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Angelo De Caro](https://github.com/adecaro) | 34 | Project Maintainer, Fabric Maintainer, Lab Leader |
 | 2 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 34 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
-| 3 | [Ry Jones](https://github.com/ryjones) | 17 | LFDT Staff |
-| 4 | Siddhi Khandelwal | 16 | — |
+| 3 | Siddhi Khandelwal | 16 | — |
+| 4 | [Ry Jones](https://github.com/ryjones) | 14 | LFDT Staff |
 | 5 | Byteledger | 14 | — |
 
 ### Last 365 Days
@@ -90,8 +90,8 @@
 | 1 | [RAWx18](https://github.com/RAWx18) | 94 | Lab Leader |
 | 2 | [Angelo De Caro](https://github.com/adecaro) | 69 | Project Maintainer, Fabric Maintainer, Lab Leader |
 | 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 58 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
-| 4 | [Ry Jones](https://github.com/ryjones) | 38 | LFDT Staff |
-| 5 | [Salaheldin](https://github.com/salaheldinsoliman) | 34 | Project Maintainer, Solang Maintainer |
+| 4 | [Ry Jones](https://github.com/ryjones) | 37 | LFDT Staff |
+| 5 | [Salaheldin](https://github.com/salaheldinsoliman) | 31 | Project Maintainer, Solang Maintainer |
 
 ### All Time
 
@@ -107,7 +107,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 359 |
+| 2026 | 371 |
 | 2025 | 416 |
 | 2024 | 1,472 |
 | 2023 | 5,274 |
@@ -118,7 +118,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 14 |
+| 2026-06 | 26 |
 | 2026-05 | 90 |
 | 2026-04 | 119 |
 | 2026-03 | 49 |
@@ -177,7 +177,12 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-06-05 | 2 |
+| 2026-06-12 | 1 |
+| 2026-06-10 | 1 |
+| 2026-06-09 | 3 |
+| 2026-06-08 | 4 |
+| 2026-06-06 | 2 |
+| 2026-06-05 | 3 |
 | 2026-06-04 | 2 |
 | 2026-06-03 | 1 |
 | 2026-06-02 | 7 |

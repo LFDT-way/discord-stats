@@ -4,8 +4,8 @@
 - **Category:** Growth Projects
 - **Channel ID:** 1286300013365952583
 - **Total Messages:** 30
-- **Last 30 Days:** 1
-- **Last 90 Days:** 3
+- **Last 30 Days:** 0
+- **Last 90 Days:** 1
 - **Last 365 Days:** 12
 - **First Message:** 2024-09-24
 - **Last Message:** 2026-05-12
@@ -14,16 +14,13 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
+_No activity in this period._
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
-| 2 | Muhammad Ahmer Khan | 1 | — |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
 
 ### Last 365 Days
 

@@ -4,7 +4,7 @@
 - **Category:** Fabric
 - **Channel ID:** 1158754773026222130
 - **Total Messages:** 60
-- **Last 30 Days:** 5
+- **Last 30 Days:** 4
 - **Last 90 Days:** 5
 - **Last 365 Days:** 7
 - **First Message:** 2023-10-03
@@ -16,9 +16,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | lyz4rd | 2 | — |
-| 2 | Esco | 2 | — |
-| 3 | Ethan | 1 | — |
+| 1 | Esco | 2 | — |
+| 2 | Ethan | 1 | — |
+| 3 | lyz4rd | 1 | — |
 
 ### Last 90 Days
 

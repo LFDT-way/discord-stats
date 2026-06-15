@@ -3,8 +3,8 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1255573270007251024
 - **Total Messages in Category:** 519
-- **Last 30 Days:** 10
-- **Last 90 Days:** 116
+- **Last 30 Days:** 8
+- **Last 90 Days:** 111
 - **Last 365 Days:** 215
 - **First Message:** 2024-06-27
 - **Last Message:** 2026-06-02
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [lockness-contribute](lockness-contribute_1285268686147424388.md) | 2026-06-02 | 10 | 96 | 143 | 343 |
+| [lockness-contribute](lockness-contribute_1285268686147424388.md) | 2026-06-02 | 8 | 91 | 143 | 343 |
 | [lockness-maintainers](lockness-maintainers_1255573353683746856.md) | 2026-03-25 | 0 | 16 | 43 | 143 |
 | [lockness](lockness_1294284489635139585.md) | 2025-09-16 | 0 | 0 | 24 | 24 |
 | [lockness-announce](lockness-announce_1285268049913712641.md) | 2026-04-20 | 0 | 4 | 5 | 9 |
@@ -27,18 +27,17 @@
 | 1 | Denis | 3 | Project Maintainer, Lockness Maintainer |
 | 2 | Gyan ranjan | 2 | — |
 | 3 | Mr Samtum | 2 | — |
-| 4 | Manthan | 1 | — |
-| 5 | adityaaaaaa | 1 | — |
+| 4 | pritish | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Denis | 41 | Project Maintainer, Lockness Maintainer |
+| 1 | Denis | 39 | Project Maintainer, Lockness Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 18 | LFDT Staff |
 | 3 | TheRogueVigilante | 13 | — |
-| 4 | shridhar panigrahi | 9 | — |
-| 5 | Prowler | 8 | — |
+| 4 | Prowler | 8 | — |
+| 5 | Aditya | 7 | — |
 
 ### Last 365 Days
 

@@ -5,43 +5,43 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
 - **Active Users (365d):** 104
-- **Messages (365d):** 2,281
+- **Messages (365d):** 2,235
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 838 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 721 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 149 | PQ Code Package Maintainer |
+| 1 | Rod | 820 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 690 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 146 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 103 | LF Staff |
 | 5 | Jake | 83 | PQ Code Package Maintainer, Project Maintainer |
 | 6 | Brendan | 59 | — |
 | 7 | chozorho | 46 | — |
-| 8 | Severus Snape | 18 | — |
+| 8 | Severus Snape | 19 | — |
 | 9 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 15 | — |
 | 10 | Snake | 12 | — |
-| 11 | cybarg | 10 | — |
-| 12 | justn | 9 | — |
-| 13 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 9 | CBOM maintainer, Project Maintainer |
-| 14 | Loganaden | 8 | — |
-| 15 | Dadofpips | 8 | — |
+| 11 | brent | 11 | — |
+| 12 | cybarg | 10 | — |
+| 13 | Dadofpips | 9 | — |
+| 14 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 9 | CBOM maintainer, Project Maintainer |
+| 15 | Loganaden | 8 | — |
 | 16 | hatz | 8 | — |
 | 17 | Scott Corzine | 7 | — |
 | 18 | f15hr | 6 | — |
 | 19 | Chun-Ming Chiu | 6 | — |
-| 20 | Brunoee | 5 | — |
-| 21 | N.Nova | 5 | — |
-| 22 | [hartm](https://github.com/hartm) | 5 | LF Staff |
-| 23 | h2parson | 5 | — |
-| 24 | Chrissy Harter | 5 | LF Staff |
-| 25 | pittma | 4 | — |
-| 26 | yuvi | 4 | — |
-| 27 | Abhi-S | 4 | — |
-| 28 | Bigood | 4 | — |
-| 29 | Vëx | 4 | — |
-| 30 | Brendan T R | 4 | — |
-| 31 | Kenzello | 4 | — |
-| 32 | Douglas Stebila | 4 | PQ Code Package Maintainer, Project Maintainer |
-| 33 | Sachin Kumar | 3 | — |
+| 20 | Sachin Kumar | 5 | — |
+| 21 | Brunoee | 5 | — |
+| 22 | N.Nova | 5 | — |
+| 23 | [hartm](https://github.com/hartm) | 5 | LF Staff |
+| 24 | h2parson | 5 | — |
+| 25 | Chrissy Harter | 5 | LF Staff |
+| 26 | pittma | 4 | — |
+| 27 | yuvi | 4 | — |
+| 28 | Abhi-S | 4 | — |
+| 29 | Bigood | 4 | — |
+| 30 | Vëx | 4 | — |
+| 31 | Brendan T R | 4 | — |
+| 32 | Kenzello | 4 | — |
+| 33 | Douglas Stebila | 4 | PQ Code Package Maintainer, Project Maintainer |
 | 34 | Vessel | 3 | — |
 | 35 | sneh | 3 | — |
 | 36 | Dhananjay | 3 | — |

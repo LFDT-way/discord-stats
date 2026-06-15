@@ -4,7 +4,7 @@
 - **Category:** ToIP
 - **Channel ID:** 1414670384539897876
 - **Total Messages:** 56
-- **Last 30 Days:** 7
+- **Last 30 Days:** 1
 - **Last 90 Days:** 17
 - **Last 365 Days:** 56
 - **First Message:** 2025-09-27
@@ -16,11 +16,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
-| 2 | Henk van Cann | 1 | Project Maintainer, ToIP |
-| 3 | microbiocarly | 1 | Project Maintainer, ToIP |
-| 4 | Adligo | 1 | — |
-| 5 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 1 | Lab Leader |
+| 1 | [drummondreed](https://github.com/talltree) | 1 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 

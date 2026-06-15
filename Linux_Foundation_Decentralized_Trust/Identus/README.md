@@ -2,27 +2,27 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1226983696306012181
-- **Total Messages in Category:** 1,239
-- **Last 30 Days:** 33
-- **Last 90 Days:** 77
-- **Last 365 Days:** 629
+- **Total Messages in Category:** 1,257
+- **Last 30 Days:** 44
+- **Last 90 Days:** 90
+- **Last 365 Days:** 590
 - **First Message:** 2024-04-10
-- **Last Message:** 2026-06-04
+- **Last Message:** 2026-06-10
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-06-04 | 22 | 41 | 217 | 517 |
-| [sdk-ts](sdk-ts_1252629747389829152.md) | 2026-05-24 | 4 | 18 | 154 | 208 |
+| [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-06-10 | 38 | 59 | 234 | 535 |
+| [sdk-ts](sdk-ts_1252629747389829152.md) | 2026-05-24 | 3 | 18 | 151 | 208 |
 | [cloud-agent](cloud-agent_1252629630763012116.md) | 2025-12-02 | 0 | 0 | 54 | 191 |
-| [general](general_1252630735269925057.md) | 2026-06-02 | 4 | 14 | 125 | 150 |
-| [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 47 | 65 |
+| [general](general_1252630735269925057.md) | 2026-06-02 | 3 | 9 | 111 | 150 |
+| [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 9 | 65 |
 | [identus-faq](identus-faq_1252622748073853083.md) | 2025-11-29 | 0 | 0 | 16 | 46 |
-| [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-05-12 | 3 | 3 | 6 | 20 |
+| [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-05-12 | 0 | 3 | 6 | 20 |
 | [mediator](mediator_1252629675943919679.md) | 2026-04-28 | 0 | 1 | 2 | 20 |
 | [meeting-minutes](meeting-minutes_1252982706212438016.md) | 2025-06-18 | 0 | 0 | 2 | 12 |
-| [sdk-kmp](sdk-kmp_1252629800372408330.md) | 2025-07-21 | 0 | 0 | 2 | 6 |
+| [sdk-kmp](sdk-kmp_1252629800372408330.md) | 2025-07-21 | 0 | 0 | 1 | 6 |
 | [docs](docs_1391699003674202142.md) | 2025-07-22 | 0 | 0 | 4 | 4 |
 
 ## Most Active Users
@@ -31,29 +31,29 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Prakhar Singh | 15 | — |
-| 2 | Yurii Shynbuiev | 7 | Identus Maintainer, Project Maintainer |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | LFDT Staff |
+| 1 | Yurii Shynbuiev | 14 | Identus Maintainer, Project Maintainer |
+| 2 | Prakhar Singh | 13 | — |
+| 3 | [Ry Jones](https://github.com/ryjones) | 11 | LFDT Staff |
 | 4 | Anshikaa | 3 | — |
-| 5 | Abhigyan Singh | 2 | — |
+| 5 | [FabioPinheiro](https://github.com/FabioPinheiro) | 1 | Identus Maintainer, Project Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Prakhar Singh | 15 | — |
-| 2 | [FabioPinheiro](https://github.com/FabioPinheiro) | 13 | Identus Maintainer, Project Maintainer |
-| 3 | Abhigyan Singh | 9 | — |
-| 4 | Yurii Shynbuiev | 8 | Identus Maintainer, Project Maintainer |
-| 5 | [Magyar](https://github.com/amagyar-iohk) | 5 | Identus Maintainer, Project Maintainer |
+| 1 | Yurii Shynbuiev | 15 | Identus Maintainer, Project Maintainer |
+| 2 | Prakhar Singh | 15 | — |
+| 3 | [Ry Jones](https://github.com/ryjones) | 13 | LFDT Staff |
+| 4 | [FabioPinheiro](https://github.com/FabioPinheiro) | 10 | Identus Maintainer, Project Maintainer |
+| 5 | Abhigyan Singh | 9 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | roberto | 96 | — |
-| 2 | Yurii Shynbuiev | 78 | Identus Maintainer, Project Maintainer |
-| 3 | [FabioPinheiro](https://github.com/FabioPinheiro) | 68 | Identus Maintainer, Project Maintainer |
+| 1 | Yurii Shynbuiev | 82 | Identus Maintainer, Project Maintainer |
+| 2 | roberto | 79 | — |
+| 3 | [FabioPinheiro](https://github.com/FabioPinheiro) | 65 | Identus Maintainer, Project Maintainer |
 | 4 | [JessicaG](https://github.com/jwagantall) | 58 | LFDT Staff |
 | 5 | havy | 55 | Identus Maintainer, Project Maintainer |
 
@@ -62,8 +62,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | roberto | 185 | — |
-| 2 | Yurii Shynbuiev | 160 | Identus Maintainer, Project Maintainer |
-| 3 | [Ry Jones](https://github.com/ryjones) | 122 | LFDT Staff |
+| 2 | Yurii Shynbuiev | 168 | Identus Maintainer, Project Maintainer |
+| 3 | [Ry Jones](https://github.com/ryjones) | 132 | LFDT Staff |
 | 4 | [FabioPinheiro](https://github.com/FabioPinheiro) | 79 | Identus Maintainer, Project Maintainer |
 | 5 | jonbauer | 77 | Identus Maintainer, Project Maintainer |
 
@@ -71,7 +71,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 130 |
+| 2026 | 148 |
 | 2025 | 782 |
 | 2024 | 327 |
 
@@ -79,7 +79,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 7 |
+| 2026-06 | 25 |
 | 2026-05 | 30 |
 | 2026-04 | 31 |
 | 2026-03 | 23 |
@@ -111,6 +111,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-10 | 18 |
 | 2026-06-04 | 1 |
 | 2026-06-02 | 6 |
 | 2026-05-31 | 1 |

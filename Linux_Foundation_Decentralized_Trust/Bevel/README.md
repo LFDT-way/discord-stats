@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 941475051725795328
 - **Total Messages in Category:** 5,086
-- **Last 30 Days:** 1
-- **Last 90 Days:** 33
-- **Last 365 Days:** 90
+- **Last 30 Days:** 0
+- **Last 90 Days:** 32
+- **Last 365 Days:** 85
 - **First Message:** 2022-02-11
 - **Last Message:** 2026-05-11
 
@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [bevel-operator-fabric](bevel-operator-fabric_967823782712594442.md) | 2026-05-11 | 1 | 23 | 49 | 2,834 |
-| [bevel](bevel_941475087389950002.md) | 2026-04-06 | 0 | 6 | 25 | 2,063 |
+| [bevel-operator-fabric](bevel-operator-fabric_967823782712594442.md) | 2026-05-11 | 0 | 22 | 45 | 2,834 |
+| [bevel](bevel_941475087389950002.md) | 2026-04-06 | 0 | 6 | 24 | 2,063 |
 | [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 4 | 14 | 110 |
 | [bevel-workshops](bevel-workshops_1016315449681641502.md) | 2025-08-13 | 0 | 0 | 2 | 78 |
 | [bevel-announcements](bevel-announcements_942324912016724018.md) | 2022-02-15 | 0 | 0 | 0 | 1 |
@@ -23,9 +23,7 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | Rubén | 1 | — |
+_No activity in this period._
 
 ### Last 90 Days
 
@@ -41,7 +39,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 16 | LFDT Staff |
+| 1 | [Ry Jones](https://github.com/ryjones) | 15 | LFDT Staff |
 | 2 | KaitouKID | 9 | — |
 | 3 | CalvinCreator | 8 | — |
 | 4 | EliMbadi | 4 | — |

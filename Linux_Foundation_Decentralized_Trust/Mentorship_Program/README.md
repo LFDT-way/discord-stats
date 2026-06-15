@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 984081554458427402
-- **Total Messages in Category:** 365
-- **Last 30 Days:** 5
-- **Last 90 Days:** 20
-- **Last 365 Days:** 25
+- **Total Messages in Category:** 366
+- **Last 30 Days:** 2
+- **Last 90 Days:** 21
+- **Last 365 Days:** 26
 - **First Message:** 2022-03-16
-- **Last Message:** 2026-05-28
+- **Last Message:** 2026-06-11
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [lfdt-mentorships](lfdt-mentorships_953059038910890034.md) | 2026-05-28 | 5 | 20 | 25 | 365 |
+| [lfdt-mentorships](lfdt-mentorships_953059038910890034.md) | 2026-06-11 | 2 | 21 | 26 | 366 |
 
 ## Most Active Users
 
@@ -21,10 +21,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Byteledger | 2 | — |
-| 2 | [explorer3](https://github.com/exploreriii) | 1 | Project Maintainer, Hiero maintainer |
-| 3 | AgrimTawani \| Cryptobazaar | 1 | — |
-| 4 | sidd_190 | 1 | — |
+| 1 | divyam-jha | 1 | — |
+| 2 | AgrimTawani \| Cryptobazaar | 1 | — |
 
 ### Last 90 Days
 
@@ -60,7 +58,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 20 |
+| 2026 | 21 |
 | 2025 | 30 |
 | 2024 | 108 |
 | 2023 | 95 |
@@ -70,6 +68,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 1 |
 | 2026-05 | 9 |
 | 2026-04 | 7 |
 | 2026-03 | 4 |
@@ -109,6 +108,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-11 | 1 |
 | 2026-05-28 | 1 |
 | 2026-05-15 | 2 |
 | 2026-05-14 | 1 |

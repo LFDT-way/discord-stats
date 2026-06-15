@@ -2,32 +2,32 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205464046915585
-- **Total Messages in Category:** 13,149
-- **Last 30 Days:** 44
-- **Last 90 Days:** 169
-- **Last 365 Days:** 691
+- **Total Messages in Category:** 13,155
+- **Last 30 Days:** 40
+- **Last 90 Days:** 155
+- **Last 365 Days:** 668
 - **First Message:** 2021-11-07
-- **Last Message:** 2026-05-28
+- **Last Message:** 2026-06-12
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric](fabric_905205541326975046.md) | 2026-05-28 | 10 | 42 | 216 | 6,686 |
-| [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 1 | 34 | 964 |
-| [fabric-private-chaincode](fabric-private-chaincode_943059293765267497.md) | 2026-05-12 | 1 | 1 | 30 | 948 |
-| [fabric-peer](fabric-peer_945037339170836501.md) | 2026-04-10 | 0 | 2 | 18 | 863 |
-| [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-05-10 | 1 | 5 | 23 | 776 |
-| [fabric-orderer](fabric-orderer_945037581500940298.md) | 2026-04-12 | 0 | 1 | 44 | 727 |
+| [fabric](fabric_905205541326975046.md) | 2026-06-12 | 13 | 31 | 211 | 6,690 |
+| [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 1 | 33 | 964 |
+| [fabric-private-chaincode](fabric-private-chaincode_943059293765267497.md) | 2026-05-12 | 0 | 1 | 24 | 948 |
+| [fabric-peer](fabric-peer_945037339170836501.md) | 2026-04-10 | 0 | 1 | 18 | 863 |
+| [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-05-10 | 0 | 2 | 23 | 776 |
+| [fabric-orderer](fabric-orderer_945037581500940298.md) | 2026-04-12 | 0 | 1 | 31 | 727 |
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-07 | 0 | 0 | 2 | 554 |
-| [fabric-code-contributors](fabric-code-contributors_941396957635682314.md) | 2026-05-09 | 1 | 5 | 23 | 354 |
+| [fabric-code-contributors](fabric-code-contributors_941396957635682314.md) | 2026-05-09 | 0 | 5 | 23 | 354 |
 | [fabric-contract-apis](fabric-contract-apis_943090527920877598.md) | 2025-12-30 | 0 | 0 | 4 | 306 |
-| [fabric-x](fabric-x_1427642480504999976.md) | 2026-05-26 | 24 | 99 | 242 | 242 |
+| [fabric-x](fabric-x_1427642480504999976.md) | 2026-06-12 | 21 | 100 | 244 | 244 |
 | [fabric-japanese](fabric-japanese_942950198836092958.md) | 2026-05-20 | 2 | 7 | 29 | 228 |
 | [fabric-documentation](fabric-documentation_945038395825070141.md) | 2026-01-29 | 0 | 0 | 12 | 196 |
 | [fabric-dublin-workshop](fabric-dublin-workshop_1005123918740332604.md) | 2024-09-27 | 0 | 0 | 0 | 78 |
 | [fabric-admin-sdk](fabric-admin-sdk_1063507202607956018.md) | 2026-04-24 | 0 | 1 | 1 | 65 |
-| [fabric-certified-practitioner](fabric-certified-practitioner_1158754773026222130.md) | 2026-05-22 | 5 | 5 | 7 | 60 |
+| [fabric-certified-practitioner](fabric-certified-practitioner_1158754773026222130.md) | 2026-05-22 | 4 | 5 | 7 | 60 |
 | [fabric-docs-i18n](fabric-docs-i18n_963703552352587786.md) | 2023-08-11 | 0 | 0 | 0 | 41 |
 | [fabric-code-reviews](fabric-code-reviews_960583805708664882.md) | 2026-02-09 | 0 | 0 | 4 | 39 |
 | [fabric-announcements](fabric-announcements_941415351474880532.md) | 2026-02-25 | 0 | 0 | 2 | 12 |
@@ -39,28 +39,28 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Aaradhy Chinche | 12 | — |
+| 1 | Aaradhy Chinche | 9 | — |
 | 2 | [Ry Jones](https://github.com/ryjones) | 6 | LFDT Staff |
 | 3 | [bestbeforetoday](https://github.com/bestbeforetoday) | 5 | Project Maintainer, Fabric Maintainer |
 | 4 | MoneySimp | 3 | — |
-| 5 | lyz4rd | 2 | — |
+| 5 | Esco | 2 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Aaradhy Chinche | 28 | — |
-| 2 | [bestbeforetoday](https://github.com/bestbeforetoday) | 14 | Project Maintainer, Fabric Maintainer |
-| 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 10 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
-| 4 | [Ry Jones](https://github.com/ryjones) | 9 | LFDT Staff |
-| 5 | JRM | 8 | — |
+| 2 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 10 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
+| 3 | [Ry Jones](https://github.com/ryjones) | 9 | LFDT Staff |
+| 4 | [bestbeforetoday](https://github.com/bestbeforetoday) | 9 | Project Maintainer, Fabric Maintainer |
+| 5 | MoneySimp | 6 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 53 | Project Maintainer, Fabric Maintainer |
-| 2 | Frank_The_Fish | 37 | Lab Leader |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 52 | Project Maintainer, Fabric Maintainer |
+| 2 | Frank_The_Fish | 38 | Lab Leader |
 | 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 34 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 | 4 | Aaradhy Chinche | 28 | — |
 | 5 | [Liran Funaro](https://github.com/liran-funaro) | 23 | — |
@@ -79,7 +79,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 316 |
+| 2026 | 322 |
 | 2025 | 989 |
 | 2024 | 2,013 |
 | 2023 | 4,607 |
@@ -90,6 +90,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 6 |
 | 2026-05 | 67 |
 | 2026-04 | 74 |
 | 2026-03 | 41 |
@@ -148,6 +149,10 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-12 | 3 |
+| 2026-06-11 | 1 |
+| 2026-06-10 | 1 |
+| 2026-06-08 | 1 |
 | 2026-05-28 | 7 |
 | 2026-05-26 | 6 |
 | 2026-05-25 | 1 |

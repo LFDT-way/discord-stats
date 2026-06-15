@@ -2,27 +2,27 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1108449719212048556
-- **Total Messages in Category:** 832
-- **Last 30 Days:** 11
-- **Last 90 Days:** 30
-- **Last 365 Days:** 506
+- **Total Messages in Category:** 837
+- **Last 30 Days:** 12
+- **Last 90 Days:** 31
+- **Last 365 Days:** 503
 - **First Message:** 2023-06-02
-- **Last Message:** 2026-05-22
+- **Last Message:** 2026-06-11
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tsp](tsp_1240339063618277467.md) | 2026-01-23 | 0 | 0 | 227 | 262 |
+| [tsp](tsp_1240339063618277467.md) | 2026-01-23 | 0 | 0 | 219 | 262 |
 | [mdoc-ts](mdoc-ts_1251180041124053052.md) | 2026-04-01 | 0 | 14 | 128 | 172 |
-| [sd-jwt-dotnet](sd-jwt-dotnet_1179453047169110056.md) | 2026-04-30 | 0 | 3 | 64 | 80 |
+| [sd-jwt-dotnet](sd-jwt-dotnet_1179453047169110056.md) | 2026-04-30 | 0 | 1 | 64 | 80 |
 | [sd-jwt-general](sd-jwt-general_1180161138030284910.md) | 2025-09-24 | 0 | 0 | 3 | 70 |
-| [oid4vc-ts](oid4vc-ts_1326616895453007933.md) | 2026-05-14 | 4 | 4 | 59 | 61 |
+| [oid4vc-ts](oid4vc-ts_1326616895453007933.md) | 2026-05-14 | 0 | 4 | 59 | 61 |
 | [vc-api](vc-api_1157008901020073994.md) | 2025-10-24 | 0 | 0 | 2 | 39 |
 | [wallet-framework-dotnet](wallet-framework-dotnet_1159552665940938842.md) | 2024-10-11 | 0 | 0 | 0 | 26 |
 | [eudi-wallet-kit-react-native](eudi-wallet-kit-react-native_1230175333303717889.md) | 2025-10-23 | 0 | 0 | 1 | 21 |
 | [pydentity-wallet](pydentity-wallet_1352199414956953630.md) | 2026-02-11 | 0 | 0 | 3 | 20 |
-| [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-05-22 | 7 | 7 | 7 | 14 |
+| [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-06-11 | 12 | 12 | 12 | 19 |
 | [farmworker-wallet-os](farmworker-wallet-os_1138937641123987466.md) | 2024-10-09 | 0 | 0 | 0 | 10 |
 | [sd-jwt-vc-dm](sd-jwt-vc-dm_1331889781570932849.md) | 2025-04-20 | 0 | 0 | 0 | 10 |
 | [dcql-ts](dcql-ts_1326615136865095731.md) | 2025-11-12 | 0 | 0 | 3 | 9 |
@@ -33,7 +33,7 @@
 | [multiformat-vc-ios](multiformat-vc-ios_1199766370880069762.md) | 2024-02-05 | 0 | 0 | 0 | 3 |
 | [solid-data-wallet](solid-data-wallet_1291098042422005801.md) | 2024-11-14 | 0 | 0 | 0 | 3 |
 | [build-wallet-core](build-wallet-core_1268222388982775879.md) | 2025-12-10 | 0 | 0 | 2 | 2 |
-| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-03-12 | 0 | 2 | 2 | 2 |
+| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-03-12 | 0 | 0 | 2 | 2 |
 | [openid-federation-ts](openid-federation-ts_1326618196245221426.md) | 2025-10-23 | 0 | 0 | 1 | 2 |
 | [trs](trs_1379838543823900773.md) | 2025-06-04 | 0 | 0 | 0 | 2 |
 | [learner-credential-wallet](learner-credential-wallet_1271193837880217640.md) | 2025-09-10 | 0 | 0 | 1 | 1 |
@@ -44,11 +44,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones, OWF](https://github.com/ryjones) | 3 | Linux Foundation Staff |
-| 2 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | RMLearney | 2 | — |
-| 4 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 1 | Lab Maintainer |
-| 5 | kukgini | 1 | — |
+| 1 | kukgini | 5 | — |
+| 2 | [Ry Jones, OWF](https://github.com/ryjones) | 3 | Linux Foundation Staff |
+| 3 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 2 | Lab Maintainer |
+| 4 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 
 ### Last 90 Days
 
@@ -56,9 +55,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Lukas.J.Han](https://github.com/lukasjhan) | 7 | Lab Maintainer |
 | 2 | [Timo Glastra](https://github.com/TimoGlastra) | 7 | credo maintainers, Project Maintainer |
-| 3 | [Mirko](https://github.com/cre8) | 3 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 3 | kukgini | 5 | — |
 | 4 | [Ry Jones, OWF](https://github.com/ryjones) | 3 | Linux Foundation Staff |
-| 5 | Thomas Tran | 3 | Lab Maintainer |
+| 5 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 2 | Lab Maintainer |
 
 ### Last 365 Days
 
@@ -68,7 +67,7 @@
 | 2 | [Lukas.J.Han](https://github.com/lukasjhan) | 66 | Lab Maintainer |
 | 3 | [Timo Glastra](https://github.com/TimoGlastra) | 63 | credo maintainers, Project Maintainer |
 | 4 | kevinaboos | 54 | — |
-| 5 | [firegod](https://github.com/wenjing) | 52 | — |
+| 5 | [firegod](https://github.com/wenjing) | 49 | — |
 
 ### All Time
 
@@ -84,7 +83,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 163 |
+| 2026 | 168 |
 | 2025 | 454 |
 | 2024 | 116 |
 | 2023 | 99 |
@@ -93,6 +92,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 5 |
 | 2026-05 | 11 |
 | 2026-04 | 3 |
 | 2026-03 | 24 |
@@ -131,6 +131,9 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-11 | 1 |
+| 2026-06-09 | 3 |
+| 2026-06-07 | 1 |
 | 2026-05-22 | 1 |
 | 2026-05-19 | 6 |
 | 2026-05-14 | 4 |

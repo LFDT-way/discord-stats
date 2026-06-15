@@ -3,9 +3,9 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1111041471768961044
 - **Total Messages in Category:** 1,815
-- **Last 30 Days:** 10
-- **Last 90 Days:** 23
-- **Last 365 Days:** 170
+- **Last 30 Days:** 5
+- **Last 90 Days:** 21
+- **Last 365 Days:** 163
 - **First Message:** 2022-09-28
 - **Last Message:** 2026-06-01
 
@@ -13,10 +13,10 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [architecture-sig](architecture-sig_1024688298389688360.md) | 2026-06-01 | 6 | 15 | 49 | 895 |
+| [architecture-sig](architecture-sig_1024688298389688360.md) | 2026-06-01 | 3 | 14 | 49 | 895 |
 | [safe-wallet-sig](safe-wallet-sig_1154410858991067247.md) | 2025-05-12 | 0 | 0 | 0 | 393 |
-| [wallet-interoperability-sig](wallet-interoperability-sig_1291067233967149150.md) | 2026-06-01 | 4 | 7 | 92 | 204 |
-| [tac](tac_1080192375621685288.md) | 2026-03-12 | 0 | 1 | 19 | 185 |
+| [wallet-interoperability-sig](wallet-interoperability-sig_1291067233967149150.md) | 2026-06-01 | 2 | 7 | 86 | 204 |
+| [tac](tac_1080192375621685288.md) | 2026-03-12 | 0 | 0 | 18 | 185 |
 | [digital-wallet-and-agent-overviews-sig](digital-wallet-and-agent-overviews-sig_1154111877077532814.md) | 2025-11-17 | 0 | 0 | 10 | 138 |
 
 ## Most Active Users
@@ -25,28 +25,26 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | davidejalexander | 5 | SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 3 | Linux Foundation Staff |
+| 1 | davidejalexander | 2 | SIG member |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
 | 3 | Ginga | 1 | — |
-| 4 | [drummondreed](https://github.com/talltree) | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | davidejalexander | 14 | SIG member |
+| 1 | davidejalexander | 13 | SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 6 | Linux Foundation Staff |
 | 3 | Ginga | 1 | — |
-| 4 | [Mirko](https://github.com/cre8) | 1 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 5 | [drummondreed](https://github.com/talltree) | 1 | — |
+| 4 | [drummondreed](https://github.com/talltree) | 1 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 53 | Linux Foundation Staff |
-| 2 | davidejalexander | 43 | SIG member |
-| 3 | [cjhowland](https://github.com/cjhowland) | 32 | Project Maintainer |
+| 2 | davidejalexander | 41 | SIG member |
+| 3 | [cjhowland](https://github.com/cjhowland) | 28 | — |
 | 4 | [Mirko](https://github.com/cre8) | 12 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 5 | Samuel | 5 | SIG member |
 
@@ -54,7 +52,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Tracy | 297 | Task Force member, SIG member |
+| 1 | Tracy | 297 | — |
 | 2 | OR13 | 157 | — |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 151 | Linux Foundation Staff |
 | 4 | Andy Tobin | 130 | — |

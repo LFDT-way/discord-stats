@@ -35,7 +35,7 @@ _No activity in this period._
 | 1 | [Mirko](https://github.com/cre8) | 60 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | Samuel | 19 | SIG member |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 9 | Linux Foundation Staff |
-| 4 | Tracy | 8 | Task Force member, SIG member |
+| 4 | Tracy | 8 | — |
 | 5 | davidejalexander | 6 | SIG member |
 
 ## Yearly Traffic

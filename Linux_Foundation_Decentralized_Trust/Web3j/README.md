@@ -2,19 +2,19 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1195061874950144120
-- **Total Messages in Category:** 1,225
+- **Total Messages in Category:** 1,228
 - **Last 30 Days:** 8
-- **Last 90 Days:** 22
-- **Last 365 Days:** 139
+- **Last 90 Days:** 25
+- **Last 365 Days:** 136
 - **First Message:** 2024-01-11
-- **Last Message:** 2026-05-30
+- **Last Message:** 2026-06-15
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-04-23 | 0 | 1 | 63 | 742 |
-| [web3j-general](web3j-general_1195062053682032700.md) | 2026-05-30 | 8 | 21 | 76 | 483 |
+| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-04-23 | 0 | 1 | 61 | 742 |
+| [web3j-general](web3j-general_1195062053682032700.md) | 2026-06-15 | 8 | 24 | 75 | 486 |
 
 ## Most Active Users
 
@@ -22,10 +22,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | George Tebrean | 2 | Project Maintainer, Web3j Maintainer |
-| 2 | Ashhar | 2 | — |
-| 3 | Dev | 1 | — |
-| 4 | Gaurav | 1 | — |
+| 1 | Ashhar | 2 | — |
+| 2 | Gaurav | 2 | — |
+| 3 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 2 | Project Maintainer, Web3j Maintainer |
+| 4 | George Tebrean | 1 | Project Maintainer, Web3j Maintainer |
 | 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
 
 ### Last 90 Days
@@ -35,14 +35,14 @@
 | 1 | Dev | 9 | — |
 | 2 | George Tebrean | 4 | Project Maintainer, Web3j Maintainer |
 | 3 | Ashhar | 2 | — |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
-| 5 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 1 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
+| 4 | Gaurav | 2 | — |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | George Tebrean | 60 | Project Maintainer, Web3j Maintainer |
+| 1 | George Tebrean | 57 | Project Maintainer, Web3j Maintainer |
 | 2 | Abdelrahman Hedia | 11 | — |
 | 3 | Dev | 9 | — |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 7 | LFDT Staff |
@@ -52,7 +52,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 310 | Project Maintainer, Web3j Maintainer |
+| 1 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 312 | Project Maintainer, Web3j Maintainer |
 | 2 | Shashank Kumar | 289 | — |
 | 3 | George Tebrean | 231 | Project Maintainer, Web3j Maintainer |
 | 4 | [Ry Jones](https://github.com/ryjones) | 52 | LFDT Staff |
@@ -62,7 +62,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 33 |
+| 2026 | 36 |
 | 2025 | 316 |
 | 2024 | 876 |
 
@@ -70,6 +70,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 3 |
 | 2026-05 | 10 |
 | 2026-04 | 12 |
 | 2026-01 | 11 |
@@ -102,6 +103,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-15 | 3 |
 | 2026-05-30 | 1 |
 | 2026-05-27 | 2 |
 | 2026-05-26 | 1 |

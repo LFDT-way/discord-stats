@@ -4,7 +4,7 @@
 - **Category:** Fabric
 - **Channel ID:** 941396957635682314
 - **Total Messages:** 354
-- **Last 30 Days:** 1
+- **Last 30 Days:** 0
 - **Last 90 Days:** 5
 - **Last 365 Days:** 23
 - **First Message:** 2022-02-12
@@ -14,9 +14,7 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | Shaurya Mishra | 1 | — |
+_No activity in this period._
 
 ### Last 90 Days
 

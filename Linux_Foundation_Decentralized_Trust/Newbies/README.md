@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1155727691216076911
-- **Total Messages in Category:** 1,247
-- **Last 30 Days:** 19
-- **Last 90 Days:** 37
-- **Last 365 Days:** 158
+- **Total Messages in Category:** 1,254
+- **Last 30 Days:** 18
+- **Last 90 Days:** 44
+- **Last 365 Days:** 147
 - **First Message:** 2023-09-10
-- **Last Message:** 2026-06-01
+- **Last Message:** 2026-06-07
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric-newbies](fabric-newbies_1150488600975245412.md) | 2026-06-01 | 19 | 29 | 140 | 1,098 |
+| [fabric-newbies](fabric-newbies_1150488600975245412.md) | 2026-06-07 | 18 | 36 | 129 | 1,105 |
 | [firefly-newbies](firefly-newbies_1154921177207275520.md) | 2026-04-07 | 0 | 8 | 18 | 149 |
 
 ## Most Active Users
@@ -22,17 +22,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 8 | Project Maintainer, Fabric Maintainer |
-| 2 | JRM | 4 | — |
-| 3 | ibearua | 2 | — |
-| 4 | Heshan Nirmitha | 1 | — |
-| 5 | [Ry Jones](https://github.com/ryjones) | 1 | LFDT Staff |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 13 | Project Maintainer, Fabric Maintainer |
+| 2 | ibearua | 2 | — |
+| 3 | Heshan Nirmitha | 1 | — |
+| 4 | $afety | 1 | — |
+| 5 | Blews999 | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 9 | Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 15 | Project Maintainer, Fabric Maintainer |
 | 2 | JRM | 4 | — |
 | 3 | 76miles | 4 | — |
 | 4 | Heshan Nirmitha | 3 | — |
@@ -42,17 +42,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 33 | Project Maintainer, Fabric Maintainer |
-| 2 | katie | 8 | — |
-| 3 | Glayer | 7 | — |
-| 4 | Sir Petronim | 6 | — |
-| 5 | JRM | 5 | — |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 39 | Project Maintainer, Fabric Maintainer |
+| 2 | Glayer | 7 | — |
+| 3 | JRM | 5 | — |
+| 4 | Cartoon | 5 | — |
+| 5 | Soul | 5 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 111 | Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 117 | Project Maintainer, Fabric Maintainer |
 | 2 | tobytobias | 73 | — |
 | 3 | JRM | 64 | — |
 | 4 | [Enrique Lacal](https://github.com/EnriqueL8) | 36 | TAC member, Project Maintainer, Firefly Maintainer |
@@ -62,7 +62,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 53 |
+| 2026 | 60 |
 | 2025 | 323 |
 | 2024 | 608 |
 | 2023 | 263 |
@@ -71,7 +71,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 3 |
+| 2026-06 | 10 |
 | 2026-05 | 16 |
 | 2026-04 | 9 |
 | 2026-03 | 9 |
@@ -110,7 +110,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-06-01 | 3 |
+| 2026-06-07 | 1 |
+| 2026-06-01 | 9 |
 | 2026-05-23 | 6 |
 | 2026-05-21 | 1 |
 | 2026-05-20 | 1 |

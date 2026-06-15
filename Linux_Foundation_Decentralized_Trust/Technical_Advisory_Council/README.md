@@ -2,19 +2,19 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 941383941217222708
-- **Total Messages in Category:** 1,498
-- **Last 30 Days:** 34
-- **Last 90 Days:** 89
-- **Last 365 Days:** 312
+- **Total Messages in Category:** 1,515
+- **Last 30 Days:** 41
+- **Last 90 Days:** 102
+- **Last 365 Days:** 327
 - **First Message:** 2022-02-10
-- **Last Message:** 2026-06-02
+- **Last Message:** 2026-06-12
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-06-02 | 34 | 71 | 184 | 1,081 |
-| [documentation-task-force](documentation-task-force_1070733392020246620.md) | 2025-06-11 | 0 | 0 | 1 | 117 |
+| [tac](tac_941384040316018790.md) | 2026-06-12 | 41 | 84 | 200 | 1,098 |
+| [documentation-task-force](documentation-task-force_1070733392020246620.md) | 2025-06-11 | 0 | 0 | 0 | 117 |
 | [onboarding-content-task-force](onboarding-content-task-force_1070733078772854856.md) | 2025-11-07 | 0 | 0 | 10 | 94 |
 | [badging-lifecycle-tf](badging-lifecycle-tf_1139220569531875389.md) | 2024-08-16 | 0 | 0 | 0 | 66 |
 | [contribution-ladder-task-force](contribution-ladder-task-force_1395138176624103534.md) | 2025-11-20 | 0 | 0 | 52 | 52 |
@@ -29,31 +29,31 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 12 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 18 | TAC member, Chapter Leader |
 | 2 | [Angelo De Caro](https://github.com/adecaro) | 7 | Project Maintainer, Fabric Maintainer, Lab Leader |
-| 3 | [Ry Jones](https://github.com/ryjones) | 4 | LFDT Staff |
-| 4 | [Diane Mueller](https://github.com/dmueller2001) | 4 | TAC member |
-| 5 | [davidwboswell](https://github.com/davidwboswell) | 3 | LFDT Staff |
+| 3 | [davidwboswell](https://github.com/davidwboswell) | 5 | LFDT Staff |
+| 4 | [vramaiitkgp](https://github.com/VRamakrishna) | 3 | TAC member, Cacti Maintainer |
+| 5 | [Diane Mueller](https://github.com/dmueller2001) | 3 | TAC member |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 30 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 36 | TAC member, Chapter Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 16 | LFDT Staff |
 | 3 | [davidwboswell](https://github.com/davidwboswell) | 13 | LFDT Staff |
 | 4 | [Justin Florentine](https://github.com/jflo) | 9 | Project Maintainer, Besu Maintainer |
-| 5 | [Angelo De Caro](https://github.com/adecaro) | 7 | Project Maintainer, Fabric Maintainer, Lab Leader |
+| 5 | [Diane Mueller](https://github.com/dmueller2001) | 8 | TAC member |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 51 | LFDT Staff |
-| 2 | [Arun S M](https://github.com/arsulegai) | 50 | TAC member, Chapter Leader |
-| 3 | Tracy | 40 | — |
+| 1 | [Arun S M](https://github.com/arsulegai) | 58 | TAC member, Chapter Leader |
+| 2 | [Ry Jones](https://github.com/ryjones) | 51 | LFDT Staff |
+| 3 | Tracy | 39 | — |
 | 4 | [Matthew Whitehead](https://github.com/matthew1001) | 34 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 5 | [Diane Mueller](https://github.com/dmueller2001) | 26 | TAC member |
+| 5 | [Diane Mueller](https://github.com/dmueller2001) | 29 | TAC member |
 
 ### All Time
 
@@ -61,15 +61,15 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Tracy | 378 | — |
 | 2 | [Ry Jones](https://github.com/ryjones) | 208 | LFDT Staff |
-| 3 | [Arun S M](https://github.com/arsulegai) | 143 | TAC member, Chapter Leader |
-| 4 | [vramaiitkgp](https://github.com/VRamakrishna) | 72 | TAC member, Cacti Maintainer |
-| 5 | [davidwboswell](https://github.com/davidwboswell) | 70 | LFDT Staff |
+| 3 | [Arun S M](https://github.com/arsulegai) | 151 | TAC member, Chapter Leader |
+| 4 | [vramaiitkgp](https://github.com/VRamakrishna) | 73 | TAC member, Cacti Maintainer |
+| 5 | [davidwboswell](https://github.com/davidwboswell) | 72 | LFDT Staff |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 126 |
+| 2026 | 143 |
 | 2025 | 247 |
 | 2024 | 313 |
 | 2023 | 512 |
@@ -79,7 +79,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 1 |
+| 2026-06 | 18 |
 | 2026-05 | 38 |
 | 2026-04 | 38 |
 | 2026-03 | 15 |
@@ -137,7 +137,12 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-06-02 | 1 |
+| 2026-06-12 | 2 |
+| 2026-06-11 | 3 |
+| 2026-06-10 | 5 |
+| 2026-06-04 | 5 |
+| 2026-06-03 | 1 |
+| 2026-06-02 | 2 |
 | 2026-05-28 | 2 |
 | 2026-05-27 | 3 |
 | 2026-05-21 | 10 |

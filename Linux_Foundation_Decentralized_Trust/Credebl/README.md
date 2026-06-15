@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1331657844193231030
-- **Total Messages in Category:** 275
-- **Last 30 Days:** 6
-- **Last 90 Days:** 19
-- **Last 365 Days:** 150
+- **Total Messages in Category:** 280
+- **Last 30 Days:** 9
+- **Last 90 Days:** 24
+- **Last 365 Days:** 148
 - **First Message:** 2025-01-23
-- **Last Message:** 2026-06-03
+- **Last Message:** 2026-06-10
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credebl](credebl_1331657363161219082.md) | 2026-06-03 | 6 | 14 | 107 | 176 |
+| [credebl](credebl_1331657363161219082.md) | 2026-06-10 | 9 | 19 | 105 | 181 |
 | [credebl-platform](credebl-platform_1354090545043210362.md) | 2025-09-30 | 0 | 0 | 2 | 52 |
 | [credebl-maintainers](credebl-maintainers_1354091009813905488.md) | 2026-04-25 | 0 | 3 | 30 | 33 |
 | [credebl-announcement](credebl-announcement_1354090474654404660.md) | 2026-04-09 | 0 | 2 | 11 | 14 |
@@ -25,17 +25,19 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | amitthosare | 4 | Credebl maintainer, Project Maintainer |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
+| 2 | Ankita | 3 | Credebl maintainer, Project Maintainer |
+| 3 | YogeshK | 1 | — |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | amitthosare | 8 | Credebl maintainer, Project Maintainer |
-| 2 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 2 | — |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
-| 4 | [Ajay Jadhav](https://github.com/ajile-in) | 2 | Credebl maintainer, Project Maintainer |
-| 5 | [Arun S M](https://github.com/arsulegai) | 2 | TAC member, Chapter Leader |
+| 1 | amitthosare | 9 | Credebl maintainer, Project Maintainer |
+| 2 | Ankita | 4 | Credebl maintainer, Project Maintainer |
+| 3 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 2 | — |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
+| 5 | [Ajay Jadhav](https://github.com/ajile-in) | 2 | Credebl maintainer, Project Maintainer |
 
 ### Last 365 Days
 
@@ -43,32 +45,32 @@
 | ---: | :--- | ---: | :--- |
 | 1 | amitthosare | 32 | Credebl maintainer, Project Maintainer |
 | 2 | PriyanshuZone | 19 | — |
-| 3 | [Ajay Jadhav](https://github.com/ajile-in) | 16 | Credebl maintainer, Project Maintainer |
-| 4 | Ankita | 15 | Credebl maintainer, Project Maintainer |
+| 3 | Ankita | 18 | Credebl maintainer, Project Maintainer |
+| 4 | [Ajay Jadhav](https://github.com/ajile-in) | 15 | Credebl maintainer, Project Maintainer |
 | 5 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 11 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | amitthosare | 43 | Credebl maintainer, Project Maintainer |
+| 1 | amitthosare | 44 | Credebl maintainer, Project Maintainer |
 | 2 | KrishNa | 39 | Credebl maintainer, Project Maintainer |
-| 3 | [Ajay Jadhav](https://github.com/ajile-in) | 23 | Credebl maintainer, Project Maintainer |
-| 4 | Ankita | 21 | Credebl maintainer, Project Maintainer |
+| 3 | Ankita | 24 | Credebl maintainer, Project Maintainer |
+| 4 | [Ajay Jadhav](https://github.com/ajile-in) | 23 | Credebl maintainer, Project Maintainer |
 | 5 | PriyanshuZone | 19 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 79 |
+| 2026 | 84 |
 | 2025 | 196 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 1 |
+| 2026-06 | 6 |
 | 2026-05 | 5 |
 | 2026-04 | 10 |
 | 2026-03 | 9 |
@@ -90,6 +92,9 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-10 | 3 |
+| 2026-06-09 | 1 |
+| 2026-06-08 | 1 |
 | 2026-06-03 | 1 |
 | 2026-05-27 | 1 |
 | 2026-05-26 | 1 |

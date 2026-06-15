@@ -4,7 +4,7 @@
 - **Category:** ToIP
 - **Channel ID:** 1414671233903235142
 - **Total Messages:** 32
-- **Last 30 Days:** 3
+- **Last 30 Days:** 0
 - **Last 90 Days:** 3
 - **Last 365 Days:** 32
 - **First Message:** 2025-09-29
@@ -14,10 +14,7 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 2 | Lab Leader |
-| 2 | NeilJT | 1 | ToIP |
+_No activity in this period._
 
 ### Last 90 Days
 

@@ -2,22 +2,22 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515387498680340
-- **Total Messages in Category:** 679
-- **Last 30 Days:** 0
-- **Last 90 Days:** 3
-- **Last 365 Days:** 15
+- **Total Messages in Category:** 680
+- **Last 30 Days:** 1
+- **Last 90 Days:** 4
+- **Last 365 Days:** 14
 - **First Message:** 2022-02-15
-- **Last Message:** 2026-04-25
+- **Last Message:** 2026-06-08
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [identity](identity_943951480954712064.md) | 2026-04-02 | 0 | 1 | 11 | 223 |
+| [identity](identity_943951480954712064.md) | 2026-04-02 | 0 | 1 | 9 | 223 |
 | [supply-chain-and-trade-finance-sig](supply-chain-and-trade-finance-sig_943951252360925264.md) | 2025-04-28 | 0 | 0 | 0 | 156 |
 | [media-and-entertainment-sig](media-and-entertainment-sig_944591071969685524.md) | 2025-03-03 | 0 | 0 | 0 | 142 |
 | [healthcare-sig](healthcare-sig_943951175634550874.md) | 2026-04-22 | 0 | 1 | 2 | 82 |
-| [capital-markets-sig](capital-markets-sig_943951056252063744.md) | 2026-04-25 | 0 | 1 | 2 | 46 |
+| [capital-markets-sig](capital-markets-sig_943951056252063744.md) | 2026-06-08 | 1 | 2 | 3 | 47 |
 | [climate-action-accounting-sig](climate-action-accounting-sig_943951132680654898.md) | 2025-01-22 | 0 | 0 | 0 | 18 |
 | [public-sector-sig](public-sector-sig_943951221356634112.md) | 2024-09-15 | 0 | 0 | 0 | 5 |
 | [telecom-sig](telecom-sig_943951274624315462.md) | 2025-01-02 | 0 | 0 | 0 | 5 |
@@ -27,13 +27,15 @@
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 1 | Meetup Organizer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 1 | Meetup Organizer |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 2 | Meetup Organizer |
 | 2 | willt3e | 1 | — |
 | 3 | [Ajay Jadhav](https://github.com/ajile-in) | 1 | Credebl maintainer, Project Maintainer |
 
@@ -41,17 +43,17 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [davidwboswell](https://github.com/davidwboswell) | 4 | LFDT Staff |
-| 2 | Ankita | 3 | Credebl maintainer, Project Maintainer |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | LFDT Staff |
+| 1 | Ankita | 3 | Credebl maintainer, Project Maintainer |
+| 2 | [davidwboswell](https://github.com/davidwboswell) | 3 | LFDT Staff |
+| 3 | [DanielSzego](https://github.com/Daniel-Szego) | 2 | Meetup Organizer |
 | 4 | Tomaz | 2 | LFDT Staff |
-| 5 | [DanielSzego](https://github.com/Daniel-Szego) | 1 | Meetup Organizer |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [cjhowland](https://github.com/cjhowland) | 102 | Working Group Leader |
+| 1 | [cjhowland](https://github.com/cjhowland) | 102 | — |
 | 2 | alician | 65 | — |
 | 3 | rgivens84 | 64 | — |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 50 | LFDT Staff |
@@ -61,7 +63,7 @@ _No activity in this period._
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 4 |
+| 2026 | 5 |
 | 2025 | 47 |
 | 2024 | 211 |
 | 2023 | 182 |
@@ -71,6 +73,7 @@ _No activity in this period._
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 1 |
 | 2026-04 | 3 |
 | 2026-01 | 1 |
 | 2025-11 | 3 |
@@ -122,6 +125,7 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-08 | 1 |
 | 2026-04-25 | 1 |
 | 2026-04-22 | 1 |
 | 2026-04-02 | 1 |

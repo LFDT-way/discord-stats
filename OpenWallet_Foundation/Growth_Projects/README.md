@@ -2,26 +2,26 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
-- **Total Messages in Category:** 3,401
-- **Last 30 Days:** 93
-- **Last 90 Days:** 253
-- **Last 365 Days:** 1,471
+- **Total Messages in Category:** 3,449
+- **Last 30 Days:** 97
+- **Last 90 Days:** 262
+- **Last 365 Days:** 1,378
 - **First Message:** 2023-11-08
-- **Last Message:** 2026-06-04
+- **Last Message:** 2026-06-12
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credo](credo_1179453305856991263.md) | 2026-06-04 | 5 | 22 | 251 | 1,061 |
-| [bifold](bifold_1209891839071756419.md) | 2026-06-02 | 19 | 36 | 225 | 883 |
-| [multipaz](multipaz_1179828955717574707.md) | 2026-06-04 | 17 | 64 | 517 | 584 |
-| [eudiplo](eudiplo_1399429216604258365.md) | 2026-06-03 | 47 | 115 | 340 | 340 |
-| [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-03-14 | 0 | 1 | 80 | 240 |
-| [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 1 | 16 | 105 |
-| [owl](owl_1214965981470924911.md) | 2026-05-07 | 1 | 5 | 12 | 85 |
-| [vcx](vcx_1344319756324311123.md) | 2026-03-31 | 0 | 2 | 14 | 69 |
-| [didcomm-mediator-service](didcomm-mediator-service_1286300013365952583.md) | 2026-05-12 | 1 | 3 | 12 | 30 |
+| [credo](credo_1179453305856991263.md) | 2026-06-08 | 5 | 20 | 245 | 1,069 |
+| [bifold](bifold_1209891839071756419.md) | 2026-06-08 | 20 | 34 | 198 | 885 |
+| [multipaz](multipaz_1179828955717574707.md) | 2026-06-10 | 31 | 70 | 440 | 599 |
+| [eudiplo](eudiplo_1399429216604258365.md) | 2026-06-12 | 38 | 130 | 363 | 363 |
+| [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-03-14 | 0 | 0 | 79 | 240 |
+| [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 15 | 105 |
+| [owl](owl_1214965981470924911.md) | 2026-05-07 | 0 | 2 | 10 | 85 |
+| [vcx](vcx_1344319756324311123.md) | 2026-03-31 | 0 | 1 | 12 | 69 |
+| [didcomm-mediator-service](didcomm-mediator-service_1286300013365952583.md) | 2026-05-12 | 0 | 1 | 12 | 30 |
 | [diip](diip_1493643118078201856.md) | 2026-05-29 | 3 | 4 | 4 | 4 |
 
 ## Most Active Users
@@ -30,47 +30,47 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 27 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | Cyril | 15 | — |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 11 | Linux Foundation Staff |
-| 4 | Sodium | 10 | — |
-| 5 | [davidz25](https://github.com/davidz25) | 8 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 1 | [Mirko](https://github.com/cre8) | 30 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [davidz25](https://github.com/davidz25) | 18 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 3 | Sodium | 10 | — |
+| 4 | Cyril | 8 | — |
+| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 7 | Linux Foundation Staff |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 64 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | Cyril | 41 | — |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 32 | Linux Foundation Staff |
-| 4 | [davidz25](https://github.com/davidz25) | 22 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 1 | [Mirko](https://github.com/cre8) | 76 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | Cyril | 45 | — |
+| 3 | [davidz25](https://github.com/davidz25) | 30 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 22 | Linux Foundation Staff |
 | 5 | [Ry Jones, OWF](https://github.com/ryjones) | 12 | Linux Foundation Staff |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [davidz25](https://github.com/davidz25) | 224 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 2 | [Mirko](https://github.com/cre8) | 196 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 97 | Linux Foundation Staff |
-| 4 | Cyril | 78 | — |
+| 1 | [Mirko](https://github.com/cre8) | 214 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [davidz25](https://github.com/davidz25) | 189 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 89 | Linux Foundation Staff |
+| 4 | Cyril | 82 | — |
 | 5 | [Ry Jones, OWF](https://github.com/ryjones) | 61 | Linux Foundation Staff |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [davidz25](https://github.com/davidz25) | 262 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 2 | [Mirko](https://github.com/cre8) | 241 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [davidz25](https://github.com/davidz25) | 272 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 2 | [Mirko](https://github.com/cre8) | 259 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 184 | Linux Foundation Staff |
-| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 169 | Linux Foundation Staff |
-| 5 | [Timo Glastra](https://github.com/TimoGlastra) | 169 | credo maintainers, Project Maintainer |
+| 4 | [Timo Glastra](https://github.com/TimoGlastra) | 172 | credo maintainers, Project Maintainer |
+| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 170 | Linux Foundation Staff |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 606 |
+| 2026 | 654 |
 | 2025 | 1,412 |
 | 2024 | 1,309 |
 | 2023 | 74 |
@@ -79,10 +79,10 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 15 |
-| 2026-05 | 89 |
+| 2026-06 | 56 |
+| 2026-05 | 90 |
 | 2026-04 | 73 |
-| 2026-03 | 95 |
+| 2026-03 | 101 |
 | 2026-02 | 143 |
 | 2026-01 | 191 |
 | 2025-12 | 114 |
@@ -116,12 +116,19 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-06-04 | 8 |
-| 2026-06-03 | 2 |
+| 2026-06-12 | 5 |
+| 2026-06-11 | 2 |
+| 2026-06-10 | 5 |
+| 2026-06-09 | 2 |
+| 2026-06-08 | 12 |
+| 2026-06-06 | 1 |
+| 2026-06-05 | 1 |
+| 2026-06-04 | 14 |
+| 2026-06-03 | 6 |
 | 2026-06-02 | 4 |
-| 2026-06-01 | 1 |
+| 2026-06-01 | 4 |
 | 2026-05-31 | 1 |
-| 2026-05-29 | 1 |
+| 2026-05-29 | 2 |
 | 2026-05-28 | 4 |
 | 2026-05-27 | 2 |
 | 2026-05-26 | 3 |
@@ -158,13 +165,14 @@
 | 2026-04-06 | 1 |
 | 2026-04-03 | 5 |
 | 2026-03-31 | 9 |
-| 2026-03-25 | 6 |
+| 2026-03-25 | 8 |
 | 2026-03-23 | 11 |
+| 2026-03-20 | 2 |
 | 2026-03-18 | 5 |
-| 2026-03-17 | 7 |
+| 2026-03-17 | 8 |
 | 2026-03-16 | 19 |
 | 2026-03-14 | 3 |
-| 2026-03-13 | 9 |
+| 2026-03-13 | 10 |
 | 2026-03-12 | 5 |
 | 2026-03-10 | 2 |
 | 2026-03-05 | 3 |

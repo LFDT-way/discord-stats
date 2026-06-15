@@ -4,9 +4,9 @@
 - **Category:** Bevel
 - **Channel ID:** 967823782712594442
 - **Total Messages:** 2,834
-- **Last 30 Days:** 1
-- **Last 90 Days:** 23
-- **Last 365 Days:** 49
+- **Last 30 Days:** 0
+- **Last 90 Days:** 22
+- **Last 365 Days:** 45
 - **First Message:** 2022-04-24
 - **Last Message:** 2026-05-11
 
@@ -14,9 +14,7 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | Rubén | 1 | — |
+_No activity in this period._
 
 ### Last 90 Days
 
@@ -24,14 +22,14 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 12 | LFDT Staff |
 | 2 | CalvinCreator | 8 | — |
-| 3 | [dnakashima](https://github.com/dnakashima) | 2 | Project Maintainer, Fabric Maintainer, Lab Leader |
-| 4 | Rubén | 1 | — |
+| 3 | Rubén | 1 | — |
+| 4 | [dnakashima](https://github.com/dnakashima) | 1 | Project Maintainer, Fabric Maintainer, Lab Leader |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 14 | LFDT Staff |
+| 1 | [Ry Jones](https://github.com/ryjones) | 13 | LFDT Staff |
 | 2 | KaitouKID | 9 | — |
 | 3 | CalvinCreator | 8 | — |
 | 4 | Piyush Gupta | 3 | — |

@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Community
 - **Channel ID:** 1329201532628898036
-- **Total Messages:** 130
-- **Last 30 Days:** 3
-- **Last 90 Days:** 8
+- **Total Messages:** 131
+- **Last 30 Days:** 4
+- **Last 90 Days:** 9
 - **Last 365 Days:** 61
 - **First Message:** 2025-01-15
-- **Last Message:** 2026-05-29
+- **Last Message:** 2026-06-08
 
 ## Most Active Users
 
@@ -16,13 +16,13 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 3 | Meetup Organizer |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 4 | Meetup Organizer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 8 | Meetup Organizer |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 9 | Meetup Organizer |
 
 ### Last 365 Days
 
@@ -38,7 +38,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 89 | Meetup Organizer |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 90 | Meetup Organizer |
 | 2 | Andrew Puch 🛡⬆🇺🇸 | 12 | — |
 | 3 | tz18 | 6 | — |
 | 4 | [davidwboswell](https://github.com/davidwboswell) | 6 | LFDT Staff |
@@ -48,13 +48,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 17 |
+| 2026 | 18 |
 | 2025 | 113 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 1 |
 | 2026-05 | 3 |
 | 2026-04 | 4 |
 | 2026-03 | 1 |
@@ -77,6 +78,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-08 | 1 |
 | 2026-05-29 | 1 |
 | 2026-05-28 | 2 |
 | 2026-04-25 | 3 |

@@ -2,18 +2,18 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1285999377751736443
-- **Total Messages in Category:** 840
-- **Last 30 Days:** 13
-- **Last 90 Days:** 21
-- **Last 365 Days:** 241
+- **Total Messages in Category:** 852
+- **Last 30 Days:** 18
+- **Last 90 Days:** 32
+- **Last 365 Days:** 248
 - **First Message:** 2024-09-26
-- **Last Message:** 2026-06-02
+- **Last Message:** 2026-06-15
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aca-py](aca-py_1286299858994462842.md) | 2026-06-02 | 13 | 21 | 239 | 779 |
+| [aca-py](aca-py_1286299858994462842.md) | 2026-06-15 | 18 | 32 | 246 | 791 |
 | [acapy-did-registration](acapy-did-registration_1303470616581509130.md) | 2025-10-25 | 0 | 0 | 2 | 61 |
 
 ## Most Active Users
@@ -22,46 +22,47 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Timbl | 8 | — |
-| 2 | Thiago Romano | 3 | — |
-| 3 | PStLouis | 1 | Lab Maintainer, Project Maintainer |
-| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
+| 1 | PStLouis | 5 | Lab Maintainer, Project Maintainer |
+| 2 | RMLearney | 4 | — |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 3 | Linux Foundation Staff |
+| 4 | Timbl | 3 | — |
+| 5 | Thiago Romano | 3 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Timbl | 8 | — |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 4 | Linux Foundation Staff |
-| 3 | Thiago Romano | 4 | — |
-| 4 | Micah Peltier | 2 | — |
-| 5 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
+| 1 | Timbl | 9 | — |
+| 2 | PStLouis | 5 | Lab Maintainer, Project Maintainer |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 5 | Linux Foundation Staff |
+| 4 | Thiago Romano | 5 | — |
+| 5 | RMLearney | 4 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | PStLouis | 37 | Lab Maintainer, Project Maintainer |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 21 | Linux Foundation Staff |
+| 1 | PStLouis | 41 | Lab Maintainer, Project Maintainer |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 22 | Linux Foundation Staff |
 | 3 | [swcurran](https://github.com/swcurran) | 21 | Lab Maintainer, TAC members, Project Maintainer |
-| 4 | [jamshale](https://github.com/jamshale) | 19 | Project Maintainer |
-| 5 | albertoleon_7794 | 14 | — |
+| 4 | [jamshale](https://github.com/jamshale) | 17 | Project Maintainer |
+| 5 | albertoleon_7794 | 12 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | PStLouis | 159 | Lab Maintainer, Project Maintainer |
+| 1 | PStLouis | 163 | Lab Maintainer, Project Maintainer |
 | 2 | [swcurran](https://github.com/swcurran) | 101 | Lab Maintainer, TAC members, Project Maintainer |
 | 3 | [jamshale](https://github.com/jamshale) | 82 | Project Maintainer |
-| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 46 | Linux Foundation Staff |
+| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 48 | Linux Foundation Staff |
 | 5 | friendlyfire137 | 37 | Project Maintainer |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 65 |
+| 2026 | 77 |
 | 2025 | 531 |
 | 2024 | 244 |
 
@@ -69,7 +70,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 1 |
+| 2026-06 | 13 |
 | 2026-05 | 14 |
 | 2026-04 | 2 |
 | 2026-03 | 4 |
@@ -96,6 +97,11 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-15 | 4 |
+| 2026-06-13 | 1 |
+| 2026-06-11 | 4 |
+| 2026-06-10 | 2 |
+| 2026-06-09 | 1 |
 | 2026-06-02 | 1 |
 | 2026-05-28 | 1 |
 | 2026-05-27 | 1 |

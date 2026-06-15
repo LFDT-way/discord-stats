@@ -41,7 +41,7 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [swcurran](https://github.com/swcurran) | 207 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
-| 2 | [conanoc](https://github.com/conanoc) | 103 | Project Maintainer |
+| 2 | [conanoc](https://github.com/conanoc) | 103 | Lab Leader |
 | 3 | [Wade Barnes](https://github.com/WadeBarnes) | 72 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
 | 4 | Deleted User | 71 | — |
 | 5 | kukgini | 71 | — |

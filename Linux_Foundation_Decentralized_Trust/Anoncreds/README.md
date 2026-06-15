@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 754
 - **Last 30 Days:** 1
 - **Last 90 Days:** 4
-- **Last 365 Days:** 18
+- **Last 365 Days:** 17
 - **First Message:** 2022-10-26
 - **Last Message:** 2026-05-26
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [anoncreds](anoncreds_1035263835449331793.md) | 2026-05-26 | 1 | 1 | 12 | 342 |
+| [anoncreds](anoncreds_1035263835449331793.md) | 2026-05-26 | 1 | 1 | 11 | 342 |
 | [anoncreds-rs](anoncreds-rs_1037471454775746580.md) | 2025-04-18 | 0 | 0 | 0 | 140 |
 | [anoncreds-spec](anoncreds-spec_1037471404586709042.md) | 2024-05-27 | 0 | 0 | 0 | 123 |
 | [anoncreds-v20](anoncreds-v20_1077618938256576593.md) | 2025-03-21 | 0 | 0 | 0 | 110 |
@@ -42,7 +42,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [swcurran](https://github.com/swcurran) | 6 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | LFDT Staff |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | LFDT Staff |
 | 3 | [Arun S M](https://github.com/arsulegai) | 2 | TAC member, Chapter Leader |
 | 4 | SophiaUgo | 2 | — |
 | 5 | tsheringgyeltshen | 1 | — |
@@ -52,7 +52,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [swcurran](https://github.com/swcurran) | 239 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
-| 2 | [mikelodder](https://github.com/mikelodder) | 80 | Project Maintainer, Lab Leader |
+| 2 | [mikelodder](https://github.com/mikelodder) | 80 | Project Maintainer, Anoncreds Maintainer, Lab Leader |
 | 3 | Patrick St-Louis | 59 | Project Maintainer, ToIP |
 | 4 | [Ry Jones](https://github.com/ryjones) | 33 | LFDT Staff |
 | 5 | [Timo Glastra](https://github.com/TimoGlastra) | 28 | Project Maintainer, Anoncreds Maintainer |

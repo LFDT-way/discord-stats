@@ -26,7 +26,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | [Diane Mueller](https://github.com/dmueller2001) | 21 | TAC member |
 | 2 | [JessicaG](https://github.com/jwagantall) | 8 | LFDT Staff |
-| 3 | [cjhowland](https://github.com/cjhowland) | 8 | Working Group Leader |
+| 3 | [cjhowland](https://github.com/cjhowland) | 8 | — |
 | 4 | [Ry Jones](https://github.com/ryjones) | 5 | LFDT Staff |
 | 5 | Tracy | 5 | — |
 
@@ -36,7 +36,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | [Diane Mueller](https://github.com/dmueller2001) | 21 | TAC member |
 | 2 | [JessicaG](https://github.com/jwagantall) | 8 | LFDT Staff |
-| 3 | [cjhowland](https://github.com/cjhowland) | 8 | Working Group Leader |
+| 3 | [cjhowland](https://github.com/cjhowland) | 8 | — |
 | 4 | [Ry Jones](https://github.com/ryjones) | 5 | LFDT Staff |
 | 5 | Tracy | 5 | — |
 

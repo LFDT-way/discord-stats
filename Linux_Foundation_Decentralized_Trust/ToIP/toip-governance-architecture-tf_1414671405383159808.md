@@ -3,18 +3,20 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414671405383159808
-- **Total Messages:** 129
-- **Last 30 Days:** 0
-- **Last 90 Days:** 25
-- **Last 365 Days:** 129
+- **Total Messages:** 130
+- **Last 30 Days:** 1
+- **Last 90 Days:** 26
+- **Last 365 Days:** 130
 - **First Message:** 2025-09-24
-- **Last Message:** 2026-05-05
+- **Last Message:** 2026-06-12
 
 ## Most Active Users
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | lyn brooks | 1 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
@@ -50,13 +52,14 @@ _No activity in this period._
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 76 |
+| 2026 | 77 |
 | 2025 | 53 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 1 |
 | 2026-05 | 4 |
 | 2026-04 | 4 |
 | 2026-03 | 21 |
@@ -71,6 +74,7 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-12 | 1 |
 | 2026-05-05 | 1 |
 | 2026-05-04 | 3 |
 | 2026-04-17 | 1 |

@@ -2,24 +2,24 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 948958931512873030
-- **Total Messages in Category:** 12,755
-- **Last 30 Days:** 23
-- **Last 90 Days:** 80
-- **Last 365 Days:** 336
+- **Total Messages in Category:** 12,756
+- **Last 30 Days:** 18
+- **Last 90 Days:** 56
+- **Last 365 Days:** 330
 - **First Message:** 2022-03-03
-- **Last Message:** 2026-06-04
+- **Last Message:** 2026-06-10
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [welcome](welcome_948959099842883654.md) | 2026-05-02 | 0 | 22 | 43 | 10,702 |
-| [general](general_1021077182501621830.md) | 2026-06-04 | 13 | 43 | 246 | 1,678 |
-| [connections](connections_948959243095130142.md) | 2026-04-03 | 0 | 1 | 29 | 321 |
-| [announcements](announcements_953133039372877844.md) | 2026-06-03 | 5 | 7 | 10 | 38 |
+| [welcome](welcome_948959099842883654.md) | 2026-05-02 | 0 | 14 | 43 | 10,702 |
+| [general](general_1021077182501621830.md) | 2026-06-04 | 10 | 26 | 243 | 1,678 |
+| [connections](connections_948959243095130142.md) | 2026-04-03 | 0 | 1 | 25 | 321 |
+| [announcements](announcements_953133039372877844.md) | 2026-06-03 | 3 | 7 | 10 | 38 |
+| [job-postings](job-postings_1050607623566802984.md) | 2026-06-10 | 5 | 6 | 6 | 6 |
 | [git-help](git-help_1098621099681513492.md) | 2024-09-06 | 0 | 0 | 0 | 6 |
 | [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-05-04 | 0 | 2 | 3 | 5 |
-| [job-postings](job-postings_1050607623566802984.md) | 2026-05-29 | 5 | 5 | 5 | 5 |
 
 ## Most Active Users
 
@@ -27,7 +27,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | LFDT Staff |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | LFDT Staff |
 | 2 | Zerah | 3 | — |
 | 3 | Mohit Yadav | 2 | — |
 | 4 | Anthony G | 2 | — |
@@ -37,17 +37,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Zion'sEarthlyPrince | 13 | — |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 11 | LFDT Staff |
-| 3 | k!ller | 4 | — |
-| 4 | Zerah | 3 | — |
-| 5 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 9 | LFDT Staff |
+| 2 | Zerah | 3 | — |
+| 3 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
+| 4 | Henk van Cann | 2 | Project Maintainer, ToIP |
+| 5 | Ali | 2 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 48 | LFDT Staff |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 45 | LFDT Staff |
 | 2 | [Ry Jones](https://github.com/ryjones) | 18 | LFDT Staff |
 | 3 | Zion'sEarthlyPrince | 13 | — |
 | 4 | Tsafaras | 12 | — |
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 117 |
+| 2026 | 118 |
 | 2025 | 346 |
 | 2024 | 1,050 |
 | 2023 | 6,951 |
@@ -77,7 +77,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 4 |
+| 2026-06 | 5 |
 | 2026-05 | 27 |
 | 2026-04 | 20 |
 | 2026-03 | 36 |
@@ -134,6 +134,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-10 | 1 |
 | 2026-06-04 | 2 |
 | 2026-06-03 | 1 |
 | 2026-06-01 | 1 |

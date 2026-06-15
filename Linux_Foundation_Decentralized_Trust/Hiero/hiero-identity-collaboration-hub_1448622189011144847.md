@@ -5,7 +5,7 @@
 - **Channel ID:** 1448622189011144847
 - **Total Messages:** 21
 - **Last 30 Days:** 0
-- **Last 90 Days:** 2
+- **Last 90 Days:** 0
 - **Last 365 Days:** 21
 - **First Message:** 2025-12-19
 - **Last Message:** 2026-03-11
@@ -18,10 +18,7 @@ _No activity in this period._
 
 ### Last 90 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | Taro | 1 | — |
-| 2 | Starix | 1 | — |
+_No activity in this period._
 
 ### Last 365 Days
 

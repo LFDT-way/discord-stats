@@ -4,9 +4,9 @@
 - **Category:** Fabric
 - **Channel ID:** 943059293765267497
 - **Total Messages:** 948
-- **Last 30 Days:** 1
+- **Last 30 Days:** 0
 - **Last 90 Days:** 1
-- **Last 365 Days:** 30
+- **Last 365 Days:** 24
 - **First Message:** 2022-02-15
 - **Last Message:** 2026-05-12
 
@@ -14,9 +14,7 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 1 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
+_No activity in this period._
 
 ### Last 90 Days
 
@@ -28,11 +26,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Maria Munaro](https://github.com/munapower) | 6 | — |
-| 2 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 5 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
-| 3 | Glayer | 4 | — |
-| 4 | nomadic | 4 | — |
-| 5 | Casol | 3 | — |
+| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 5 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
+| 2 | Glayer | 4 | — |
+| 3 | Casol | 3 | — |
+| 4 | [Maria Munaro](https://github.com/munapower) | 3 | — |
+| 5 | PsychoPunkSage | 2 | — |
 
 ### All Time
 

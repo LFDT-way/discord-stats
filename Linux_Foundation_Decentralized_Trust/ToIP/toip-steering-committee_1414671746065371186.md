@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414671746065371186
-- **Total Messages:** 134
+- **Total Messages:** 142
 - **Last 30 Days:** 11
-- **Last 90 Days:** 42
-- **Last 365 Days:** 134
+- **Last 90 Days:** 44
+- **Last 365 Days:** 142
 - **First Message:** 2025-09-24
-- **Last Message:** 2026-05-28
+- **Last Message:** 2026-06-09
 
 ## Most Active Users
 
@@ -16,52 +16,52 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 5 | Project Maintainer, ToIP |
+| 1 | [Ry Jones](https://github.com/ryjones) | 5 | LFDT Staff |
 | 2 | microbiocarly | 4 | Project Maintainer, ToIP |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
-| 4 | Adligo | 1 | — |
+| 3 | [drummondreed](https://github.com/talltree) | 2 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 16 | Project Maintainer, ToIP |
-| 2 | [firegod](https://github.com/wenjing) | 8 | Project Maintainer, ToIP |
-| 3 | [drummondreed](https://github.com/talltree) | 8 | Project Maintainer, ToIP |
-| 4 | [Arun S M](https://github.com/arsulegai) | 3 | TAC member, Chapter Leader |
-| 5 | Henk van Cann | 2 | Project Maintainer, ToIP |
+| 1 | microbiocarly | 18 | Project Maintainer, ToIP |
+| 2 | [drummondreed](https://github.com/talltree) | 8 | Project Maintainer, ToIP |
+| 3 | [firegod](https://github.com/wenjing) | 7 | Project Maintainer, ToIP |
+| 4 | [Ry Jones](https://github.com/ryjones) | 5 | LFDT Staff |
+| 5 | [Arun S M](https://github.com/arsulegai) | 2 | TAC member, Chapter Leader |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 38 | Project Maintainer, ToIP |
+| 1 | microbiocarly | 41 | Project Maintainer, ToIP |
 | 2 | [drummondreed](https://github.com/talltree) | 24 | Project Maintainer, ToIP |
 | 3 | [firegod](https://github.com/wenjing) | 20 | Project Maintainer, ToIP |
-| 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 10 | Project Maintainer, ToIP |
-| 5 | [Min Yu](https://github.com/minyu66) | 7 | LFDT Staff |
+| 4 | [Ry Jones](https://github.com/ryjones) | 10 | LFDT Staff |
+| 5 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 10 | Project Maintainer, ToIP |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 38 | Project Maintainer, ToIP |
+| 1 | microbiocarly | 41 | Project Maintainer, ToIP |
 | 2 | [drummondreed](https://github.com/talltree) | 24 | Project Maintainer, ToIP |
 | 3 | [firegod](https://github.com/wenjing) | 20 | Project Maintainer, ToIP |
-| 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 10 | Project Maintainer, ToIP |
-| 5 | [Min Yu](https://github.com/minyu66) | 7 | LFDT Staff |
+| 4 | [Ry Jones](https://github.com/ryjones) | 10 | LFDT Staff |
+| 5 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 10 | Project Maintainer, ToIP |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 93 |
+| 2026 | 101 |
 | 2025 | 41 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 8 |
 | 2026-05 | 11 |
 | 2026-04 | 3 |
 | 2026-03 | 34 |
@@ -75,6 +75,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-09 | 8 |
 | 2026-05-28 | 2 |
 | 2026-05-22 | 1 |
 | 2026-05-14 | 3 |

@@ -3,12 +3,12 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category:** PQ Code Package
 - **Channel ID:** 1339067141269229652
-- **Total Messages:** 2,069
-- **Last 30 Days:** 15
-- **Last 90 Days:** 82
-- **Last 365 Days:** 1,453
+- **Total Messages:** 2,071
+- **Last 30 Days:** 17
+- **Last 90 Days:** 80
+- **Last 365 Days:** 1,443
 - **First Message:** 2025-02-12
-- **Last Message:** 2026-05-30
+- **Last Message:** 2026-06-11
 
 ## Most Active Users
 
@@ -16,27 +16,28 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 11 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 12 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | Hanno | 2 | PQ Code Package Maintainer |
 | 3 | [RyJones](https://github.com/ryjones) | 2 | LF Staff |
+| 4 | Rod | 1 | PQ Code Package Maintainer, Project Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 46 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | Rod | 18 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 47 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | Rod | 17 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | [RyJones](https://github.com/ryjones) | 10 | LF Staff |
-| 4 | Hanno | 5 | PQ Code Package Maintainer |
-| 5 | Jake | 2 | PQ Code Package Maintainer, Project Maintainer |
+| 4 | Hanno | 4 | PQ Code Package Maintainer |
+| 5 | Jake | 1 | PQ Code Package Maintainer, Project Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 574 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | Rod | 572 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 97 | PQ Code Package Maintainer |
+| 1 | Rod | 571 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 568 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 94 | PQ Code Package Maintainer |
 | 4 | Jake | 83 | PQ Code Package Maintainer, Project Maintainer |
 | 5 | Brendan | 53 | — |
 
@@ -44,8 +45,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 800 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 797 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 801 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 798 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 162 | PQ Code Package Maintainer |
 | 4 | Jake | 162 | PQ Code Package Maintainer, Project Maintainer |
 | 5 | Brendan | 53 | — |
@@ -54,13 +55,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 161 |
+| 2026 | 163 |
 | 2025 | 1,908 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 2 |
 | 2026-05 | 15 |
 | 2026-04 | 54 |
 | 2026-03 | 32 |
@@ -82,6 +84,8 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-11 | 1 |
+| 2026-06-10 | 1 |
 | 2026-05-30 | 4 |
 | 2026-05-29 | 9 |
 | 2026-05-28 | 2 |

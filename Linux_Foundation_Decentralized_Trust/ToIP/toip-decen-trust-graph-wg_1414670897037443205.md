@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414670897037443205
-- **Total Messages:** 279
-- **Last 30 Days:** 23
+- **Total Messages:** 280
+- **Last 30 Days:** 14
 - **Last 90 Days:** 71
-- **Last 365 Days:** 279
+- **Last 365 Days:** 280
 - **First Message:** 2025-09-24
-- **Last Message:** 2026-06-01
+- **Last Message:** 2026-06-10
 
 ## Most Active Users
 
@@ -17,10 +17,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [drummondreed](https://github.com/talltree) | 7 | Project Maintainer, ToIP |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 5 | Lab Leader |
-| 3 | microbiocarly | 2 | Project Maintainer, ToIP |
-| 4 | [Ry Jones](https://github.com/ryjones) | 2 | LFDT Staff |
-| 5 | jonbauer | 2 | Identus Maintainer, Project Maintainer |
+| 2 | microbiocarly | 2 | Project Maintainer, ToIP |
+| 3 | [Ry Jones](https://github.com/ryjones) | 2 | LFDT Staff |
+| 4 | Adligo | 2 | — |
+| 5 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 1 | Lab Leader |
 
 ### Last 90 Days
 
@@ -36,7 +36,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 107 | Project Maintainer, ToIP |
+| 1 | [drummondreed](https://github.com/talltree) | 108 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 63 | Lab Leader |
 | 3 | Jonathan Bellack | 16 | Project Maintainer, ToIP |
 | 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 13 | Project Maintainer, ToIP |
@@ -46,7 +46,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 107 | Project Maintainer, ToIP |
+| 1 | [drummondreed](https://github.com/talltree) | 108 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 63 | Lab Leader |
 | 3 | Jonathan Bellack | 16 | Project Maintainer, ToIP |
 | 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 13 | Project Maintainer, ToIP |
@@ -56,14 +56,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 137 |
+| 2026 | 138 |
 | 2025 | 142 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 2 |
+| 2026-06 | 3 |
 | 2026-05 | 26 |
 | 2026-04 | 20 |
 | 2026-03 | 29 |
@@ -78,6 +78,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-10 | 1 |
 | 2026-06-01 | 2 |
 | 2026-05-27 | 1 |
 | 2026-05-26 | 2 |

@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 941475426017116180
 - **Total Messages in Category:** 53
-- **Last 30 Days:** 8
+- **Last 30 Days:** 3
 - **Last 90 Days:** 8
 - **Last 365 Days:** 10
 - **First Message:** 2022-02-17
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cello](cello_941475454378991646.md) | 2026-06-04 | 8 | 8 | 10 | 53 |
+| [cello](cello_941475454378991646.md) | 2026-06-04 | 3 | 8 | 10 | 53 |
 
 ## Most Active Users
 
@@ -21,10 +21,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Kirin Chu](https://github.com/dodo920306) | 4 | — |
-| 2 | AgrimTawani \| Cryptobazaar | 2 | — |
-| 3 | govind(g-k-s-03) | 1 | — |
-| 4 | ujjwal | 1 | — |
+| 1 | govind(g-k-s-03) | 1 | — |
+| 2 | ujjwal | 1 | — |
+| 3 | [Kirin Chu](https://github.com/dodo920306) | 1 | — |
 
 ### Last 90 Days
 

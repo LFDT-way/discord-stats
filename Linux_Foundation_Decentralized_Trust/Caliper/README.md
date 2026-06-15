@@ -4,8 +4,8 @@
 - **Category ID:** 905515579027386368
 - **Total Messages in Category:** 1,630
 - **Last 30 Days:** 1
-- **Last 90 Days:** 17
-- **Last 365 Days:** 242
+- **Last 90 Days:** 6
+- **Last 365 Days:** 240
 - **First Message:** 2022-02-14
 - **Last Message:** 2026-05-29
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [caliper](caliper_941417677778473031.md) | 2026-05-29 | 1 | 14 | 49 | 883 |
+| [caliper](caliper_941417677778473031.md) | 2026-05-29 | 1 | 3 | 47 | 883 |
 | [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-04-15 | 0 | 3 | 192 | 738 |
 | [caliper-announcements](caliper-announcements_941417775275065364.md) | 2025-10-03 | 0 | 0 | 1 | 5 |
 | [caliper-github](caliper-github_943549642824638544.md) | 2024-04-12 | 0 | 0 | 0 | 4 |
@@ -30,17 +30,16 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Robin Huiser \| Omnumi | 9 | — |
-| 2 | NorfolkAndChance | 2 | Project Maintainer |
-| 3 | [Attila Klenik](https://github.com/aklenik) | 2 | Project Maintainer, Lab Leader |
-| 4 | tunedev | 2 | — |
-| 5 | Ember | 1 | — |
+| 1 | Robin Huiser \| Omnumi | 2 | — |
+| 2 | tunedev | 2 | — |
+| 3 | Ember | 1 | — |
+| 4 | [Attila Klenik](https://github.com/aklenik) | 1 | Project Maintainer, Lab Leader |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | NorfolkAndChance | 70 | Project Maintainer |
+| 1 | NorfolkAndChance | 69 | Project Maintainer |
 | 2 | [Attila Klenik](https://github.com/aklenik) | 63 | Project Maintainer, Lab Leader |
 | 3 | [Ry Jones](https://github.com/ryjones) | 61 | LFDT Staff |
 | 4 | davidfdr | 24 | — |

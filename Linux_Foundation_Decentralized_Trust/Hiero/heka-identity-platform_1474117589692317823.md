@@ -4,7 +4,7 @@
 - **Category:** Hiero
 - **Channel ID:** 1474117589692317823
 - **Total Messages:** 31
-- **Last 30 Days:** 14
+- **Last 30 Days:** 1
 - **Last 90 Days:** 28
 - **Last 365 Days:** 31
 - **First Message:** 2026-03-02
@@ -16,11 +16,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | SHADY | 6 | — |
-| 2 | JASHK | 3 | — |
-| 3 | [explorer3](https://github.com/exploreriii) | 2 | Project Maintainer, Hiero maintainer |
-| 4 | Byteledger | 2 | — |
-| 5 | DEV | 1 | — |
+| 1 | Byteledger | 1 | — |
 
 ### Last 90 Days
 

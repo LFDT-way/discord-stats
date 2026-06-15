@@ -3,7 +3,7 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1202723483289780234
 - **Total Messages in Category:** 453
-- **Last 30 Days:** 19
+- **Last 30 Days:** 15
 - **Last 90 Days:** 39
 - **Last 365 Days:** 173
 - **First Message:** 2024-02-01
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [general](general_1202723483289780236.md) | 2026-06-05 | 18 | 38 | 165 | 415 |
+| [general](general_1202723483289780236.md) | 2026-06-05 | 14 | 38 | 165 | 415 |
 | [linkedin](linkedin_1205645746192261220.md) | 2026-05-24 | 1 | 1 | 8 | 33 |
 | [links](links_1205170239436754974.md) | 2024-02-13 | 0 | 0 | 0 | 4 |
 | [events](events_1214569223012089878.md) | 2025-03-11 | 0 | 0 | 0 | 1 |
@@ -24,11 +24,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Bigood | 4 | — |
-| 2 | N.Nova | 3 | — |
-| 3 | Loganaden | 2 | — |
-| 4 | justn | 2 | — |
-| 5 | Severus Snape | 2 | — |
+| 1 | N.Nova | 3 | — |
+| 2 | Loganaden | 2 | — |
+| 3 | Bigood | 2 | — |
+| 4 | brent | 2 | — |
+| 5 | Vishnu Ajith | 1 | — |
 
 ### Last 90 Days
 
