@@ -4,8 +4,8 @@
 - **Category:** Hiero
 - **Channel ID:** 1474117589692317823
 - **Total Messages:** 31
-- **Last 30 Days:** 1
-- **Last 90 Days:** 28
+- **Last 30 Days:** 0
+- **Last 90 Days:** 24
 - **Last 365 Days:** 31
 - **First Message:** 2026-03-02
 - **Last Message:** 2026-05-18
@@ -14,19 +14,17 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | Byteledger | 1 | — |
+_No activity in this period._
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | SHADY | 9 | — |
-| 2 | JASHK | 8 | — |
+| 1 | JASHK | 8 | — |
+| 2 | SHADY | 8 | — |
 | 3 | [explorer3](https://github.com/exploreriii) | 2 | Project Maintainer, Hiero maintainer |
-| 4 | Byteledger | 2 | — |
-| 5 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 1 | Project Maintainer, Hiero maintainer |
+| 4 | Shrov Jain | 2 | — |
+| 5 | Ashwani Singh | 1 | — |
 
 ### Last 365 Days
 
@@ -36,7 +34,7 @@
 | 2 | JASHK | 8 | — |
 | 3 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 3 | Project Maintainer, Hiero maintainer |
 | 4 | [explorer3](https://github.com/exploreriii) | 2 | Project Maintainer, Hiero maintainer |
-| 5 | Byteledger | 2 | — |
+| 5 | Shrov Jain | 2 | — |
 
 ### All Time
 
@@ -46,7 +44,7 @@
 | 2 | JASHK | 8 | — |
 | 3 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 3 | Project Maintainer, Hiero maintainer |
 | 4 | [explorer3](https://github.com/exploreriii) | 2 | Project Maintainer, Hiero maintainer |
-| 5 | Byteledger | 2 | — |
+| 5 | Shrov Jain | 2 | — |
 
 ## Yearly Traffic
 

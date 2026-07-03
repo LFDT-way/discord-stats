@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Special Interest Groups -- Archived
 - **Channel ID:** 944591071969685524
-- **Total Messages:** 142
+- **Total Messages:** 143
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
 - **Last 365 Days:** 0
@@ -28,7 +28,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | rgivens84 | 64 | — |
+| 1 | rgivens84 | 65 | — |
 | 2 | Sandy Aggarwal | 28 | SIG leader, Community Leader |
 | 3 | Brett Russell | 21 | SIG leader, Community Leader |
 | 4 | Ramesh M | 11 | — |
@@ -40,7 +40,7 @@ _No activity in this period._
 | --- | --- |
 | 2025 | 2 |
 | 2024 | 12 |
-| 2023 | 45 |
+| 2023 | 46 |
 | 2022 | 83 |
 
 ## Monthly Traffic
@@ -65,7 +65,7 @@ _No activity in this period._
 | 2023-08 | 5 |
 | 2023-07 | 5 |
 | 2023-06 | 5 |
-| 2023-05 | 7 |
+| 2023-05 | 8 |
 | 2023-04 | 2 |
 | 2023-03 | 7 |
 | 2023-02 | 3 |
@@ -119,7 +119,7 @@ _No activity in this period._
 | 2023-06-16 | 1 |
 | 2023-06-13 | 1 |
 | 2023-05-31 | 1 |
-| 2023-05-26 | 2 |
+| 2023-05-26 | 3 |
 | 2023-05-22 | 4 |
 | 2023-04-26 | 1 |
 | 2023-04-04 | 1 |

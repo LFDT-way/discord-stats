@@ -6,7 +6,7 @@
 - **Total Messages:** 44
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 44
+- **Last 365 Days:** 39
 - **First Message:** 2025-06-27
 - **Last Message:** 2025-11-14
 
@@ -24,21 +24,21 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 24 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 15 | LFDT Staff |
-| 3 | [Enrique Lacal](https://github.com/EnriqueL8) | 2 | TAC member, Project Maintainer, Firefly Maintainer |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
-| 5 | [davidwboswell](https://github.com/davidwboswell) | 1 | LFDT Staff |
+| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 22 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 13 | lfdt-ca, LFDT Staff |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
+| 4 | [Enrique Lacal](https://github.com/EnriqueL8) | 1 | TAC member, Project Maintainer, Firefly Maintainer |
+| 5 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Matthew Whitehead](https://github.com/matthew1001) | 24 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 15 | LFDT Staff |
+| 2 | [Ry Jones](https://github.com/ryjones) | 15 | lfdt-ca, LFDT Staff |
 | 3 | [Enrique Lacal](https://github.com/EnriqueL8) | 2 | TAC member, Project Maintainer, Firefly Maintainer |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
-| 5 | [davidwboswell](https://github.com/davidwboswell) | 1 | LFDT Staff |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
+| 5 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
 
 ## Yearly Traffic
 

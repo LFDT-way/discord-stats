@@ -5,7 +5,7 @@
 - **Channel ID:** 1414671546940915854
 - **Total Messages:** 35
 - **Last 30 Days:** 0
-- **Last 90 Days:** 23
+- **Last 90 Days:** 11
 - **Last 365 Days:** 35
 - **First Message:** 2025-10-02
 - **Last Message:** 2026-05-05
@@ -20,11 +20,10 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 8 | Lab Leader |
-| 2 | Tweeddalex | 7 | Project Maintainer, ToIP |
-| 3 | [drummondreed](https://github.com/talltree) | 6 | Project Maintainer, ToIP |
-| 4 | Scott Perry | 1 | Project Maintainer, ToIP |
-| 5 | microbiocarly | 1 | Project Maintainer, ToIP |
+| 1 | Tweeddalex | 4 | Project Maintainer, ToIP |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 3 | Lab Leader |
+| 3 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
+| 4 | microbiocarly | 1 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 

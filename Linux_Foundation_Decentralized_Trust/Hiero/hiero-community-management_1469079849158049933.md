@@ -27,7 +27,7 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [explorer3](https://github.com/exploreriii) | 12 | Project Maintainer, Hiero maintainer |
-| 2 | [JessicaG](https://github.com/jwagantall) | 2 | LFDT Staff |
+| 2 | [JessicaG](https://github.com/jwagantall) | 2 | lfdt-ca, LFDT Staff |
 | 3 | ocean-oc3ean | 1 | — |
 | 4 | Deleted User | 1 | — |
 
@@ -36,7 +36,7 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [explorer3](https://github.com/exploreriii) | 12 | Project Maintainer, Hiero maintainer |
-| 2 | [JessicaG](https://github.com/jwagantall) | 2 | LFDT Staff |
+| 2 | [JessicaG](https://github.com/jwagantall) | 2 | lfdt-ca, LFDT Staff |
 | 3 | ocean-oc3ean | 1 | — |
 | 4 | Deleted User | 1 | — |
 

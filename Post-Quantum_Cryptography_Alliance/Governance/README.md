@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 81
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 9
+- **Last 365 Days:** 6
 - **First Message:** 2024-02-05
 - **Last Message:** 2026-02-10
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_1203395705809403944.md) | 2026-02-10 | 0 | 0 | 9 | 78 |
+| [tac](tac_1203395705809403944.md) | 2026-02-10 | 0 | 0 | 6 | 78 |
 | [pqca-github](pqca-github_1214606000225648760.md) | 2025-05-06 | 0 | 0 | 0 | 3 |
 
 ## Most Active Users
@@ -31,10 +31,8 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Dhananjay | 3 | — |
-| 2 | [RyJones](https://github.com/ryjones) | 2 | LF Staff |
-| 3 | [hartm](https://github.com/hartm) | 2 | LF Staff |
-| 4 | Severus Snape | 1 | — |
-| 5 | [Matthias Kannwischer](https://github.com/mkannwischer) | 1 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [hartm](https://github.com/hartm) | 2 | LF Staff |
+| 3 | [RyJones](https://github.com/ryjones) | 1 | LF Staff |
 
 ### All Time
 

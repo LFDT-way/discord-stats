@@ -1,14 +1,19 @@
-# Channel Report: fabric-token-sdk
+# Category Report: Panurus
 
 - **Guild:** Linux Foundation Decentralized Trust
-- **Category:** Labs
-- **Channel ID:** 945691840110272522
-- **Total Messages:** 533
-- **Last 30 Days:** 5
-- **Last 90 Days:** 40
-- **Last 365 Days:** 48
+- **Category ID:** 1518924075123081246
+- **Total Messages in Category:** 593
+- **Last 30 Days:** 15
+- **Last 90 Days:** 51
+- **Last 365 Days:** 63
 - **First Message:** 2022-03-02
-- **Last Message:** 2026-06-02
+- **Last Message:** 2026-06-29
+
+## Channels in Category
+
+| Channel Name | Last Message | 30d | 90d | 365d | Total |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [panurus](panurus_945691840110272522.md) | 2026-06-29 | 15 | 51 | 63 | 593 |
 
 ## Most Active Users
 
@@ -16,55 +21,55 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 3 | Project Maintainer, Fabric Maintainer, Lab Leader |
-| 2 | Atharva Borade | 1 | — |
-| 3 | neetance | 1 | — |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 10 | Project Maintainer, Fabric Maintainer, Lab Leader |
+| 2 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
+| 3 | Atharva Borade | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 19 | Project Maintainer, Fabric Maintainer, Lab Leader |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 27 | Project Maintainer, Fabric Maintainer, Lab Leader |
 | 2 | Surbhi Agarwal | 5 | — |
 | 3 | soumyaranjan7847 | 5 | — |
-| 4 | neetance | 4 | — |
-| 5 | Atharva Borade | 3 | — |
+| 4 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
+| 5 | neetance | 4 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 24 | Project Maintainer, Fabric Maintainer, Lab Leader |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 34 | Project Maintainer, Fabric Maintainer, Lab Leader |
 | 2 | Surbhi Agarwal | 5 | — |
 | 3 | soumyaranjan7847 | 5 | — |
-| 4 | neetance | 4 | — |
-| 5 | Atharva Borade | 3 | — |
+| 4 | Atharva Borade | 4 | — |
+| 5 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 183 | Project Maintainer, Fabric Maintainer, Lab Leader |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 204 | Project Maintainer, Fabric Maintainer, Lab Leader |
 | 2 | masool baba irfan | 62 | — |
 | 3 | Rajat Sharma | 56 | — |
-| 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 44 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
-| 5 | Shubham | 13 | — |
+| 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 45 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
+| 5 | IgorSim | 17 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 45 |
+| 2026 | 60 |
 | 2025 | 13 |
-| 2024 | 59 |
-| 2023 | 65 |
-| 2022 | 351 |
+| 2024 | 67 |
+| 2023 | 84 |
+| 2022 | 369 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 3 |
+| 2026-06 | 18 |
 | 2026-05 | 13 |
 | 2026-04 | 24 |
 | 2026-02 | 2 |
@@ -74,7 +79,7 @@
 | 2025-04 | 4 |
 | 2025-03 | 2 |
 | 2025-01 | 1 |
-| 2024-10 | 12 |
+| 2024-10 | 20 |
 | 2024-09 | 9 |
 | 2024-08 | 3 |
 | 2024-07 | 3 |
@@ -83,17 +88,17 @@
 | 2024-04 | 3 |
 | 2024-03 | 21 |
 | 2024-02 | 1 |
-| 2023-11 | 3 |
+| 2023-11 | 5 |
 | 2023-10 | 11 |
 | 2023-09 | 1 |
 | 2023-06 | 5 |
 | 2023-04 | 9 |
 | 2023-03 | 2 |
-| 2023-02 | 28 |
-| 2023-01 | 6 |
+| 2023-02 | 38 |
+| 2023-01 | 13 |
 | 2022-12 | 1 |
-| 2022-11 | 2 |
-| 2022-10 | 2 |
+| 2022-11 | 15 |
+| 2022-10 | 7 |
 | 2022-09 | 9 |
 | 2022-08 | 20 |
 | 2022-07 | 27 |
@@ -106,6 +111,9 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-29 | 3 |
+| 2026-06-24 | 9 |
+| 2026-06-23 | 3 |
 | 2026-06-02 | 3 |
 | 2026-05-28 | 1 |
 | 2026-05-22 | 1 |
@@ -145,9 +153,10 @@
 | 2025-03-22 | 1 |
 | 2025-01-20 | 1 |
 | 2024-10-31 | 3 |
-| 2024-10-28 | 1 |
-| 2024-10-24 | 1 |
-| 2024-10-23 | 2 |
+| 2024-10-28 | 2 |
+| 2024-10-25 | 1 |
+| 2024-10-24 | 3 |
+| 2024-10-23 | 6 |
 | 2024-10-04 | 4 |
 | 2024-10-03 | 1 |
 | 2024-09-26 | 4 |
@@ -177,7 +186,7 @@
 | 2024-03-14 | 1 |
 | 2024-03-13 | 1 |
 | 2024-02-27 | 1 |
-| 2023-11-10 | 2 |
+| 2023-11-10 | 4 |
 | 2023-11-01 | 1 |
 | 2023-10-31 | 1 |
 | 2023-10-27 | 2 |
@@ -201,22 +210,26 @@
 | 2023-03-10 | 1 |
 | 2023-02-23 | 13 |
 | 2023-02-22 | 1 |
-| 2023-02-21 | 3 |
-| 2023-02-20 | 2 |
+| 2023-02-21 | 4 |
+| 2023-02-20 | 4 |
 | 2023-02-17 | 2 |
-| 2023-02-15 | 1 |
+| 2023-02-16 | 1 |
+| 2023-02-15 | 3 |
 | 2023-02-13 | 1 |
 | 2023-02-10 | 1 |
-| 2023-02-09 | 2 |
-| 2023-02-08 | 2 |
+| 2023-02-09 | 5 |
+| 2023-02-08 | 3 |
 | 2023-01-20 | 1 |
 | 2023-01-19 | 2 |
-| 2023-01-05 | 2 |
+| 2023-01-05 | 9 |
 | 2023-01-03 | 1 |
 | 2022-12-29 | 1 |
 | 2022-11-24 | 1 |
-| 2022-11-11 | 1 |
-| 2022-10-27 | 2 |
+| 2022-11-15 | 1 |
+| 2022-11-14 | 1 |
+| 2022-11-11 | 12 |
+| 2022-10-28 | 3 |
+| 2022-10-27 | 4 |
 | 2022-09-14 | 2 |
 | 2022-09-13 | 1 |
 | 2022-09-12 | 6 |

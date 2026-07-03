@@ -6,7 +6,7 @@
 - **Total Messages:** 22
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 6
+- **Last 365 Days:** 5
 - **First Message:** 2025-05-02
 - **Last Message:** 2025-09-25
 
@@ -25,7 +25,7 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Ben Thomas | 3 | LFDT Staff |
-| 2 | Przemysław Koper | 2 | — |
+| 2 | Przemysław Koper | 1 | — |
 | 3 | [knagware](https://github.com/knagware) | 1 | Chapter Leader |
 
 ### All Time

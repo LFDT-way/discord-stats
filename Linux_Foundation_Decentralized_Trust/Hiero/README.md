@@ -2,44 +2,43 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1283486767546237040
-- **Total Messages in Category:** 1,708
-- **Last 30 Days:** 106
-- **Last 90 Days:** 574
-- **Last 365 Days:** 1,335
+- **Total Messages in Category:** 1,849
+- **Last 30 Days:** 77
+- **Last 90 Days:** 561
+- **Last 365 Days:** 1,363
 - **First Message:** 2024-09-11
-- **Last Message:** 2026-06-12
+- **Last Message:** 2026-07-03
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [hiero-sdk-python](hiero-sdk-python_1336494517544681563.md) | 2026-06-09 | 5 | 124 | 321 | 468 |
-| [hiero-general](hiero-general_1289954446712770600.md) | 2026-06-11 | 24 | 150 | 190 | 230 |
-| [hiero-website](hiero-website_1458790070986215567.md) | 2026-06-08 | 9 | 65 | 167 | 167 |
-| [hiero-announcements](hiero-announcements_1283487046484234270.md) | 2026-06-11 | 20 | 30 | 94 | 124 |
-| [hiero-maintainers](hiero-maintainers_1283487103006543952.md) | 2026-06-04 | 11 | 21 | 78 | 113 |
-| [solo](solo_1364886813017247775.md) | 2026-04-02 | 0 | 1 | 82 | 102 |
-| [hiero-sdk-community](hiero-sdk-community_1460295344620572907.md) | 2026-05-18 | 10 | 44 | 74 | 74 |
-| [hiero-solo-action](hiero-solo-action_1337046798472052776.md) | 2025-10-17 | 0 | 0 | 7 | 73 |
-| [hiero-did-sdk-js](hiero-did-sdk-js_1403132892007366806.md) | 2026-05-06 | 0 | 2 | 65 | 65 |
-| [hiero-sdk-cpp](hiero-sdk-cpp_1337424839761465364.md) | 2026-06-09 | 2 | 32 | 58 | 59 |
-| [heka-identity-platform](heka-identity-platform_1474117589692317823.md) | 2026-05-18 | 1 | 28 | 31 | 31 |
-| [hiero-sdk-js](hiero-sdk-js_1337424656138899537.md) | 2026-06-12 | 7 | 18 | 26 | 29 |
-| [hiero-sdk-rust](hiero-sdk-rust_1400196736244518982.md) | 2026-06-02 | 9 | 29 | 29 | 29 |
+| [hiero-sdk-python](hiero-sdk-python_1336494517544681563.md) | 2026-06-29 | 7 | 121 | 316 | 498 |
+| [hiero-general](hiero-general_1289954446712770600.md) | 2026-07-03 | 18 | 148 | 198 | 239 |
+| [hiero-website](hiero-website_1458790070986215567.md) | 2026-07-03 | 4 | 60 | 170 | 170 |
+| [hiero-maintainers](hiero-maintainers_1283487103006543952.md) | 2026-06-29 | 9 | 21 | 84 | 139 |
+| [hiero-announcements](hiero-announcements_1283487046484234270.md) | 2026-06-30 | 18 | 36 | 102 | 135 |
+| [hiero-solo-action](hiero-solo-action_1337046798472052776.md) | 2025-10-17 | 0 | 0 | 5 | 125 |
+| [solo](solo_1364886813017247775.md) | 2026-04-02 | 0 | 0 | 82 | 102 |
+| [hiero-did-sdk-js](hiero-did-sdk-js_1403132892007366806.md) | 2026-05-06 | 0 | 2 | 75 | 75 |
+| [hiero-sdk-community](hiero-sdk-community_1460295344620572907.md) | 2026-06-23 | 3 | 36 | 68 | 68 |
+| [hiero-sdk-cpp](hiero-sdk-cpp_1337424839761465364.md) | 2026-06-16 | 3 | 31 | 59 | 60 |
+| [heka-identity-platform](heka-identity-platform_1474117589692317823.md) | 2026-05-18 | 0 | 24 | 31 | 31 |
+| [hiero-sdk-js](hiero-sdk-js_1337424656138899537.md) | 2026-06-12 | 3 | 18 | 26 | 29 |
+| [hiero-sdk-rust](hiero-sdk-rust_1400196736244518982.md) | 2026-06-02 | 0 | 29 | 29 | 29 |
 | [hiero-did-sdk-python](hiero-did-sdk-python_1339549374782378027.md) | 2026-04-29 | 0 | 5 | 11 | 23 |
 | [hiero-identity-collaboration-hub](hiero-identity-collaboration-hub_1448622189011144847.md) | 2026-03-11 | 0 | 0 | 21 | 21 |
 | [hiero-consensus-node](hiero-consensus-node_1380936805897080862.md) | 2026-03-11 | 0 | 0 | 19 | 19 |
 | [hiero-community-management](hiero-community-management_1469079849158049933.md) | 2026-05-05 | 0 | 1 | 16 | 16 |
-| [hiero-hackers](hiero-hackers_1471877661856104649.md) | 2026-06-07 | 6 | 10 | 11 | 11 |
+| [hiero-hackers](hiero-hackers_1471877661856104649.md) | 2026-07-03 | 7 | 11 | 12 | 12 |
 | [hiero-sdk-go](hiero-sdk-go_1337424630289404015.md) | 2026-05-12 | 0 | 8 | 9 | 10 |
+| [hiero-enterprise-java](hiero-enterprise-java_1370373361942663178.md) | 2026-06-23 | 1 | 6 | 7 | 9 |
 | [hiero-hips](hiero-hips_1354514446898430032.md) | 2026-02-09 | 0 | 0 | 4 | 9 |
 | [hiero-gfi](hiero-gfi_1466829260919673056.md) | 2026-02-12 | 0 | 0 | 9 | 9 |
-| [hiero-enterprise-java](hiero-enterprise-java_1370373361942663178.md) | 2026-05-27 | 1 | 5 | 6 | 8 |
 | [hiero-sdk-java](hiero-sdk-java_1337424581652381696.md) | 2026-02-02 | 0 | 0 | 2 | 8 |
+| [hiero-sdk-v3-playground](hiero-sdk-v3-playground_1441095054944112710.md) | 2026-06-25 | 4 | 4 | 6 | 6 |
 | [hiero-sdk-tck](hiero-sdk-tck_1336034637310464031.md) | 2025-04-29 | 0 | 0 | 0 | 4 |
 | [hedera-dev-announcements-xp](hedera-dev-announcements-xp_1444905832025423892.md) | 2025-12-09 | 0 | 0 | 2 | 2 |
-| [hiero-sdk-v3-playground](hiero-sdk-v3-playground_1441095054944112710.md) | 2025-11-26 | 0 | 0 | 2 | 2 |
-| [hiero-mirror-node](hiero-mirror-node_1374414879334596739.md) | 2026-05-16 | 1 | 1 | 1 | 1 |
 | [hiero-sdk-swift](hiero-sdk-swift_1337424716238946344.md) | 2025-03-06 | 0 | 0 | 0 | 1 |
 
 ## Most Active Users
@@ -48,19 +47,19 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Ang | 36 | Hiero maintainer |
-| 2 | [JessicaG](https://github.com/jwagantall) | 21 | LFDT Staff |
-| 3 | [explorer3](https://github.com/exploreriii) | 13 | Project Maintainer, Hiero maintainer |
-| 4 | [hendrik.ebbers](https://github.com/hendrikebbers) | 5 | TAC member, Project Maintainer, Hiero maintainer |
-| 5 | Mohit Yadav | 5 | — |
+| 1 | Ang | 33 | Project Maintainer, Hiero maintainer |
+| 2 | [JessicaG](https://github.com/jwagantall) | 14 | lfdt-ca, LFDT Staff |
+| 3 | [explorer3](https://github.com/exploreriii) | 10 | Project Maintainer, Hiero maintainer |
+| 4 | [hendrik.ebbers](https://github.com/hendrikebbers) | 7 | TAC member, Project Maintainer, Hiero maintainer |
+| 5 | Mohit Yadav | 3 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [explorer3](https://github.com/exploreriii) | 167 | Project Maintainer, Hiero maintainer |
-| 2 | Ang | 49 | Hiero maintainer |
-| 3 | [JessicaG](https://github.com/jwagantall) | 29 | LFDT Staff |
+| 1 | [explorer3](https://github.com/exploreriii) | 155 | Project Maintainer, Hiero maintainer |
+| 2 | Ang | 67 | Project Maintainer, Hiero maintainer |
+| 3 | [JessicaG](https://github.com/jwagantall) | 35 | lfdt-ca, LFDT Staff |
 | 4 | ocean-oc3ean | 23 | — |
 | 5 | JASHK | 23 | — |
 
@@ -69,39 +68,40 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [explorer3](https://github.com/exploreriii) | 411 | Project Maintainer, Hiero maintainer |
-| 2 | [JessicaG](https://github.com/jwagantall) | 107 | LFDT Staff |
-| 3 | Deleted User | 84 | — |
-| 4 | [hendrik.ebbers](https://github.com/hendrikebbers) | 61 | TAC member, Project Maintainer, Hiero maintainer |
-| 5 | [Roger](https://github.com/rbarker-dev) | 54 | Project Maintainer, Hiero maintainer |
+| 2 | [JessicaG](https://github.com/jwagantall) | 112 | lfdt-ca, LFDT Staff |
+| 3 | Ang | 67 | Project Maintainer, Hiero maintainer |
+| 4 | [hendrik.ebbers](https://github.com/hendrikebbers) | 63 | TAC member, Project Maintainer, Hiero maintainer |
+| 5 | [Roger](https://github.com/rbarker-dev) | 51 | Project Maintainer, Hiero maintainer |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [explorer3](https://github.com/exploreriii) | 461 | Project Maintainer, Hiero maintainer |
-| 2 | [hendrik.ebbers](https://github.com/hendrikebbers) | 157 | TAC member, Project Maintainer, Hiero maintainer |
-| 3 | [JessicaG](https://github.com/jwagantall) | 137 | LFDT Staff |
-| 4 | Deleted User | 113 | — |
-| 5 | [Roger](https://github.com/rbarker-dev) | 85 | Project Maintainer, Hiero maintainer |
+| 1 | [explorer3](https://github.com/exploreriii) | 462 | Project Maintainer, Hiero maintainer |
+| 2 | [hendrik.ebbers](https://github.com/hendrikebbers) | 173 | TAC member, Project Maintainer, Hiero maintainer |
+| 3 | [JessicaG](https://github.com/jwagantall) | 149 | lfdt-ca, LFDT Staff |
+| 4 | [Roger](https://github.com/rbarker-dev) | 96 | Project Maintainer, Hiero maintainer |
+| 5 | Deleted User | 79 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,073 |
-| 2025 | 611 |
+| 2026 | 1,116 |
+| 2025 | 709 |
 | 2024 | 24 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 43 |
-| 2026-05 | 274 |
+| 2026-07 | 5 |
+| 2026-06 | 78 |
+| 2026-05 | 266 |
 | 2026-04 | 227 |
 | 2026-03 | 62 |
 | 2026-02 | 225 |
-| 2026-01 | 242 |
+| 2026-01 | 253 |
 | 2025-12 | 22 |
 | 2025-11 | 20 |
 | 2025-10 | 22 |
@@ -110,9 +110,9 @@
 | 2025-07 | 75 |
 | 2025-06 | 36 |
 | 2025-05 | 62 |
-| 2025-04 | 52 |
-| 2025-03 | 105 |
-| 2025-02 | 95 |
+| 2025-04 | 104 |
+| 2025-03 | 120 |
+| 2025-02 | 126 |
 | 2025-01 | 12 |
 | 2024-11 | 1 |
 | 2024-10 | 10 |
@@ -122,6 +122,17 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-07-03 | 4 |
+| 2026-07-02 | 1 |
+| 2026-06-30 | 4 |
+| 2026-06-29 | 4 |
+| 2026-06-25 | 2 |
+| 2026-06-24 | 8 |
+| 2026-06-23 | 7 |
+| 2026-06-19 | 1 |
+| 2026-06-18 | 2 |
+| 2026-06-16 | 6 |
+| 2026-06-15 | 1 |
 | 2026-06-12 | 3 |
 | 2026-06-11 | 2 |
 | 2026-06-09 | 9 |
@@ -142,13 +153,12 @@
 | 2026-05-21 | 7 |
 | 2026-05-20 | 1 |
 | 2026-05-19 | 2 |
-| 2026-05-18 | 20 |
-| 2026-05-16 | 1 |
+| 2026-05-18 | 11 |
 | 2026-05-15 | 3 |
 | 2026-05-14 | 11 |
 | 2026-05-13 | 3 |
-| 2026-05-12 | 16 |
-| 2026-05-11 | 4 |
+| 2026-05-12 | 17 |
+| 2026-05-11 | 5 |
 | 2026-05-10 | 13 |
 | 2026-05-09 | 3 |
 | 2026-05-08 | 4 |
@@ -233,9 +243,9 @@
 | 2026-02-01 | 6 |
 | 2026-01-31 | 1 |
 | 2026-01-30 | 10 |
-| 2026-01-29 | 10 |
-| 2026-01-28 | 19 |
-| 2026-01-27 | 6 |
+| 2026-01-29 | 17 |
+| 2026-01-28 | 22 |
+| 2026-01-27 | 7 |
 | 2026-01-26 | 4 |
 | 2026-01-25 | 6 |
 | 2026-01-24 | 6 |
@@ -367,18 +377,21 @@
 | 2025-04-15 | 1 |
 | 2025-04-14 | 1 |
 | 2025-04-11 | 5 |
-| 2025-04-10 | 6 |
+| 2025-04-10 | 9 |
 | 2025-04-09 | 4 |
 | 2025-04-08 | 1 |
-| 2025-04-07 | 1 |
-| 2025-04-03 | 3 |
-| 2025-04-02 | 7 |
+| 2025-04-07 | 7 |
+| 2025-04-05 | 13 |
+| 2025-04-04 | 4 |
+| 2025-04-03 | 13 |
+| 2025-04-02 | 23 |
 | 2025-04-01 | 4 |
 | 2025-03-31 | 6 |
 | 2025-03-28 | 6 |
 | 2025-03-27 | 4 |
 | 2025-03-26 | 4 |
 | 2025-03-25 | 18 |
+| 2025-03-24 | 1 |
 | 2025-03-22 | 2 |
 | 2025-03-20 | 4 |
 | 2025-03-18 | 2 |
@@ -389,25 +402,25 @@
 | 2025-03-09 | 2 |
 | 2025-03-08 | 3 |
 | 2025-03-07 | 5 |
-| 2025-03-06 | 10 |
-| 2025-03-05 | 11 |
-| 2025-03-04 | 11 |
+| 2025-03-06 | 11 |
+| 2025-03-05 | 19 |
+| 2025-03-04 | 16 |
 | 2025-02-23 | 1 |
 | 2025-02-20 | 6 |
 | 2025-02-19 | 2 |
 | 2025-02-18 | 5 |
 | 2025-02-17 | 13 |
 | 2025-02-15 | 1 |
-| 2025-02-14 | 6 |
-| 2025-02-13 | 3 |
-| 2025-02-12 | 4 |
-| 2025-02-11 | 11 |
+| 2025-02-14 | 7 |
+| 2025-02-13 | 4 |
+| 2025-02-12 | 5 |
+| 2025-02-11 | 25 |
 | 2025-02-10 | 2 |
 | 2025-02-09 | 2 |
 | 2025-02-08 | 1 |
-| 2025-02-07 | 7 |
-| 2025-02-06 | 13 |
-| 2025-02-05 | 18 |
+| 2025-02-07 | 10 |
+| 2025-02-06 | 19 |
+| 2025-02-05 | 23 |
 | 2025-01-31 | 1 |
 | 2025-01-30 | 2 |
 | 2025-01-29 | 1 |

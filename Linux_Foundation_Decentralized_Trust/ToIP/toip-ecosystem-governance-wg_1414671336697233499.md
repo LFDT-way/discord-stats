@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414671336697233499
-- **Total Messages:** 76
-- **Last 30 Days:** 5
-- **Last 90 Days:** 35
-- **Last 365 Days:** 76
+- **Total Messages:** 77
+- **Last 30 Days:** 3
+- **Last 90 Days:** 16
+- **Last 365 Days:** 77
 - **First Message:** 2025-09-30
-- **Last Message:** 2026-06-09
+- **Last Message:** 2026-06-25
 
 ## Most Active Users
 
@@ -16,18 +16,19 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 4 | Project Maintainer, ToIP |
-| 2 | lyn brooks | 1 | Project Maintainer, ToIP |
+| 1 | Scott Perry | 1 | Project Maintainer, ToIP |
+| 2 | microbiocarly | 1 | Project Maintainer, ToIP |
+| 3 | lyn brooks | 1 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 11 | Project Maintainer, ToIP |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 8 | Lab Leader |
-| 3 | Eric Drury | 5 | Project Maintainer, ToIP |
-| 4 | [drummondreed](https://github.com/talltree) | 5 | Project Maintainer, ToIP |
-| 5 | stevevitka | 3 | ToIP |
+| 1 | microbiocarly | 8 | Project Maintainer, ToIP |
+| 2 | lyn brooks | 2 | Project Maintainer, ToIP |
+| 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 2 | Lab Leader |
+| 4 | NeilJT | 1 | ToIP |
+| 5 | Scott Perry | 1 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 
@@ -53,14 +54,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 57 |
+| 2026 | 58 |
 | 2025 | 19 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 2 |
+| 2026-06 | 3 |
 | 2026-05 | 11 |
 | 2026-04 | 5 |
 | 2026-03 | 24 |
@@ -75,6 +76,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-25 | 1 |
 | 2026-06-09 | 1 |
 | 2026-06-05 | 1 |
 | 2026-05-29 | 1 |

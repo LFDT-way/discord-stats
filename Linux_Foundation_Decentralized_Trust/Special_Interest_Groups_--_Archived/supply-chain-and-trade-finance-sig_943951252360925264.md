@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Special Interest Groups -- Archived
 - **Channel ID:** 943951252360925264
-- **Total Messages:** 156
+- **Total Messages:** 163
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
 - **Last 365 Days:** 0
@@ -28,8 +28,8 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | alician | 61 | — |
-| 2 | tobytobias | 21 | — |
+| 1 | alician | 65 | — |
+| 2 | tobytobias | 24 | — |
 | 3 | Jeff 😁 | 14 | — |
 | 4 | Tom K | 12 | — |
 | 5 | Deleted User | 6 | — |
@@ -39,7 +39,7 @@ _No activity in this period._
 | Year | Messages |
 | --- | --- |
 | 2025 | 7 |
-| 2024 | 80 |
+| 2024 | 87 |
 | 2023 | 43 |
 | 2022 | 26 |
 
@@ -55,8 +55,8 @@ _No activity in this period._
 | 2024-06 | 8 |
 | 2024-05 | 14 |
 | 2024-04 | 19 |
-| 2024-03 | 20 |
-| 2024-02 | 7 |
+| 2024-03 | 22 |
+| 2024-02 | 12 |
 | 2024-01 | 7 |
 | 2023-11 | 15 |
 | 2023-10 | 5 |
@@ -106,7 +106,7 @@ _No activity in this period._
 | 2024-04-17 | 2 |
 | 2024-04-12 | 1 |
 | 2024-04-02 | 1 |
-| 2024-03-28 | 1 |
+| 2024-03-28 | 3 |
 | 2024-03-26 | 3 |
 | 2024-03-25 | 3 |
 | 2024-03-21 | 5 |
@@ -115,7 +115,7 @@ _No activity in this period._
 | 2024-03-18 | 2 |
 | 2024-03-07 | 1 |
 | 2024-03-04 | 3 |
-| 2024-02-15 | 1 |
+| 2024-02-15 | 6 |
 | 2024-02-14 | 1 |
 | 2024-02-08 | 3 |
 | 2024-02-07 | 2 |

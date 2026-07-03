@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Anoncreds
 - **Channel ID:** 1034862425478021211
-- **Total Messages:** 28
+- **Total Messages:** 63
 - **Last 30 Days:** 0
 - **Last 90 Days:** 3
 - **Last 365 Days:** 6
@@ -36,9 +36,9 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 10 | LFDT Staff |
-| 2 | [swcurran](https://github.com/swcurran) | 9 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
-| 3 | [Timo Glastra](https://github.com/TimoGlastra) | 4 | Project Maintainer, Anoncreds Maintainer |
+| 1 | [swcurran](https://github.com/swcurran) | 26 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 24 | lfdt-ca, LFDT Staff |
+| 3 | [Timo Glastra](https://github.com/TimoGlastra) | 8 | Project Maintainer, Anoncreds Maintainer |
 | 4 | [Arun S M](https://github.com/arsulegai) | 2 | TAC member, Chapter Leader |
 | 5 | SophiaUgo | 2 | — |
 
@@ -48,7 +48,7 @@ _No activity in this period._
 | --- | --- |
 | 2026 | 3 |
 | 2025 | 6 |
-| 2022 | 19 |
+| 2022 | 54 |
 
 ## Monthly Traffic
 
@@ -58,8 +58,8 @@ _No activity in this period._
 | 2025-10 | 2 |
 | 2025-07 | 1 |
 | 2025-01 | 3 |
-| 2022-11 | 6 |
-| 2022-10 | 13 |
+| 2022-11 | 13 |
+| 2022-10 | 41 |
 
 ## Daily Traffic
 
@@ -72,7 +72,8 @@ _No activity in this period._
 | 2025-07-17 | 1 |
 | 2025-01-27 | 3 |
 | 2022-11-14 | 1 |
-| 2022-11-02 | 5 |
+| 2022-11-02 | 12 |
 | 2022-10-31 | 6 |
-| 2022-10-27 | 5 |
+| 2022-10-28 | 18 |
+| 2022-10-27 | 15 |
 | 2022-10-26 | 2 |

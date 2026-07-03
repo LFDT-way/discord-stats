@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1369405431071375400
 - **Total Messages in Category:** 17
-- **Last 30 Days:** 1
+- **Last 30 Days:** 0
 - **Last 90 Days:** 2
-- **Last 365 Days:** 13
+- **Last 365 Days:** 6
 - **First Message:** 2025-05-08
 - **Last Message:** 2026-05-21
 
@@ -13,15 +13,13 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [smoot-general](smoot-general_1369405582422835272.md) | 2026-05-21 | 1 | 2 | 13 | 17 |
+| [smoot-general](smoot-general_1369405582422835272.md) | 2026-05-21 | 0 | 2 | 6 | 17 |
 
 ## Most Active Users
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 1 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
+_No activity in this period._
 
 ### Last 90 Days
 
@@ -34,11 +32,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [weijia0328](https://github.com/weijia31415) | 4 | Project Maintainer, Smoot Maintainer |
-| 2 | Kyle Kao | 3 | — |
-| 3 | Pavel | 1 | — |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
-| 5 | [Arun S M](https://github.com/arsulegai) | 1 | TAC member, Chapter Leader |
+| 1 | [weijia0328](https://github.com/weijia31415) | 2 | Project Maintainer, Smoot Maintainer |
+| 2 | Pavel | 1 | — |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
+| 4 | [Arun S M](https://github.com/arsulegai) | 1 | TAC member, Chapter Leader |
+| 5 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 1 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
 
 ### All Time
 
@@ -46,8 +44,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [weijia0328](https://github.com/weijia31415) | 5 | Project Maintainer, Smoot Maintainer |
 | 2 | Kyle Kao | 3 | — |
-| 3 | [Ry Jones](https://github.com/ryjones) | 2 | LFDT Staff |
-| 4 | [davidwboswell](https://github.com/davidwboswell) | 2 | LFDT Staff |
+| 3 | [Ry Jones](https://github.com/ryjones) | 2 | lfdt-ca, LFDT Staff |
+| 4 | [davidwboswell](https://github.com/davidwboswell) | 2 | lfdt-ca, LFDT Staff |
 | 5 | Pavel | 1 | — |
 
 ## Yearly Traffic

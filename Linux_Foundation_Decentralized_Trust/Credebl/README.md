@@ -2,21 +2,21 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1331657844193231030
-- **Total Messages in Category:** 280
-- **Last 30 Days:** 9
-- **Last 90 Days:** 24
-- **Last 365 Days:** 148
+- **Total Messages in Category:** 392
+- **Last 30 Days:** 20
+- **Last 90 Days:** 50
+- **Last 365 Days:** 176
 - **First Message:** 2025-01-23
-- **Last Message:** 2026-06-10
+- **Last Message:** 2026-07-01
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credebl](credebl_1331657363161219082.md) | 2026-06-10 | 9 | 19 | 105 | 181 |
-| [credebl-platform](credebl-platform_1354090545043210362.md) | 2025-09-30 | 0 | 0 | 2 | 52 |
-| [credebl-maintainers](credebl-maintainers_1354091009813905488.md) | 2026-04-25 | 0 | 3 | 30 | 33 |
-| [credebl-announcement](credebl-announcement_1354090474654404660.md) | 2026-04-09 | 0 | 2 | 11 | 14 |
+| [credebl](credebl_1331657363161219082.md) | 2026-07-01 | 20 | 31 | 115 | 266 |
+| [credebl-platform](credebl-platform_1354090545043210362.md) | 2025-09-30 | 0 | 0 | 2 | 61 |
+| [credebl-maintainers](credebl-maintainers_1354091009813905488.md) | 2026-04-25 | 0 | 18 | 48 | 51 |
+| [credebl-announcement](credebl-announcement_1354090474654404660.md) | 2026-04-09 | 0 | 1 | 11 | 14 |
 
 ## Most Active Users
 
@@ -24,57 +24,59 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | amitthosare | 4 | Credebl maintainer, Project Maintainer |
-| 2 | Ankita | 3 | Credebl maintainer, Project Maintainer |
-| 3 | YogeshK | 1 | — |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
+| 1 | YogeshK | 7 | — |
+| 2 | amitthosare | 5 | Credebl maintainer, Project Maintainer |
+| 3 | Ankita | 5 | Credebl maintainer, Project Maintainer |
+| 4 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | amitthosare | 9 | Credebl maintainer, Project Maintainer |
-| 2 | Ankita | 4 | Credebl maintainer, Project Maintainer |
-| 3 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 2 | — |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
-| 5 | [Ajay Jadhav](https://github.com/ajile-in) | 2 | Credebl maintainer, Project Maintainer |
+| 1 | amitthosare | 10 | Credebl maintainer, Project Maintainer |
+| 2 | tsheringgyeltshen | 10 | — |
+| 3 | YogeshK | 7 | — |
+| 4 | Ankita | 6 | Credebl maintainer, Project Maintainer |
+| 5 | [Sai Ranjit](https://github.com/sairanjit) | 6 | Credebl maintainer, Project Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | amitthosare | 32 | Credebl maintainer, Project Maintainer |
-| 2 | PriyanshuZone | 19 | — |
-| 3 | Ankita | 18 | Credebl maintainer, Project Maintainer |
-| 4 | [Ajay Jadhav](https://github.com/ajile-in) | 15 | Credebl maintainer, Project Maintainer |
-| 5 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 11 | — |
+| 2 | Ankita | 20 | Credebl maintainer, Project Maintainer |
+| 3 | PriyanshuZone | 19 | — |
+| 4 | [Sai Ranjit](https://github.com/sairanjit) | 16 | Credebl maintainer, Project Maintainer |
+| 5 | [Ajay Jadhav](https://github.com/ajile-in) | 15 | Credebl maintainer, Project Maintainer |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | amitthosare | 44 | Credebl maintainer, Project Maintainer |
-| 2 | KrishNa | 39 | Credebl maintainer, Project Maintainer |
-| 3 | Ankita | 24 | Credebl maintainer, Project Maintainer |
-| 4 | [Ajay Jadhav](https://github.com/ajile-in) | 23 | Credebl maintainer, Project Maintainer |
-| 5 | PriyanshuZone | 19 | — |
+| 1 | KrishNa | 53 | Credebl maintainer, Project Maintainer |
+| 2 | amitthosare | 47 | Credebl maintainer, Project Maintainer |
+| 3 | [Ry Jones](https://github.com/ryjones) | 35 | lfdt-ca, LFDT Staff |
+| 4 | [Ajay Jadhav](https://github.com/ajile-in) | 35 | Credebl maintainer, Project Maintainer |
+| 5 | [Sai Ranjit](https://github.com/sairanjit) | 27 | Credebl maintainer, Project Maintainer |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 84 |
-| 2025 | 196 |
+| 2026 | 116 |
+| 2025 | 276 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 6 |
+| 2026-07 | 2 |
+| 2026-06 | 18 |
 | 2026-05 | 5 |
-| 2026-04 | 10 |
+| 2026-04 | 25 |
 | 2026-03 | 9 |
-| 2026-02 | 7 |
+| 2026-02 | 10 |
 | 2026-01 | 47 |
 | 2025-12 | 5 |
 | 2025-11 | 12 |
@@ -82,16 +84,25 @@
 | 2025-09 | 13 |
 | 2025-08 | 8 |
 | 2025-07 | 8 |
-| 2025-06 | 25 |
-| 2025-05 | 50 |
-| 2025-04 | 50 |
-| 2025-03 | 6 |
+| 2025-06 | 30 |
+| 2025-05 | 62 |
+| 2025-04 | 61 |
+| 2025-03 | 58 |
 | 2025-01 | 4 |
 
 ## Daily Traffic
 
 | Date | Messages |
 | --- | --- |
+| 2026-07-01 | 2 |
+| 2026-06-30 | 2 |
+| 2026-06-29 | 1 |
+| 2026-06-28 | 1 |
+| 2026-06-25 | 3 |
+| 2026-06-24 | 1 |
+| 2026-06-23 | 1 |
+| 2026-06-20 | 1 |
+| 2026-06-17 | 2 |
 | 2026-06-10 | 3 |
 | 2026-06-09 | 1 |
 | 2026-06-08 | 1 |
@@ -104,7 +115,8 @@
 | 2026-04-29 | 1 |
 | 2026-04-27 | 1 |
 | 2026-04-25 | 2 |
-| 2026-04-22 | 1 |
+| 2026-04-22 | 3 |
+| 2026-04-21 | 13 |
 | 2026-04-15 | 3 |
 | 2026-04-09 | 2 |
 | 2026-03-25 | 2 |
@@ -113,7 +125,7 @@
 | 2026-03-05 | 1 |
 | 2026-03-04 | 2 |
 | 2026-02-25 | 1 |
-| 2026-02-12 | 1 |
+| 2026-02-12 | 4 |
 | 2026-02-10 | 1 |
 | 2026-02-09 | 2 |
 | 2026-02-04 | 2 |
@@ -171,12 +183,12 @@
 | 2025-07-07 | 1 |
 | 2025-07-02 | 1 |
 | 2025-06-25 | 1 |
-| 2025-06-18 | 2 |
+| 2025-06-18 | 3 |
 | 2025-06-13 | 1 |
 | 2025-06-11 | 1 |
 | 2025-06-10 | 1 |
 | 2025-06-09 | 4 |
-| 2025-06-04 | 9 |
+| 2025-06-04 | 13 |
 | 2025-06-03 | 6 |
 | 2025-05-30 | 1 |
 | 2025-05-29 | 1 |
@@ -186,25 +198,26 @@
 | 2025-05-17 | 1 |
 | 2025-05-15 | 1 |
 | 2025-05-14 | 4 |
-| 2025-05-13 | 4 |
+| 2025-05-13 | 6 |
 | 2025-05-12 | 2 |
 | 2025-05-11 | 1 |
 | 2025-05-10 | 7 |
-| 2025-05-09 | 2 |
+| 2025-05-09 | 7 |
 | 2025-05-08 | 2 |
 | 2025-05-06 | 1 |
-| 2025-05-05 | 13 |
+| 2025-05-05 | 18 |
 | 2025-05-02 | 2 |
 | 2025-05-01 | 1 |
-| 2025-04-30 | 6 |
-| 2025-04-25 | 22 |
+| 2025-04-30 | 9 |
+| 2025-04-25 | 24 |
 | 2025-04-24 | 4 |
 | 2025-04-23 | 1 |
 | 2025-04-22 | 4 |
 | 2025-04-21 | 2 |
 | 2025-04-17 | 1 |
-| 2025-04-16 | 1 |
-| 2025-04-12 | 1 |
+| 2025-04-16 | 2 |
+| 2025-04-15 | 1 |
+| 2025-04-12 | 5 |
 | 2025-04-09 | 2 |
 | 2025-04-08 | 1 |
 | 2025-04-07 | 1 |
@@ -213,7 +226,11 @@
 | 2025-03-31 | 1 |
 | 2025-03-26 | 1 |
 | 2025-03-25 | 1 |
-| 2025-03-20 | 2 |
-| 2025-03-12 | 1 |
+| 2025-03-21 | 2 |
+| 2025-03-20 | 7 |
+| 2025-03-18 | 3 |
+| 2025-03-17 | 4 |
+| 2025-03-13 | 26 |
+| 2025-03-12 | 13 |
 | 2025-01-24 | 1 |
 | 2025-01-23 | 3 |

@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Community
 - **Channel ID:** 1329201532628898036
-- **Total Messages:** 131
-- **Last 30 Days:** 4
-- **Last 90 Days:** 9
-- **Last 365 Days:** 61
+- **Total Messages:** 139
+- **Last 30 Days:** 9
+- **Last 90 Days:** 16
+- **Last 365 Days:** 64
 - **First Message:** 2025-01-15
-- **Last Message:** 2026-06-08
+- **Last Message:** 2026-06-26
 
 ## Most Active Users
 
@@ -16,13 +16,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 4 | Meetup Organizer |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 6 | Meetup Organizer |
+| 2 | [davidwboswell](https://github.com/davidwboswell) | 2 | lfdt-ca, LFDT Staff |
+| 3 | Jessie | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 9 | Meetup Organizer |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 13 | Meetup Organizer |
+| 2 | [davidwboswell](https://github.com/davidwboswell) | 2 | lfdt-ca, LFDT Staff |
+| 3 | Jessie | 1 | — |
 
 ### Last 365 Days
 
@@ -30,32 +34,32 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [DanielSzego](https://github.com/Daniel-Szego) | 56 | Meetup Organizer |
 | 2 | k Gunjan | 2 | — |
-| 3 | meldsun | 1 | — |
-| 4 | Mehdi | 1 | — |
-| 5 | Giuseppe Bertone | 1 | — |
+| 3 | [davidwboswell](https://github.com/davidwboswell) | 2 | lfdt-ca, LFDT Staff |
+| 4 | Jessie | 1 | — |
+| 5 | meldsun | 1 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 90 | Meetup Organizer |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 95 | Meetup Organizer |
 | 2 | Andrew Puch 🛡⬆🇺🇸 | 12 | — |
-| 3 | tz18 | 6 | — |
-| 4 | [davidwboswell](https://github.com/davidwboswell) | 6 | LFDT Staff |
+| 3 | [davidwboswell](https://github.com/davidwboswell) | 8 | lfdt-ca, LFDT Staff |
+| 4 | tz18 | 6 | — |
 | 5 | Sudip Phuyal | 2 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 18 |
+| 2026 | 26 |
 | 2025 | 113 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 1 |
+| 2026-06 | 9 |
 | 2026-05 | 3 |
 | 2026-04 | 4 |
 | 2026-03 | 1 |
@@ -78,6 +82,10 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-26 | 1 |
+| 2026-06-25 | 4 |
+| 2026-06-18 | 1 |
+| 2026-06-15 | 2 |
 | 2026-06-08 | 1 |
 | 2026-05-29 | 1 |
 | 2026-05-28 | 2 |

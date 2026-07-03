@@ -2,19 +2,19 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1195061874950144120
-- **Total Messages in Category:** 1,228
-- **Last 30 Days:** 8
-- **Last 90 Days:** 25
-- **Last 365 Days:** 136
+- **Total Messages in Category:** 1,330
+- **Last 30 Days:** 52
+- **Last 90 Days:** 75
+- **Last 365 Days:** 173
 - **First Message:** 2024-01-11
-- **Last Message:** 2026-06-15
+- **Last Message:** 2026-07-03
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-04-23 | 0 | 1 | 61 | 742 |
-| [web3j-general](web3j-general_1195062053682032700.md) | 2026-06-15 | 8 | 24 | 75 | 486 |
+| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-07-03 | 42 | 43 | 91 | 790 |
+| [web3j-general](web3j-general_1195062053682032700.md) | 2026-06-29 | 10 | 32 | 82 | 540 |
 
 ## Most Active Users
 
@@ -22,87 +22,96 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Ashhar | 2 | — |
-| 2 | Gaurav | 2 | — |
-| 3 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 2 | Project Maintainer, Web3j Maintainer |
-| 4 | George Tebrean | 1 | Project Maintainer, Web3j Maintainer |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
+| 1 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 21 | Project Maintainer, Web3j Maintainer |
+| 2 | Dev | 18 | — |
+| 3 | George Tebrean | 6 | Project Maintainer, Web3j Maintainer |
+| 4 | [Ry Jones](https://github.com/ryjones) | 2 | lfdt-ca, LFDT Staff |
+| 5 | Saurav | 2 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Dev | 9 | — |
-| 2 | George Tebrean | 4 | Project Maintainer, Web3j Maintainer |
-| 3 | Ashhar | 2 | — |
-| 4 | Gaurav | 2 | — |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
+| 1 | Dev | 27 | — |
+| 2 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 21 | Project Maintainer, Web3j Maintainer |
+| 3 | George Tebrean | 10 | Project Maintainer, Web3j Maintainer |
+| 4 | Gaurav | 3 | — |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | George Tebrean | 57 | Project Maintainer, Web3j Maintainer |
-| 2 | Abdelrahman Hedia | 11 | — |
-| 3 | Dev | 9 | — |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 7 | LFDT Staff |
-| 5 | Roman | 6 | — |
+| 1 | George Tebrean | 54 | Project Maintainer, Web3j Maintainer |
+| 2 | Dev | 27 | — |
+| 3 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 21 | Project Maintainer, Web3j Maintainer |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 8 | lfdt-ca, LFDT Staff |
+| 5 | Deleted User | 8 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 312 | Project Maintainer, Web3j Maintainer |
+| 1 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 343 | Project Maintainer, Web3j Maintainer |
 | 2 | Shashank Kumar | 289 | — |
-| 3 | George Tebrean | 231 | Project Maintainer, Web3j Maintainer |
-| 4 | [Ry Jones](https://github.com/ryjones) | 52 | LFDT Staff |
-| 5 | Deleted User | 49 | — |
+| 3 | George Tebrean | 247 | Project Maintainer, Web3j Maintainer |
+| 4 | Deleted User | 65 | — |
+| 5 | [Ry Jones](https://github.com/ryjones) | 54 | lfdt-ca, LFDT Staff |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 36 |
-| 2025 | 316 |
-| 2024 | 876 |
+| 2026 | 86 |
+| 2025 | 341 |
+| 2024 | 903 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 3 |
+| 2026-07 | 1 |
+| 2026-06 | 51 |
 | 2026-05 | 10 |
-| 2026-04 | 12 |
+| 2026-04 | 13 |
 | 2026-01 | 11 |
 | 2025-12 | 1 |
 | 2025-11 | 11 |
 | 2025-10 | 21 |
 | 2025-09 | 9 |
-| 2025-08 | 15 |
-| 2025-07 | 23 |
-| 2025-06 | 68 |
-| 2025-05 | 37 |
-| 2025-04 | 31 |
-| 2025-03 | 28 |
+| 2025-08 | 21 |
+| 2025-07 | 25 |
+| 2025-06 | 71 |
+| 2025-05 | 40 |
+| 2025-04 | 39 |
+| 2025-03 | 31 |
 | 2025-02 | 25 |
 | 2025-01 | 47 |
 | 2024-12 | 130 |
 | 2024-11 | 153 |
 | 2024-10 | 122 |
-| 2024-09 | 122 |
+| 2024-09 | 145 |
 | 2024-08 | 112 |
 | 2024-07 | 88 |
 | 2024-06 | 34 |
 | 2024-05 | 35 |
 | 2024-04 | 48 |
-| 2024-03 | 16 |
-| 2024-02 | 12 |
+| 2024-03 | 18 |
+| 2024-02 | 14 |
 | 2024-01 | 4 |
 
 ## Daily Traffic
 
 | Date | Messages |
 | --- | --- |
+| 2026-07-03 | 1 |
+| 2026-06-29 | 2 |
+| 2026-06-26 | 6 |
+| 2026-06-25 | 11 |
+| 2026-06-23 | 13 |
+| 2026-06-22 | 9 |
+| 2026-06-18 | 2 |
+| 2026-06-16 | 5 |
 | 2026-06-15 | 3 |
 | 2026-05-30 | 1 |
 | 2026-05-27 | 2 |
@@ -113,7 +122,7 @@
 | 2026-04-23 | 2 |
 | 2026-04-20 | 7 |
 | 2026-04-19 | 1 |
-| 2026-04-06 | 2 |
+| 2026-04-06 | 3 |
 | 2026-01-29 | 1 |
 | 2026-01-27 | 1 |
 | 2026-01-26 | 1 |
@@ -148,7 +157,7 @@
 | 2025-08-21 | 1 |
 | 2025-08-20 | 2 |
 | 2025-08-14 | 1 |
-| 2025-08-08 | 3 |
+| 2025-08-08 | 9 |
 | 2025-08-07 | 2 |
 | 2025-08-06 | 2 |
 | 2025-07-31 | 2 |
@@ -156,48 +165,54 @@
 | 2025-07-28 | 1 |
 | 2025-07-24 | 1 |
 | 2025-07-17 | 2 |
+| 2025-07-14 | 1 |
 | 2025-07-11 | 2 |
 | 2025-07-09 | 1 |
 | 2025-07-08 | 5 |
 | 2025-07-04 | 2 |
-| 2025-07-03 | 3 |
+| 2025-07-03 | 4 |
 | 2025-07-02 | 1 |
 | 2025-06-30 | 1 |
 | 2025-06-24 | 12 |
 | 2025-06-19 | 2 |
 | 2025-06-17 | 5 |
+| 2025-06-16 | 1 |
 | 2025-06-12 | 1 |
 | 2025-06-11 | 2 |
 | 2025-06-05 | 3 |
 | 2025-06-04 | 24 |
 | 2025-06-03 | 3 |
-| 2025-06-02 | 15 |
+| 2025-06-02 | 16 |
+| 2025-06-01 | 1 |
 | 2025-05-31 | 1 |
 | 2025-05-30 | 6 |
 | 2025-05-27 | 6 |
 | 2025-05-23 | 2 |
 | 2025-05-21 | 2 |
+| 2025-05-19 | 1 |
 | 2025-05-15 | 1 |
 | 2025-05-14 | 15 |
 | 2025-05-13 | 1 |
 | 2025-05-10 | 1 |
+| 2025-05-07 | 2 |
 | 2025-05-06 | 1 |
 | 2025-05-02 | 1 |
 | 2025-04-30 | 3 |
 | 2025-04-28 | 1 |
-| 2025-04-24 | 1 |
-| 2025-04-23 | 5 |
+| 2025-04-24 | 3 |
+| 2025-04-23 | 6 |
 | 2025-04-22 | 2 |
 | 2025-04-21 | 1 |
 | 2025-04-17 | 1 |
 | 2025-04-16 | 10 |
 | 2025-04-15 | 1 |
+| 2025-04-14 | 1 |
 | 2025-04-11 | 1 |
 | 2025-04-10 | 1 |
-| 2025-04-08 | 1 |
+| 2025-04-08 | 5 |
 | 2025-04-04 | 1 |
 | 2025-04-02 | 2 |
-| 2025-03-20 | 1 |
+| 2025-03-20 | 4 |
 | 2025-03-19 | 4 |
 | 2025-03-18 | 1 |
 | 2025-03-14 | 2 |
@@ -306,10 +321,10 @@
 | 2024-09-18 | 10 |
 | 2024-09-17 | 3 |
 | 2024-09-16 | 5 |
-| 2024-09-13 | 1 |
-| 2024-09-12 | 2 |
-| 2024-09-11 | 7 |
-| 2024-09-10 | 8 |
+| 2024-09-13 | 10 |
+| 2024-09-12 | 5 |
+| 2024-09-11 | 10 |
+| 2024-09-10 | 16 |
 | 2024-09-09 | 16 |
 | 2024-09-06 | 1 |
 | 2024-09-05 | 10 |
@@ -399,8 +414,8 @@
 | 2024-03-13 | 1 |
 | 2024-03-08 | 2 |
 | 2024-03-07 | 1 |
-| 2024-03-06 | 1 |
-| 2024-02-29 | 1 |
+| 2024-03-06 | 3 |
+| 2024-02-29 | 3 |
 | 2024-02-26 | 1 |
 | 2024-02-14 | 5 |
 | 2024-02-09 | 5 |
