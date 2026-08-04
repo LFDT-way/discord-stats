@@ -3,32 +3,30 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Community
 - **Channel ID:** 946127492622721095
-- **Total Messages:** 108
-- **Last 30 Days:** 1
+- **Total Messages:** 107
+- **Last 30 Days:** 0
 - **Last 90 Days:** 1
-- **Last 365 Days:** 4
+- **Last 365 Days:** 3
 - **First Message:** 2022-02-23
-- **Last Message:** 2026-06-17
+- **Last Message:** 2026-04-02
 
 ## Most Active Users
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | amitthosare | 1 | Credebl maintainer, Project Maintainer |
+_No activity in this period._
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | amitthosare | 1 | Credebl maintainer, Project Maintainer |
+| 1 | [Ajay Jadhav](https://github.com/ajile-in) | 1 | Credebl maintainer, Project Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | amitthosare | 2 | Credebl maintainer, Project Maintainer |
+| 1 | amitthosare | 1 | Credebl maintainer, Project Maintainer |
 | 2 | [Ajay Jadhav](https://github.com/ajile-in) | 1 | Credebl maintainer, Project Maintainer |
 | 3 | [knagware](https://github.com/knagware) | 1 | Chapter Leader |
 
@@ -46,7 +44,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 3 |
+| 2026 | 2 |
 | 2025 | 2 |
 | 2024 | 13 |
 | 2023 | 16 |
@@ -56,7 +54,6 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 1 |
 | 2026-04 | 1 |
 | 2026-02 | 1 |
 | 2025-07 | 1 |
@@ -88,7 +85,6 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-06-17 | 1 |
 | 2026-04-02 | 1 |
 | 2026-02-18 | 1 |
 | 2025-07-25 | 1 |

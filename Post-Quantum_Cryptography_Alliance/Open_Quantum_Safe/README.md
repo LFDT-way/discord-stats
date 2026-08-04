@@ -2,19 +2,19 @@
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1203395822390083676
-- **Total Messages in Category:** 255
-- **Last 30 Days:** 8
-- **Last 90 Days:** 20
-- **Last 365 Days:** 75
+- **Total Messages in Category:** 249
+- **Last 30 Days:** 4
+- **Last 90 Days:** 14
+- **Last 365 Days:** 69
 - **First Message:** 2024-02-03
-- **Last Message:** 2026-06-27
+- **Last Message:** 2026-06-13
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [oqs-general](oqs-general_1203395992003678238.md) | 2026-06-27 | 6 | 13 | 68 | 240 |
-| [oqs-call](oqs-call_1214590815695933470.md) | 2026-06-13 | 2 | 7 | 7 | 13 |
+| [oqs-general](oqs-general_1203395992003678238.md) | 2026-05-13 | 0 | 7 | 62 | 234 |
+| [oqs-call](oqs-call_1214590815695933470.md) | 2026-06-13 | 4 | 7 | 7 | 13 |
 | [oqs-github](oqs-github_1214605403527184394.md) | 2024-12-23 | 0 | 0 | 0 | 2 |
 
 ## Most Active Users
@@ -23,7 +23,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | chozorho | 6 | — |
+| 1 | Loganaden | 2 | — |
 | 2 | brent | 2 | — |
 
 ### Last 90 Days
@@ -31,20 +31,20 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Loganaden | 6 | — |
-| 2 | chozorho | 6 | — |
-| 3 | brent | 3 | — |
-| 4 | Vishnu Ajith | 1 | — |
-| 5 | Ayush | 1 | — |
+| 2 | brent | 3 | — |
+| 3 | Vishnu Ajith | 1 | — |
+| 4 | Ayush | 1 | — |
+| 5 | Tim420 | 1 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | chozorho | 12 | — |
-| 2 | Snake | 11 | — |
-| 3 | brent | 9 | — |
-| 4 | cybarg | 7 | — |
-| 5 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 7 | — |
+| 1 | Snake | 11 | — |
+| 2 | brent | 9 | — |
+| 3 | cybarg | 7 | — |
+| 4 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 7 | — |
+| 5 | Loganaden | 6 | — |
 
 ### All Time
 
@@ -60,7 +60,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 37 |
+| 2026 | 31 |
 | 2025 | 46 |
 | 2024 | 172 |
 
@@ -68,7 +68,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 8 |
+| 2026-06 | 2 |
 | 2026-05 | 8 |
 | 2026-04 | 4 |
 | 2026-03 | 9 |
@@ -98,7 +98,6 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-06-27 | 6 |
 | 2026-06-13 | 2 |
 | 2026-05-29 | 1 |
 | 2026-05-28 | 1 |

@@ -2,10 +2,10 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 984081554458427402
-- **Total Messages in Category:** 393
-- **Last 30 Days:** 1
-- **Last 90 Days:** 15
-- **Last 365 Days:** 21
+- **Total Messages in Category:** 366
+- **Last 30 Days:** 2
+- **Last 90 Days:** 21
+- **Last 365 Days:** 26
 - **First Message:** 2022-03-16
 - **Last Message:** 2026-06-11
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [lfdt-mentorships](lfdt-mentorships_953059038910890034.md) | 2026-06-11 | 1 | 15 | 21 | 393 |
+| [lfdt-mentorships](lfdt-mentorships_953059038910890034.md) | 2026-06-11 | 2 | 21 | 26 | 366 |
 
 ## Most Active Users
 
@@ -22,36 +22,37 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | divyam-jha | 1 | — |
+| 2 | AgrimTawani \| Cryptobazaar | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | otakucomrade | 2 | — |
-| 2 | Shrov Jain | 2 | — |
-| 3 | mjc | 2 | — |
-| 4 | [Min Yu](https://github.com/minyu66) | 2 | LFDT Staff |
-| 5 | [explorer3](https://github.com/exploreriii) | 1 | Project Maintainer, Hiero maintainer |
+| 1 | Zion'sEarthlyPrince | 3 | — |
+| 2 | otakucomrade | 2 | — |
+| 3 | Byteledger | 2 | — |
+| 4 | mjc | 2 | — |
+| 5 | [Min Yu](https://github.com/minyu66) | 2 | LFDT Staff |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Zion'sEarthlyPrince | 3 | — |
-| 2 | otakucomrade | 2 | — |
-| 3 | Shrov Jain | 2 | — |
-| 4 | mjc | 2 | — |
-| 5 | [Min Yu](https://github.com/minyu66) | 2 | LFDT Staff |
+| 1 | Boma_Naps | 4 | — |
+| 2 | Zion'sEarthlyPrince | 3 | — |
+| 3 | [Min Yu](https://github.com/minyu66) | 3 | LFDT Staff |
+| 4 | otakucomrade | 2 | — |
+| 5 | Byteledger | 2 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 37 | lfdt-ca, LFDT Staff |
-| 2 | [Min Yu](https://github.com/minyu66) | 33 | LFDT Staff |
-| 3 | tobytobias | 27 | — |
-| 4 | shogun | 11 | — |
-| 5 | [bestbeforetoday](https://github.com/bestbeforetoday) | 10 | Project Maintainer, Fabric Maintainer |
+| 1 | [Min Yu](https://github.com/minyu66) | 32 | LFDT Staff |
+| 2 | tobytobias | 26 | — |
+| 3 | [Ry Jones](https://github.com/ryjones) | 26 | LFDT Staff |
+| 4 | Niks | 9 | — |
+| 5 | shogun | 9 | — |
 
 ## Yearly Traffic
 
@@ -59,9 +60,9 @@
 | --- | --- |
 | 2026 | 21 |
 | 2025 | 30 |
-| 2024 | 119 |
-| 2023 | 101 |
-| 2022 | 122 |
+| 2024 | 108 |
+| 2023 | 95 |
+| 2022 | 112 |
 
 ## Monthly Traffic
 
@@ -80,26 +81,26 @@
 | 2024-09 | 3 |
 | 2024-07 | 2 |
 | 2024-06 | 1 |
-| 2024-05 | 54 |
+| 2024-05 | 49 |
 | 2024-04 | 5 |
 | 2024-03 | 23 |
-| 2024-02 | 10 |
-| 2024-01 | 18 |
+| 2024-02 | 9 |
+| 2024-01 | 13 |
 | 2023-12 | 8 |
 | 2023-09 | 1 |
 | 2023-08 | 4 |
 | 2023-07 | 1 |
 | 2023-06 | 19 |
 | 2023-05 | 20 |
-| 2023-04 | 29 |
+| 2023-04 | 23 |
 | 2023-03 | 15 |
 | 2023-01 | 4 |
 | 2022-12 | 8 |
 | 2022-11 | 7 |
 | 2022-10 | 11 |
 | 2022-07 | 2 |
-| 2022-06 | 31 |
-| 2022-05 | 19 |
+| 2022-06 | 25 |
+| 2022-05 | 15 |
 | 2022-04 | 34 |
 | 2022-03 | 10 |
 
@@ -157,7 +158,7 @@
 | 2024-05-12 | 4 |
 | 2024-05-11 | 4 |
 | 2024-05-10 | 9 |
-| 2024-05-08 | 6 |
+| 2024-05-08 | 1 |
 | 2024-05-07 | 1 |
 | 2024-05-04 | 1 |
 | 2024-05-03 | 8 |
@@ -173,12 +174,11 @@
 | 2024-03-06 | 1 |
 | 2024-03-02 | 4 |
 | 2024-03-01 | 1 |
-| 2024-02-28 | 4 |
+| 2024-02-28 | 3 |
 | 2024-02-21 | 1 |
 | 2024-02-20 | 4 |
 | 2024-02-14 | 1 |
-| 2024-01-30 | 1 |
-| 2024-01-29 | 6 |
+| 2024-01-29 | 2 |
 | 2024-01-23 | 11 |
 | 2023-12-29 | 8 |
 | 2023-09-23 | 1 |
@@ -202,8 +202,7 @@
 | 2023-05-03 | 1 |
 | 2023-05-02 | 2 |
 | 2023-04-27 | 1 |
-| 2023-04-25 | 1 |
-| 2023-04-24 | 12 |
+| 2023-04-24 | 7 |
 | 2023-04-23 | 1 |
 | 2023-04-20 | 2 |
 | 2023-04-17 | 5 |
@@ -238,11 +237,10 @@
 | 2022-06-10 | 1 |
 | 2022-06-09 | 3 |
 | 2022-06-08 | 3 |
-| 2022-06-03 | 4 |
-| 2022-06-01 | 7 |
+| 2022-06-03 | 2 |
+| 2022-06-01 | 3 |
 | 2022-05-30 | 1 |
-| 2022-05-27 | 1 |
-| 2022-05-26 | 5 |
+| 2022-05-26 | 2 |
 | 2022-05-19 | 1 |
 | 2022-05-18 | 1 |
 | 2022-05-17 | 4 |

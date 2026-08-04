@@ -3,10 +3,10 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Fabric
 - **Channel ID:** 1158754773026222130
-- **Total Messages:** 62
-- **Last 30 Days:** 0
+- **Total Messages:** 60
+- **Last 30 Days:** 4
 - **Last 90 Days:** 5
-- **Last 365 Days:** 9
+- **Last 365 Days:** 7
 - **First Message:** 2023-10-03
 - **Last Message:** 2026-05-22
 
@@ -14,7 +14,11 @@
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | Esco | 2 | — |
+| 2 | Ethan | 1 | — |
+| 3 | lyz4rd | 1 | — |
 
 ### Last 90 Days
 
@@ -28,10 +32,10 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
-| 2 | lyz4rd | 2 | — |
-| 3 | Esco | 2 | — |
-| 4 | Ethan | 1 | — |
+| 1 | lyz4rd | 2 | — |
+| 2 | Esco | 2 | — |
+| 3 | Ethan | 1 | — |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
 | 5 | Plukanine7.btc | 1 | — |
 
 ### All Time
@@ -49,7 +53,7 @@ _No activity in this period._
 | Year | Messages |
 | --- | --- |
 | 2026 | 5 |
-| 2025 | 18 |
+| 2025 | 16 |
 | 2024 | 11 |
 | 2023 | 28 |
 
@@ -58,7 +62,7 @@ _No activity in this period._
 | Month | Messages |
 | --- | --- |
 | 2026-05 | 5 |
-| 2025-11 | 3 |
+| 2025-11 | 1 |
 | 2025-09 | 1 |
 | 2025-05 | 1 |
 | 2025-04 | 2 |
@@ -78,7 +82,7 @@ _No activity in this period._
 | 2026-05-19 | 1 |
 | 2026-05-16 | 2 |
 | 2026-05-15 | 1 |
-| 2025-11-04 | 3 |
+| 2025-11-04 | 1 |
 | 2025-09-13 | 1 |
 | 2025-05-20 | 1 |
 | 2025-04-09 | 2 |

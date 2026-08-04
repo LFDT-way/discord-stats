@@ -2,26 +2,27 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1108449719212048556
-- **Total Messages in Category:** 815
-- **Last 30 Days:** 8
-- **Last 90 Days:** 20
-- **Last 365 Days:** 453
+- **Total Messages in Category:** 837
+- **Last 30 Days:** 12
+- **Last 90 Days:** 31
+- **Last 365 Days:** 503
 - **First Message:** 2023-06-02
-- **Last Message:** 2026-06-30
+- **Last Message:** 2026-06-11
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tsp](tsp_1240339063618277467.md) | 2026-01-23 | 0 | 0 | 177 | 262 |
-| [mdoc-ts](mdoc-ts_1251180041124053052.md) | 2026-04-01 | 0 | 0 | 128 | 172 |
+| [tsp](tsp_1240339063618277467.md) | 2026-01-23 | 0 | 0 | 219 | 262 |
+| [mdoc-ts](mdoc-ts_1251180041124053052.md) | 2026-04-01 | 0 | 14 | 128 | 172 |
 | [sd-jwt-dotnet](sd-jwt-dotnet_1179453047169110056.md) | 2026-04-30 | 0 | 1 | 64 | 80 |
 | [sd-jwt-general](sd-jwt-general_1180161138030284910.md) | 2025-09-24 | 0 | 0 | 3 | 70 |
-| [oid4vc-ts](oid4vc-ts_1326616895453007933.md) | 2026-05-14 | 0 | 4 | 50 | 61 |
+| [oid4vc-ts](oid4vc-ts_1326616895453007933.md) | 2026-05-14 | 0 | 4 | 59 | 61 |
 | [vc-api](vc-api_1157008901020073994.md) | 2025-10-24 | 0 | 0 | 2 | 39 |
 | [wallet-framework-dotnet](wallet-framework-dotnet_1159552665940938842.md) | 2024-10-11 | 0 | 0 | 0 | 26 |
-| [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-06-30 | 8 | 15 | 15 | 22 |
+| [eudi-wallet-kit-react-native](eudi-wallet-kit-react-native_1230175333303717889.md) | 2025-10-23 | 0 | 0 | 1 | 21 |
 | [pydentity-wallet](pydentity-wallet_1352199414956953630.md) | 2026-02-11 | 0 | 0 | 3 | 20 |
+| [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-06-11 | 12 | 12 | 12 | 19 |
 | [farmworker-wallet-os](farmworker-wallet-os_1138937641123987466.md) | 2024-10-09 | 0 | 0 | 0 | 10 |
 | [sd-jwt-vc-dm](sd-jwt-vc-dm_1331889781570932849.md) | 2025-04-20 | 0 | 0 | 0 | 10 |
 | [dcql-ts](dcql-ts_1326615136865095731.md) | 2025-11-12 | 0 | 0 | 3 | 9 |
@@ -30,10 +31,12 @@
 | [sd-jwt-python](sd-jwt-python_1108449835176169513.md) | 2025-03-10 | 0 | 0 | 0 | 5 |
 | [axle](axle_1404761591710355506.md) | 2025-08-12 | 0 | 0 | 3 | 3 |
 | [multiformat-vc-ios](multiformat-vc-ios_1199766370880069762.md) | 2024-02-05 | 0 | 0 | 0 | 3 |
+| [solid-data-wallet](solid-data-wallet_1291098042422005801.md) | 2024-11-14 | 0 | 0 | 0 | 3 |
 | [build-wallet-core](build-wallet-core_1268222388982775879.md) | 2025-12-10 | 0 | 0 | 2 | 2 |
 | [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-03-12 | 0 | 0 | 2 | 2 |
 | [openid-federation-ts](openid-federation-ts_1326618196245221426.md) | 2025-10-23 | 0 | 0 | 1 | 2 |
 | [trs](trs_1379838543823900773.md) | 2025-06-04 | 0 | 0 | 0 | 2 |
+| [learner-credential-wallet](learner-credential-wallet_1271193837880217640.md) | 2025-09-10 | 0 | 0 | 1 | 1 |
 
 ## Most Active Users
 
@@ -41,35 +44,37 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | kukgini | 7 | — |
-| 2 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 1 | Lab Maintainer |
+| 1 | kukgini | 5 | — |
+| 2 | [Ry Jones, OWF](https://github.com/ryjones) | 3 | Linux Foundation Staff |
+| 3 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 2 | Lab Maintainer |
+| 4 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | kukgini | 8 | — |
-| 2 | [Ry Jones, OWF](https://github.com/ryjones) | 3 | Linux Foundation Staff |
-| 3 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 2 | Lab Maintainer |
-| 4 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 5 | RMLearney | 2 | — |
+| 1 | [Lukas.J.Han](https://github.com/lukasjhan) | 7 | Lab Maintainer |
+| 2 | [Timo Glastra](https://github.com/TimoGlastra) | 7 | credo maintainers, Project Maintainer |
+| 3 | kukgini | 5 | — |
+| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 3 | Linux Foundation Staff |
+| 5 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 2 | Lab Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones, OWF](https://github.com/ryjones) | 73 | Linux Foundation Staff |
-| 2 | [Lukas.J.Han](https://github.com/lukasjhan) | 63 | Lab Maintainer |
-| 3 | [Timo Glastra](https://github.com/TimoGlastra) | 60 | credo maintainers, Project Maintainer |
+| 2 | [Lukas.J.Han](https://github.com/lukasjhan) | 66 | Lab Maintainer |
+| 3 | [Timo Glastra](https://github.com/TimoGlastra) | 63 | credo maintainers, Project Maintainer |
 | 4 | kevinaboos | 54 | — |
-| 5 | [Mirko](https://github.com/cre8) | 29 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 5 | [firegod](https://github.com/wenjing) | 49 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Lukas.J.Han](https://github.com/lukasjhan) | 132 | Lab Maintainer |
-| 2 | [Ry Jones, OWF](https://github.com/ryjones) | 101 | Linux Foundation Staff |
+| 2 | [Ry Jones, OWF](https://github.com/ryjones) | 103 | Linux Foundation Staff |
 | 3 | [Timo Glastra](https://github.com/TimoGlastra) | 84 | credo maintainers, Project Maintainer |
 | 4 | [firegod](https://github.com/wenjing) | 64 | — |
 | 5 | ayu | 59 | — |
@@ -78,16 +83,16 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 171 |
-| 2025 | 449 |
-| 2024 | 96 |
+| 2026 | 168 |
+| 2025 | 454 |
+| 2024 | 116 |
 | 2023 | 99 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 8 |
+| 2026-06 | 5 |
 | 2026-05 | 11 |
 | 2026-04 | 3 |
 | 2026-03 | 24 |
@@ -95,23 +100,23 @@
 | 2026-01 | 49 |
 | 2025-12 | 78 |
 | 2025-11 | 40 |
-| 2025-10 | 8 |
-| 2025-09 | 64 |
+| 2025-10 | 9 |
+| 2025-09 | 65 |
 | 2025-08 | 60 |
 | 2025-07 | 36 |
 | 2025-06 | 57 |
 | 2025-05 | 27 |
-| 2025-04 | 31 |
+| 2025-04 | 34 |
 | 2025-03 | 29 |
 | 2025-02 | 1 |
 | 2025-01 | 18 |
-| 2024-11 | 7 |
+| 2024-11 | 10 |
 | 2024-10 | 19 |
 | 2024-09 | 6 |
 | 2024-08 | 1 |
-| 2024-06 | 23 |
-| 2024-05 | 11 |
-| 2024-04 | 3 |
+| 2024-06 | 24 |
+| 2024-05 | 20 |
+| 2024-04 | 10 |
 | 2024-03 | 15 |
 | 2024-02 | 9 |
 | 2024-01 | 2 |
@@ -126,9 +131,6 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-06-30 | 1 |
-| 2026-06-19 | 1 |
-| 2026-06-17 | 1 |
 | 2026-06-11 | 1 |
 | 2026-06-09 | 3 |
 | 2026-06-07 | 1 |
@@ -177,7 +179,7 @@
 | 2025-11-12 | 4 |
 | 2025-11-11 | 7 |
 | 2025-10-24 | 2 |
-| 2025-10-23 | 3 |
+| 2025-10-23 | 4 |
 | 2025-10-17 | 1 |
 | 2025-10-10 | 2 |
 | 2025-09-29 | 3 |
@@ -185,6 +187,7 @@
 | 2025-09-25 | 3 |
 | 2025-09-24 | 1 |
 | 2025-09-22 | 2 |
+| 2025-09-10 | 1 |
 | 2025-09-07 | 4 |
 | 2025-09-06 | 6 |
 | 2025-09-05 | 5 |
@@ -246,6 +249,7 @@
 | 2025-04-20 | 2 |
 | 2025-04-19 | 2 |
 | 2025-04-17 | 3 |
+| 2025-04-16 | 3 |
 | 2025-04-04 | 10 |
 | 2025-04-03 | 10 |
 | 2025-03-28 | 3 |
@@ -265,6 +269,8 @@
 | 2025-01-09 | 2 |
 | 2024-11-30 | 1 |
 | 2024-11-19 | 1 |
+| 2024-11-14 | 1 |
+| 2024-11-13 | 2 |
 | 2024-11-11 | 1 |
 | 2024-11-06 | 3 |
 | 2024-11-05 | 1 |
@@ -287,10 +293,16 @@
 | 2024-06-15 | 5 |
 | 2024-06-14 | 4 |
 | 2024-06-13 | 1 |
+| 2024-06-12 | 1 |
 | 2024-06-04 | 3 |
 | 2024-05-31 | 2 |
 | 2024-05-23 | 5 |
 | 2024-05-15 | 4 |
+| 2024-05-14 | 2 |
+| 2024-05-13 | 1 |
+| 2024-05-03 | 1 |
+| 2024-05-02 | 5 |
+| 2024-04-17 | 7 |
 | 2024-04-02 | 2 |
 | 2024-04-01 | 1 |
 | 2024-03-31 | 3 |

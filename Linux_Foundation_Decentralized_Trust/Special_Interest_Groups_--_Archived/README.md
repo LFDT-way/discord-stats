@@ -2,10 +2,10 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515387498680340
-- **Total Messages in Category:** 701
+- **Total Messages in Category:** 680
 - **Last 30 Days:** 1
 - **Last 90 Days:** 4
-- **Last 365 Days:** 13
+- **Last 365 Days:** 14
 - **First Message:** 2022-02-15
 - **Last Message:** 2026-06-08
 
@@ -13,15 +13,15 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [identity](identity_943951480954712064.md) | 2026-04-02 | 0 | 0 | 8 | 232 |
-| [supply-chain-and-trade-finance-sig](supply-chain-and-trade-finance-sig_943951252360925264.md) | 2025-04-28 | 0 | 0 | 0 | 163 |
-| [media-and-entertainment-sig](media-and-entertainment-sig_944591071969685524.md) | 2025-03-03 | 0 | 0 | 0 | 143 |
-| [healthcare-sig](healthcare-sig_943951175634550874.md) | 2026-04-22 | 0 | 2 | 3 | 83 |
-| [capital-markets-sig](capital-markets-sig_943951056252063744.md) | 2026-06-08 | 1 | 2 | 2 | 47 |
+| [identity](identity_943951480954712064.md) | 2026-04-02 | 0 | 1 | 9 | 223 |
+| [supply-chain-and-trade-finance-sig](supply-chain-and-trade-finance-sig_943951252360925264.md) | 2025-04-28 | 0 | 0 | 0 | 156 |
+| [media-and-entertainment-sig](media-and-entertainment-sig_944591071969685524.md) | 2025-03-03 | 0 | 0 | 0 | 142 |
+| [healthcare-sig](healthcare-sig_943951175634550874.md) | 2026-04-22 | 0 | 1 | 2 | 82 |
+| [capital-markets-sig](capital-markets-sig_943951056252063744.md) | 2026-06-08 | 1 | 2 | 3 | 47 |
 | [climate-action-accounting-sig](climate-action-accounting-sig_943951132680654898.md) | 2025-01-22 | 0 | 0 | 0 | 18 |
-| [mesig-announcements](mesig-announcements_942839872572506132.md) | 2022-09-23 | 0 | 0 | 0 | 5 |
 | [public-sector-sig](public-sector-sig_943951221356634112.md) | 2024-09-15 | 0 | 0 | 0 | 5 |
 | [telecom-sig](telecom-sig_943951274624315462.md) | 2025-01-02 | 0 | 0 | 0 | 5 |
+| [mesig-announcements](mesig-announcements_942839872572506132.md) | 2022-09-23 | 0 | 0 | 0 | 2 |
 
 ## Most Active Users
 
@@ -36,45 +36,45 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [DanielSzego](https://github.com/Daniel-Szego) | 2 | Meetup Organizer |
-| 2 | Jordi | 1 | — |
-| 3 | William Tsang | 1 | — |
+| 2 | willt3e | 1 | — |
+| 3 | [Ajay Jadhav](https://github.com/ajile-in) | 1 | Credebl maintainer, Project Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Ankita | 3 | Credebl maintainer, Project Maintainer |
-| 2 | [davidwboswell](https://github.com/davidwboswell) | 3 | lfdt-ca, LFDT Staff |
+| 2 | [davidwboswell](https://github.com/davidwboswell) | 3 | LFDT Staff |
 | 3 | [DanielSzego](https://github.com/Daniel-Szego) | 2 | Meetup Organizer |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
-| 5 | Jordi | 1 | — |
+| 4 | Tomaz | 2 | LFDT Staff |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [cjhowland](https://github.com/cjhowland) | 104 | — |
-| 2 | alician | 69 | — |
-| 3 | rgivens84 | 65 | — |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 52 | lfdt-ca, LFDT Staff |
+| 1 | [cjhowland](https://github.com/cjhowland) | 102 | — |
+| 2 | alician | 65 | — |
+| 3 | rgivens84 | 64 | — |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 50 | LFDT Staff |
 | 5 | Sandy Aggarwal | 34 | SIG leader, Community Leader |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 6 |
+| 2026 | 5 |
 | 2025 | 47 |
-| 2024 | 221 |
-| 2023 | 186 |
-| 2022 | 241 |
+| 2024 | 211 |
+| 2023 | 182 |
+| 2022 | 235 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
 | 2026-06 | 1 |
-| 2026-04 | 4 |
+| 2026-04 | 3 |
 | 2026-01 | 1 |
 | 2025-11 | 3 |
 | 2025-08 | 3 |
@@ -87,24 +87,24 @@
 | 2025-01 | 13 |
 | 2024-12 | 4 |
 | 2024-11 | 10 |
-| 2024-10 | 15 |
+| 2024-10 | 12 |
 | 2024-09 | 30 |
 | 2024-08 | 8 |
 | 2024-07 | 18 |
 | 2024-06 | 14 |
 | 2024-05 | 25 |
 | 2024-04 | 29 |
-| 2024-03 | 38 |
-| 2024-02 | 19 |
+| 2024-03 | 36 |
+| 2024-02 | 14 |
 | 2024-01 | 11 |
 | 2023-12 | 2 |
 | 2023-11 | 24 |
 | 2023-10 | 22 |
-| 2023-09 | 17 |
+| 2023-09 | 14 |
 | 2023-08 | 18 |
 | 2023-07 | 19 |
 | 2023-06 | 19 |
-| 2023-05 | 15 |
+| 2023-05 | 14 |
 | 2023-04 | 8 |
 | 2023-03 | 13 |
 | 2023-02 | 8 |
@@ -112,14 +112,14 @@
 | 2022-12 | 12 |
 | 2022-11 | 5 |
 | 2022-10 | 5 |
-| 2022-09 | 12 |
+| 2022-09 | 7 |
 | 2022-08 | 20 |
 | 2022-07 | 31 |
 | 2022-06 | 19 |
 | 2022-05 | 33 |
 | 2022-04 | 31 |
 | 2022-03 | 41 |
-| 2022-02 | 32 |
+| 2022-02 | 31 |
 
 ## Daily Traffic
 
@@ -127,7 +127,7 @@
 | --- | --- |
 | 2026-06-08 | 1 |
 | 2026-04-25 | 1 |
-| 2026-04-22 | 2 |
+| 2026-04-22 | 1 |
 | 2026-04-02 | 1 |
 | 2026-01-19 | 1 |
 | 2025-11-12 | 2 |
@@ -184,8 +184,7 @@
 | 2024-10-14 | 1 |
 | 2024-10-11 | 1 |
 | 2024-10-07 | 1 |
-| 2024-10-04 | 1 |
-| 2024-10-03 | 5 |
+| 2024-10-03 | 3 |
 | 2024-10-01 | 4 |
 | 2024-09-30 | 8 |
 | 2024-09-28 | 4 |
@@ -251,7 +250,7 @@
 | 2024-04-03 | 1 |
 | 2024-04-02 | 1 |
 | 2024-03-29 | 2 |
-| 2024-03-28 | 3 |
+| 2024-03-28 | 1 |
 | 2024-03-27 | 8 |
 | 2024-03-26 | 3 |
 | 2024-03-25 | 4 |
@@ -263,7 +262,7 @@
 | 2024-03-07 | 3 |
 | 2024-03-04 | 3 |
 | 2024-02-22 | 1 |
-| 2024-02-15 | 6 |
+| 2024-02-15 | 1 |
 | 2024-02-14 | 1 |
 | 2024-02-08 | 3 |
 | 2024-02-07 | 2 |
@@ -310,8 +309,8 @@
 | 2023-09-14 | 2 |
 | 2023-09-13 | 1 |
 | 2023-09-10 | 1 |
-| 2023-09-07 | 2 |
-| 2023-09-06 | 5 |
+| 2023-09-07 | 1 |
+| 2023-09-06 | 3 |
 | 2023-08-31 | 3 |
 | 2023-08-23 | 1 |
 | 2023-08-22 | 2 |
@@ -342,7 +341,7 @@
 | 2023-06-13 | 1 |
 | 2023-06-06 | 4 |
 | 2023-05-31 | 3 |
-| 2023-05-26 | 3 |
+| 2023-05-26 | 2 |
 | 2023-05-22 | 4 |
 | 2023-05-17 | 3 |
 | 2023-05-13 | 1 |
@@ -391,11 +390,11 @@
 | 2022-10-19 | 1 |
 | 2022-10-05 | 1 |
 | 2022-10-04 | 1 |
-| 2022-09-23 | 3 |
+| 2022-09-23 | 1 |
 | 2022-09-21 | 1 |
 | 2022-09-13 | 1 |
-| 2022-09-09 | 2 |
-| 2022-09-08 | 3 |
+| 2022-09-09 | 1 |
+| 2022-09-08 | 1 |
 | 2022-09-07 | 1 |
 | 2022-09-02 | 1 |
 | 2022-08-27 | 1 |
@@ -478,4 +477,4 @@
 | 2022-02-19 | 1 |
 | 2022-02-18 | 3 |
 | 2022-02-17 | 1 |
-| 2022-02-15 | 2 |
+| 2022-02-15 | 1 |

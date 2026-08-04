@@ -1,7 +1,7 @@
 # Channel Report: eudi-wallet-kit-react-native
 
 - **Guild:** OpenWallet Foundation
-- **Category:** Archive
+- **Category:** Labs
 - **Channel ID:** 1230175333303717889
 - **Total Messages:** 21
 - **Last 30 Days:** 0

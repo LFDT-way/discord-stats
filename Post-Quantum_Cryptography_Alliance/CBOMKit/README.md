@@ -2,19 +2,19 @@
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1440054211453779999
-- **Total Messages in Category:** 48
+- **Total Messages in Category:** 45
 - **Last 30 Days:** 6
-- **Last 90 Days:** 9
-- **Last 365 Days:** 44
+- **Last 90 Days:** 6
+- **Last 365 Days:** 41
 - **First Message:** 2025-05-06
-- **Last Message:** 2026-06-22
+- **Last Message:** 2026-06-07
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [wg-tooling](wg-tooling_1323700037099847782.md) | 2025-11-17 | 0 | 0 | 28 | 32 |
-| [cbomkit-general](cbomkit-general_1440054266571133053.md) | 2026-06-22 | 6 | 9 | 16 | 16 |
+| [cbomkit-general](cbomkit-general_1440054266571133053.md) | 2026-06-07 | 6 | 6 | 13 | 13 |
 
 ## Most Active Users
 
@@ -22,19 +22,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Sachin Kumar | 2 | — |
-| 2 | Severus Snape | 2 | — |
-| 3 | [Andreas Schade](https://github.com/san-zrl) | 1 | — |
-| 4 | Siddhartha Bh | 1 | — |
+| 1 | Sachin Kumar | 4 | — |
+| 2 | [Andreas Schade](https://github.com/san-zrl) | 1 | — |
+| 3 | Severus Snape | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Sachin Kumar | 4 | — |
-| 2 | [Andreas Schade](https://github.com/san-zrl) | 2 | — |
-| 3 | Severus Snape | 2 | — |
-| 4 | Siddhartha Bh | 1 | — |
+| 2 | [Andreas Schade](https://github.com/san-zrl) | 1 | — |
+| 3 | Severus Snape | 1 | — |
 
 ### Last 365 Days
 
@@ -44,7 +42,7 @@
 | 2 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 9 | CBOM maintainer, Project Maintainer |
 | 3 | Scott Corzine | 6 | — |
 | 4 | Sachin Kumar | 4 | — |
-| 5 | [Andreas Schade](https://github.com/san-zrl) | 2 | — |
+| 5 | [Andreas Schade](https://github.com/san-zrl) | 1 | — |
 
 ### All Time
 
@@ -54,20 +52,20 @@
 | 2 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 11 | CBOM maintainer, Project Maintainer |
 | 3 | Scott Corzine | 6 | — |
 | 4 | Sachin Kumar | 4 | — |
-| 5 | [Andreas Schade](https://github.com/san-zrl) | 2 | — |
+| 5 | [Andreas Schade](https://github.com/san-zrl) | 1 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 10 |
+| 2026 | 7 |
 | 2025 | 38 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 6 |
+| 2026-06 | 3 |
 | 2026-05 | 3 |
 | 2026-02 | 1 |
 | 2025-12 | 4 |
@@ -81,8 +79,6 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-06-22 | 2 |
-| 2026-06-16 | 1 |
 | 2026-06-07 | 3 |
 | 2026-05-28 | 2 |
 | 2026-05-20 | 1 |

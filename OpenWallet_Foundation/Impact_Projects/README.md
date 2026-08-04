@@ -2,18 +2,18 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1285999377751736443
-- **Total Messages in Category:** 850
-- **Last 30 Days:** 14
-- **Last 90 Days:** 29
-- **Last 365 Days:** 217
+- **Total Messages in Category:** 852
+- **Last 30 Days:** 18
+- **Last 90 Days:** 32
+- **Last 365 Days:** 248
 - **First Message:** 2024-09-26
-- **Last Message:** 2026-06-22
+- **Last Message:** 2026-06-15
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aca-py](aca-py_1286299858994462842.md) | 2026-06-22 | 14 | 29 | 215 | 789 |
+| [aca-py](aca-py_1286299858994462842.md) | 2026-06-15 | 18 | 32 | 246 | 791 |
 | [acapy-did-registration](acapy-did-registration_1303470616581509130.md) | 2025-10-25 | 0 | 0 | 2 | 61 |
 
 ## Most Active Users
@@ -22,38 +22,38 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | RMLearney | 5 | — |
-| 2 | PStLouis | 4 | Lab Maintainer, Project Maintainer |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
-| 4 | [swcurran](https://github.com/swcurran) | 1 | Lab Maintainer, TAC members, Project Maintainer |
-| 5 | Timbl | 1 | — |
+| 1 | PStLouis | 5 | Lab Maintainer, Project Maintainer |
+| 2 | RMLearney | 4 | — |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 3 | Linux Foundation Staff |
+| 4 | Timbl | 3 | — |
+| 5 | Thiago Romano | 3 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Timbl | 8 | — |
+| 1 | Timbl | 9 | — |
 | 2 | PStLouis | 5 | Lab Maintainer, Project Maintainer |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 5 | Linux Foundation Staff |
-| 4 | RMLearney | 5 | — |
-| 5 | Thiago Romano | 4 | — |
+| 4 | Thiago Romano | 5 | — |
+| 5 | RMLearney | 4 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | PStLouis | 32 | Lab Maintainer, Project Maintainer |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 21 | Linux Foundation Staff |
-| 3 | [swcurran](https://github.com/swcurran) | 20 | Lab Maintainer, TAC members, Project Maintainer |
-| 4 | [jamshale](https://github.com/jamshale) | 15 | Project Maintainer |
-| 5 | Pragya Jain | 11 | — |
+| 1 | PStLouis | 41 | Lab Maintainer, Project Maintainer |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 22 | Linux Foundation Staff |
+| 3 | [swcurran](https://github.com/swcurran) | 21 | Lab Maintainer, TAC members, Project Maintainer |
+| 4 | [jamshale](https://github.com/jamshale) | 17 | Project Maintainer |
+| 5 | albertoleon_7794 | 12 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | PStLouis | 163 | Lab Maintainer, Project Maintainer |
-| 2 | [swcurran](https://github.com/swcurran) | 102 | Lab Maintainer, TAC members, Project Maintainer |
+| 2 | [swcurran](https://github.com/swcurran) | 101 | Lab Maintainer, TAC members, Project Maintainer |
 | 3 | [jamshale](https://github.com/jamshale) | 82 | Project Maintainer |
 | 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 48 | Linux Foundation Staff |
 | 5 | friendlyfire137 | 37 | Project Maintainer |
@@ -62,7 +62,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 75 |
+| 2026 | 77 |
 | 2025 | 531 |
 | 2024 | 244 |
 
@@ -70,11 +70,11 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 15 |
-| 2026-05 | 12 |
+| 2026-06 | 13 |
+| 2026-05 | 14 |
 | 2026-04 | 2 |
 | 2026-03 | 4 |
-| 2026-02 | 32 |
+| 2026-02 | 34 |
 | 2026-01 | 10 |
 | 2025-12 | 30 |
 | 2025-11 | 26 |
@@ -97,13 +97,14 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-06-22 | 1 |
-| 2026-06-15 | 5 |
+| 2026-06-15 | 4 |
 | 2026-06-13 | 1 |
 | 2026-06-11 | 4 |
 | 2026-06-10 | 2 |
 | 2026-06-09 | 1 |
 | 2026-06-02 | 1 |
+| 2026-05-28 | 1 |
+| 2026-05-27 | 1 |
 | 2026-05-22 | 1 |
 | 2026-05-21 | 1 |
 | 2026-05-20 | 1 |
@@ -124,7 +125,8 @@
 | 2026-02-11 | 3 |
 | 2026-02-10 | 5 |
 | 2026-02-09 | 2 |
-| 2026-02-06 | 1 |
+| 2026-02-06 | 2 |
+| 2026-02-05 | 1 |
 | 2026-02-04 | 1 |
 | 2026-01-27 | 1 |
 | 2026-01-13 | 1 |

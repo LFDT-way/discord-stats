@@ -2,26 +2,26 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1226983696306012181
-- **Total Messages in Category:** 1,513
-- **Last 30 Days:** 23
-- **Last 90 Days:** 81
-- **Last 365 Days:** 410
+- **Total Messages in Category:** 1,257
+- **Last 30 Days:** 44
+- **Last 90 Days:** 90
+- **Last 365 Days:** 590
 - **First Message:** 2024-04-10
-- **Last Message:** 2026-06-23
+- **Last Message:** 2026-06-10
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-06-18 | 20 | 51 | 157 | 738 |
-| [sdk-ts](sdk-ts_1252629747389829152.md) | 2026-06-16 | 1 | 19 | 94 | 219 |
-| [cloud-agent](cloud-agent_1252629630763012116.md) | 2025-12-03 | 0 | 0 | 22 | 213 |
-| [general](general_1252630735269925057.md) | 2026-06-23 | 2 | 7 | 103 | 170 |
-| [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 5 | 65 |
+| [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-06-10 | 38 | 59 | 234 | 535 |
+| [sdk-ts](sdk-ts_1252629747389829152.md) | 2026-05-24 | 3 | 18 | 151 | 208 |
+| [cloud-agent](cloud-agent_1252629630763012116.md) | 2025-12-02 | 0 | 0 | 54 | 191 |
+| [general](general_1252630735269925057.md) | 2026-06-02 | 3 | 9 | 111 | 150 |
+| [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 9 | 65 |
 | [identus-faq](identus-faq_1252622748073853083.md) | 2025-11-29 | 0 | 0 | 16 | 46 |
 | [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-05-12 | 0 | 3 | 6 | 20 |
 | [mediator](mediator_1252629675943919679.md) | 2026-04-28 | 0 | 1 | 2 | 20 |
-| [meeting-minutes](meeting-minutes_1252982706212438016.md) | 2025-06-18 | 0 | 0 | 0 | 12 |
+| [meeting-minutes](meeting-minutes_1252982706212438016.md) | 2025-06-18 | 0 | 0 | 2 | 12 |
 | [sdk-kmp](sdk-kmp_1252629800372408330.md) | 2025-07-21 | 0 | 0 | 1 | 6 |
 | [docs](docs_1391699003674202142.md) | 2025-07-22 | 0 | 0 | 4 | 4 |
 
@@ -31,100 +31,97 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 10 | lfdt-ca, LFDT Staff |
-| 2 | Yurii Shynbuiev | 8 | Identus Maintainer, Project Maintainer |
-| 3 | [FabioPinheiro](https://github.com/FabioPinheiro) | 2 | Identus Maintainer, Project Maintainer |
-| 4 | Prakhar Singh | 1 | — |
-| 5 | Seydi | 1 | — |
+| 1 | Yurii Shynbuiev | 14 | Identus Maintainer, Project Maintainer |
+| 2 | Prakhar Singh | 13 | — |
+| 3 | [Ry Jones](https://github.com/ryjones) | 11 | LFDT Staff |
+| 4 | Anshikaa | 3 | — |
+| 5 | [FabioPinheiro](https://github.com/FabioPinheiro) | 1 | Identus Maintainer, Project Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 13 | lfdt-ca, LFDT Staff |
-| 2 | Yurii Shynbuiev | 11 | Identus Maintainer, Project Maintainer |
-| 3 | [FabioPinheiro](https://github.com/FabioPinheiro) | 11 | Identus Maintainer, Project Maintainer |
-| 4 | Prakhar Singh | 10 | — |
+| 1 | Yurii Shynbuiev | 15 | Identus Maintainer, Project Maintainer |
+| 2 | Prakhar Singh | 15 | — |
+| 3 | [Ry Jones](https://github.com/ryjones) | 13 | LFDT Staff |
+| 4 | [FabioPinheiro](https://github.com/FabioPinheiro) | 10 | Identus Maintainer, Project Maintainer |
 | 5 | Abhigyan Singh | 9 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [FabioPinheiro](https://github.com/FabioPinheiro) | 62 | Identus Maintainer, Project Maintainer |
-| 2 | Yurii Shynbuiev | 49 | Identus Maintainer, Project Maintainer |
-| 3 | [Ry Jones](https://github.com/ryjones) | 46 | lfdt-ca, LFDT Staff |
-| 4 | havy | 44 | Identus Maintainer, Project Maintainer |
-| 5 | reitcircles | 25 | — |
+| 1 | Yurii Shynbuiev | 82 | Identus Maintainer, Project Maintainer |
+| 2 | roberto | 79 | — |
+| 3 | [FabioPinheiro](https://github.com/FabioPinheiro) | 65 | Identus Maintainer, Project Maintainer |
+| 4 | [JessicaG](https://github.com/jwagantall) | 58 | LFDT Staff |
+| 5 | havy | 55 | Identus Maintainer, Project Maintainer |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 229 | lfdt-ca, LFDT Staff |
-| 2 | Yurii Shynbuiev | 227 | Identus Maintainer, Project Maintainer |
-| 3 | roberto | 194 | — |
-| 4 | [FabioPinheiro](https://github.com/FabioPinheiro) | 82 | Identus Maintainer, Project Maintainer |
-| 5 | [JessicaG](https://github.com/jwagantall) | 80 | lfdt-ca, LFDT Staff |
+| 1 | roberto | 185 | — |
+| 2 | Yurii Shynbuiev | 168 | Identus Maintainer, Project Maintainer |
+| 3 | [Ry Jones](https://github.com/ryjones) | 132 | LFDT Staff |
+| 4 | [FabioPinheiro](https://github.com/FabioPinheiro) | 79 | Identus Maintainer, Project Maintainer |
+| 5 | jonbauer | 77 | Identus Maintainer, Project Maintainer |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 143 |
-| 2025 | 943 |
-| 2024 | 427 |
+| 2026 | 148 |
+| 2025 | 782 |
+| 2024 | 327 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 27 |
-| 2026-05 | 23 |
+| 2026-06 | 25 |
+| 2026-05 | 30 |
 | 2026-04 | 31 |
 | 2026-03 | 23 |
 | 2026-02 | 15 |
 | 2026-01 | 24 |
-| 2025-12 | 11 |
+| 2025-12 | 3 |
 | 2025-11 | 32 |
-| 2025-10 | 35 |
+| 2025-10 | 28 |
 | 2025-09 | 17 |
 | 2025-08 | 41 |
-| 2025-07 | 158 |
-| 2025-06 | 283 |
+| 2025-07 | 149 |
+| 2025-06 | 231 |
 | 2025-05 | 74 |
-| 2025-04 | 67 |
+| 2025-04 | 53 |
 | 2025-03 | 46 |
-| 2025-02 | 175 |
+| 2025-02 | 104 |
 | 2025-01 | 4 |
 | 2024-12 | 37 |
-| 2024-11 | 49 |
-| 2024-10 | 24 |
+| 2024-11 | 35 |
+| 2024-10 | 22 |
 | 2024-09 | 10 |
-| 2024-08 | 6 |
-| 2024-07 | 63 |
-| 2024-06 | 99 |
+| 2024-08 | 5 |
+| 2024-07 | 57 |
+| 2024-06 | 72 |
 | 2024-05 | 41 |
-| 2024-04 | 98 |
+| 2024-04 | 48 |
 
 ## Daily Traffic
 
 | Date | Messages |
 | --- | --- |
-| 2026-06-23 | 1 |
-| 2026-06-22 | 1 |
-| 2026-06-18 | 1 |
-| 2026-06-16 | 1 |
 | 2026-06-10 | 18 |
 | 2026-06-04 | 1 |
-| 2026-06-02 | 4 |
+| 2026-06-02 | 6 |
 | 2026-05-31 | 1 |
-| 2026-05-30 | 3 |
+| 2026-05-30 | 4 |
 | 2026-05-26 | 1 |
 | 2026-05-24 | 3 |
 | 2026-05-21 | 2 |
-| 2026-05-18 | 1 |
-| 2026-05-14 | 2 |
+| 2026-05-19 | 3 |
+| 2026-05-18 | 5 |
+| 2026-05-14 | 1 |
 | 2026-05-13 | 1 |
 | 2026-05-12 | 3 |
 | 2026-05-11 | 1 |
@@ -163,8 +160,7 @@
 | 2026-01-15 | 18 |
 | 2026-01-13 | 1 |
 | 2026-01-06 | 1 |
-| 2025-12-03 | 5 |
-| 2025-12-02 | 5 |
+| 2025-12-02 | 2 |
 | 2025-12-01 | 1 |
 | 2025-11-29 | 16 |
 | 2025-11-20 | 1 |
@@ -179,8 +175,7 @@
 | 2025-10-29 | 5 |
 | 2025-10-28 | 1 |
 | 2025-10-23 | 1 |
-| 2025-10-22 | 1 |
-| 2025-10-21 | 14 |
+| 2025-10-21 | 8 |
 | 2025-10-13 | 3 |
 | 2025-10-09 | 1 |
 | 2025-10-07 | 1 |
@@ -223,14 +218,14 @@
 | 2025-07-21 | 13 |
 | 2025-07-20 | 3 |
 | 2025-07-19 | 2 |
-| 2025-07-18 | 4 |
-| 2025-07-17 | 13 |
-| 2025-07-16 | 19 |
+| 2025-07-18 | 2 |
+| 2025-07-17 | 11 |
+| 2025-07-16 | 16 |
 | 2025-07-15 | 7 |
 | 2025-07-14 | 3 |
 | 2025-07-12 | 6 |
 | 2025-07-11 | 20 |
-| 2025-07-10 | 19 |
+| 2025-07-10 | 17 |
 | 2025-07-09 | 10 |
 | 2025-07-07 | 6 |
 | 2025-07-06 | 1 |
@@ -249,11 +244,10 @@
 | 2025-06-22 | 1 |
 | 2025-06-21 | 4 |
 | 2025-06-20 | 5 |
-| 2025-06-19 | 2 |
-| 2025-06-18 | 47 |
-| 2025-06-17 | 16 |
-| 2025-06-16 | 3 |
-| 2025-06-14 | 5 |
+| 2025-06-19 | 1 |
+| 2025-06-18 | 10 |
+| 2025-06-17 | 9 |
+| 2025-06-14 | 1 |
 | 2025-06-11 | 41 |
 | 2025-06-10 | 9 |
 | 2025-06-09 | 4 |
@@ -278,16 +272,14 @@
 | 2025-05-06 | 4 |
 | 2025-04-22 | 1 |
 | 2025-04-17 | 4 |
-| 2025-04-15 | 1 |
-| 2025-04-14 | 8 |
+| 2025-04-14 | 5 |
 | 2025-04-12 | 7 |
 | 2025-04-11 | 1 |
-| 2025-04-10 | 11 |
+| 2025-04-10 | 10 |
 | 2025-04-09 | 3 |
 | 2025-04-08 | 17 |
 | 2025-04-06 | 4 |
-| 2025-04-03 | 5 |
-| 2025-04-02 | 5 |
+| 2025-04-02 | 1 |
 | 2025-03-31 | 4 |
 | 2025-03-30 | 1 |
 | 2025-03-24 | 1 |
@@ -308,14 +300,11 @@
 | 2025-02-20 | 30 |
 | 2025-02-19 | 1 |
 | 2025-02-18 | 2 |
-| 2025-02-13 | 23 |
-| 2025-02-12 | 29 |
-| 2025-02-11 | 11 |
-| 2025-02-10 | 12 |
-| 2025-02-07 | 7 |
-| 2025-02-06 | 4 |
-| 2025-02-05 | 8 |
-| 2025-02-04 | 10 |
+| 2025-02-13 | 15 |
+| 2025-02-12 | 8 |
+| 2025-02-11 | 1 |
+| 2025-02-10 | 3 |
+| 2025-02-04 | 6 |
 | 2025-02-02 | 1 |
 | 2025-01-17 | 3 |
 | 2025-01-07 | 1 |
@@ -328,8 +317,7 @@
 | 2024-11-29 | 12 |
 | 2024-11-28 | 8 |
 | 2024-11-26 | 1 |
-| 2024-11-20 | 12 |
-| 2024-11-19 | 11 |
+| 2024-11-19 | 9 |
 | 2024-11-18 | 1 |
 | 2024-11-15 | 1 |
 | 2024-11-07 | 1 |
@@ -341,9 +329,8 @@
 | 2024-10-17 | 8 |
 | 2024-10-16 | 1 |
 | 2024-10-14 | 2 |
-| 2024-10-09 | 3 |
+| 2024-10-09 | 2 |
 | 2024-10-08 | 1 |
-| 2024-10-07 | 1 |
 | 2024-10-06 | 1 |
 | 2024-09-30 | 1 |
 | 2024-09-26 | 1 |
@@ -357,13 +344,11 @@
 | 2024-09-03 | 1 |
 | 2024-08-28 | 1 |
 | 2024-08-21 | 1 |
-| 2024-08-14 | 1 |
 | 2024-08-13 | 1 |
 | 2024-08-07 | 1 |
 | 2024-08-04 | 1 |
 | 2024-07-25 | 1 |
-| 2024-07-24 | 1 |
-| 2024-07-23 | 7 |
+| 2024-07-23 | 2 |
 | 2024-07-22 | 4 |
 | 2024-07-17 | 1 |
 | 2024-07-11 | 1 |
@@ -387,10 +372,9 @@
 | 2024-06-19 | 1 |
 | 2024-06-18 | 5 |
 | 2024-06-12 | 1 |
-| 2024-06-11 | 7 |
-| 2024-06-10 | 14 |
-| 2024-06-06 | 2 |
-| 2024-06-05 | 20 |
+| 2024-06-11 | 3 |
+| 2024-06-06 | 1 |
+| 2024-06-05 | 12 |
 | 2024-06-04 | 8 |
 | 2024-05-29 | 2 |
 | 2024-05-28 | 2 |
@@ -411,8 +395,8 @@
 | 2024-04-27 | 1 |
 | 2024-04-24 | 1 |
 | 2024-04-23 | 26 |
-| 2024-04-19 | 16 |
-| 2024-04-18 | 26 |
-| 2024-04-15 | 18 |
+| 2024-04-19 | 1 |
+| 2024-04-18 | 8 |
+| 2024-04-15 | 1 |
 | 2024-04-11 | 2 |
 | 2024-04-10 | 1 |

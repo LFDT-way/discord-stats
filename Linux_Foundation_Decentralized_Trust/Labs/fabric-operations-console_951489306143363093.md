@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Labs
 - **Channel ID:** 951489306143363093
-- **Total Messages:** 127
+- **Total Messages:** 119
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
 - **Last 365 Days:** 10
@@ -31,19 +31,19 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | TsvetanG | 49 | — |
-| 2 | kostiantyn.bonebriukh | 18 | — |
+| 1 | TsvetanG | 48 | — |
+| 2 | kostiantyn.bonebriukh | 17 | — |
 | 3 | [mbwhite](https://github.com/mbwhite) | 12 | Project Maintainer, Fabric Maintainer |
 | 4 | Amin.Chegeni | 9 | — |
-| 5 | [jkneubuhl](https://github.com/jkneubuh) | 7 | Project Maintainer, Fabric Maintainer, Lab Leader |
+| 5 | Isak | 4 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
 | 2025 | 16 |
-| 2024 | 51 |
-| 2023 | 50 |
+| 2024 | 50 |
+| 2023 | 43 |
 | 2022 | 10 |
 
 ## Monthly Traffic
@@ -54,7 +54,7 @@ _No activity in this period._
 | 2025-10 | 9 |
 | 2025-03 | 5 |
 | 2025-02 | 1 |
-| 2024-12 | 42 |
+| 2024-12 | 41 |
 | 2024-11 | 2 |
 | 2024-10 | 3 |
 | 2024-03 | 4 |
@@ -65,7 +65,7 @@ _No activity in this period._
 | 2023-06 | 1 |
 | 2023-04 | 4 |
 | 2023-03 | 1 |
-| 2023-02 | 30 |
+| 2023-02 | 23 |
 | 2023-01 | 1 |
 | 2022-12 | 3 |
 | 2022-10 | 1 |
@@ -85,7 +85,7 @@ _No activity in this period._
 | 2025-02-10 | 1 |
 | 2024-12-10 | 1 |
 | 2024-12-06 | 25 |
-| 2024-12-04 | 15 |
+| 2024-12-04 | 14 |
 | 2024-12-03 | 1 |
 | 2024-11-28 | 1 |
 | 2024-11-27 | 1 |
@@ -106,8 +106,8 @@ _No activity in this period._
 | 2023-02-22 | 9 |
 | 2023-02-18 | 1 |
 | 2023-02-17 | 1 |
-| 2023-02-13 | 6 |
-| 2023-02-09 | 8 |
+| 2023-02-13 | 5 |
+| 2023-02-09 | 2 |
 | 2023-02-03 | 5 |
 | 2023-01-04 | 1 |
 | 2022-12-13 | 1 |

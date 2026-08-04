@@ -2,30 +2,30 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 942821993391202394
-- **Total Messages in Category:** 1,370
-- **Last 30 Days:** 18
-- **Last 90 Days:** 32
+- **Total Messages in Category:** 1,318
+- **Last 30 Days:** 8
+- **Last 90 Days:** 25
 - **Last 365 Days:** 194
 - **First Message:** 2022-02-15
-- **Last Message:** 2026-06-26
+- **Last Message:** 2026-06-10
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [india-chapter](india-chapter_942822085917556777.md) | 2026-06-17 | 2 | 5 | 36 | 448 |
-| [brasil-chapter](brasil-chapter_943207619508723723.md) | 2026-06-17 | 1 | 4 | 17 | 276 |
-| [zero-knowledge-learning-group](zero-knowledge-learning-group_1329201532628898036.md) | 2026-06-26 | 9 | 16 | 64 | 139 |
-| [european-chapter](european-chapter_1289237830081581158.md) | 2026-06-17 | 2 | 3 | 39 | 130 |
-| [latinoamerica-chapter](latinoamerica-chapter_946127492622721095.md) | 2026-06-17 | 1 | 1 | 4 | 108 |
+| [india-chapter](india-chapter_942822085917556777.md) | 2026-06-10 | 2 | 7 | 38 | 413 |
+| [brasil-chapter](brasil-chapter_943207619508723723.md) | 2026-05-25 | 1 | 5 | 17 | 273 |
+| [zero-knowledge-learning-group](zero-knowledge-learning-group_1329201532628898036.md) | 2026-06-08 | 4 | 9 | 61 | 131 |
+| [european-chapter](european-chapter_1289237830081581158.md) | 2026-06-03 | 1 | 2 | 43 | 129 |
+| [latinoamerica-chapter](latinoamerica-chapter_946127492622721095.md) | 2026-04-02 | 0 | 1 | 3 | 107 |
 | [francophone](francophone_973545038128762941.md) | 2024-07-24 | 0 | 0 | 0 | 58 |
-| [africa-chapter](africa-chapter_1042889475782623262.md) | 2026-06-17 | 1 | 1 | 8 | 52 |
+| [africa-chapter](africa-chapter_1042889475782623262.md) | 2026-04-02 | 0 | 1 | 6 | 50 |
 | [hyperledger-challenge](hyperledger-challenge_946373162008985640.md) | 2024-08-06 | 0 | 0 | 0 | 48 |
 | [meetups](meetups_966023754016759849.md) | 2026-02-18 | 0 | 0 | 3 | 35 |
-| [regional-marketing-leads](regional-marketing-leads_1367872330218602607.md) | 2025-09-25 | 0 | 0 | 5 | 22 |
+| [regional-marketing-leads](regional-marketing-leads_1367872330218602607.md) | 2025-09-25 | 0 | 0 | 6 | 22 |
 | [australasia-chapter](australasia-chapter_979467446081691709.md) | 2025-09-12 | 0 | 0 | 5 | 21 |
-| [japan-chapter-🇯🇵](japan-chapter-🇯🇵_956727657884692550.md) | 2026-06-17 | 1 | 1 | 3 | 21 |
-| [arabian-chapter](arabian-chapter_1303790784625119263.md) | 2026-06-17 | 1 | 1 | 5 | 7 |
+| [japan-chapter-🇯🇵](japan-chapter-🇯🇵_956727657884692550.md) | 2025-07-25 | 0 | 0 | 3 | 20 |
+| [arabian-chapter](arabian-chapter_1303790784625119263.md) | 2026-02-18 | 0 | 0 | 4 | 6 |
 | [maintainer-days](maintainer-days_1465743817906065478.md) | 2026-02-03 | 0 | 0 | 5 | 5 |
 
 ## Most Active Users
@@ -34,20 +34,20 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | amitthosare | 7 | Credebl maintainer, Project Maintainer |
-| 2 | [DanielSzego](https://github.com/Daniel-Szego) | 6 | Meetup Organizer |
-| 3 | [davidwboswell](https://github.com/davidwboswell) | 2 | lfdt-ca, LFDT Staff |
-| 4 | Dominik Zyskowski (Espeo) | 1 | — |
-| 5 | Jessie | 1 | — |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 4 | Meetup Organizer |
+| 2 | Dominik Zyskowski (Espeo) | 1 | — |
+| 3 | amitthosare | 1 | Credebl maintainer, Project Maintainer |
+| 4 | Ankita | 1 | Credebl maintainer, Project Maintainer |
+| 5 | joselio.teider | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 13 | Meetup Organizer |
-| 2 | amitthosare | 9 | Credebl maintainer, Project Maintainer |
-| 3 | joselio.teider | 3 | — |
-| 4 | [davidwboswell](https://github.com/davidwboswell) | 2 | lfdt-ca, LFDT Staff |
+| 1 | [DanielSzego](https://github.com/Daniel-Szego) | 9 | Meetup Organizer |
+| 2 | amitthosare | 4 | Credebl maintainer, Project Maintainer |
+| 3 | joselio.teider | 4 | — |
+| 4 | [Ajay Jadhav](https://github.com/ajile-in) | 3 | Credebl maintainer, Project Maintainer |
 | 5 | Ankita | 2 | Credebl maintainer, Project Maintainer |
 
 ### Last 365 Days
@@ -55,38 +55,38 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [DanielSzego](https://github.com/Daniel-Szego) | 57 | Meetup Organizer |
-| 2 | amitthosare | 27 | Credebl maintainer, Project Maintainer |
-| 3 | [knagware](https://github.com/knagware) | 12 | Chapter Leader |
-| 4 | Ankita | 12 | Credebl maintainer, Project Maintainer |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 12 | lfdt-ca, LFDT Staff |
+| 2 | amitthosare | 23 | Credebl maintainer, Project Maintainer |
+| 3 | MH | 14 | Chapter Leader |
+| 4 | [knagware](https://github.com/knagware) | 12 | Chapter Leader |
+| 5 | Ankita | 12 | Credebl maintainer, Project Maintainer |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | joselio.teider | 132 | — |
-| 2 | [DanielSzego](https://github.com/Daniel-Szego) | 98 | Meetup Organizer |
-| 3 | [Arun S M](https://github.com/arsulegai) | 69 | TAC member, Chapter Leader |
-| 4 | [knagware](https://github.com/knagware) | 66 | Chapter Leader |
+| 2 | [DanielSzego](https://github.com/Daniel-Szego) | 93 | Meetup Organizer |
+| 3 | [knagware](https://github.com/knagware) | 66 | Chapter Leader |
+| 4 | [Arun S M](https://github.com/arsulegai) | 63 | TAC member, Chapter Leader |
 | 5 | MH | 40 | Chapter Leader |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 82 |
+| 2026 | 66 |
 | 2025 | 338 |
 | 2024 | 187 |
-| 2023 | 327 |
-| 2022 | 436 |
+| 2023 | 301 |
+| 2022 | 426 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 18 |
+| 2026-06 | 3 |
 | 2026-05 | 6 |
-| 2026-04 | 12 |
+| 2026-04 | 11 |
 | 2026-03 | 10 |
 | 2026-02 | 21 |
 | 2026-01 | 15 |
@@ -116,15 +116,15 @@
 | 2024-01 | 15 |
 | 2023-12 | 14 |
 | 2023-11 | 2 |
-| 2023-10 | 34 |
+| 2023-10 | 26 |
 | 2023-09 | 18 |
 | 2023-08 | 50 |
 | 2023-07 | 14 |
 | 2023-06 | 14 |
-| 2023-05 | 29 |
+| 2023-05 | 26 |
 | 2023-04 | 26 |
-| 2023-03 | 42 |
-| 2023-02 | 57 |
+| 2023-03 | 41 |
+| 2023-02 | 43 |
 | 2023-01 | 27 |
 | 2022-12 | 15 |
 | 2022-11 | 18 |
@@ -133,8 +133,8 @@
 | 2022-08 | 17 |
 | 2022-07 | 21 |
 | 2022-06 | 53 |
-| 2022-05 | 44 |
-| 2022-04 | 42 |
+| 2022-05 | 37 |
+| 2022-04 | 39 |
 | 2022-03 | 99 |
 | 2022-02 | 83 |
 
@@ -142,11 +142,6 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-06-26 | 1 |
-| 2026-06-25 | 4 |
-| 2026-06-18 | 1 |
-| 2026-06-17 | 7 |
-| 2026-06-15 | 2 |
 | 2026-06-10 | 1 |
 | 2026-06-08 | 1 |
 | 2026-06-03 | 1 |
@@ -160,7 +155,6 @@
 | 2026-04-11 | 1 |
 | 2026-04-08 | 1 |
 | 2026-04-04 | 2 |
-| 2026-04-03 | 1 |
 | 2026-04-02 | 2 |
 | 2026-04-01 | 1 |
 | 2026-03-31 | 1 |
@@ -416,11 +410,10 @@
 | 2023-11-23 | 1 |
 | 2023-11-12 | 1 |
 | 2023-10-28 | 3 |
-| 2023-10-26 | 1 |
 | 2023-10-24 | 1 |
-| 2023-10-22 | 9 |
+| 2023-10-22 | 8 |
 | 2023-10-21 | 4 |
-| 2023-10-18 | 14 |
+| 2023-10-18 | 8 |
 | 2023-10-15 | 1 |
 | 2023-10-13 | 1 |
 | 2023-09-28 | 1 |
@@ -470,7 +463,7 @@
 | 2023-05-24 | 9 |
 | 2023-05-22 | 1 |
 | 2023-05-21 | 1 |
-| 2023-05-19 | 4 |
+| 2023-05-19 | 1 |
 | 2023-05-16 | 1 |
 | 2023-05-15 | 1 |
 | 2023-05-06 | 1 |
@@ -495,7 +488,7 @@
 | 2023-03-14 | 1 |
 | 2023-03-11 | 2 |
 | 2023-03-10 | 7 |
-| 2023-03-08 | 3 |
+| 2023-03-08 | 2 |
 | 2023-03-07 | 1 |
 | 2023-03-06 | 7 |
 | 2023-03-05 | 4 |
@@ -503,14 +496,14 @@
 | 2023-03-02 | 1 |
 | 2023-02-28 | 3 |
 | 2023-02-27 | 3 |
-| 2023-02-22 | 14 |
+| 2023-02-22 | 6 |
 | 2023-02-20 | 2 |
 | 2023-02-19 | 1 |
-| 2023-02-17 | 6 |
+| 2023-02-17 | 2 |
 | 2023-02-15 | 1 |
 | 2023-02-14 | 1 |
 | 2023-02-11 | 1 |
-| 2023-02-10 | 10 |
+| 2023-02-10 | 8 |
 | 2023-02-09 | 2 |
 | 2023-02-07 | 5 |
 | 2023-02-06 | 1 |
@@ -610,11 +603,9 @@
 | 2022-05-12 | 3 |
 | 2022-05-11 | 4 |
 | 2022-05-10 | 13 |
-| 2022-05-08 | 2 |
-| 2022-05-04 | 1 |
-| 2022-05-03 | 6 |
+| 2022-05-03 | 2 |
 | 2022-05-02 | 1 |
-| 2022-04-30 | 4 |
+| 2022-04-30 | 1 |
 | 2022-04-28 | 1 |
 | 2022-04-25 | 2 |
 | 2022-04-24 | 4 |
