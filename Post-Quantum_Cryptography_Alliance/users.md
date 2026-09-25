@@ -5,18 +5,18 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
 - **Active Users (365d):** 99
-- **Messages (365d):** 1,644
+- **Messages (365d):** 1,645
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 521 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 477 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 520 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 475 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 110 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 99 | LF Staff |
 | 5 | chozorho | 55 | — |
 | 6 | Jake | 53 | PQ Code Package Maintainer, Project Maintainer |
 | 7 | Brendan | 32 | — |
-| 8 | Severus Snape | 22 | TAC member |
+| 8 | Severus Snape | 25 | TAC member |
 | 9 | θρπχι | 12 | — |
 | 10 | brent | 12 | — |
 | 11 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 11 | — |
@@ -46,19 +46,19 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 35 | Vijay G | 3 | — |
 | 36 | Mila Anastasova | 3 | — |
 | 37 | LoneRam | 3 | — |
-| 38 | OTO | 3 | — |
-| 39 | willieyz | 3 | — |
-| 40 | Snake | 3 | — |
-| 41 | Chun-Ming Chiu | 3 | — |
-| 42 | Dhananjay | 3 | — |
-| 43 | isolinear | 3 | — |
-| 44 | Ahmed Mohammed Umar | 2 | — |
-| 45 | Daniella | 2 | — |
-| 46 | Ben Knill | 2 | — |
-| 47 | Waleed | 2 | — |
-| 48 | Marc1 | 2 | — |
-| 49 | shubham17 | 2 | — |
-| 50 | Umk.Jr | 2 | — |
+| 38 | Umk.Jr | 3 | — |
+| 39 | OTO | 3 | — |
+| 40 | willieyz | 3 | — |
+| 41 | Snake | 3 | — |
+| 42 | Chun-Ming Chiu | 3 | — |
+| 43 | Dhananjay | 3 | — |
+| 44 | isolinear | 3 | — |
+| 45 | Ahmed Mohammed Umar | 2 | — |
+| 46 | Daniella | 2 | — |
+| 47 | Ben Knill | 2 | — |
+| 48 | Waleed | 2 | — |
+| 49 | Marc1 | 2 | — |
+| 50 | shubham17 | 2 | — |
 | 51 | mjmalone | 2 | — |
 | 52 | Vishnu Ajith | 2 | — |
 | 53 | [Andreas Schade](https://github.com/san-zrl) | 2 | CBOM maintainer, Project Maintainer |

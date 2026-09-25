@@ -4,7 +4,7 @@
 - **Category:** Staff
 - **Channel ID:** 905205991073804308
 - **Total Messages:** 1,577
-- **Last 30 Days:** 13
+- **Last 30 Days:** 10
 - **Last 90 Days:** 18
 - **Last 365 Days:** 36
 - **First Message:** 2021-11-03
@@ -16,11 +16,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | æœss | 3 | — |
-| 2 | [Ry Jones](https://github.com/ryjones) | 3 | lfdt-ca, LFDT Staff |
-| 3 | akupemulaygbaik | 3 | — |
-| 4 | CrazyChopin | 2 | — |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
+| 1 | [Ry Jones](https://github.com/ryjones) | 3 | lfdt-ca, LFDT Staff |
+| 2 | akupemulaygbaik | 3 | — |
+| 3 | æœss | 2 | — |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
+| 5 | vetefe | 1 | — |
 
 ### Last 90 Days
 

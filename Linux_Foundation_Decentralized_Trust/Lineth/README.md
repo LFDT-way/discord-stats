@@ -4,7 +4,7 @@
 - **Category ID:** 1498775901532454942
 - **Total Messages in Category:** 40
 - **Last 30 Days:** 19
-- **Last 90 Days:** 27
+- **Last 90 Days:** 26
 - **Last 365 Days:** 40
 - **First Message:** 2026-05-11
 - **Last Message:** 2026-09-22
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [lineth-general](lineth-general_1498775958080065746.md) | 2026-09-22 | 19 | 26 | 36 | 36 |
-| [lineth-announcements](lineth-announcements_1499425506439729262.md) | 2026-06-26 | 0 | 1 | 2 | 2 |
+| [lineth-announcements](lineth-announcements_1499425506439729262.md) | 2026-06-26 | 0 | 0 | 2 | 2 |
 | [lineth-dev](lineth-dev_1509343096457134142.md) | 2026-06-25 | 0 | 0 | 2 | 2 |
 
 ## Most Active Users
@@ -35,7 +35,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Coenie | 8 | — |
 | 2 | Le Chiffre | 6 | — |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | lfdt-ca, LFDT Staff |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
 | 4 | TiteWare | 2 | — |
 | 5 | helyoschain.eth | 2 | — |
 

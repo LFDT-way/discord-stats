@@ -2,19 +2,19 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515538766254102
-- **Total Messages in Category:** 2,344
-- **Last 30 Days:** 3
-- **Last 90 Days:** 17
-- **Last 365 Days:** 362
+- **Total Messages in Category:** 2,346
+- **Last 30 Days:** 5
+- **Last 90 Days:** 18
+- **Last 365 Days:** 364
 - **First Message:** 2021-11-11
-- **Last Message:** 2026-09-11
+- **Last Message:** 2026-09-24
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-09-02 | 2 | 16 | 284 | 1,788 |
-| [cacti-users](cacti-users_908379366650703943.md) | 2026-06-04 | 0 | 0 | 59 | 508 |
+| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-09-24 | 3 | 16 | 285 | 1,789 |
+| [cacti-users](cacti-users_908379366650703943.md) | 2026-09-24 | 1 | 1 | 60 | 509 |
 | [cacti-resources](cacti-resources_908349711537299497.md) | 2026-04-03 | 0 | 0 | 3 | 26 |
 | [cacti-announcements](cacti-announcements_908380513310498847.md) | 2026-09-11 | 1 | 1 | 10 | 16 |
 | [cacti-pull-requests](cacti-pull-requests_1430250991206400040.md) | 2025-11-14 | 0 | 0 | 6 | 6 |
@@ -26,15 +26,17 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [rafaelapb](https://github.com/RafaelAPB) | 2 | Project Maintainer, Cacti Maintainer |
-| 2 | mskr | 1 | — |
+| 2 | Sarbojit Rana | 2 | — |
+| 3 | mskr | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [rafaelapb](https://github.com/RafaelAPB) | 10 | Project Maintainer, Cacti Maintainer |
-| 2 | mskr | 6 | — |
-| 3 | Bhavyam Sharma | 1 | — |
+| 2 | mskr | 5 | — |
+| 3 | Sarbojit Rana | 2 | — |
+| 4 | Bhavyam Sharma | 1 | — |
 
 ### Last 365 Days
 
@@ -60,7 +62,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 198 |
+| 2026 | 200 |
 | 2025 | 463 |
 | 2024 | 480 |
 | 2023 | 429 |
@@ -71,7 +73,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 2 |
+| 2026-09 | 4 |
 | 2026-08 | 1 |
 | 2026-07 | 13 |
 | 2026-06 | 18 |
@@ -133,6 +135,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-24 | 2 |
 | 2026-09-11 | 1 |
 | 2026-09-02 | 1 |
 | 2026-08-27 | 1 |

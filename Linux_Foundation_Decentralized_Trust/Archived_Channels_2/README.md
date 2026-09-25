@@ -57,9 +57,9 @@
 | [fabric-opssc](fabric-opssc_942805501681496094.md) | 2025-01-14 | 0 | 0 | 0 | 13 |
 | [open-enterprise-agent-security-notices](open-enterprise-agent-security-notices_1199354196944748614.md) | 2024-01-25 | 0 | 0 | 0 | 10 |
 | [agora](agora_1158477016102862962.md) | 2026-08-11 | 0 | 1 | 4 | 10 |
-| [decentralized-directory-protocol](decentralized-directory-protocol_1412482928814063706.md) | 2026-07-22 | 0 | 1 | 4 | 9 |
 | [mirbft](mirbft_954377029262909510.md) | 2023-09-19 | 0 | 0 | 0 | 9 |
 | [anoncreds-revocation](anoncreds-revocation_1037472953383800893.md) | 2023-01-09 | 0 | 0 | 0 | 9 |
+| [decentralized-directory-protocol](decentralized-directory-protocol_1412482928814063706.md) | 2026-07-22 | 0 | 1 | 4 | 9 |
 | [secure-software-delivery-tf](secure-software-delivery-tf_1219722283703210135.md) | 2025-10-17 | 0 | 0 | 3 | 8 |
 | [arabian-chapter](arabian-chapter_1303790784625119263.md) | 2026-06-17 | 0 | 0 | 4 | 7 |
 | [anoncreds-workshop](anoncreds-workshop_1113474862846054420.md) | 2023-06-05 | 0 | 0 | 0 | 5 |

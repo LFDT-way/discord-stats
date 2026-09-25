@@ -9,7 +9,7 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 - **Role holders:** 238
 - **Inactive (no msgs in 365d):** 85
 - **Never posted (0 all-time):** 15
-- **Report generated:** 2026-09-24
+- **Report generated:** 2026-09-25
 
 | User | Roles | Last Msg | 30d | 90d | 365d | All-Time | All Guilds 365d |
 | :--- | :--- | :--- | ---: | ---: | ---: | ---: | ---: |
@@ -137,7 +137,6 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | mjfelis (Fabrice - verana.io) | Project Maintainer, ToIP | 2025-11-13 | 0 | 0 | 5 | 6 | 5 |
 | Steve McCown | ToIP | 2026-01-27 | 0 | 0 | 5 | 10 | 5 |
 | Michael (Web 7.0 Foundation) | Project Maintainer, ToIP | 2026-05-06 | 0 | 0 | 5 | 10 | 5 |
-| Pereowei | Lab Leader | 2026-08-31 | 1 | 5 | 5 | 5 | 5 |
 | jonbauer | Identus Maintainer, Project Maintainer | 2026-09-22 | 2 | 2 | 5 | 90 | 5 |
 | [yacovm](https://github.com/yacovm) | Project Maintainer, Fabric Maintainer | 2025-11-12 | 0 | 0 | 6 | 595 | 6 |
 | David Condrey | Lab Leader | 2026-03-24 | 0 | 0 | 6 | 6 | 6 |
@@ -145,10 +144,11 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | [Kim Ebert](https://github.com/KimEbert42) | Indy Maintainer | 2026-04-08 | 0 | 0 | 6 | 106 | 7 |
 | [satota2](https://github.com/satota2) | Project Maintainer, Fabric Maintainer, Lab Leader | 2026-04-08 | 0 | 0 | 6 | 87 | 6 |
 | [Andrew Brandt](https://github.com/andrewb1269) | Project Maintainer, Hiero maintainer | 2026-08-10 | 0 | 5 | 6 | 7 | 6 |
-| [Alfonso Govela](https://github.com/AlfonsoGovela) | Lab Leader | 2026-08-25 | 4 | 4 | 6 | 54 | 6 |
+| [Alfonso Govela](https://github.com/AlfonsoGovela) | Lab Leader | 2026-08-25 | 0 | 4 | 6 | 54 | 6 |
 | [Satomi Tsujita](https://github.com/satomicchy) | Project Maintainer, Fabric Maintainer | 2026-09-16 | 2 | 3 | 6 | 70 | 6 |
 | Vipin Bharathan | lab stewards | 2026-09-21 | 6 | 6 | 6 | 6 | 6 |
 | [Parisa Ataei](https://github.com/pataei) | Project Maintainer, Minokawa Maintainer | 2026-09-23 | 5 | 6 | 6 | 6 | 6 |
+| Pereowei | Lab Leader | 2026-09-24 | 2 | 6 | 6 | 6 | 6 |
 | AntiSpamGuy (Rob Andersen) | Lab Leader | 2025-10-29 | 0 | 0 | 7 | 7 | 7 |
 | [Senthil](https://github.com/cendhu) | Project Maintainer, Fabric Maintainer, Lab Leader | 2026-03-05 | 0 | 0 | 7 | 7 | 7 |
 | [danielabarbosa](https://github.com/daniela-barbosa) | LFDT Staff | 2026-04-04 | 0 | 0 | 7 | 26 | 7 |
@@ -160,20 +160,20 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | Jeromy (Solo Lead Engineer) | Project Maintainer, Hiero maintainer | 2026-04-02 | 0 | 0 | 9 | 40 | 9 |
 | [Salaheldin](https://github.com/salaheldinsoliman) | Project Maintainer, Solang Maintainer | 2026-07-03 | 0 | 1 | 9 | 1,072 | 9 |
 | [Osama_Rabea](https://github.com/OsamaRab3) | TAC member | 2026-08-06 | 0 | 1 | 9 | 9 | 9 |
-| ArtTheDataGuy | Lab Leader | 2026-08-25 | 1 | 9 | 9 | 9 | 9 |
+| ArtTheDataGuy | Lab Leader | 2026-08-25 | 0 | 9 | 9 | 9 | 9 |
 | havy | Identus Maintainer, Project Maintainer | 2026-05-06 | 0 | 0 | 10 | 77 | 10 |
 | pat_pat | Identus Maintainer, Project Maintainer | 2026-07-30 | 0 | 3 | 10 | 37 | 10 |
 | [Hart Montgomery](https://github.com/hartm) | LFDT Staff | 2026-05-13 | 0 | 0 | 12 | 193 | 17 |
 | [rinkal.bhojani](https://github.com/RinkalBhojani) | Credebl maintainer | 2026-07-22 | 0 | 2 | 12 | 19 | 14 |
 | [newton_meter (Kevin Millikin)](https://github.com/kmillikin) | TAC member, Project Maintainer, Minokawa Maintainer | 2026-09-17 | 6 | 6 | 12 | 12 | 12 |
 | rob | Project Maintainer, Hiero maintainer | 2026-02-06 | 0 | 0 | 13 | 15 | 13 |
-| kadalkidal | Lab Leader | 2026-09-23 | 5 | 12 | 13 | 13 | 13 |
+| kadalkidal | Lab Leader | 2026-09-23 | 4 | 12 | 13 | 13 | 13 |
 | [Min Yu](https://github.com/minyu66) | LFDT Staff | 2026-04-23 | 0 | 0 | 14 | 46 | 14 |
 | [OA](https://github.com/pv-sarvesh) | Lab Leader | 2026-07-27 | 0 | 5 | 14 | 14 | 14 |
 | [geoffturk](https://github.com/geoffturk) | Project Maintainer, ToIP | 2026-08-29 | 2 | 2 | 14 | 14 | 14 |
+| Jonathan Bellack | Project Maintainer, ToIP | 2025-11-02 | 0 | 0 | 15 | 16 | 15 |
 | Jim St.Clair | Project Maintainer, ToIP | 2026-03-13 | 0 | 0 | 15 | 23 | 25 |
-| Jonathan Bellack | Project Maintainer, ToIP | 2025-11-02 | 0 | 0 | 16 | 16 | 16 |
-| [Wade Barnes](https://github.com/WadeBarnes) | Project Maintainer, Anoncreds Maintainer, Indy Maintainer | 2026-05-05 | 0 | 0 | 16 | 2,250 | 25 |
+| [Wade Barnes](https://github.com/WadeBarnes) | Project Maintainer, Anoncreds Maintainer, Indy Maintainer | 2026-05-05 | 0 | 0 | 15 | 2,250 | 24 |
 | [jimthematrix](https://github.com/jimthematrix) | Lab Leader, Project Maintainer, Paladin Maintainer, Firefly Maintainer | 2026-08-31 | 1 | 2 | 16 | 394 | 16 |
 | [Gary Schulte](https://github.com/garyschulte) | Project Maintainer, Besu Maintainer | 2026-03-05 | 0 | 0 | 17 | 1,256 | 17 |
 | [Ajay Jadhav](https://github.com/ajile-in) | Credebl maintainer, Project Maintainer | 2026-07-21 | 0 | 1 | 17 | 56 | 17 |
@@ -184,71 +184,71 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | Tweeddalex | Project Maintainer, ToIP | 2026-05-05 | 0 | 0 | 20 | 20 | 20 |
 | [Daniel Marvin](https://github.com/danielmarv) | Project Maintainer | 2026-09-08 | 12 | 13 | 20 | 20 | 20 |
 | [Uzi](https://github.com/usmansaleem) | Project Maintainer, Besu Maintainer | 2026-09-17 | 1 | 2 | 20 | 161 | 20 |
-| Patrick St-Louis | Project Maintainer, ToIP | 2025-10-01 | 0 | 0 | 21 | 295 | 58 |
+| Patrick St-Louis | Project Maintainer, ToIP | 2025-10-01 | 0 | 0 | 21 | 295 | 57 |
 | Steven Milstein | Project Maintainer, ToIP | 2026-09-01 | 2 | 2 | 21 | 32 | 21 |
 | Dondo | Lab Leader | 2026-08-20 | 0 | 22 | 22 | 22 | 22 |
 | [Carlos Amaro](https://github.com/LordKubaya) | Project Maintainer, Cacti Maintainer | 2026-04-20 | 0 | 0 | 24 | 39 | 24 |
 | [Ilie Circiumaru](https://github.com/iliecirciumaru) | Project Maintainer, Fabric Maintainer | 2026-05-20 | 0 | 0 | 24 | 24 | 24 |
 | [Diane Mueller](https://github.com/dmueller2001) | TAC member | 2026-09-16 | 2 | 2 | 24 | 55 | 24 |
+| [alexander.shenshin](https://github.com/AlexanderShenshin) | Project Maintainer, Hiero maintainer | 2026-04-02 | 0 | 0 | 25 | 60 | 28 |
 | Yurii Shynbuiev | Identus Maintainer, Project Maintainer | 2026-09-15 | 2 | 4 | 25 | 237 | 25 |
-| [alexander.shenshin](https://github.com/AlexanderShenshin) | Project Maintainer, Hiero maintainer | 2026-04-02 | 0 | 0 | 26 | 60 | 29 |
 | [Matilda Clerke](https://github.com/Matilda-Clerke) | Project Maintainer, Besu Maintainer | 2026-04-28 | 0 | 0 | 26 | 118 | 26 |
-| [Nischal \| nischal.eth](https://github.com/NickSneo) | Project Maintainer, Web3j Maintainer | 2026-09-22 | 6 | 11 | 28 | 452 | 28 |
 | Scott Jones | ToIP | 2026-09-23 | 7 | 28 | 28 | 28 | 28 |
-| Dan | Project Maintainer, Firefly Maintainer | 2026-07-07 | 0 | 13 | 29 | 29 | 29 |
+| Dan | Project Maintainer, Firefly Maintainer | 2026-07-07 | 0 | 9 | 29 | 29 | 29 |
 | Kent Bull | Project Maintainer, ToIP | 2025-10-06 | 0 | 0 | 30 | 69 | 30 |
 | Tomaz | LFDT Staff | 2025-12-03 | 0 | 0 | 30 | 54 | 30 |
 | robborg | Hiero maintainer | 2026-05-13 | 0 | 0 | 30 | 30 | 30 |
 | [cheng](https://github.com/Chengxuan) | Project Maintainer, Paladin Maintainer, Firefly Maintainer | 2026-09-04 | 9 | 14 | 30 | 313 | 30 |
-| lyn brooks | Project Maintainer, ToIP | 2026-09-19 | 8 | 17 | 30 | 30 | 30 |
-| [swcurran](https://github.com/swcurran) | Anoncreds Maintainer, Indy Maintainer, Project Maintainer | 2026-05-04 | 0 | 0 | 31 | 1,270 | 60 |
+| [Nischal \| nischal.eth](https://github.com/NickSneo) | Project Maintainer, Web3j Maintainer | 2026-09-24 | 8 | 11 | 30 | 454 | 30 |
+| [swcurran](https://github.com/swcurran) | Anoncreds Maintainer, Indy Maintainer, Project Maintainer | 2026-05-04 | 0 | 0 | 31 | 1,270 | 61 |
+| lyn brooks | Project Maintainer, ToIP | 2026-09-24 | 8 | 18 | 31 | 31 | 31 |
 | [jtonline](https://github.com/jt-nti) | Project Maintainer, Fabric Maintainer | 2026-09-17 | 1 | 2 | 36 | 296 | 36 |
 | Henk van Cann | Project Maintainer, ToIP | 2026-07-08 | 0 | 4 | 42 | 42 | 42 |
 | Ankita | Credebl maintainer, Project Maintainer | 2026-08-19 | 0 | 13 | 43 | 62 | 44 |
-| [arner](https://github.com/arner) | Project Maintainer, Fabric Maintainer | 2026-09-22 | 2 | 12 | 43 | 53 | 43 |
+| [arner](https://github.com/arner) | Project Maintainer, Fabric Maintainer | 2026-09-24 | 5 | 15 | 46 | 56 | 46 |
 | George Tebrean | Project Maintainer, Web3j Maintainer | 2026-09-10 | 3 | 18 | 48 | 292 | 48 |
+| amitthosare | Credebl maintainer, Project Maintainer | 2026-09-16 | 3 | 10 | 48 | 87 | 48 |
 | [Roger](https://github.com/rbarker-dev) | Project Maintainer, Hiero maintainer | 2026-08-31 | 1 | 5 | 50 | 105 | 50 |
-| amitthosare | Credebl maintainer, Project Maintainer | 2026-09-16 | 3 | 10 | 50 | 87 | 50 |
-| [fab10](https://github.com/fab-10) | Project Maintainer, Besu Maintainer | 2026-09-03 | 1 | 23 | 52 | 1,518 | 52 |
-| [DanielSzego](https://github.com/Daniel-Szego) | Meetup Organizer | 2026-08-31 | 4 | 11 | 55 | 113 | 55 |
-| Scott Perry | Project Maintainer, ToIP | 2026-07-21 | 0 | 1 | 56 | 56 | 56 |
-| [vramaiitkgp](https://github.com/VRamakrishna) | TAC member, Cacti Maintainer | 2026-09-22 | 2 | 6 | 57 | 310 | 57 |
-| [Yoav Tock](https://github.com/tock-ibm) | TAC member, Project Maintainer, Fabric Maintainer | 2026-09-17 | 11 | 26 | 60 | 60 | 60 |
+| [fab10](https://github.com/fab-10) | Project Maintainer, Besu Maintainer | 2026-09-25 | 2 | 24 | 53 | 1,519 | 53 |
+| Scott Perry | Project Maintainer, ToIP | 2026-07-21 | 0 | 1 | 55 | 56 | 55 |
+| [DanielSzego](https://github.com/Daniel-Szego) | Meetup Organizer | 2026-08-31 | 4 | 10 | 55 | 113 | 55 |
+| [vramaiitkgp](https://github.com/VRamakrishna) | TAC member, Cacti Maintainer | 2026-09-24 | 3 | 7 | 58 | 311 | 58 |
+| [Yoav Tock](https://github.com/tock-ibm) | TAC member, Project Maintainer, Fabric Maintainer | 2026-09-24 | 12 | 27 | 61 | 61 | 61 |
 | [Justin Florentine](https://github.com/jflo) | Project Maintainer, Besu Maintainer | 2026-08-31 | 1 | 10 | 63 | 1,316 | 63 |
-| [Jason Frame](https://github.com/jframe) | Project Maintainer, Besu Maintainer | 2026-09-24 | 5 | 22 | 64 | 479 | 64 |
-| Frank_The_Fish | Lab Leader | 2026-06-17 | 0 | 0 | 67 | 138 | 67 |
-| [FabioPinheiro](https://github.com/FabioPinheiro) | Identus Maintainer, Project Maintainer | 2026-08-28 | 3 | 12 | 67 | 97 | 67 |
-| John Phillips | Project Maintainer, ToIP | 2026-09-17 | 4 | 16 | 67 | 67 | 67 |
-| [hendrik.ebbers](https://github.com/hendrikebbers) | TAC member, Project Maintainer, SIG leader, Hiero maintainer | 2026-09-22 | 7 | 10 | 69 | 205 | 69 |
+| [Jason Frame](https://github.com/jframe) | Project Maintainer, Besu Maintainer | 2026-09-24 | 4 | 17 | 64 | 479 | 64 |
+| John Phillips | Project Maintainer, ToIP | 2026-09-17 | 3 | 16 | 65 | 67 | 65 |
+| Frank_The_Fish | Lab Leader | 2026-06-17 | 0 | 0 | 66 | 138 | 66 |
+| [FabioPinheiro](https://github.com/FabioPinheiro) | Identus Maintainer, Project Maintainer | 2026-08-28 | 2 | 12 | 67 | 97 | 67 |
+| [hendrik.ebbers](https://github.com/hendrikebbers) | TAC member, Project Maintainer, SIG leader, Hiero maintainer | 2026-09-22 | 6 | 10 | 69 | 205 | 69 |
 | Eric Drury | Project Maintainer, ToIP | 2026-07-23 | 0 | 2 | 72 | 102 | 72 |
 | [SonicSwordcane](https://github.com/SupernaviX) | Project Maintainer, Firefly Maintainer | 2026-09-14 | 12 | 62 | 72 | 400 | 72 |
 | NorfolkAndChance | Project Maintainer | 2026-03-23 | 0 | 0 | 77 | 853 | 77 |
 | Nicky H | Project Maintainer, ToIP | 2026-09-23 | 7 | 35 | 77 | 87 | 77 |
 | [davidwboswell](https://github.com/davidwboswell) | lfdt-ca, LFDT Staff | 2026-09-22 | 14 | 23 | 83 | 516 | 83 |
+| [Attila Klenik](https://github.com/aklenik) | Project Maintainer, Lab Leader | 2026-07-23 | 0 | 5 | 84 | 560 | 84 |
 | NeilJT | ToIP | 2026-08-04 | 0 | 1 | 87 | 98 | 87 |
 | Denis | Project Maintainer, Lockness Maintainer | 2026-08-29 | 3 | 10 | 90 | 345 | 90 |
-| [Attila Klenik](https://github.com/aklenik) | Project Maintainer, Lab Leader | 2026-07-23 | 0 | 5 | 93 | 560 | 93 |
-| [RAWx18](https://github.com/RAWx18) | Lab Leader | 2026-08-03 | 0 | 3 | 101 | 104 | 101 |
-| Ang | Project Maintainer, Hiero maintainer | 2026-08-27 | 3 | 46 | 104 | 104 | 104 |
+| [RAWx18](https://github.com/RAWx18) | Lab Leader | 2026-08-03 | 0 | 3 | 100 | 104 | 100 |
 | stevevitka | ToIP | 2026-09-20 | 9 | 26 | 107 | 107 | 107 |
+| Ang | Project Maintainer, Hiero maintainer | 2026-09-24 | 6 | 49 | 107 | 107 | 107 |
 | darrello | Project Maintainer | 2026-09-24 | 13 | 16 | 112 | 112 | 115 |
 | [Marcus Brandenburger](https://github.com/mbrandenburger) | TAC member, Fabric Maintainer, lab stewards, Project Maintainer | 2026-09-16 | 4 | 19 | 115 | 535 | 115 |
 | [Anna McAllister](https://github.com/annamcallister) | Paladin Maintainer, Project Maintainer, Lab Leader | 2026-08-19 | 0 | 6 | 120 | 198 | 120 |
 | [Angelo De Caro](https://github.com/adecaro) | Lab Leader, Fabric Maintainer, Project Maintainer | 2026-09-23 | 5 | 39 | 122 | 407 | 122 |
-| [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | Project Maintainer, ToIP | 2026-03-27 | 0 | 0 | 134 | 138 | 136 |
+| [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | Project Maintainer, ToIP | 2026-03-27 | 0 | 0 | 133 | 138 | 135 |
 | [rafaelapb](https://github.com/RafaelAPB) | Project Maintainer, Cacti Maintainer | 2026-09-11 | 2 | 10 | 157 | 307 | 157 |
 | [bestbeforetoday](https://github.com/bestbeforetoday) | Project Maintainer, Fabric Maintainer | 2026-07-22 | 0 | 3 | 158 | 3,703 | 158 |
-| [JessicaG](https://github.com/jwagantall) | lfdt-ca, LFDT Staff | 2026-09-22 | 24 | 60 | 180 | 337 | 180 |
+| [JessicaG](https://github.com/jwagantall) | lfdt-ca, LFDT Staff | 2026-09-24 | 23 | 62 | 181 | 339 | 181 |
 | [macfarla \| Besu](https://github.com/macfarla) | Project Maintainer, Besu Maintainer | 2026-09-07 | 11 | 36 | 212 | 2,147 | 212 |
-| [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | lfdt-ca, LFDT Staff | 2026-09-24 | 11 | 42 | 220 | 1,024 | 388 |
-| [Arun S M](https://github.com/arsulegai) | TAC member, Chapter Leader | 2026-09-22 | 27 | 50 | 232 | 799 | 232 |
+| [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | lfdt-ca, LFDT Staff | 2026-09-24 | 11 | 39 | 218 | 1,024 | 387 |
+| [Arun S M](https://github.com/arsulegai) | TAC member, Chapter Leader | 2026-09-25 | 29 | 52 | 234 | 801 | 234 |
 | [firegod](https://github.com/wenjing) | Project Maintainer, ToIP | 2026-09-23 | 33 | 71 | 269 | 343 | 287 |
-| [Simon Dudley](https://github.com/siladu) | Project Maintainer, Besu Maintainer | 2026-09-18 | 9 | 53 | 284 | 3,813 | 284 |
-| microbiocarly | Project Maintainer, ToIP | 2026-09-22 | 24 | 54 | 393 | 429 | 393 |
-| [Enrique Lacal](https://github.com/EnriqueL8) | TAC member, Project Maintainer, Firefly Maintainer | 2026-09-17 | 30 | 170 | 422 | 2,829 | 422 |
-| [explorer3](https://github.com/exploreriii) | Project Maintainer, Hiero maintainer | 2026-08-27 | 5 | 48 | 443 | 516 | 443 |
-| [drummondreed](https://github.com/talltree) | Project Maintainer, ToIP | 2026-09-24 | 30 | 84 | 460 | 481 | 470 |
-| [Matthew Whitehead](https://github.com/matthew1001) | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer | 2026-09-23 | 49 | 179 | 468 | 2,617 | 468 |
-| [sankarshan](https://github.com/sankarshanmukhopadhyay) | Lab Leader | 2026-09-24 | 60 | 203 | 591 | 597 | 591 |
-| [Ry Jones](https://github.com/ryjones) | lfdt-ca, LFDT Staff | 2026-09-17 | 37 | 262 | 856 | 4,278 | 1,125 |
+| [Simon Dudley](https://github.com/siladu) | Project Maintainer, Besu Maintainer | 2026-09-18 | 5 | 53 | 281 | 3,813 | 281 |
+| microbiocarly | Project Maintainer, ToIP | 2026-09-24 | 26 | 56 | 392 | 431 | 392 |
+| [Enrique Lacal](https://github.com/EnriqueL8) | TAC member, Project Maintainer, Firefly Maintainer | 2026-09-17 | 30 | 163 | 416 | 2,829 | 416 |
+| [explorer3](https://github.com/exploreriii) | Project Maintainer, Hiero maintainer | 2026-08-27 | 5 | 48 | 442 | 516 | 442 |
+| [drummondreed](https://github.com/talltree) | Project Maintainer, ToIP | 2026-09-25 | 31 | 85 | 457 | 482 | 467 |
+| [Matthew Whitehead](https://github.com/matthew1001) | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer | 2026-09-23 | 45 | 178 | 464 | 2,617 | 464 |
+| [sankarshan](https://github.com/sankarshanmukhopadhyay) | Lab Leader | 2026-09-24 | 60 | 206 | 593 | 600 | 593 |
+| [Ry Jones](https://github.com/ryjones) | lfdt-ca, LFDT Staff | 2026-09-24 | 37 | 258 | 847 | 4,279 | 1,116 |
 

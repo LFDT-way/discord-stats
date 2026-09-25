@@ -2,12 +2,12 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1111041471768961044
-- **Total Messages in Category:** 1,835
-- **Last 30 Days:** 11
+- **Total Messages in Category:** 1,836
+- **Last 30 Days:** 12
 - **Last 90 Days:** 19
-- **Last 365 Days:** 129
+- **Last 365 Days:** 130
 - **First Message:** 2022-09-28
-- **Last Message:** 2026-09-17
+- **Last Message:** 2026-09-24
 
 ## Channels in Category
 
@@ -16,7 +16,7 @@
 | [architecture-sig](architecture-sig_1024688298389688360.md) | 2026-08-10 | 0 | 2 | 47 | 898 |
 | [safe-wallet-sig](safe-wallet-sig_1154410858991067247.md) | 2025-05-12 | 0 | 0 | 0 | 393 |
 | [wallet-interoperability-sig](wallet-interoperability-sig_1291067233967149150.md) | 2026-06-01 | 0 | 0 | 47 | 204 |
-| [tac](tac_1080192375621685288.md) | 2026-09-17 | 11 | 17 | 25 | 202 |
+| [tac](tac_1080192375621685288.md) | 2026-09-24 | 12 | 17 | 26 | 203 |
 | [digital-wallet-and-agent-overviews-sig](digital-wallet-and-agent-overviews-sig_1154111877077532814.md) | 2025-11-17 | 0 | 0 | 10 | 138 |
 
 ## Most Active Users
@@ -26,18 +26,18 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 6 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
-| 3 | Manthan | 2 | — |
+| 2 | Manthan | 3 | — |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
 | 4 | RMLearney | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 8 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Ry Jones, OWF](https://github.com/ryjones) | 3 | Linux Foundation Staff |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
-| 4 | Manthan | 2 | — |
+| 1 | [Mirko](https://github.com/cre8) | 7 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | Manthan | 3 | — |
+| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 3 | Linux Foundation Staff |
+| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
 | 5 | davidejalexander | 2 | SIG member |
 
 ### Last 365 Days
@@ -64,7 +64,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 79 |
+| 2026 | 80 |
 | 2025 | 254 |
 | 2024 | 551 |
 | 2023 | 399 |
@@ -74,7 +74,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 11 |
+| 2026-09 | 12 |
 | 2026-08 | 1 |
 | 2026-07 | 4 |
 | 2026-06 | 7 |
@@ -128,6 +128,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-24 | 1 |
 | 2026-09-17 | 5 |
 | 2026-09-16 | 6 |
 | 2026-08-10 | 1 |

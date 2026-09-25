@@ -2,25 +2,25 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1283486767546237040
-- **Total Messages in Category:** 2,063
-- **Last 30 Days:** 61
-- **Last 90 Days:** 227
+- **Total Messages in Category:** 2,069
+- **Last 30 Days:** 63
+- **Last 90 Days:** 233
 - **Last 365 Days:** 1,404
 - **First Message:** 2024-09-11
-- **Last Message:** 2026-09-22
+- **Last Message:** 2026-09-24
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [hiero-sdk-python](hiero-sdk-python_1336494517544681563.md) | 2026-09-07 | 2 | 24 | 310 | 521 |
-| [hiero-general](hiero-general_1289954446712770600.md) | 2026-09-22 | 16 | 56 | 241 | 291 |
-| [hiero-maintainers](hiero-maintainers_1283487103006543952.md) | 2026-09-17 | 12 | 36 | 119 | 174 |
+| [hiero-sdk-python](hiero-sdk-python_1336494517544681563.md) | 2026-09-07 | 2 | 24 | 309 | 521 |
+| [hiero-general](hiero-general_1289954446712770600.md) | 2026-09-24 | 18 | 59 | 243 | 294 |
+| [hiero-maintainers](hiero-maintainers_1283487103006543952.md) | 2026-09-24 | 13 | 38 | 121 | 176 |
 | [hiero-website](hiero-website_1458790070986215567.md) | 2026-08-19 | 0 | 5 | 172 | 172 |
-| [hiero-announcements](hiero-announcements_1283487046484234270.md) | 2026-09-22 | 12 | 29 | 112 | 161 |
+| [hiero-announcements](hiero-announcements_1283487046484234270.md) | 2026-09-24 | 11 | 30 | 112 | 162 |
 | [hiero-solo-action](hiero-solo-action_1337046798472052776.md) | 2026-08-31 | 6 | 6 | 7 | 131 |
 | [solo](solo_1364886813017247775.md) | 2026-09-14 | 2 | 6 | 42 | 108 |
-| [hiero-did-sdk-js](hiero-did-sdk-js_1403132892007366806.md) | 2026-05-06 | 0 | 0 | 26 | 75 |
+| [hiero-did-sdk-js](hiero-did-sdk-js_1403132892007366806.md) | 2026-05-06 | 0 | 0 | 23 | 75 |
 | [hiero-sdk-community](hiero-sdk-community_1460295344620572907.md) | 2026-09-07 | 2 | 2 | 70 | 70 |
 | [hiero-sdk-cpp](hiero-sdk-cpp_1337424839761465364.md) | 2026-09-07 | 1 | 1 | 56 | 61 |
 | [hiero-enterprise-java](hiero-enterprise-java_1370373361942663178.md) | 2026-08-10 | 0 | 25 | 32 | 34 |
@@ -47,19 +47,19 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [JessicaG](https://github.com/jwagantall) | 21 | lfdt-ca, LFDT Staff |
+| 1 | [JessicaG](https://github.com/jwagantall) | 20 | lfdt-ca, LFDT Staff |
 | 2 | [Daniel Marvin](https://github.com/danielmarv) | 12 | Project Maintainer |
-| 3 | [hendrik.ebbers](https://github.com/hendrikebbers) | 6 | TAC member, Project Maintainer, SIG leader, Hiero maintainer |
+| 3 | Ang | 6 | Project Maintainer, Hiero maintainer |
 | 4 | [explorer3](https://github.com/exploreriii) | 5 | Project Maintainer, Hiero maintainer |
-| 5 | Ang | 3 | Project Maintainer, Hiero maintainer |
+| 5 | [hendrik.ebbers](https://github.com/hendrikebbers) | 5 | TAC member, Project Maintainer, SIG leader, Hiero maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [JessicaG](https://github.com/jwagantall) | 54 | lfdt-ca, LFDT Staff |
-| 2 | [explorer3](https://github.com/exploreriii) | 48 | Project Maintainer, Hiero maintainer |
-| 3 | Ang | 46 | Project Maintainer, Hiero maintainer |
+| 1 | [JessicaG](https://github.com/jwagantall) | 56 | lfdt-ca, LFDT Staff |
+| 2 | Ang | 49 | Project Maintainer, Hiero maintainer |
+| 3 | [explorer3](https://github.com/exploreriii) | 48 | Project Maintainer, Hiero maintainer |
 | 4 | [Daniel Marvin](https://github.com/danielmarv) | 13 | Project Maintainer |
 | 5 | [hendrik.ebbers](https://github.com/hendrikebbers) | 9 | TAC member, Project Maintainer, SIG leader, Hiero maintainer |
 
@@ -67,9 +67,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [explorer3](https://github.com/exploreriii) | 434 | Project Maintainer, Hiero maintainer |
-| 2 | [JessicaG](https://github.com/jwagantall) | 139 | lfdt-ca, LFDT Staff |
-| 3 | Ang | 104 | Project Maintainer, Hiero maintainer |
+| 1 | [explorer3](https://github.com/exploreriii) | 433 | Project Maintainer, Hiero maintainer |
+| 2 | [JessicaG](https://github.com/jwagantall) | 140 | lfdt-ca, LFDT Staff |
+| 3 | Ang | 107 | Project Maintainer, Hiero maintainer |
 | 4 | [hendrik.ebbers](https://github.com/hendrikebbers) | 57 | TAC member, Project Maintainer, SIG leader, Hiero maintainer |
 | 5 | [Roger](https://github.com/rbarker-dev) | 46 | Project Maintainer, Hiero maintainer |
 
@@ -78,16 +78,16 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [explorer3](https://github.com/exploreriii) | 507 | Project Maintainer, Hiero maintainer |
-| 2 | [JessicaG](https://github.com/jwagantall) | 203 | lfdt-ca, LFDT Staff |
+| 2 | [JessicaG](https://github.com/jwagantall) | 205 | lfdt-ca, LFDT Staff |
 | 3 | [hendrik.ebbers](https://github.com/hendrikebbers) | 181 | TAC member, Project Maintainer, SIG leader, Hiero maintainer |
-| 4 | Ang | 104 | Project Maintainer, Hiero maintainer |
+| 4 | Ang | 107 | Project Maintainer, Hiero maintainer |
 | 5 | [Roger](https://github.com/rbarker-dev) | 101 | Project Maintainer, Hiero maintainer |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,330 |
+| 2026 | 1,336 |
 | 2025 | 709 |
 | 2024 | 24 |
 
@@ -95,7 +95,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 34 |
+| 2026-09 | 40 |
 | 2026-08 | 132 |
 | 2026-07 | 53 |
 | 2026-06 | 78 |
@@ -124,6 +124,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-24 | 6 |
 | 2026-09-22 | 3 |
 | 2026-09-21 | 2 |
 | 2026-09-17 | 5 |

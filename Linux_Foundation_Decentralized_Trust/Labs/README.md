@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
 - **Total Messages in Category:** 21,352
-- **Last 30 Days:** 44
-- **Last 90 Days:** 209
-- **Last 365 Days:** 1,039
+- **Last 30 Days:** 37
+- **Last 90 Days:** 208
+- **Last 365 Days:** 1,020
 - **First Message:** 2021-11-05
 - **Last Message:** 2026-09-23
 
@@ -17,21 +17,21 @@
 | [bevel-operator-fabric](bevel-operator-fabric_967823782712594442.md) | 2026-05-11 | 0 | 0 | 38 | 3,400 |
 | [bevel](bevel_941475087389950002.md) | 2026-09-01 | 1 | 1 | 11 | 2,563 |
 | [caliper](caliper_941417677778473031.md) | 2026-03-23 | 0 | 0 | 46 | 1,439 |
-| [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-04-15 | 0 | 0 | 193 | 1,185 |
+| [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-04-15 | 0 | 0 | 176 | 1,185 |
 | [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 13 | 859 |
 | [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-09-16 | 3 | 15 | 159 | 337 |
-| [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-08-31 | 4 | 12 | 61 | 150 |
+| [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-08-31 | 4 | 11 | 61 | 150 |
 | [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 11 | 148 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-09-21 | 8 | 8 | 11 | 108 |
 | [fablo](fablo_1109190949394989127.md) | 2026-09-15 | 2 | 2 | 14 | 87 |
-| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-09-23 | 7 | 84 | 84 | 84 |
-| [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-09-22 | 6 | 34 | 81 | 81 |
+| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-09-23 | 5 | 84 | 84 | 84 |
+| [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-09-22 | 5 | 34 | 81 | 81 |
 | [general](general_988569914266775662.md) | 2026-07-30 | 0 | 4 | 11 | 72 |
 | [cello](cello_941475454378991646.md) | 2026-08-28 | 1 | 1 | 10 | 54 |
 | [cc-tools](cc-tools_1156653969133809715.md) | 2025-05-07 | 0 | 0 | 0 | 45 |
 | [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-07-27 | 0 | 10 | 37 | 43 |
-| [learning-tokens](learning-tokens_1120853856360878271.md) | 2026-08-25 | 4 | 4 | 6 | 36 |
-| [hypernate](hypernate_1417903966464770159.md) | 2026-07-23 | 0 | 4 | 27 | 32 |
+| [learning-tokens](learning-tokens_1120853856360878271.md) | 2026-08-25 | 0 | 4 | 6 | 36 |
+| [hypernate](hypernate_1417903966464770159.md) | 2026-07-23 | 0 | 4 | 25 | 32 |
 | [cbweb3](cbweb3_1400427588287074364.md) | 2026-05-29 | 0 | 0 | 30 | 31 |
 | [fabricops](fabricops_1537506138008981524.md) | 2026-08-31 | 1 | 6 | 6 | 6 |
 | [fabric-sdk-rust](fabric-sdk-rust_1419694192921153669.md) | 2026-02-02 | 0 | 0 | 2 | 5 |
@@ -49,7 +49,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Vipin Bharathan | 5 | lab stewards |
-| 2 | kadalkidal | 5 | Lab Leader |
+| 2 | kadalkidal | 4 | Lab Leader |
 | 3 | [DanielSzego](https://github.com/Daniel-Szego) | 4 | Meetup Organizer |
 | 4 | [davidwboswell](https://github.com/davidwboswell) | 4 | lfdt-ca, LFDT Staff |
 | 5 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 4 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
@@ -68,11 +68,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 142 | lfdt-ca, LFDT Staff |
+| 1 | [Ry Jones](https://github.com/ryjones) | 132 | lfdt-ca, LFDT Staff |
 | 2 | [RAWx18](https://github.com/RAWx18) | 96 | Lab Leader |
-| 3 | [Attila Klenik](https://github.com/aklenik) | 74 | Project Maintainer, Lab Leader |
-| 4 | NorfolkAndChance | 73 | Project Maintainer |
-| 5 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 69 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 3 | NorfolkAndChance | 73 | Project Maintainer |
+| 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 69 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 5 | [Attila Klenik](https://github.com/aklenik) | 65 | Project Maintainer, Lab Leader |
 
 ### All Time
 

@@ -2,19 +2,19 @@
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1440054211453779999
-- **Total Messages in Category:** 50
-- **Last 30 Days:** 2
-- **Last 90 Days:** 2
-- **Last 365 Days:** 44
+- **Total Messages in Category:** 51
+- **Last 30 Days:** 3
+- **Last 90 Days:** 3
+- **Last 365 Days:** 45
 - **First Message:** 2025-05-06
-- **Last Message:** 2026-09-17
+- **Last Message:** 2026-09-24
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [wg-tooling](wg-tooling_1323700037099847782.md) | 2025-11-17 | 0 | 0 | 26 | 32 |
-| [cbomkit-general](cbomkit-general_1440054266571133053.md) | 2026-09-17 | 2 | 2 | 18 | 18 |
+| [cbomkit-general](cbomkit-general_1440054266571133053.md) | 2026-09-24 | 3 | 3 | 19 | 19 |
 
 ## Most Active Users
 
@@ -23,12 +23,14 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | shubham17 | 2 | — |
+| 2 | Severus Snape | 1 | TAC member |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | shubham17 | 2 | — |
+| 2 | Severus Snape | 1 | TAC member |
 
 ### Last 365 Days
 
@@ -38,7 +40,7 @@
 | 2 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 7 | CBOM maintainer, Project Maintainer |
 | 3 | Scott Corzine | 6 | — |
 | 4 | Sachin Kumar | 4 | — |
-| 5 | shubham17 | 2 | — |
+| 5 | Severus Snape | 3 | TAC member |
 
 ### All Time
 
@@ -48,20 +50,20 @@
 | 2 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 11 | CBOM maintainer, Project Maintainer |
 | 3 | Scott Corzine | 6 | — |
 | 4 | Sachin Kumar | 4 | — |
-| 5 | shubham17 | 2 | — |
+| 5 | Severus Snape | 3 | TAC member |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 12 |
+| 2026 | 13 |
 | 2025 | 38 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 2 |
+| 2026-09 | 3 |
 | 2026-06 | 6 |
 | 2026-05 | 3 |
 | 2026-02 | 1 |
@@ -76,6 +78,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-24 | 1 |
 | 2026-09-17 | 1 |
 | 2026-09-16 | 1 |
 | 2026-06-22 | 2 |

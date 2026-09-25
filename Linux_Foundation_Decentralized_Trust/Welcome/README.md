@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 948958931512873030
 - **Total Messages in Category:** 14,120
-- **Last 30 Days:** 23
-- **Last 90 Days:** 71
-- **Last 365 Days:** 410
+- **Last 30 Days:** 18
+- **Last 90 Days:** 69
+- **Last 365 Days:** 406
 - **First Message:** 2022-03-03
 - **Last Message:** 2026-09-21
 
@@ -14,11 +14,11 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [welcome](welcome_948959099842883654.md) | 2026-08-12 | 0 | 2 | 44 | 10,733 |
-| [general](general_1021077182501621830.md) | 2026-09-21 | 16 | 28 | 209 | 1,888 |
-| [job-postings](job-postings_1050607623566802984.md) | 2026-09-03 | 3 | 25 | 75 | 447 |
+| [general](general_1021077182501621830.md) | 2026-09-21 | 13 | 28 | 208 | 1,888 |
+| [job-postings](job-postings_1050607623566802984.md) | 2026-09-03 | 1 | 23 | 74 | 447 |
 | [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-05-04 | 0 | 0 | 10 | 417 |
-| [connections](connections_948959243095130142.md) | 2026-09-21 | 4 | 8 | 28 | 372 |
-| [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-07-30 | 0 | 5 | 34 | 191 |
+| [connections](connections_948959243095130142.md) | 2026-09-21 | 4 | 8 | 27 | 372 |
+| [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-07-30 | 0 | 5 | 33 | 191 |
 | [announcements](announcements_953133039372877844.md) | 2026-06-30 | 0 | 1 | 8 | 39 |
 | [git-help](git-help_1098621099681513492.md) | 2026-07-06 | 0 | 2 | 2 | 33 |
 
@@ -29,10 +29,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rowan | 5 | — |
-| 2 | [Ry Jones](https://github.com/ryjones) | 2 | lfdt-ca, LFDT Staff |
-| 3 | [FabioPinheiro](https://github.com/FabioPinheiro) | 2 | Identus Maintainer, Project Maintainer |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
-| 5 | Daniel | 2 | — |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
+| 3 | Daniel | 2 | — |
+| 4 | DerHarry | 2 | — |
+| 5 | Vale | 1 | — |
 
 ### Last 90 Days
 

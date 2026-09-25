@@ -2,12 +2,12 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1108449719212048556
-- **Total Messages in Category:** 847
-- **Last 30 Days:** 11
-- **Last 90 Days:** 33
-- **Last 365 Days:** 337
+- **Total Messages in Category:** 851
+- **Last 30 Days:** 15
+- **Last 90 Days:** 37
+- **Last 365 Days:** 340
 - **First Message:** 2023-06-02
-- **Last Message:** 2026-09-10
+- **Last Message:** 2026-09-25
 
 ## Channels in Category
 
@@ -16,18 +16,18 @@
 | [tsp](tsp_1240339063618277467.md) | 2026-09-10 | 6 | 6 | 44 | 268 |
 | [mdoc-ts](mdoc-ts_1251180041124053052.md) | 2026-04-01 | 0 | 0 | 128 | 172 |
 | [sd-jwt-dotnet](sd-jwt-dotnet_1179453047169110056.md) | 2026-04-30 | 0 | 0 | 64 | 80 |
-| [sd-jwt-general](sd-jwt-general_1180161138030284910.md) | 2025-09-24 | 0 | 0 | 1 | 70 |
+| [sd-jwt-general](sd-jwt-general_1180161138030284910.md) | 2025-09-24 | 0 | 0 | 0 | 70 |
 | [oid4vc-ts](oid4vc-ts_1326616895453007933.md) | 2026-08-12 | 0 | 1 | 47 | 62 |
 | [vc-api](vc-api_1157008901020073994.md) | 2025-10-24 | 0 | 0 | 2 | 39 |
 | [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-08-18 | 0 | 7 | 21 | 28 |
 | [wallet-framework-dotnet](wallet-framework-dotnet_1159552665940938842.md) | 2024-10-11 | 0 | 0 | 0 | 26 |
 | [pydentity-wallet](pydentity-wallet_1352199414956953630.md) | 2026-02-11 | 0 | 0 | 3 | 20 |
 | [axle](axle_1404761591710355506.md) | 2026-07-17 | 0 | 14 | 14 | 17 |
+| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-09-25 | 9 | 9 | 11 | 11 |
 | [farmworker-wallet-os](farmworker-wallet-os_1138937641123987466.md) | 2024-10-09 | 0 | 0 | 0 | 10 |
 | [sd-jwt-vc-dm](sd-jwt-vc-dm_1331889781570932849.md) | 2025-04-20 | 0 | 0 | 0 | 10 |
 | [dcql-ts](dcql-ts_1326615136865095731.md) | 2025-11-12 | 0 | 0 | 3 | 9 |
 | [tuvali](tuvali_1240339442011476008.md) | 2025-04-17 | 0 | 0 | 0 | 8 |
-| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-09-06 | 5 | 5 | 7 | 7 |
 | [sd-jwt-kotlin](sd-jwt-kotlin_1108449794831159397.md) | 2024-06-24 | 0 | 0 | 0 | 7 |
 | [sd-jwt-python](sd-jwt-python_1108449835176169513.md) | 2025-03-10 | 0 | 0 | 0 | 5 |
 | [multiformat-vc-ios](multiformat-vc-ios_1199766370880069762.md) | 2024-02-05 | 0 | 0 | 0 | 3 |
@@ -41,10 +41,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [firegod](https://github.com/wenjing) | 3 | — |
-| 2 | Manthan | 3 | — |
-| 3 | [Lukas.J.Han](https://github.com/lukasjhan) | 3 | Lab Maintainer |
-| 4 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | Manthan | 4 | — |
+| 2 | [Mirko](https://github.com/cre8) | 3 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 3 | [firegod](https://github.com/wenjing) | 3 | — |
+| 4 | [Lukas.J.Han](https://github.com/lukasjhan) | 3 | Lab Maintainer |
+| 5 | [swcurran](https://github.com/swcurran) | 1 | Lab Maintainer, TAC members, Project Maintainer |
 
 ### Last 90 Days
 
@@ -52,9 +53,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Lukas.J.Han](https://github.com/lukasjhan) | 11 | Lab Maintainer |
 | 2 | kukgini | 6 | — |
-| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 4 | Linux Foundation Staff |
-| 4 | [firegod](https://github.com/wenjing) | 3 | — |
-| 5 | Manthan | 3 | — |
+| 3 | Manthan | 4 | — |
+| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 4 | Linux Foundation Staff |
+| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 3 | Linux Foundation Staff |
 
 ### Last 365 Days
 
@@ -63,7 +64,7 @@
 | 1 | [Ry Jones, OWF](https://github.com/ryjones) | 76 | Linux Foundation Staff |
 | 2 | [Lukas.J.Han](https://github.com/lukasjhan) | 72 | Lab Maintainer |
 | 3 | [Timo Glastra](https://github.com/TimoGlastra) | 58 | credo maintainers, Project Maintainer |
-| 4 | [Mirko](https://github.com/cre8) | 29 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 4 | [Mirko](https://github.com/cre8) | 30 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 5 | Thomas Tran | 28 | Lab Maintainer |
 
 ### All Time
@@ -80,7 +81,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 203 |
+| 2026 | 207 |
 | 2025 | 449 |
 | 2024 | 96 |
 | 2023 | 99 |
@@ -89,7 +90,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 11 |
+| 2026-09 | 15 |
 | 2026-08 | 3 |
 | 2026-07 | 18 |
 | 2026-06 | 8 |
@@ -131,6 +132,8 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-25 | 1 |
+| 2026-09-24 | 3 |
 | 2026-09-10 | 6 |
 | 2026-09-06 | 5 |
 | 2026-08-18 | 1 |

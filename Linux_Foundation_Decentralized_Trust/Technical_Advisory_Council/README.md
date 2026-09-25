@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 941383941217222708
-- **Total Messages in Category:** 2,578
-- **Last 30 Days:** 58
-- **Last 90 Days:** 101
-- **Last 365 Days:** 368
+- **Total Messages in Category:** 2,583
+- **Last 30 Days:** 63
+- **Last 90 Days:** 106
+- **Last 365 Days:** 373
 - **First Message:** 2022-02-10
-- **Last Message:** 2026-09-22
+- **Last Message:** 2026-09-25
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-09-22 | 58 | 101 | 350 | 2,525 |
+| [tac](tac_941384040316018790.md) | 2026-09-25 | 63 | 106 | 355 | 2,530 |
 | [automated-pipelines](automated-pipelines_1156961689971998782.md) | 2026-04-15 | 0 | 0 | 18 | 52 |
 | [tac-announcements](tac-announcements_941399554731966564.md) | 2022-02-17 | 0 | 0 | 0 | 1 |
 
@@ -23,39 +23,39 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 27 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 29 | TAC member, Chapter Leader |
 | 2 | [davidwboswell](https://github.com/davidwboswell) | 8 | lfdt-ca, LFDT Staff |
-| 3 | [Ry Jones](https://github.com/ryjones) | 5 | lfdt-ca, LFDT Staff |
+| 3 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
 | 4 | [Enrique Lacal](https://github.com/EnriqueL8) | 4 | TAC member, Project Maintainer, Firefly Maintainer |
-| 5 | [vramaiitkgp](https://github.com/VRamakrishna) | 2 | TAC member, Cacti Maintainer |
+| 5 | [vramaiitkgp](https://github.com/VRamakrishna) | 3 | TAC member, Cacti Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 49 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 51 | TAC member, Chapter Leader |
 | 2 | [davidwboswell](https://github.com/davidwboswell) | 11 | lfdt-ca, LFDT Staff |
-| 3 | [vramaiitkgp](https://github.com/VRamakrishna) | 6 | TAC member, Cacti Maintainer |
-| 4 | [Enrique Lacal](https://github.com/EnriqueL8) | 5 | TAC member, Project Maintainer, Firefly Maintainer |
-| 5 | [Ry Jones](https://github.com/ryjones) | 5 | lfdt-ca, LFDT Staff |
+| 3 | [vramaiitkgp](https://github.com/VRamakrishna) | 7 | TAC member, Cacti Maintainer |
+| 4 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
+| 5 | [Enrique Lacal](https://github.com/EnriqueL8) | 5 | TAC member, Project Maintainer, Firefly Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 123 | TAC member, Chapter Leader |
-| 2 | [Ry Jones](https://github.com/ryjones) | 37 | lfdt-ca, LFDT Staff |
+| 1 | [Arun S M](https://github.com/arsulegai) | 125 | TAC member, Chapter Leader |
+| 2 | [Ry Jones](https://github.com/ryjones) | 38 | lfdt-ca, LFDT Staff |
 | 3 | [davidwboswell](https://github.com/davidwboswell) | 36 | lfdt-ca, LFDT Staff |
 | 4 | Tracy | 33 | — |
-| 5 | [vramaiitkgp](https://github.com/VRamakrishna) | 18 | TAC member, Cacti Maintainer |
+| 5 | [vramaiitkgp](https://github.com/VRamakrishna) | 19 | TAC member, Cacti Maintainer |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Tracy | 690 | — |
-| 2 | [Ry Jones](https://github.com/ryjones) | 358 | lfdt-ca, LFDT Staff |
-| 3 | [Arun S M](https://github.com/arsulegai) | 341 | TAC member, Chapter Leader |
+| 2 | [Ry Jones](https://github.com/ryjones) | 359 | lfdt-ca, LFDT Staff |
+| 3 | [Arun S M](https://github.com/arsulegai) | 343 | TAC member, Chapter Leader |
 | 4 | Peter Metz | 130 | — |
 | 5 | [Hart Montgomery](https://github.com/hartm) | 108 | LFDT Staff |
 
@@ -63,7 +63,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 273 |
+| 2026 | 278 |
 | 2025 | 400 |
 | 2024 | 501 |
 | 2023 | 816 |
@@ -73,7 +73,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 42 |
+| 2026-09 | 47 |
 | 2026-08 | 33 |
 | 2026-07 | 17 |
 | 2026-06 | 40 |
@@ -134,6 +134,8 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-25 | 2 |
+| 2026-09-24 | 3 |
 | 2026-09-22 | 9 |
 | 2026-09-20 | 2 |
 | 2026-09-18 | 1 |

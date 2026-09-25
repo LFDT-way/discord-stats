@@ -4,9 +4,9 @@
 - **Category:** ToIP
 - **Channel ID:** 1414671746065371186
 - **Total Messages:** 159
-- **Last 30 Days:** 10
+- **Last 30 Days:** 8
 - **Last 90 Days:** 17
-- **Last 365 Days:** 159
+- **Last 365 Days:** 158
 - **First Message:** 2025-09-24
 - **Last Message:** 2026-09-17
 
@@ -16,9 +16,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | John Phillips | 3 | Project Maintainer, ToIP |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 2 | Lab Leader |
-| 3 | [geoffturk](https://github.com/geoffturk) | 2 | Project Maintainer, ToIP |
+| 1 | John Phillips | 2 | Project Maintainer, ToIP |
+| 2 | [geoffturk](https://github.com/geoffturk) | 2 | Project Maintainer, ToIP |
+| 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 1 | Lab Leader |
 | 4 | [drummondreed](https://github.com/talltree) | 1 | Project Maintainer, ToIP |
 | 5 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
 

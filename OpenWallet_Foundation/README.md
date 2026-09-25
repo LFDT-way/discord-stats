@@ -1,23 +1,23 @@
 # Guild Report: OpenWallet Foundation
 
 - **Guild ID:** 1022962884864643214
-- **Total Messages:** 9,602
-- **Last 30 Days:** 141
-- **Last 90 Days:** 375
-- **Last 365 Days:** 1,996 — [active users](users.md)
+- **Total Messages:** 9,614
+- **Last 30 Days:** 151
+- **Last 90 Days:** 381
+- **Last 365 Days:** 2,001 — [active users](users.md)
 - **First Message:** 2022-09-23
-- **Last Message:** 2026-09-24
+- **Last Message:** 2026-09-25
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,775 | 112 | 297 | 1,269 | 2023-11-08 | 2026-09-24 |
+| [Growth Projects](Growth_Projects/README.md) | 3,782 | 117 | 299 | 1,273 | 2023-11-08 | 2026-09-25 |
 | [General](General/README.md) | 1,863 | 4 | 7 | 81 | 2022-09-23 | 2026-09-23 |
-| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,835 | 11 | 19 | 129 | 2022-09-28 | 2026-09-17 |
-| [Impact Projects](Impact_Projects/README.md) | 868 | 2 | 18 | 172 | 2024-09-26 | 2026-09-15 |
-| [Labs](Labs/README.md) | 847 | 11 | 33 | 337 | 2023-06-02 | 2026-09-10 |
+| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 12 | 19 | 130 | 2022-09-28 | 2026-09-24 |
+| [Impact Projects](Impact_Projects/README.md) | 868 | 2 | 18 | 169 | 2024-09-26 | 2026-09-15 |
+| [Labs](Labs/README.md) | 851 | 15 | 37 | 340 | 2023-06-02 | 2026-09-25 |
 | [Archive](Archive/README.md) | 345 | 0 | 0 | 1 | 2022-09-23 | 2025-10-23 |
 | [Information](Information/README.md) | 69 | 1 | 1 | 7 | 2022-09-28 | 2026-09-24 |
 
@@ -27,19 +27,19 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 35 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | Cyril | 21 | — |
-| 3 | birte_lr | 19 | — |
+| 1 | [Mirko](https://github.com/cre8) | 40 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | Cyril | 22 | — |
+| 3 | birte_lr | 20 | — |
 | 4 | [davidz25](https://github.com/davidz25) | 11 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 5 | espuni | 10 | — |
+| 5 | espuni | 9 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 109 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 114 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | espuni | 40 | — |
-| 3 | Cyril | 28 | — |
+| 3 | Cyril | 29 | — |
 | 4 | [davidz25](https://github.com/davidz25) | 23 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 5 | [Ry Jones, OWF](https://github.com/ryjones) | 23 | Linux Foundation Staff |
 
@@ -47,18 +47,18 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 369 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 167 | Linux Foundation Staff |
+| 1 | [Mirko](https://github.com/cre8) | 375 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 168 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 153 | Linux Foundation Staff |
 | 4 | [Lukas.J.Han](https://github.com/lukasjhan) | 122 | Lab Maintainer |
-| 5 | Cyril | 113 | — |
+| 5 | Cyril | 114 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 610 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 496 | Linux Foundation Staff |
+| 1 | [Mirko](https://github.com/cre8) | 616 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 497 | Linux Foundation Staff |
 | 3 | Tracy | 399 | — |
 | 4 | [Ry Jones, OWF](https://github.com/ryjones) | 394 | Linux Foundation Staff |
 | 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 301 | Lab Maintainer |
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,395 |
+| 2026 | 1,407 |
 | 2025 | 2,830 |
 | 2024 | 2,596 |
 | 2023 | 1,595 |
@@ -77,7 +77,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 135 |
+| 2026-09 | 147 |
 | 2026-08 | 53 |
 | 2026-07 | 130 |
 | 2026-06 | 173 |
@@ -131,7 +131,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-09-24 | 3 |
+| 2026-09-25 | 2 |
+| 2026-09-24 | 13 |
 | 2026-09-23 | 19 |
 | 2026-09-22 | 9 |
 | 2026-09-21 | 5 |
