@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Fabric
 - **Channel ID:** 943059293765267497
-- **Total Messages:** 948
+- **Total Messages:** 1,075
 - **Last 30 Days:** 0
-- **Last 90 Days:** 1
-- **Last 365 Days:** 24
+- **Last 90 Days:** 3
+- **Last 365 Days:** 37
 - **First Message:** 2022-02-15
-- **Last Message:** 2026-05-12
+- **Last Message:** 2026-08-14
 
 ## Most Active Users
 
@@ -20,50 +20,56 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 1 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
+| 1 | [Maria Munaro](https://github.com/munapower) | 1 | — |
+| 2 | ygt3488 | 1 | — |
+| 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 1 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 5 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
-| 2 | Glayer | 4 | — |
-| 3 | Casol | 3 | — |
-| 4 | [Maria Munaro](https://github.com/munapower) | 3 | — |
-| 5 | PsychoPunkSage | 2 | — |
+| 1 | [Maria Munaro](https://github.com/munapower) | 12 | — |
+| 2 | PsychoPunkSage | 10 | — |
+| 3 | Glayer | 4 | — |
+| 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 3 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 5 | Casol | 3 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 252 | TAC member, Project Maintainer, Fabric Maintainer, lab stewards |
-| 2 | nomadic | 139 | — |
-| 3 | [Maria Munaro](https://github.com/munapower) | 108 | — |
-| 4 | Παναγιώλτερ Ο'Μπανάβιεν | 62 | — |
-| 5 | Osama Magdy | 59 | — |
+| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 291 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 2 | nomadic | 148 | — |
+| 3 | [Maria Munaro](https://github.com/munapower) | 119 | — |
+| 4 | ravisingh | 80 | — |
+| 5 | Παναγιώλτερ Ο'Μπανάβιεν | 62 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 6 |
-| 2025 | 230 |
-| 2024 | 319 |
-| 2023 | 86 |
-| 2022 | 307 |
+| 2026 | 26 |
+| 2025 | 248 |
+| 2024 | 321 |
+| 2023 | 89 |
+| 2022 | 391 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-08 | 1 |
+| 2026-07 | 2 |
+| 2026-06 | 1 |
 | 2026-05 | 1 |
-| 2026-02 | 5 |
+| 2026-03 | 10 |
+| 2026-02 | 11 |
 | 2025-12 | 2 |
 | 2025-10 | 3 |
-| 2025-09 | 9 |
+| 2025-09 | 11 |
 | 2025-08 | 2 |
 | 2025-06 | 8 |
-| 2025-05 | 47 |
+| 2025-05 | 63 |
 | 2025-04 | 37 |
 | 2025-03 | 8 |
 | 2025-01 | 114 |
@@ -76,10 +82,10 @@ _No activity in this period._
 | 2024-05 | 90 |
 | 2024-04 | 99 |
 | 2024-03 | 15 |
-| 2024-02 | 25 |
+| 2024-02 | 27 |
 | 2024-01 | 2 |
 | 2023-11 | 1 |
-| 2023-09 | 18 |
+| 2023-09 | 21 |
 | 2023-08 | 1 |
 | 2023-07 | 6 |
 | 2023-06 | 4 |
@@ -87,24 +93,34 @@ _No activity in this period._
 | 2023-03 | 6 |
 | 2023-02 | 11 |
 | 2023-01 | 37 |
-| 2022-12 | 36 |
-| 2022-11 | 31 |
-| 2022-10 | 30 |
+| 2022-12 | 38 |
+| 2022-11 | 48 |
+| 2022-10 | 67 |
 | 2022-09 | 13 |
 | 2022-08 | 12 |
-| 2022-07 | 34 |
+| 2022-07 | 50 |
 | 2022-06 | 17 |
 | 2022-05 | 4 |
 | 2022-04 | 47 |
 | 2022-03 | 59 |
-| 2022-02 | 24 |
+| 2022-02 | 36 |
 
 ## Daily Traffic
 
 | Date | Messages |
 | --- | --- |
+| 2026-08-14 | 1 |
+| 2026-07-24 | 1 |
+| 2026-07-21 | 1 |
+| 2026-06-23 | 1 |
 | 2026-05-12 | 1 |
-| 2026-02-18 | 1 |
+| 2026-03-31 | 1 |
+| 2026-03-27 | 1 |
+| 2026-03-10 | 3 |
+| 2026-03-03 | 2 |
+| 2026-03-02 | 3 |
+| 2026-02-24 | 4 |
+| 2026-02-18 | 3 |
 | 2026-02-17 | 2 |
 | 2026-02-04 | 1 |
 | 2026-02-03 | 1 |
@@ -113,7 +129,7 @@ _No activity in this period._
 | 2025-10-01 | 2 |
 | 2025-09-30 | 5 |
 | 2025-09-29 | 1 |
-| 2025-09-02 | 3 |
+| 2025-09-02 | 5 |
 | 2025-08-31 | 1 |
 | 2025-08-05 | 1 |
 | 2025-06-24 | 2 |
@@ -121,7 +137,8 @@ _No activity in this period._
 | 2025-06-11 | 3 |
 | 2025-06-10 | 2 |
 | 2025-05-27 | 4 |
-| 2025-05-25 | 2 |
+| 2025-05-26 | 1 |
+| 2025-05-25 | 17 |
 | 2025-05-24 | 3 |
 | 2025-05-02 | 34 |
 | 2025-05-01 | 4 |
@@ -209,7 +226,7 @@ _No activity in this period._
 | 2024-02-06 | 6 |
 | 2024-02-05 | 4 |
 | 2024-02-02 | 1 |
-| 2024-02-01 | 1 |
+| 2024-02-01 | 3 |
 | 2024-01-30 | 1 |
 | 2024-01-08 | 1 |
 | 2023-11-28 | 1 |
@@ -218,7 +235,7 @@ _No activity in this period._
 | 2023-09-13 | 2 |
 | 2023-09-12 | 5 |
 | 2023-09-11 | 2 |
-| 2023-09-07 | 2 |
+| 2023-09-07 | 5 |
 | 2023-09-05 | 3 |
 | 2023-08-15 | 1 |
 | 2023-07-14 | 1 |
@@ -257,7 +274,7 @@ _No activity in this period._
 | 2022-12-22 | 2 |
 | 2022-12-20 | 5 |
 | 2022-12-19 | 1 |
-| 2022-12-16 | 5 |
+| 2022-12-16 | 7 |
 | 2022-12-15 | 1 |
 | 2022-12-13 | 1 |
 | 2022-12-12 | 3 |
@@ -268,18 +285,22 @@ _No activity in this period._
 | 2022-11-29 | 4 |
 | 2022-11-28 | 1 |
 | 2022-11-27 | 4 |
-| 2022-11-25 | 1 |
-| 2022-11-24 | 2 |
+| 2022-11-25 | 4 |
+| 2022-11-24 | 9 |
 | 2022-11-15 | 1 |
 | 2022-11-08 | 2 |
-| 2022-11-07 | 1 |
-| 2022-11-03 | 1 |
+| 2022-11-07 | 3 |
+| 2022-11-03 | 3 |
 | 2022-11-02 | 2 |
-| 2022-11-01 | 12 |
+| 2022-11-01 | 15 |
+| 2022-10-29 | 2 |
+| 2022-10-28 | 7 |
+| 2022-10-25 | 5 |
 | 2022-10-24 | 2 |
 | 2022-10-19 | 1 |
 | 2022-10-18 | 1 |
-| 2022-10-15 | 1 |
+| 2022-10-17 | 4 |
+| 2022-10-15 | 20 |
 | 2022-10-14 | 4 |
 | 2022-10-13 | 6 |
 | 2022-10-12 | 1 |
@@ -311,7 +332,8 @@ _No activity in this period._
 | 2022-07-14 | 2 |
 | 2022-07-13 | 1 |
 | 2022-07-05 | 10 |
-| 2022-07-01 | 2 |
+| 2022-07-04 | 9 |
+| 2022-07-01 | 9 |
 | 2022-06-24 | 4 |
 | 2022-06-23 | 4 |
 | 2022-06-09 | 1 |
@@ -343,8 +365,8 @@ _No activity in this period._
 | 2022-02-25 | 2 |
 | 2022-02-23 | 4 |
 | 2022-02-22 | 3 |
-| 2022-02-21 | 1 |
+| 2022-02-21 | 2 |
 | 2022-02-20 | 1 |
 | 2022-02-18 | 1 |
-| 2022-02-16 | 3 |
+| 2022-02-16 | 14 |
 | 2022-02-15 | 4 |

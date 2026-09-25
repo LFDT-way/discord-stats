@@ -3,40 +3,36 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Fabric
 - **Channel ID:** 1158754773026222130
-- **Total Messages:** 60
-- **Last 30 Days:** 4
-- **Last 90 Days:** 5
-- **Last 365 Days:** 7
+- **Total Messages:** 70
+- **Last 30 Days:** 0
+- **Last 90 Days:** 8
+- **Last 365 Days:** 16
 - **First Message:** 2023-10-03
-- **Last Message:** 2026-05-22
+- **Last Message:** 2026-08-04
 
 ## Most Active Users
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | Esco | 2 | — |
-| 2 | Ethan | 1 | — |
-| 3 | lyz4rd | 1 | — |
+_No activity in this period._
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | lyz4rd | 2 | — |
-| 2 | Esco | 2 | — |
-| 3 | Ethan | 1 | — |
+| 1 | EliMbadi | 4 | — |
+| 2 | rout-chaitanya | 2 | — |
+| 3 | [bestbeforetoday](https://github.com/bestbeforetoday) | 2 | Project Maintainer, Fabric Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | lyz4rd | 2 | — |
-| 2 | Esco | 2 | — |
-| 3 | Ethan | 1 | — |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
-| 5 | Plukanine7.btc | 1 | — |
+| 1 | EliMbadi | 4 | — |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
+| 3 | lyz4rd | 2 | — |
+| 4 | rout-chaitanya | 2 | — |
+| 5 | Esco | 2 | — |
 
 ### All Time
 
@@ -45,15 +41,15 @@
 | 1 | Arun | 12 | — |
 | 2 | noble883 | 7 | — |
 | 3 | Jan Sikusi | 7 | — |
-| 4 | Hector Dufau | 4 | — |
+| 4 | EliMbadi | 4 | — |
 | 5 | santsa | 4 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 5 |
-| 2025 | 16 |
+| 2026 | 13 |
+| 2025 | 18 |
 | 2024 | 11 |
 | 2023 | 28 |
 
@@ -61,8 +57,10 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-08 | 3 |
+| 2026-07 | 5 |
 | 2026-05 | 5 |
-| 2025-11 | 1 |
+| 2025-11 | 3 |
 | 2025-09 | 1 |
 | 2025-05 | 1 |
 | 2025-04 | 2 |
@@ -78,11 +76,16 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-08-04 | 2 |
+| 2026-08-03 | 1 |
+| 2026-07-27 | 1 |
+| 2026-07-22 | 3 |
+| 2026-07-17 | 1 |
 | 2026-05-22 | 1 |
 | 2026-05-19 | 1 |
 | 2026-05-16 | 2 |
 | 2026-05-15 | 1 |
-| 2025-11-04 | 1 |
+| 2025-11-04 | 3 |
 | 2025-09-13 | 1 |
 | 2025-05-20 | 1 |
 | 2025-04-09 | 2 |

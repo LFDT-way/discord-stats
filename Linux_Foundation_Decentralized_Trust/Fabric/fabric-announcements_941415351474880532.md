@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Fabric
 - **Channel ID:** 941415351474880532
-- **Total Messages:** 12
+- **Total Messages:** 15
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
 - **Last 365 Days:** 2
@@ -30,8 +30,9 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Dave Enyeart](https://github.com/denyeart) | 7 | Project Maintainer, Fabric Maintainer |
-| 2 | [bestbeforetoday](https://github.com/bestbeforetoday) | 5 | Project Maintainer, Fabric Maintainer |
+| 1 | [Dave Enyeart](https://github.com/denyeart) | 7 | Fabric Maintainer, Project Maintainer |
+| 2 | [bestbeforetoday](https://github.com/bestbeforetoday) | 6 | Project Maintainer, Fabric Maintainer |
+| 3 | El Capitan | 2 | — |
 
 ## Yearly Traffic
 
@@ -40,7 +41,7 @@ _No activity in this period._
 | 2026 | 1 |
 | 2025 | 1 |
 | 2023 | 6 |
-| 2022 | 4 |
+| 2022 | 7 |
 
 ## Monthly Traffic
 
@@ -52,7 +53,7 @@ _No activity in this period._
 | 2023-04 | 1 |
 | 2023-01 | 1 |
 | 2022-10 | 1 |
-| 2022-07 | 2 |
+| 2022-07 | 5 |
 | 2022-06 | 1 |
 
 ## Daily Traffic
@@ -65,6 +66,8 @@ _No activity in this period._
 | 2023-04-01 | 1 |
 | 2023-01-27 | 1 |
 | 2022-10-21 | 1 |
+| 2022-07-21 | 1 |
+| 2022-07-20 | 2 |
 | 2022-07-19 | 1 |
 | 2022-07-01 | 1 |
 | 2022-06-17 | 1 |

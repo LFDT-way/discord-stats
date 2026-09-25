@@ -1,24 +1,24 @@
 # Guild Report: Post-Quantum Cryptography Alliance
 
 - **Guild ID:** 1202723482224295936
-- **Total Messages:** 4,073
-- **Last 30 Days:** 43
-- **Last 90 Days:** 224
-- **Last 365 Days:** 2,235 — [active users](users.md)
+- **Total Messages:** 4,487
+- **Last 30 Days:** 100
+- **Last 90 Days:** 326
+- **Last 365 Days:** 1,644 — [active users](users.md)
 - **First Message:** 2024-02-01
-- **Last Message:** 2026-06-13
+- **Last Message:** 2026-09-24
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PQ Code Package](PQ_Code_Package/README.md) | 3,234 | 17 | 164 | 1,936 | 2024-02-03 | 2026-06-11 |
-| [Welcome](Welcome/README.md) | 453 | 15 | 39 | 173 | 2024-02-01 | 2026-06-05 |
-| [Open Quantum Safe](Open_Quantum_Safe/README.md) | 249 | 4 | 14 | 69 | 2024-02-03 | 2026-06-13 |
-| [Governance](Governance/README.md) | 81 | 0 | 0 | 9 | 2024-02-05 | 2026-02-10 |
-| [CBOMKit](CBOMKit/README.md) | 45 | 6 | 6 | 41 | 2025-05-06 | 2026-06-07 |
-| [Uncategorized](Uncategorized/README.md) | 9 | 1 | 1 | 7 | 2024-02-03 | 2026-05-18 |
+| [PQ Code Package](PQ_Code_Package/README.md) | 3,567 | 69 | 256 | 1,339 | 2024-02-03 | 2026-09-23 |
+| [Welcome](Welcome/README.md) | 495 | 20 | 36 | 169 | 2024-02-01 | 2026-09-24 |
+| [Open Quantum Safe](Open_Quantum_Safe/README.md) | 281 | 9 | 32 | 79 | 2024-02-03 | 2026-09-23 |
+| [Governance](Governance/README.md) | 81 | 0 | 0 | 6 | 2024-02-05 | 2026-02-10 |
+| [CBOMKit](CBOMKit/README.md) | 50 | 2 | 2 | 44 | 2025-05-06 | 2026-09-17 |
+| [Uncategorized](Uncategorized/README.md) | 11 | 0 | 0 | 7 | 2024-02-03 | 2026-05-18 |
 | [WORKING GROUPS](WORKING_GROUPS/README.md) | 2 | 0 | 0 | 0 | 2024-04-30 | 2024-09-11 |
 
 ## Most Active Users
@@ -27,56 +27,61 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 12 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | Loganaden | 4 | — |
-| 3 | brent | 4 | — |
-| 4 | Sachin Kumar | 4 | — |
-| 5 | N.Nova | 3 | — |
+| 1 | Rod | 33 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 18 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | θρπχι | 12 | — |
+| 4 | Hanno | 10 | PQ Code Package Maintainer |
+| 5 | Ishan | 3 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 71 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 62 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | [RyJones](https://github.com/ryjones) | 12 | LF Staff |
-| 4 | Hanno | 11 | PQ Code Package Maintainer |
-| 5 | Severus Snape | 9 | — |
+| 1 | Rod | 119 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 86 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 16 | PQ Code Package Maintainer |
+| 4 | θρπχι | 12 | — |
+| 5 | Ishan | 10 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 820 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 690 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 146 | PQ Code Package Maintainer |
-| 4 | [RyJones](https://github.com/ryjones) | 103 | LF Staff |
-| 5 | Jake | 83 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 521 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 477 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 110 | PQ Code Package Maintainer |
+| 4 | [RyJones](https://github.com/ryjones) | 99 | LF Staff |
+| 5 | chozorho | 55 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 1,102 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 1,039 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 381 | PQ Code Package Maintainer |
-| 4 | [RyJones](https://github.com/ryjones) | 316 | LF Staff |
+| 1 | Rod | 1,271 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 1,139 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 405 | PQ Code Package Maintainer |
+| 4 | [RyJones](https://github.com/ryjones) | 321 | LF Staff |
 | 5 | [Nigel Jones](https://github.com/planetf1) | 182 | PQ Code Package Maintainer, Project Maintainer, TAC member |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 450 |
-| 2025 | 2,680 |
-| 2024 | 943 |
+| 2026 | 861 |
+| 2025 | 2,683 |
+| 2024 | 944 |
+| 2023 | 3 |
+| 2022 | 9 |
 | 2021 | 2 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 8 |
+| 2026-09 | 88 |
+| 2026-08 | 130 |
+| 2026-07 | 71 |
+| 2026-06 | 130 |
 | 2026-05 | 47 |
 | 2026-04 | 141 |
 | 2026-03 | 80 |
@@ -84,18 +89,18 @@
 | 2026-01 | 64 |
 | 2025-12 | 157 |
 | 2025-11 | 319 |
-| 2025-10 | 258 |
-| 2025-09 | 174 |
+| 2025-10 | 259 |
+| 2025-09 | 175 |
 | 2025-08 | 110 |
 | 2025-07 | 636 |
 | 2025-06 | 194 |
 | 2025-05 | 190 |
-| 2025-04 | 222 |
+| 2025-04 | 223 |
 | 2025-03 | 347 |
 | 2025-02 | 40 |
 | 2025-01 | 33 |
 | 2024-12 | 59 |
-| 2024-11 | 47 |
+| 2024-11 | 48 |
 | 2024-10 | 36 |
 | 2024-09 | 121 |
 | 2024-08 | 33 |
@@ -105,12 +110,83 @@
 | 2024-04 | 45 |
 | 2024-03 | 148 |
 | 2024-02 | 203 |
+| 2023-12 | 2 |
+| 2023-03 | 1 |
+| 2022-06 | 2 |
+| 2022-04 | 2 |
+| 2022-02 | 5 |
 | 2021-11 | 2 |
 
 ## Daily Traffic
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-24 | 1 |
+| 2026-09-23 | 8 |
+| 2026-09-22 | 1 |
+| 2026-09-20 | 5 |
+| 2026-09-19 | 1 |
+| 2026-09-17 | 5 |
+| 2026-09-16 | 2 |
+| 2026-09-14 | 4 |
+| 2026-09-12 | 2 |
+| 2026-09-11 | 1 |
+| 2026-09-08 | 9 |
+| 2026-09-07 | 6 |
+| 2026-09-06 | 1 |
+| 2026-09-04 | 28 |
+| 2026-09-03 | 6 |
+| 2026-09-02 | 8 |
+| 2026-08-30 | 1 |
+| 2026-08-28 | 11 |
+| 2026-08-24 | 20 |
+| 2026-08-23 | 10 |
+| 2026-08-21 | 11 |
+| 2026-08-20 | 1 |
+| 2026-08-17 | 6 |
+| 2026-08-13 | 2 |
+| 2026-08-11 | 5 |
+| 2026-08-10 | 7 |
+| 2026-08-09 | 7 |
+| 2026-08-07 | 6 |
+| 2026-08-06 | 14 |
+| 2026-08-05 | 1 |
+| 2026-08-04 | 11 |
+| 2026-08-03 | 7 |
+| 2026-08-02 | 2 |
+| 2026-08-01 | 8 |
+| 2026-07-31 | 3 |
+| 2026-07-30 | 5 |
+| 2026-07-28 | 2 |
+| 2026-07-27 | 4 |
+| 2026-07-24 | 1 |
+| 2026-07-21 | 1 |
+| 2026-07-20 | 5 |
+| 2026-07-18 | 1 |
+| 2026-07-17 | 6 |
+| 2026-07-16 | 4 |
+| 2026-07-15 | 1 |
+| 2026-07-14 | 6 |
+| 2026-07-13 | 3 |
+| 2026-07-10 | 2 |
+| 2026-07-09 | 1 |
+| 2026-07-08 | 8 |
+| 2026-07-03 | 7 |
+| 2026-07-02 | 10 |
+| 2026-07-01 | 1 |
+| 2026-06-30 | 4 |
+| 2026-06-29 | 7 |
+| 2026-06-27 | 6 |
+| 2026-06-26 | 20 |
+| 2026-06-25 | 29 |
+| 2026-06-24 | 6 |
+| 2026-06-23 | 3 |
+| 2026-06-22 | 23 |
+| 2026-06-21 | 3 |
+| 2026-06-19 | 3 |
+| 2026-06-18 | 11 |
+| 2026-06-17 | 4 |
+| 2026-06-16 | 3 |
 | 2026-06-13 | 2 |
 | 2026-06-11 | 1 |
 | 2026-06-10 | 1 |
@@ -254,7 +330,7 @@
 | 2025-10-10 | 6 |
 | 2025-10-09 | 15 |
 | 2025-10-08 | 6 |
-| 2025-10-07 | 12 |
+| 2025-10-07 | 13 |
 | 2025-10-06 | 1 |
 | 2025-10-04 | 16 |
 | 2025-10-03 | 10 |
@@ -279,7 +355,7 @@
 | 2025-09-14 | 1 |
 | 2025-09-13 | 1 |
 | 2025-09-12 | 4 |
-| 2025-09-11 | 1 |
+| 2025-09-11 | 2 |
 | 2025-09-10 | 11 |
 | 2025-09-07 | 11 |
 | 2025-09-05 | 14 |
@@ -383,7 +459,7 @@
 | 2025-04-22 | 1 |
 | 2025-04-19 | 1 |
 | 2025-04-18 | 2 |
-| 2025-04-17 | 1 |
+| 2025-04-17 | 2 |
 | 2025-04-15 | 1 |
 | 2025-04-12 | 1 |
 | 2025-04-10 | 12 |
@@ -464,7 +540,7 @@
 | 2024-11-30 | 1 |
 | 2024-11-28 | 1 |
 | 2024-11-26 | 1 |
-| 2024-11-22 | 1 |
+| 2024-11-22 | 2 |
 | 2024-11-21 | 5 |
 | 2024-11-20 | 2 |
 | 2024-11-18 | 1 |
@@ -620,4 +696,12 @@
 | 2024-02-03 | 6 |
 | 2024-02-02 | 20 |
 | 2024-02-01 | 7 |
+| 2023-12-13 | 2 |
+| 2023-03-14 | 1 |
+| 2022-06-13 | 1 |
+| 2022-06-02 | 1 |
+| 2022-04-19 | 1 |
+| 2022-04-11 | 1 |
+| 2022-02-24 | 4 |
+| 2022-02-23 | 1 |
 | 2021-11-02 | 2 |

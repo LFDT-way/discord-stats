@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414671546940915854
-- **Total Messages:** 35
+- **Total Messages:** 37
 - **Last 30 Days:** 0
-- **Last 90 Days:** 23
-- **Last 365 Days:** 35
+- **Last 90 Days:** 2
+- **Last 365 Days:** 37
 - **First Message:** 2025-10-02
-- **Last Message:** 2026-05-05
+- **Last Message:** 2026-08-03
 
 ## Most Active Users
 
@@ -20,11 +20,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 8 | Lab Leader |
-| 2 | Tweeddalex | 7 | Project Maintainer, ToIP |
-| 3 | [drummondreed](https://github.com/talltree) | 6 | Project Maintainer, ToIP |
-| 4 | Scott Perry | 1 | Project Maintainer, ToIP |
-| 5 | microbiocarly | 1 | Project Maintainer, ToIP |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 2 | Lab Leader |
 
 ### Last 365 Days
 
@@ -32,7 +28,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | [drummondreed](https://github.com/talltree) | 13 | Project Maintainer, ToIP |
 | 2 | Tweeddalex | 10 | Project Maintainer, ToIP |
-| 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 8 | Lab Leader |
+| 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 10 | Lab Leader |
 | 4 | Scott Perry | 3 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 1 | Project Maintainer, ToIP |
 
@@ -42,7 +38,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | [drummondreed](https://github.com/talltree) | 13 | Project Maintainer, ToIP |
 | 2 | Tweeddalex | 10 | Project Maintainer, ToIP |
-| 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 8 | Lab Leader |
+| 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 10 | Lab Leader |
 | 4 | Scott Perry | 3 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 1 | Project Maintainer, ToIP |
 
@@ -50,13 +46,15 @@ _No activity in this period._
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 23 |
+| 2026 | 25 |
 | 2025 | 12 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-08 | 1 |
+| 2026-07 | 1 |
 | 2026-05 | 5 |
 | 2026-04 | 13 |
 | 2026-03 | 5 |
@@ -67,6 +65,8 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-08-03 | 1 |
+| 2026-07-30 | 1 |
 | 2026-05-05 | 5 |
 | 2026-04-16 | 2 |
 | 2026-04-09 | 1 |

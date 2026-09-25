@@ -3,12 +3,12 @@
 - **Guild:** OpenWallet Foundation
 - **Category:** Growth Projects
 - **Channel ID:** 1286300013365952583
-- **Total Messages:** 30
+- **Total Messages:** 34
 - **Last 30 Days:** 0
-- **Last 90 Days:** 1
-- **Last 365 Days:** 12
+- **Last 90 Days:** 3
+- **Last 365 Days:** 8
 - **First Message:** 2024-09-24
-- **Last Message:** 2026-05-12
+- **Last Message:** 2026-07-23
 
 ## Most Active Users
 
@@ -20,33 +20,34 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
+| 1 | [jamshale](https://github.com/jamshale) | 2 | Project Maintainer |
+| 2 | José Puma | 1 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | albertoleon_7794 | 3 | — |
-| 2 | [jamshale](https://github.com/jamshale) | 3 | Project Maintainer |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 3 | Linux Foundation Staff |
-| 4 | Muhammad Ahmer Khan | 1 | — |
-| 5 | Pragya Jain | 1 | — |
+| 1 | [jamshale](https://github.com/jamshale) | 2 | Project Maintainer |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
+| 3 | José Puma | 2 | — |
+| 4 | albertoleon_7794 | 1 | — |
+| 5 | Muhammad Ahmer Khan | 1 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [jamshale](https://github.com/jamshale) | 7 | Project Maintainer |
+| 1 | [jamshale](https://github.com/jamshale) | 9 | Project Maintainer |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 6 | Linux Foundation Staff |
-| 3 | albertoleon_7794 | 3 | — |
-| 4 | Akshay Kurhekar | 3 | — |
-| 5 | [GenAris](https://github.com/genaris) | 2 | credo maintainers, Project Maintainer |
+| 3 | Akshay Kurhekar | 3 | — |
+| 4 | albertoleon_7794 | 3 | — |
+| 5 | [Kim Ebert](https://github.com/KimEbert42) | 2 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 3 |
+| 2026 | 7 |
 | 2025 | 21 |
 | 2024 | 6 |
 
@@ -54,6 +55,8 @@ _No activity in this period._
 
 | Month | Messages |
 | --- | --- |
+| 2026-07 | 3 |
+| 2026-06 | 1 |
 | 2026-05 | 1 |
 | 2026-03 | 2 |
 | 2025-10 | 1 |
@@ -70,6 +73,9 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-07-23 | 1 |
+| 2026-07-20 | 2 |
+| 2026-06-23 | 1 |
 | 2026-05-12 | 1 |
 | 2026-03-16 | 2 |
 | 2025-10-03 | 1 |

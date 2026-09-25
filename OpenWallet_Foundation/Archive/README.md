@@ -2,12 +2,12 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1108449580833591338
-- **Total Messages in Category:** 321
+- **Total Messages in Category:** 345
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 2
+- **Last 365 Days:** 1
 - **First Message:** 2022-09-23
-- **Last Message:** 2025-08-08
+- **Last Message:** 2025-10-23
 
 ## Channels in Category
 
@@ -16,9 +16,11 @@
 | [oid4vc-due-diligence-tf](oid4vc-due-diligence-tf_1113475091435634708.md) | 2024-06-21 | 0 | 0 | 0 | 194 |
 | [credential-format-comparison-sig](credential-format-comparison-sig_1113500130419671080.md) | 2024-11-17 | 0 | 0 | 0 | 65 |
 | [wg-payment-tokenisation](wg-payment-tokenisation_1034841444810240001.md) | 2023-12-28 | 0 | 0 | 0 | 37 |
-| [credhub](credhub_1245393681901686913.md) | 2025-08-08 | 0 | 0 | 2 | 15 |
+| [eudi-wallet-kit-react-native](eudi-wallet-kit-react-native_1230175333303717889.md) | 2025-10-23 | 0 | 0 | 1 | 21 |
+| [credhub](credhub_1245393681901686913.md) | 2025-08-08 | 0 | 0 | 0 | 15 |
 | [wg-verifiable-credentials](wg-verifiable-credentials_1034841506919497768.md) | 2023-02-07 | 0 | 0 | 0 | 5 |
 | [official-links](official-links_1022964314644164608.md) | 2023-03-01 | 0 | 0 | 0 | 4 |
+| [solid-data-wallet](solid-data-wallet_1291098042422005801.md) | 2024-11-14 | 0 | 0 | 0 | 3 |
 | [live-discussion-recordings](live-discussion-recordings_1024844347029590016.md) | 2022-09-29 | 0 | 0 | 0 | 1 |
 
 ## Most Active Users
@@ -35,25 +37,24 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 1 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | hakan.yildiz | 71 | Task Force member |
-| 2 | [Mirko](https://github.com/cre8) | 57 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [Mirko](https://github.com/cre8) | 58 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | Thierry (Talao) | 39 | — |
-| 4 | Tracy | 17 | — |
-| 5 | [drummondreed](https://github.com/talltree) | 13 | — |
+| 4 | Tracy | 23 | — |
+| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 15 | Linux Foundation Staff |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2025 | 2 |
-| 2024 | 125 |
+| 2025 | 6 |
+| 2024 | 145 |
 | 2023 | 167 |
 | 2022 | 27 |
 
@@ -61,15 +62,17 @@ _No activity in this period._
 
 | Month | Messages |
 | --- | --- |
+| 2025-10 | 1 |
 | 2025-08 | 2 |
-| 2024-11 | 3 |
+| 2025-04 | 3 |
+| 2024-11 | 6 |
 | 2024-10 | 3 |
 | 2024-09 | 1 |
 | 2024-08 | 8 |
 | 2024-07 | 2 |
-| 2024-06 | 7 |
-| 2024-05 | 17 |
-| 2024-04 | 8 |
+| 2024-06 | 8 |
+| 2024-05 | 26 |
+| 2024-04 | 15 |
 | 2024-03 | 32 |
 | 2024-02 | 25 |
 | 2024-01 | 19 |
@@ -93,9 +96,12 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2025-10-23 | 1 |
 | 2025-08-08 | 2 |
+| 2025-04-16 | 3 |
 | 2024-11-17 | 2 |
-| 2024-11-13 | 1 |
+| 2024-11-14 | 1 |
+| 2024-11-13 | 3 |
 | 2024-10-28 | 1 |
 | 2024-10-11 | 2 |
 | 2024-09-24 | 1 |
@@ -108,7 +114,7 @@ _No activity in this period._
 | 2024-06-29 | 1 |
 | 2024-06-21 | 1 |
 | 2024-06-20 | 1 |
-| 2024-06-12 | 1 |
+| 2024-06-12 | 2 |
 | 2024-06-11 | 1 |
 | 2024-06-10 | 1 |
 | 2024-06-05 | 1 |
@@ -116,13 +122,16 @@ _No activity in this period._
 | 2024-05-29 | 1 |
 | 2024-05-22 | 2 |
 | 2024-05-15 | 5 |
-| 2024-05-14 | 2 |
-| 2024-05-13 | 1 |
+| 2024-05-14 | 4 |
+| 2024-05-13 | 2 |
 | 2024-05-10 | 2 |
 | 2024-05-08 | 2 |
 | 2024-05-07 | 1 |
+| 2024-05-03 | 1 |
+| 2024-05-02 | 5 |
 | 2024-04-24 | 2 |
 | 2024-04-23 | 1 |
+| 2024-04-17 | 7 |
 | 2024-04-15 | 1 |
 | 2024-04-09 | 2 |
 | 2024-04-07 | 2 |

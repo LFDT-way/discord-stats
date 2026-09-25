@@ -5,7 +5,7 @@
 - **Channel ID:** 1469079849158049933
 - **Total Messages:** 16
 - **Last 30 Days:** 0
-- **Last 90 Days:** 1
+- **Last 90 Days:** 0
 - **Last 365 Days:** 16
 - **First Message:** 2026-02-05
 - **Last Message:** 2026-05-05
@@ -18,27 +18,25 @@ _No activity in this period._
 
 ### Last 90 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | ocean-oc3ean | 1 | — |
+_No activity in this period._
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [explorer3](https://github.com/exploreriii) | 12 | Project Maintainer, Hiero maintainer |
-| 2 | [JessicaG](https://github.com/jwagantall) | 2 | LFDT Staff |
-| 3 | ocean-oc3ean | 1 | — |
-| 4 | Deleted User | 1 | — |
+| 2 | [JessicaG](https://github.com/jwagantall) | 2 | lfdt-ca, LFDT Staff |
+| 3 | Deleted User | 1 | — |
+| 4 | ocean-oc3ean | 1 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [explorer3](https://github.com/exploreriii) | 12 | Project Maintainer, Hiero maintainer |
-| 2 | [JessicaG](https://github.com/jwagantall) | 2 | LFDT Staff |
-| 3 | ocean-oc3ean | 1 | — |
-| 4 | Deleted User | 1 | — |
+| 2 | [JessicaG](https://github.com/jwagantall) | 2 | lfdt-ca, LFDT Staff |
+| 3 | Deleted User | 1 | — |
+| 4 | ocean-oc3ean | 1 | — |
 
 ## Yearly Traffic
 

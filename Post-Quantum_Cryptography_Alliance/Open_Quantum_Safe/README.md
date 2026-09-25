@@ -2,19 +2,19 @@
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1203395822390083676
-- **Total Messages in Category:** 249
-- **Last 30 Days:** 4
-- **Last 90 Days:** 14
-- **Last 365 Days:** 69
+- **Total Messages in Category:** 281
+- **Last 30 Days:** 9
+- **Last 90 Days:** 32
+- **Last 365 Days:** 79
 - **First Message:** 2024-02-03
-- **Last Message:** 2026-06-13
+- **Last Message:** 2026-09-23
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [oqs-general](oqs-general_1203395992003678238.md) | 2026-05-13 | 0 | 7 | 62 | 234 |
-| [oqs-call](oqs-call_1214590815695933470.md) | 2026-06-13 | 4 | 7 | 7 | 13 |
+| [oqs-general](oqs-general_1203395992003678238.md) | 2026-09-23 | 9 | 32 | 72 | 266 |
+| [oqs-call](oqs-call_1214590815695933470.md) | 2026-06-13 | 0 | 0 | 7 | 13 |
 | [oqs-github](oqs-github_1214605403527184394.md) | 2024-12-23 | 0 | 0 | 0 | 2 |
 
 ## Most Active Users
@@ -23,28 +23,29 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Loganaden | 2 | — |
-| 2 | brent | 2 | — |
+| 1 | θρπχι | 6 | — |
+| 2 | Meerkatdev | 2 | — |
+| 3 | brent | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Loganaden | 6 | — |
-| 2 | brent | 3 | — |
-| 3 | Vishnu Ajith | 1 | — |
-| 4 | Ayush | 1 | — |
-| 5 | Tim420 | 1 | — |
+| 1 | chozorho | 8 | — |
+| 2 | Ben | 6 | — |
+| 3 | θρπχι | 6 | — |
+| 4 | kstzv | 5 | — |
+| 5 | Meerkatdev | 2 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Snake | 11 | — |
-| 2 | brent | 9 | — |
+| 1 | chozorho | 14 | — |
+| 2 | brent | 10 | — |
 | 3 | cybarg | 7 | — |
-| 4 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 7 | — |
-| 5 | Loganaden | 6 | — |
+| 4 | Ben | 6 | — |
+| 5 | θρπχι | 6 | — |
 
 ### All Time
 
@@ -54,13 +55,13 @@
 | 2 | [RyJones](https://github.com/ryjones) | 28 | LF Staff |
 | 3 | [Nigel Jones](https://github.com/planetf1) | 18 | PQ Code Package Maintainer, Project Maintainer, TAC member |
 | 4 | Jason Goertzen | 16 | Project Maintainer, Open Quantum Safe maintainer |
-| 5 | loganaden5095 | 12 | — |
+| 5 | chozorho | 14 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 31 |
+| 2026 | 63 |
 | 2025 | 46 |
 | 2024 | 172 |
 
@@ -68,7 +69,10 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 2 |
+| 2026-09 | 9 |
+| 2026-08 | 15 |
+| 2026-07 | 2 |
+| 2026-06 | 8 |
 | 2026-05 | 8 |
 | 2026-04 | 4 |
 | 2026-03 | 9 |
@@ -98,6 +102,16 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-23 | 3 |
+| 2026-09-20 | 2 |
+| 2026-09-17 | 4 |
+| 2026-08-23 | 2 |
+| 2026-08-11 | 5 |
+| 2026-08-10 | 6 |
+| 2026-08-02 | 2 |
+| 2026-07-30 | 1 |
+| 2026-07-20 | 1 |
+| 2026-06-27 | 6 |
 | 2026-06-13 | 2 |
 | 2026-05-29 | 1 |
 | 2026-05-28 | 1 |

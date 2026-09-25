@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Labs
 - **Channel ID:** 1502324614204752155
-- **Total Messages:** 45
-- **Last 30 Days:** 39
-- **Last 90 Days:** 45
-- **Last 365 Days:** 45
+- **Total Messages:** 81
+- **Last 30 Days:** 6
+- **Last 90 Days:** 34
+- **Last 365 Days:** 81
 - **First Message:** 2026-05-08
-- **Last Message:** 2026-06-12
+- **Last Message:** 2026-09-22
 
 ## Most Active Users
 
@@ -16,66 +16,84 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Byteledger | 13 | — |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 7 | LFDT Staff |
-| 3 | [OpenAssets](https://github.com/pv-sarvesh) | 7 | Lab Leader |
-| 4 | ManKia | 5 | — |
-| 5 | Abhigyan Singh | 4 | — |
+| 1 | Mukul | 3 | — |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
+| 3 | Zapperombie | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Byteledger | 14 | — |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 10 | LFDT Staff |
-| 3 | [OpenAssets](https://github.com/pv-sarvesh) | 8 | Lab Leader |
-| 4 | ManKia | 5 | — |
-| 5 | Abhigyan Singh | 4 | — |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 13 | lfdt-ca, LFDT Staff |
+| 2 | Zapperombie | 10 | — |
+| 3 | Mukul | 7 | — |
+| 4 | [OA](https://github.com/pv-sarvesh) | 2 | Lab Leader |
+| 5 | Isabela from OpenAssets | 1 | Lab Leader |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Byteledger | 14 | — |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 10 | LFDT Staff |
-| 3 | [OpenAssets](https://github.com/pv-sarvesh) | 8 | Lab Leader |
-| 4 | ManKia | 5 | — |
-| 5 | Abhigyan Singh | 4 | — |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 24 | lfdt-ca, LFDT Staff |
+| 2 | Shrov Jain | 13 | — |
+| 3 | [OA](https://github.com/pv-sarvesh) | 11 | Lab Leader |
+| 4 | Zapperombie | 10 | — |
+| 5 | Mukul | 8 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Byteledger | 14 | — |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 10 | LFDT Staff |
-| 3 | [OpenAssets](https://github.com/pv-sarvesh) | 8 | Lab Leader |
-| 4 | ManKia | 5 | — |
-| 5 | Abhigyan Singh | 4 | — |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 24 | lfdt-ca, LFDT Staff |
+| 2 | Shrov Jain | 13 | — |
+| 3 | [OA](https://github.com/pv-sarvesh) | 11 | Lab Leader |
+| 4 | Zapperombie | 10 | — |
+| 5 | Mukul | 8 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 45 |
+| 2026 | 81 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 6 |
-| 2026-05 | 39 |
+| 2026-09 | 5 |
+| 2026-08 | 8 |
+| 2026-07 | 17 |
+| 2026-06 | 13 |
+| 2026-05 | 38 |
 
 ## Daily Traffic
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-22 | 3 |
+| 2026-09-08 | 2 |
+| 2026-08-25 | 1 |
+| 2026-08-24 | 1 |
+| 2026-08-13 | 1 |
+| 2026-08-11 | 5 |
+| 2026-07-28 | 1 |
+| 2026-07-27 | 1 |
+| 2026-07-24 | 7 |
+| 2026-07-22 | 1 |
+| 2026-07-17 | 4 |
+| 2026-07-14 | 3 |
+| 2026-06-30 | 3 |
+| 2026-06-28 | 1 |
+| 2026-06-25 | 1 |
+| 2026-06-17 | 1 |
+| 2026-06-16 | 1 |
 | 2026-06-12 | 1 |
 | 2026-06-09 | 1 |
 | 2026-06-08 | 1 |
 | 2026-06-05 | 2 |
 | 2026-06-01 | 1 |
 | 2026-05-29 | 1 |
-| 2026-05-28 | 2 |
+| 2026-05-28 | 1 |
 | 2026-05-25 | 6 |
 | 2026-05-22 | 2 |
 | 2026-05-20 | 1 |

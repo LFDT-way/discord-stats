@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Fabric
 - **Channel ID:** 945038395825070141
-- **Total Messages:** 196
+- **Total Messages:** 272
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 12
+- **Last 365 Days:** 21
 - **First Message:** 2022-03-16
-- **Last Message:** 2026-01-29
+- **Last Message:** 2026-06-19
 
 ## Most Active Users
 
@@ -24,47 +24,48 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | ZenDox.X | 4 | — |
-| 2 | Ali | 4 | — |
-| 3 | [Osama_Rabea](https://github.com/OsamaRab3) | 1 | TAC member |
-| 4 | JRM | 1 | — |
-| 5 | saikat21 | 1 | — |
+| 1 | JRM | 6 | — |
+| 2 | ZenDox.X | 4 | — |
+| 3 | Ali | 4 | — |
+| 4 | [jtonline](https://github.com/jt-nti) | 4 | Project Maintainer, Fabric Maintainer |
+| 5 | EliMbadi | 1 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 17 | Project Maintainer, Fabric Maintainer |
-| 2 | jhorton99 | 10 | Project Maintainer, Fabric Maintainer |
-| 3 | JRM | 8 | — |
-| 4 | Martin Stuwe | 7 | — |
-| 5 | [Ry Jones](https://github.com/ryjones) | 6 | LFDT Staff |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 61 | Project Maintainer, Fabric Maintainer |
+| 2 | JRM | 15 | — |
+| 3 | jhorton99 | 10 | Project Maintainer, Fabric Maintainer |
+| 4 | [Dave Enyeart](https://github.com/denyeart) | 9 | Fabric Maintainer, Project Maintainer |
+| 5 | [jtonline](https://github.com/jt-nti) | 8 | Project Maintainer, Fabric Maintainer |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 9 |
-| 2025 | 29 |
-| 2024 | 25 |
-| 2023 | 32 |
-| 2022 | 101 |
+| 2026 | 11 |
+| 2025 | 54 |
+| 2024 | 55 |
+| 2023 | 46 |
+| 2022 | 106 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-06 | 2 |
 | 2026-01 | 9 |
-| 2025-12 | 2 |
+| 2025-12 | 10 |
 | 2025-08 | 1 |
-| 2025-05 | 3 |
-| 2025-04 | 3 |
+| 2025-05 | 11 |
+| 2025-04 | 6 |
 | 2025-03 | 2 |
-| 2025-02 | 2 |
+| 2025-02 | 8 |
 | 2025-01 | 16 |
 | 2024-12 | 1 |
-| 2024-10 | 2 |
-| 2024-09 | 3 |
+| 2024-10 | 24 |
+| 2024-09 | 11 |
 | 2024-08 | 3 |
 | 2024-07 | 1 |
 | 2024-06 | 1 |
@@ -79,9 +80,9 @@ _No activity in this period._
 | 2023-04 | 1 |
 | 2023-03 | 3 |
 | 2023-02 | 4 |
-| 2023-01 | 14 |
+| 2023-01 | 28 |
 | 2022-12 | 5 |
-| 2022-11 | 14 |
+| 2022-11 | 19 |
 | 2022-10 | 1 |
 | 2022-09 | 9 |
 | 2022-08 | 8 |
@@ -95,26 +96,36 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-06-19 | 1 |
+| 2026-06-18 | 1 |
 | 2026-01-29 | 1 |
 | 2026-01-11 | 8 |
-| 2025-12-17 | 1 |
+| 2025-12-18 | 1 |
+| 2025-12-17 | 8 |
 | 2025-12-09 | 1 |
 | 2025-08-07 | 1 |
 | 2025-05-07 | 1 |
-| 2025-05-06 | 1 |
+| 2025-05-06 | 9 |
 | 2025-05-05 | 1 |
 | 2025-04-24 | 1 |
-| 2025-04-22 | 2 |
+| 2025-04-22 | 5 |
 | 2025-03-26 | 1 |
 | 2025-03-25 | 1 |
-| 2025-02-26 | 2 |
+| 2025-02-27 | 1 |
+| 2025-02-26 | 7 |
 | 2025-01-30 | 1 |
 | 2025-01-17 | 3 |
 | 2025-01-15 | 11 |
 | 2025-01-02 | 1 |
 | 2024-12-14 | 1 |
-| 2024-10-02 | 2 |
-| 2024-09-16 | 2 |
+| 2024-10-13 | 2 |
+| 2024-10-12 | 1 |
+| 2024-10-09 | 1 |
+| 2024-10-03 | 2 |
+| 2024-10-02 | 18 |
+| 2024-09-19 | 1 |
+| 2024-09-17 | 2 |
+| 2024-09-16 | 7 |
 | 2024-09-10 | 1 |
 | 2024-08-29 | 1 |
 | 2024-08-25 | 1 |
@@ -149,13 +160,14 @@ _No activity in this period._
 | 2023-02-20 | 1 |
 | 2023-02-19 | 1 |
 | 2023-02-15 | 1 |
-| 2023-01-26 | 1 |
+| 2023-01-26 | 2 |
 | 2023-01-22 | 1 |
 | 2023-01-20 | 5 |
 | 2023-01-19 | 1 |
-| 2023-01-17 | 1 |
-| 2023-01-15 | 1 |
-| 2023-01-12 | 2 |
+| 2023-01-17 | 4 |
+| 2023-01-15 | 2 |
+| 2023-01-13 | 2 |
+| 2023-01-12 | 9 |
 | 2023-01-05 | 1 |
 | 2023-01-02 | 1 |
 | 2022-12-29 | 2 |
@@ -163,7 +175,8 @@ _No activity in this period._
 | 2022-12-13 | 1 |
 | 2022-12-10 | 1 |
 | 2022-11-28 | 1 |
-| 2022-11-17 | 6 |
+| 2022-11-18 | 1 |
+| 2022-11-17 | 10 |
 | 2022-11-15 | 4 |
 | 2022-11-06 | 1 |
 | 2022-11-05 | 1 |

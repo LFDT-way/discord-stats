@@ -5,7 +5,7 @@
 - **Channel ID:** 1414671233903235142
 - **Total Messages:** 32
 - **Last 30 Days:** 0
-- **Last 90 Days:** 3
+- **Last 90 Days:** 0
 - **Last 365 Days:** 32
 - **First Message:** 2025-09-29
 - **Last Message:** 2026-05-13
@@ -18,10 +18,7 @@ _No activity in this period._
 
 ### Last 90 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 2 | Lab Leader |
-| 2 | NeilJT | 1 | ToIP |
+_No activity in this period._
 
 ### Last 365 Days
 
@@ -30,8 +27,8 @@ _No activity in this period._
 | 1 | NeilJT | 12 | ToIP |
 | 2 | Kent Bull | 9 | Project Maintainer, ToIP |
 | 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
-| 4 | microbiocarly | 1 | Project Maintainer, ToIP |
-| 5 | Patrick St-Louis | 1 | Project Maintainer, ToIP |
+| 4 | [swcurran](https://github.com/swcurran) | 1 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
+| 5 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 1 | Project Maintainer, ToIP |
 
 ### All Time
 
@@ -40,8 +37,8 @@ _No activity in this period._
 | 1 | NeilJT | 12 | ToIP |
 | 2 | Kent Bull | 9 | Project Maintainer, ToIP |
 | 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
-| 4 | microbiocarly | 1 | Project Maintainer, ToIP |
-| 5 | Patrick St-Louis | 1 | Project Maintainer, ToIP |
+| 4 | [swcurran](https://github.com/swcurran) | 1 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
+| 5 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 1 | Project Maintainer, ToIP |
 
 ## Yearly Traffic
 

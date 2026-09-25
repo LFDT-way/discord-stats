@@ -2,21 +2,21 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1111041471768961044
-- **Total Messages in Category:** 1,815
-- **Last 30 Days:** 5
-- **Last 90 Days:** 21
-- **Last 365 Days:** 163
+- **Total Messages in Category:** 1,835
+- **Last 30 Days:** 11
+- **Last 90 Days:** 19
+- **Last 365 Days:** 129
 - **First Message:** 2022-09-28
-- **Last Message:** 2026-06-01
+- **Last Message:** 2026-09-17
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [architecture-sig](architecture-sig_1024688298389688360.md) | 2026-06-01 | 3 | 14 | 49 | 895 |
+| [architecture-sig](architecture-sig_1024688298389688360.md) | 2026-08-10 | 0 | 2 | 47 | 898 |
 | [safe-wallet-sig](safe-wallet-sig_1154410858991067247.md) | 2025-05-12 | 0 | 0 | 0 | 393 |
-| [wallet-interoperability-sig](wallet-interoperability-sig_1291067233967149150.md) | 2026-06-01 | 2 | 7 | 86 | 204 |
-| [tac](tac_1080192375621685288.md) | 2026-03-12 | 0 | 0 | 18 | 185 |
+| [wallet-interoperability-sig](wallet-interoperability-sig_1291067233967149150.md) | 2026-06-01 | 0 | 0 | 47 | 204 |
+| [tac](tac_1080192375621685288.md) | 2026-09-17 | 11 | 17 | 25 | 202 |
 | [digital-wallet-and-agent-overviews-sig](digital-wallet-and-agent-overviews-sig_1154111877077532814.md) | 2025-11-17 | 0 | 0 | 10 | 138 |
 
 ## Most Active Users
@@ -25,28 +25,30 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | davidejalexander | 2 | SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 6 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
-| 3 | Ginga | 1 | — |
+| 3 | Manthan | 2 | — |
+| 4 | RMLearney | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | davidejalexander | 13 | SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 6 | Linux Foundation Staff |
-| 3 | Ginga | 1 | — |
-| 4 | [drummondreed](https://github.com/talltree) | 1 | — |
+| 1 | [Mirko](https://github.com/cre8) | 8 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [Ry Jones, OWF](https://github.com/ryjones) | 3 | Linux Foundation Staff |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
+| 4 | Manthan | 2 | — |
+| 5 | davidejalexander | 2 | SIG member |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 53 | Linux Foundation Staff |
-| 2 | davidejalexander | 41 | SIG member |
-| 3 | [cjhowland](https://github.com/cjhowland) | 28 | — |
-| 4 | [Mirko](https://github.com/cre8) | 12 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 5 | Samuel | 5 | SIG member |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 38 | Linux Foundation Staff |
+| 2 | davidejalexander | 37 | SIG member |
+| 3 | [Mirko](https://github.com/cre8) | 16 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 4 | [cjhowland](https://github.com/cjhowland) | 6 | — |
+| 5 | Jim St.Clair | 5 | SIG member |
 
 ### All Time
 
@@ -54,7 +56,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Tracy | 297 | — |
 | 2 | OR13 | 157 | — |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 151 | Linux Foundation Staff |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 154 | Linux Foundation Staff |
 | 4 | Andy Tobin | 130 | — |
 | 5 | [drummondreed](https://github.com/talltree) | 115 | — |
 
@@ -62,7 +64,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 59 |
+| 2026 | 79 |
 | 2025 | 254 |
 | 2024 | 551 |
 | 2023 | 399 |
@@ -72,7 +74,10 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 3 |
+| 2026-09 | 11 |
+| 2026-08 | 1 |
+| 2026-07 | 4 |
+| 2026-06 | 7 |
 | 2026-05 | 8 |
 | 2026-04 | 7 |
 | 2026-03 | 6 |
@@ -123,6 +128,15 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-17 | 5 |
+| 2026-09-16 | 6 |
+| 2026-08-10 | 1 |
+| 2026-07-27 | 1 |
+| 2026-07-01 | 3 |
+| 2026-06-30 | 1 |
+| 2026-06-29 | 1 |
+| 2026-06-26 | 1 |
+| 2026-06-15 | 1 |
 | 2026-06-01 | 3 |
 | 2026-05-21 | 1 |
 | 2026-05-18 | 1 |

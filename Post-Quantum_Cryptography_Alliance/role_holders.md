@@ -6,34 +6,36 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
-- **Role holders:** 23
-- **Inactive (no msgs in 365d):** 13
+- **Role holders:** 25
+- **Inactive (no msgs in 365d):** 14
 - **Never posted (0 all-time):** 5
-- **Report generated:** 2026-06-15
+- **Report generated:** 2026-09-24
 
 | User | Roles | Last Msg | 30d | 90d | 365d | All-Time | All Guilds 365d |
 | :--- | :--- | :--- | ---: | ---: | ---: | ---: | ---: |
 | K4TR1N | CBOM maintainer, Project Maintainer | never | 0 | 0 | 0 | 0 | 0 |
-| [Min Yu](https://github.com/minyu66) | LF Staff | never | 0 | 0 | 0 | 0 | **15** (elsewhere) |
+| [Min Yu](https://github.com/minyu66) | LF Staff | never | 0 | 0 | 0 | 0 | **14** (elsewhere) |
 | PQCA-bot | LF Staff | never | 0 | 0 | 0 | 0 | 0 |
-| Tomaz | LF Staff | never | 0 | 0 | 0 | 0 | **34** (elsewhere) |
+| Tomaz | LF Staff | never | 0 | 0 | 0 | 0 | **30** (elsewhere) |
 | Yarkin Doroz | TAC member | never | 0 | 0 | 0 | 0 | 0 |
-| [davidwboswell](https://github.com/davidwboswell) | LF Staff | 2024-02-01 | 0 | 0 | 0 | 2 | **72** (elsewhere) |
-| [SeanBohan](https://github.com/SeanBohan) | LF Staff | 2024-02-01 | 0 | 0 | 0 | 2 | **390** (elsewhere) |
-| [danielabarbosa](https://github.com/daniela-barbosa) | LF Staff | 2024-02-02 | 0 | 0 | 0 | 2 | **9** (elsewhere) |
+| [davidwboswell](https://github.com/davidwboswell) | LF Staff | 2024-02-01 | 0 | 0 | 0 | 2 | **83** (elsewhere) |
+| [SeanBohan](https://github.com/SeanBohan) | LF Staff | 2024-02-01 | 0 | 0 | 0 | 2 | **388** (elsewhere) |
+| [danielabarbosa](https://github.com/daniela-barbosa) | LF Staff | 2024-02-02 | 0 | 0 | 0 | 2 | **7** (elsewhere) |
 | [Norman Ashley](https://github.com/ashman-p) | TAC member | 2024-03-12 | 0 | 0 | 0 | 4 | 0 |
 | max | TAC member | 2024-05-22 | 0 | 0 | 0 | 6 | 0 |
 | [Brian Jarvis](https://github.com/brian-jarvis-aws) | TAC member | 2024-06-13 | 0 | 0 | 0 | 4 | 0 |
 | Jason Goertzen | Project Maintainer, Open Quantum Safe maintainer | 2024-09-04 | 0 | 0 | 0 | 23 | 0 |
 | [Nigel Jones](https://github.com/planetf1) | PQ Code Package Maintainer, Project Maintainer, TAC member | 2025-06-02 | 0 | 0 | 0 | 182 | 0 |
+| Douglas Stebila | PQ Code Package Maintainer, Project Maintainer | 2025-09-10 | 0 | 0 | 0 | 23 | 0 |
 | Fynn Thierling | CBOM maintainer, Project Maintainer | 2025-12-03 | 0 | 0 | 1 | 1 | 1 |
-| Douglas Stebila | PQ Code Package Maintainer, Project Maintainer | 2025-09-10 | 0 | 0 | 4 | 23 | 4 |
-| [hartm](https://github.com/hartm) | LF Staff | 2026-04-02 | 0 | 1 | 5 | 21 | 16 |
-| Chrissy Harter | LF Staff | 2026-05-18 | 1 | 1 | 5 | 5 | 8 |
-| [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | CBOM maintainer, Project Maintainer | 2026-02-06 | 0 | 0 | 9 | 11 | 9 |
-| Jake | PQ Code Package Maintainer, Project Maintainer | 2026-04-30 | 0 | 1 | 83 | 163 | 83 |
-| [RyJones](https://github.com/ryjones) | LF Staff | 2026-05-30 | 2 | 12 | 103 | 316 | 821 |
-| Hanno | PQ Code Package Maintainer | 2026-05-30 | 2 | 11 | 146 | 381 | 146 |
-| [Matthias Kannwischer](https://github.com/mkannwischer) | PQ Code Package Maintainer, Project Maintainer | 2026-06-11 | 12 | 62 | 690 | 1,039 | 690 |
-| Rod | PQ Code Package Maintainer, Project Maintainer | 2026-06-10 | 1 | 71 | 820 | 1,102 | 820 |
+| [Andreas Schade](https://github.com/san-zrl) | CBOM maintainer, Project Maintainer | 2026-06-16 | 0 | 0 | 2 | 2 | 2 |
+| [hartm](https://github.com/hartm) | LF Staff | 2026-04-02 | 0 | 0 | 5 | 21 | 17 |
+| Chrissy Harter | LF Staff | 2026-05-18 | 0 | 0 | 5 | 5 | 8 |
+| [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | CBOM maintainer, Project Maintainer | 2026-02-06 | 0 | 0 | 7 | 11 | 7 |
+| Severus Snape | TAC member | 2026-09-23 | 3 | 5 | 22 | 32 | 22 |
+| Jake | PQ Code Package Maintainer, Project Maintainer | 2026-08-10 | 0 | 4 | 53 | 169 | 53 |
+| [RyJones](https://github.com/ryjones) | LF Staff | 2026-08-28 | 3 | 5 | 103 | 325 | 1,125 |
+| Hanno | PQ Code Package Maintainer | 2026-09-08 | 10 | 16 | 110 | 405 | 110 |
+| [Matthias Kannwischer](https://github.com/mkannwischer) | PQ Code Package Maintainer, Project Maintainer | 2026-09-11 | 18 | 86 | 477 | 1,139 | 477 |
+| Rod | PQ Code Package Maintainer, Project Maintainer | 2026-09-14 | 33 | 119 | 521 | 1,271 | 521 |
 

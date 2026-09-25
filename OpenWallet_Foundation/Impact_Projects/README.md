@@ -2,18 +2,18 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1285999377751736443
-- **Total Messages in Category:** 852
-- **Last 30 Days:** 18
-- **Last 90 Days:** 32
-- **Last 365 Days:** 248
+- **Total Messages in Category:** 868
+- **Last 30 Days:** 2
+- **Last 90 Days:** 18
+- **Last 365 Days:** 172
 - **First Message:** 2024-09-26
-- **Last Message:** 2026-06-15
+- **Last Message:** 2026-09-15
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aca-py](aca-py_1286299858994462842.md) | 2026-06-15 | 18 | 32 | 246 | 791 |
+| [aca-py](aca-py_1286299858994462842.md) | 2026-09-15 | 2 | 18 | 170 | 807 |
 | [acapy-did-registration](acapy-did-registration_1303470616581509130.md) | 2025-10-25 | 0 | 0 | 2 | 61 |
 
 ## Most Active Users
@@ -22,47 +22,43 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | PStLouis | 5 | Lab Maintainer, Project Maintainer |
-| 2 | RMLearney | 4 | — |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 3 | Linux Foundation Staff |
-| 4 | Timbl | 3 | — |
-| 5 | Thiago Romano | 3 | — |
+| 1 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Timbl | 9 | — |
-| 2 | PStLouis | 5 | Lab Maintainer, Project Maintainer |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 5 | Linux Foundation Staff |
-| 4 | Thiago Romano | 5 | — |
-| 5 | RMLearney | 4 | — |
+| 1 | [swcurran](https://github.com/swcurran) | 5 | Lab Maintainer, TAC members, Project Maintainer |
+| 2 | vivek | 5 | — |
+| 3 | [jamshale](https://github.com/jamshale) | 4 | Project Maintainer |
+| 4 | PStLouis | 3 | Lab Maintainer, Project Maintainer |
+| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | PStLouis | 41 | Lab Maintainer, Project Maintainer |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 22 | Linux Foundation Staff |
-| 3 | [swcurran](https://github.com/swcurran) | 21 | Lab Maintainer, TAC members, Project Maintainer |
-| 4 | [jamshale](https://github.com/jamshale) | 17 | Project Maintainer |
-| 5 | albertoleon_7794 | 12 | — |
+| 1 | PStLouis | 31 | Lab Maintainer, Project Maintainer |
+| 2 | [swcurran](https://github.com/swcurran) | 22 | Lab Maintainer, TAC members, Project Maintainer |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 21 | Linux Foundation Staff |
+| 4 | [jamshale](https://github.com/jamshale) | 9 | Project Maintainer |
+| 5 | vivek | 8 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | PStLouis | 163 | Lab Maintainer, Project Maintainer |
-| 2 | [swcurran](https://github.com/swcurran) | 101 | Lab Maintainer, TAC members, Project Maintainer |
-| 3 | [jamshale](https://github.com/jamshale) | 82 | Project Maintainer |
-| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 48 | Linux Foundation Staff |
+| 1 | PStLouis | 166 | Lab Maintainer, Project Maintainer |
+| 2 | [swcurran](https://github.com/swcurran) | 107 | Lab Maintainer, TAC members, Project Maintainer |
+| 3 | [jamshale](https://github.com/jamshale) | 86 | Project Maintainer |
+| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 49 | Linux Foundation Staff |
 | 5 | friendlyfire137 | 37 | Project Maintainer |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 77 |
+| 2026 | 93 |
 | 2025 | 531 |
 | 2024 | 244 |
 
@@ -70,11 +66,14 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 13 |
-| 2026-05 | 14 |
+| 2026-09 | 1 |
+| 2026-08 | 2 |
+| 2026-07 | 15 |
+| 2026-06 | 15 |
+| 2026-05 | 12 |
 | 2026-04 | 2 |
 | 2026-03 | 4 |
-| 2026-02 | 34 |
+| 2026-02 | 32 |
 | 2026-01 | 10 |
 | 2025-12 | 30 |
 | 2025-11 | 26 |
@@ -97,14 +96,21 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-06-15 | 4 |
+| 2026-09-15 | 1 |
+| 2026-08-30 | 1 |
+| 2026-08-18 | 1 |
+| 2026-07-28 | 1 |
+| 2026-07-22 | 3 |
+| 2026-07-21 | 5 |
+| 2026-07-20 | 5 |
+| 2026-07-06 | 1 |
+| 2026-06-22 | 1 |
+| 2026-06-15 | 5 |
 | 2026-06-13 | 1 |
 | 2026-06-11 | 4 |
 | 2026-06-10 | 2 |
 | 2026-06-09 | 1 |
 | 2026-06-02 | 1 |
-| 2026-05-28 | 1 |
-| 2026-05-27 | 1 |
 | 2026-05-22 | 1 |
 | 2026-05-21 | 1 |
 | 2026-05-20 | 1 |
@@ -125,8 +131,7 @@
 | 2026-02-11 | 3 |
 | 2026-02-10 | 5 |
 | 2026-02-09 | 2 |
-| 2026-02-06 | 2 |
-| 2026-02-05 | 1 |
+| 2026-02-06 | 1 |
 | 2026-02-04 | 1 |
 | 2026-01-27 | 1 |
 | 2026-01-13 | 1 |

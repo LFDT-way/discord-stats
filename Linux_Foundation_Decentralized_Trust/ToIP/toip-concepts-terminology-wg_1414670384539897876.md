@@ -3,62 +3,61 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414670384539897876
-- **Total Messages:** 56
-- **Last 30 Days:** 1
-- **Last 90 Days:** 17
-- **Last 365 Days:** 56
+- **Total Messages:** 66
+- **Last 30 Days:** 0
+- **Last 90 Days:** 10
+- **Last 365 Days:** 66
 - **First Message:** 2025-09-27
-- **Last Message:** 2026-06-01
+- **Last Message:** 2026-08-20
 
 ## Most Active Users
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 1 | Project Maintainer, ToIP |
+_No activity in this period._
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 7 | Project Maintainer, ToIP |
-| 2 | microbiocarly | 4 | Project Maintainer, ToIP |
-| 3 | Henk van Cann | 2 | Project Maintainer, ToIP |
-| 4 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 2 | Lab Leader |
-| 5 | Adligo | 1 | — |
+| 1 | [drummondreed](https://github.com/talltree) | 5 | Project Maintainer, ToIP |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 3 | Lab Leader |
+| 3 | Henk van Cann | 1 | Project Maintainer, ToIP |
+| 4 | microbiocarly | 1 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 20 | Project Maintainer, ToIP |
-| 2 | Henk van Cann | 14 | Project Maintainer, ToIP |
-| 3 | microbiocarly | 9 | Project Maintainer, ToIP |
-| 4 | stevevitka | 4 | ToIP |
-| 5 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 3 | Lab Leader |
+| 1 | [drummondreed](https://github.com/talltree) | 25 | Project Maintainer, ToIP |
+| 2 | Henk van Cann | 15 | Project Maintainer, ToIP |
+| 3 | microbiocarly | 10 | Project Maintainer, ToIP |
+| 4 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 6 | Lab Leader |
+| 5 | stevevitka | 4 | ToIP |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 20 | Project Maintainer, ToIP |
-| 2 | Henk van Cann | 14 | Project Maintainer, ToIP |
-| 3 | microbiocarly | 9 | Project Maintainer, ToIP |
-| 4 | stevevitka | 4 | ToIP |
-| 5 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 3 | Lab Leader |
+| 1 | [drummondreed](https://github.com/talltree) | 25 | Project Maintainer, ToIP |
+| 2 | Henk van Cann | 15 | Project Maintainer, ToIP |
+| 3 | microbiocarly | 10 | Project Maintainer, ToIP |
+| 4 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 6 | Lab Leader |
+| 5 | stevevitka | 4 | ToIP |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 21 |
+| 2026 | 31 |
 | 2025 | 35 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-08 | 5 |
+| 2026-07 | 5 |
 | 2026-06 | 1 |
 | 2026-05 | 7 |
 | 2026-04 | 7 |
@@ -73,6 +72,10 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-08-20 | 2 |
+| 2026-08-17 | 1 |
+| 2026-08-03 | 2 |
+| 2026-07-06 | 5 |
 | 2026-06-01 | 1 |
 | 2026-05-14 | 3 |
 | 2026-05-09 | 3 |

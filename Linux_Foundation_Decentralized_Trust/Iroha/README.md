@@ -2,19 +2,19 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205784550440990
-- **Total Messages in Category:** 1,671
+- **Total Messages in Category:** 1,684
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
 - **Last 365 Days:** 3
 - **First Message:** 2022-02-10
-- **Last Message:** 2025-10-27
+- **Last Message:** 2026-04-12
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [iroha](iroha_905205848547155968.md) | 2025-10-27 | 0 | 0 | 1 | 1,250 |
-| [iroha-2-contributors](iroha-2-contributors_968576696154476575.md) | 2025-10-23 | 0 | 0 | 2 | 421 |
+| [iroha](iroha_905205848547155968.md) | 2026-04-12 | 0 | 0 | 2 | 1,251 |
+| [iroha-2-contributors](iroha-2-contributors_968576696154476575.md) | 2025-10-23 | 0 | 0 | 1 | 433 |
 
 ## Most Active Users
 
@@ -30,8 +30,9 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 2 | TAC member, Chapter Leader |
-| 2 | Raj | 1 | — |
+| 1 | Raj | 1 | — |
+| 2 | [Arun S M](https://github.com/arsulegai) | 1 | TAC member, Chapter Leader |
+| 3 | The Equalizer | 1 | — |
 
 ### All Time
 
@@ -39,7 +40,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | Deleted User | 421 | — |
 | 2 | jsjs77 | 324 | — |
-| 3 | 6r1d | 216 | — |
+| 3 | 6r1d | 221 | — |
 | 4 | Rargy | 95 | — |
 | 5 | Omkar | 69 | — |
 
@@ -47,15 +48,17 @@ _No activity in this period._
 
 | Year | Messages |
 | --- | --- |
+| 2026 | 1 |
 | 2025 | 21 |
 | 2024 | 105 |
-| 2023 | 954 |
+| 2023 | 966 |
 | 2022 | 591 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-04 | 1 |
 | 2025-10 | 2 |
 | 2025-08 | 1 |
 | 2025-05 | 4 |
@@ -76,7 +79,7 @@ _No activity in this period._
 | 2023-12 | 6 |
 | 2023-11 | 35 |
 | 2023-10 | 31 |
-| 2023-09 | 8 |
+| 2023-09 | 20 |
 | 2023-08 | 87 |
 | 2023-07 | 442 |
 | 2023-06 | 8 |
@@ -101,6 +104,7 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-04-12 | 1 |
 | 2025-10-27 | 1 |
 | 2025-10-23 | 1 |
 | 2025-08-14 | 1 |
@@ -177,7 +181,7 @@ _No activity in this period._
 | 2023-10-05 | 18 |
 | 2023-10-03 | 6 |
 | 2023-09-18 | 2 |
-| 2023-09-14 | 1 |
+| 2023-09-14 | 13 |
 | 2023-09-07 | 3 |
 | 2023-09-01 | 2 |
 | 2023-08-31 | 3 |

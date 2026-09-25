@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414671863057223820
-- **Total Messages:** 33
-- **Last 30 Days:** 2
-- **Last 90 Days:** 20
-- **Last 365 Days:** 33
+- **Total Messages:** 55
+- **Last 30 Days:** 9
+- **Last 90 Days:** 22
+- **Last 365 Days:** 55
 - **First Message:** 2025-10-05
-- **Last Message:** 2026-06-09
+- **Last Message:** 2026-09-23
 
 ## Most Active Users
 
@@ -16,49 +16,50 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 2 | Project Maintainer, ToIP |
+| 1 | [firegod](https://github.com/wenjing) | 6 | Project Maintainer, ToIP |
+| 2 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 9 | Project Maintainer, ToIP |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 5 | Lab Leader |
-| 3 | microbiocarly | 3 | Project Maintainer, ToIP |
-| 4 | Tweeddalex | 2 | Project Maintainer, ToIP |
-| 5 | Jo Spencer | 1 | Project Maintainer, ToIP |
+| 1 | [firegod](https://github.com/wenjing) | 14 | Project Maintainer, ToIP |
+| 2 | [drummondreed](https://github.com/talltree) | 8 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 18 | Project Maintainer, ToIP |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 6 | Lab Leader |
-| 3 | microbiocarly | 4 | Project Maintainer, ToIP |
-| 4 | Tweeddalex | 2 | Project Maintainer, ToIP |
+| 1 | [drummondreed](https://github.com/talltree) | 26 | Project Maintainer, ToIP |
+| 2 | [firegod](https://github.com/wenjing) | 15 | Project Maintainer, ToIP |
+| 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 6 | Lab Leader |
+| 4 | microbiocarly | 4 | Project Maintainer, ToIP |
 | 5 | Jo Spencer | 2 | Project Maintainer, ToIP |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 18 | Project Maintainer, ToIP |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 6 | Lab Leader |
-| 3 | microbiocarly | 4 | Project Maintainer, ToIP |
-| 4 | Tweeddalex | 2 | Project Maintainer, ToIP |
+| 1 | [drummondreed](https://github.com/talltree) | 26 | Project Maintainer, ToIP |
+| 2 | [firegod](https://github.com/wenjing) | 15 | Project Maintainer, ToIP |
+| 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 6 | Lab Leader |
+| 4 | microbiocarly | 4 | Project Maintainer, ToIP |
 | 5 | Jo Spencer | 2 | Project Maintainer, ToIP |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 27 |
+| 2026 | 49 |
 | 2025 | 6 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-09 | 7 |
+| 2026-08 | 11 |
+| 2026-07 | 4 |
 | 2026-06 | 2 |
 | 2026-04 | 15 |
 | 2026-03 | 3 |
@@ -72,6 +73,21 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-23 | 1 |
+| 2026-09-10 | 1 |
+| 2026-09-01 | 5 |
+| 2026-08-30 | 1 |
+| 2026-08-26 | 1 |
+| 2026-08-24 | 1 |
+| 2026-08-21 | 2 |
+| 2026-08-11 | 1 |
+| 2026-08-08 | 1 |
+| 2026-08-06 | 1 |
+| 2026-08-05 | 1 |
+| 2026-08-04 | 1 |
+| 2026-08-03 | 1 |
+| 2026-07-31 | 2 |
+| 2026-07-07 | 2 |
 | 2026-06-09 | 1 |
 | 2026-06-01 | 1 |
 | 2026-04-13 | 1 |

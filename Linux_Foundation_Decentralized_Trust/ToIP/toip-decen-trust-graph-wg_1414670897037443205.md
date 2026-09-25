@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414670897037443205
-- **Total Messages:** 280
-- **Last 30 Days:** 14
-- **Last 90 Days:** 71
-- **Last 365 Days:** 280
+- **Total Messages:** 428
+- **Last 30 Days:** 55
+- **Last 90 Days:** 135
+- **Last 365 Days:** 428
 - **First Message:** 2025-09-24
-- **Last Message:** 2026-06-10
+- **Last Message:** 2026-09-24
 
 ## Most Active Users
 
@@ -16,54 +16,57 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 7 | Project Maintainer, ToIP |
-| 2 | microbiocarly | 2 | Project Maintainer, ToIP |
-| 3 | [Ry Jones](https://github.com/ryjones) | 2 | LFDT Staff |
-| 4 | Adligo | 2 | — |
-| 5 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 1 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 20 | Lab Leader |
+| 2 | [drummondreed](https://github.com/talltree) | 14 | Project Maintainer, ToIP |
+| 3 | lyn brooks | 7 | Project Maintainer, ToIP |
+| 4 | microbiocarly | 7 | Project Maintainer, ToIP |
+| 5 | [firegod](https://github.com/wenjing) | 4 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 24 | Project Maintainer, ToIP |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 23 | Lab Leader |
-| 3 | stevevitka | 8 | ToIP |
-| 4 | microbiocarly | 4 | Project Maintainer, ToIP |
-| 5 | [Ry Jones](https://github.com/ryjones) | 2 | LFDT Staff |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 55 | Lab Leader |
+| 2 | [drummondreed](https://github.com/talltree) | 32 | Project Maintainer, ToIP |
+| 3 | Nicky H | 21 | Project Maintainer, ToIP |
+| 4 | microbiocarly | 10 | Project Maintainer, ToIP |
+| 5 | lyn brooks | 7 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 108 | Project Maintainer, ToIP |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 63 | Lab Leader |
-| 3 | Jonathan Bellack | 16 | Project Maintainer, ToIP |
-| 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 13 | Project Maintainer, ToIP |
-| 5 | Nicky H | 9 | Project Maintainer, ToIP |
+| 1 | [drummondreed](https://github.com/talltree) | 145 | Project Maintainer, ToIP |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 121 | Lab Leader |
+| 3 | Nicky H | 30 | Project Maintainer, ToIP |
+| 4 | Jonathan Bellack | 16 | Project Maintainer, ToIP |
+| 5 | microbiocarly | 15 | Project Maintainer, ToIP |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 108 | Project Maintainer, ToIP |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 63 | Lab Leader |
-| 3 | Jonathan Bellack | 16 | Project Maintainer, ToIP |
-| 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 13 | Project Maintainer, ToIP |
-| 5 | Nicky H | 9 | Project Maintainer, ToIP |
+| 1 | [drummondreed](https://github.com/talltree) | 145 | Project Maintainer, ToIP |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 121 | Lab Leader |
+| 3 | Nicky H | 30 | Project Maintainer, ToIP |
+| 4 | Jonathan Bellack | 16 | Project Maintainer, ToIP |
+| 5 | microbiocarly | 15 | Project Maintainer, ToIP |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 138 |
+| 2026 | 286 |
 | 2025 | 142 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 3 |
+| 2026-09 | 30 |
+| 2026-08 | 54 |
+| 2026-07 | 51 |
+| 2026-06 | 16 |
 | 2026-05 | 26 |
 | 2026-04 | 20 |
 | 2026-03 | 29 |
@@ -78,6 +81,61 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-24 | 2 |
+| 2026-09-23 | 3 |
+| 2026-09-22 | 1 |
+| 2026-09-19 | 1 |
+| 2026-09-18 | 5 |
+| 2026-09-17 | 2 |
+| 2026-09-15 | 4 |
+| 2026-09-14 | 1 |
+| 2026-09-10 | 1 |
+| 2026-09-09 | 6 |
+| 2026-09-04 | 2 |
+| 2026-09-03 | 2 |
+| 2026-08-31 | 1 |
+| 2026-08-30 | 2 |
+| 2026-08-28 | 2 |
+| 2026-08-27 | 4 |
+| 2026-08-26 | 14 |
+| 2026-08-25 | 2 |
+| 2026-08-22 | 3 |
+| 2026-08-19 | 1 |
+| 2026-08-18 | 1 |
+| 2026-08-17 | 1 |
+| 2026-08-16 | 1 |
+| 2026-08-15 | 1 |
+| 2026-08-14 | 4 |
+| 2026-08-13 | 1 |
+| 2026-08-12 | 1 |
+| 2026-08-11 | 2 |
+| 2026-08-10 | 4 |
+| 2026-08-07 | 1 |
+| 2026-08-06 | 2 |
+| 2026-08-05 | 2 |
+| 2026-08-04 | 2 |
+| 2026-08-03 | 2 |
+| 2026-07-29 | 5 |
+| 2026-07-28 | 2 |
+| 2026-07-27 | 1 |
+| 2026-07-24 | 1 |
+| 2026-07-23 | 7 |
+| 2026-07-21 | 2 |
+| 2026-07-20 | 1 |
+| 2026-07-18 | 2 |
+| 2026-07-16 | 3 |
+| 2026-07-15 | 4 |
+| 2026-07-14 | 2 |
+| 2026-07-10 | 1 |
+| 2026-07-09 | 2 |
+| 2026-07-08 | 5 |
+| 2026-07-02 | 2 |
+| 2026-07-01 | 11 |
+| 2026-06-25 | 2 |
+| 2026-06-24 | 5 |
+| 2026-06-23 | 3 |
+| 2026-06-22 | 1 |
+| 2026-06-17 | 2 |
 | 2026-06-10 | 1 |
 | 2026-06-01 | 2 |
 | 2026-05-27 | 1 |

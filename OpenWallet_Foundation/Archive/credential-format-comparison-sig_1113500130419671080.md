@@ -30,9 +30,9 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 39 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [drummondreed](https://github.com/talltree) | 7 | — |
-| 3 | sailor_985 | 4 | — |
-| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 4 | Linux Foundation Staff |
-| 5 | Deleted User | 2 | — |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 4 | Linux Foundation Staff |
+| 4 | sailor_985 | 4 | — |
+| 5 | Sebastian Elfors (IDnow) | 2 | — |
 
 ## Yearly Traffic
 

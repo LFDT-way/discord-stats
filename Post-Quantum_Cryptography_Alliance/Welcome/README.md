@@ -2,19 +2,19 @@
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1202723483289780234
-- **Total Messages in Category:** 453
-- **Last 30 Days:** 15
-- **Last 90 Days:** 39
-- **Last 365 Days:** 173
+- **Total Messages in Category:** 495
+- **Last 30 Days:** 20
+- **Last 90 Days:** 36
+- **Last 365 Days:** 169
 - **First Message:** 2024-02-01
-- **Last Message:** 2026-06-05
+- **Last Message:** 2026-09-24
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [general](general_1202723483289780236.md) | 2026-06-05 | 14 | 38 | 165 | 415 |
-| [linkedin](linkedin_1205645746192261220.md) | 2026-05-24 | 1 | 1 | 8 | 33 |
+| [general](general_1202723483289780236.md) | 2026-09-24 | 20 | 36 | 167 | 457 |
+| [linkedin](linkedin_1205645746192261220.md) | 2026-05-24 | 0 | 0 | 2 | 33 |
 | [links](links_1205170239436754974.md) | 2024-02-13 | 0 | 0 | 0 | 4 |
 | [events](events_1214569223012089878.md) | 2025-03-11 | 0 | 0 | 0 | 1 |
 
@@ -24,37 +24,37 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | N.Nova | 3 | — |
-| 2 | Loganaden | 2 | — |
-| 3 | Bigood | 2 | — |
-| 4 | brent | 2 | — |
-| 5 | Vishnu Ajith | 1 | — |
+| 1 | θρπχι | 6 | — |
+| 2 | Severus Snape | 3 | TAC member |
+| 3 | Ahmed Mohammed Umar | 2 | — |
+| 4 | Jarek Duda | 2 | — |
+| 5 | Jim St.Clair | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Severus Snape | 6 | — |
-| 2 | Brunoee | 5 | — |
-| 3 | N.Nova | 5 | — |
-| 4 | Bigood | 4 | — |
-| 5 | Loganaden | 2 | — |
+| 1 | θρπχι | 6 | — |
+| 2 | Severus Snape | 5 | TAC member |
+| 3 | Ahmed Mohammed Umar | 2 | — |
+| 4 | Jarek Duda | 2 | — |
+| 5 | LoneRam | 2 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | chozorho | 28 | — |
-| 2 | [RyJones](https://github.com/ryjones) | 10 | LF Staff |
-| 3 | Severus Snape | 8 | — |
-| 4 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 8 | — |
+| 2 | Severus Snape | 13 | TAC member |
+| 3 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 8 | — |
+| 4 | [RyJones](https://github.com/ryjones) | 8 | LF Staff |
 | 5 | Dadofpips | 7 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [RyJones](https://github.com/ryjones) | 40 | LF Staff |
+| 1 | [RyJones](https://github.com/ryjones) | 41 | LF Staff |
 | 2 | chozorho | 28 | — |
 | 3 | Strike_Attack \| Ω | 26 | — |
 | 4 | [Nigel Jones](https://github.com/planetf1) | 22 | PQ Code Package Maintainer, Project Maintainer, TAC member |
@@ -64,15 +64,18 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 64 |
-| 2025 | 143 |
+| 2026 | 105 |
+| 2025 | 144 |
 | 2024 | 246 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 1 |
+| 2026-09 | 19 |
+| 2026-08 | 7 |
+| 2026-07 | 10 |
+| 2026-06 | 6 |
 | 2026-05 | 20 |
 | 2026-04 | 14 |
 | 2026-03 | 5 |
@@ -80,7 +83,7 @@
 | 2026-01 | 8 |
 | 2025-12 | 8 |
 | 2025-11 | 16 |
-| 2025-10 | 33 |
+| 2025-10 | 34 |
 | 2025-09 | 11 |
 | 2025-08 | 25 |
 | 2025-07 | 14 |
@@ -105,6 +108,31 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-24 | 1 |
+| 2026-09-23 | 4 |
+| 2026-09-22 | 1 |
+| 2026-09-20 | 3 |
+| 2026-09-19 | 1 |
+| 2026-09-16 | 1 |
+| 2026-09-14 | 3 |
+| 2026-09-12 | 2 |
+| 2026-09-08 | 1 |
+| 2026-09-06 | 1 |
+| 2026-09-04 | 1 |
+| 2026-08-30 | 1 |
+| 2026-08-20 | 1 |
+| 2026-08-13 | 1 |
+| 2026-08-07 | 3 |
+| 2026-08-01 | 1 |
+| 2026-07-30 | 1 |
+| 2026-07-27 | 1 |
+| 2026-07-24 | 1 |
+| 2026-07-21 | 1 |
+| 2026-07-20 | 4 |
+| 2026-07-15 | 1 |
+| 2026-07-14 | 1 |
+| 2026-06-23 | 3 |
+| 2026-06-19 | 2 |
 | 2026-06-05 | 1 |
 | 2026-05-28 | 3 |
 | 2026-05-27 | 1 |
@@ -158,7 +186,7 @@
 | 2025-10-14 | 1 |
 | 2025-10-11 | 3 |
 | 2025-10-10 | 1 |
-| 2025-10-07 | 8 |
+| 2025-10-07 | 9 |
 | 2025-10-02 | 1 |
 | 2025-10-01 | 6 |
 | 2025-09-30 | 1 |

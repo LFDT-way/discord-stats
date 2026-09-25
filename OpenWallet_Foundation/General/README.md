@@ -2,30 +2,30 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1022962884864643218
-- **Total Messages in Category:** 1,857
-- **Last 30 Days:** 5
-- **Last 90 Days:** 11
-- **Last 365 Days:** 108
+- **Total Messages in Category:** 1,863
+- **Last 30 Days:** 4
+- **Last 90 Days:** 7
+- **Last 365 Days:** 81
 - **First Message:** 2022-09-23
-- **Last Message:** 2026-06-11
+- **Last Message:** 2026-09-23
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [welcome-landing](welcome-landing_1022962884864643219.md) | 2025-09-26 | 0 | 0 | 7 | 1,076 |
-| [general](general_1023188132042133574.md) | 2026-06-11 | 4 | 9 | 83 | 373 |
-| [introductions](introductions_1023219299902570589.md) | 2026-05-20 | 1 | 1 | 3 | 99 |
+| [welcome-landing](welcome-landing_1022962884864643219.md) | 2026-07-30 | 0 | 1 | 3 | 1,077 |
+| [general](general_1023188132042133574.md) | 2026-09-23 | 4 | 5 | 64 | 377 |
+| [introductions](introductions_1023219299902570589.md) | 2026-05-20 | 0 | 0 | 2 | 99 |
 | [community-connect](community-connect_1022965117362634855.md) | 2025-10-25 | 0 | 0 | 1 | 90 |
 | [ideas-and-feedback](ideas-and-feedback_1022962884864643221.md) | 2025-11-11 | 0 | 0 | 4 | 54 |
 | [eudi-wallet-multistakeholder](eudi-wallet-multistakeholder_1128703082289692702.md) | 2024-10-09 | 0 | 0 | 0 | 50 |
 | [business-use-cases](business-use-cases_1024844107656478760.md) | 2023-12-01 | 0 | 0 | 0 | 43 |
-| [events](events_1022962884864643220.md) | 2026-02-16 | 0 | 0 | 5 | 29 |
+| [events](events_1022962884864643220.md) | 2026-02-16 | 0 | 0 | 4 | 29 |
 | [iiw-planning](iiw-planning_1222549866094395477.md) | 2025-04-02 | 0 | 0 | 0 | 17 |
 | [eic-planning](eic-planning_1224727458037764191.md) | 2024-06-03 | 0 | 0 | 0 | 13 |
-| [job-postings](job-postings_1357624384160006265.md) | 2025-07-28 | 0 | 0 | 3 | 5 |
-| [dice-planning](dice-planning_1338875468065275924.md) | 2026-04-23 | 0 | 1 | 1 | 3 |
-| [looking-for-work](looking-for-work_1357624350982930513.md) | 2026-01-12 | 0 | 0 | 1 | 3 |
+| [job-postings](job-postings_1357624384160006265.md) | 2025-07-28 | 0 | 0 | 0 | 5 |
+| [looking-for-work](looking-for-work_1357624350982930513.md) | 2026-07-30 | 0 | 1 | 2 | 4 |
+| [dice-planning](dice-planning_1338875468065275924.md) | 2026-04-23 | 0 | 0 | 1 | 3 |
 | [fosdem-planning](fosdem-planning_1292527497530970305.md) | 2024-10-06 | 0 | 0 | 0 | 2 |
 
 ## Most Active Users
@@ -34,38 +34,38 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
-| 2 | [Mirko](https://github.com/cre8) | 1 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | Ginga | 1 | — |
-| 4 | tume2104 | 1 | — |
+| 1 | Thilina Senarath | 1 | — |
+| 2 | [drummondreed](https://github.com/talltree) | 1 | — |
+| 3 | RMLearney | 1 | — |
+| 4 | Ginga | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 5 | Linux Foundation Staff |
-| 2 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | BrunoM | 1 | — |
-| 4 | Ginga | 1 | — |
-| 5 | tume2104 | 1 | — |
+| 1 | mobappdev | 2 | — |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
+| 3 | Thilina Senarath | 1 | — |
+| 4 | [drummondreed](https://github.com/talltree) | 1 | — |
+| 5 | RMLearney | 1 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 20 | Linux Foundation Staff |
-| 2 | [Mirko](https://github.com/cre8) | 16 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 16 | Linux Foundation Staff |
+| 2 | [Mirko](https://github.com/cre8) | 11 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | [drummondreed](https://github.com/talltree) | 9 | — |
 | 4 | sirawt | 8 | — |
-| 5 | Iancu Fofiu | 5 | — |
+| 5 | HashMapsData2Value | 5 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Deleted User | 139 | — |
-| 2 | [drummondreed](https://github.com/talltree) | 81 | — |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 71 | Linux Foundation Staff |
+| 1 | Deleted User | 138 | — |
+| 2 | [drummondreed](https://github.com/talltree) | 82 | — |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 72 | Linux Foundation Staff |
 | 4 | OR13 | 50 | — |
 | 5 | [Mirko](https://github.com/cre8) | 46 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 
@@ -73,7 +73,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 33 |
+| 2026 | 39 |
 | 2025 | 150 |
 | 2024 | 226 |
 | 2023 | 842 |
@@ -83,7 +83,9 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 2 |
+| 2026-09 | 4 |
+| 2026-07 | 3 |
+| 2026-06 | 1 |
 | 2026-05 | 7 |
 | 2026-04 | 1 |
 | 2026-03 | 7 |
@@ -134,7 +136,11 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-06-11 | 2 |
+| 2026-09-23 | 2 |
+| 2026-09-22 | 2 |
+| 2026-07-30 | 2 |
+| 2026-07-08 | 1 |
+| 2026-06-11 | 1 |
 | 2026-05-28 | 1 |
 | 2026-05-26 | 1 |
 | 2026-05-20 | 1 |

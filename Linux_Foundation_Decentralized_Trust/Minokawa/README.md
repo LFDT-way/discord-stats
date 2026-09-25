@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1426221261826293800
-- **Total Messages in Category:** 7
-- **Last 30 Days:** 1
-- **Last 90 Days:** 4
-- **Last 365 Days:** 7
+- **Total Messages in Category:** 29
+- **Last 30 Days:** 15
+- **Last 90 Days:** 22
+- **Last 365 Days:** 29
 - **First Message:** 2025-11-05
-- **Last Message:** 2026-06-04
+- **Last Message:** 2026-09-24
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [minokawa](minokawa_1426221491833409536.md) | 2026-06-04 | 1 | 4 | 7 | 7 |
+| [minokawa](minokawa_1426221491833409536.md) | 2026-09-24 | 15 | 22 | 29 | 29 |
 
 ## Most Active Users
 
@@ -21,48 +21,57 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Nightforce1 | 1 | — |
+| 1 | [Parisa Ataei](https://github.com/pataei) | 5 | Project Maintainer, Minokawa Maintainer |
+| 2 | [newton_meter (Kevin Millikin)](https://github.com/kmillikin) | 4 | TAC member, Project Maintainer, Minokawa Maintainer |
+| 3 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
+| 4 | Rodrigo Quelhas | 1 | — |
+| 5 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [SonicSwordcane](https://github.com/SupernaviX) | 2 | Project Maintainer, Firefly Maintainer |
-| 2 | Nightforce1 | 1 | — |
-| 3 | [Arun S M](https://github.com/arsulegai) | 1 | TAC member, Chapter Leader |
+| 1 | [Parisa Ataei](https://github.com/pataei) | 6 | Project Maintainer, Minokawa Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
+| 3 | [newton_meter (Kevin Millikin)](https://github.com/kmillikin) | 4 | TAC member, Project Maintainer, Minokawa Maintainer |
+| 4 | Rodrigo Quelhas | 1 | — |
+| 5 | Jonathan Sobel (Midnight) | 1 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [SonicSwordcane](https://github.com/SupernaviX) | 3 | Project Maintainer, Firefly Maintainer |
-| 2 | Nightforce1 | 1 | — |
-| 3 | [Ry Jones](https://github.com/ryjones) | 1 | LFDT Staff |
-| 4 | [Arun S M](https://github.com/arsulegai) | 1 | TAC member, Chapter Leader |
-| 5 | [davidwboswell](https://github.com/davidwboswell) | 1 | LFDT Staff |
+| 1 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
+| 2 | [Parisa Ataei](https://github.com/pataei) | 6 | Project Maintainer, Minokawa Maintainer |
+| 3 | [newton_meter (Kevin Millikin)](https://github.com/kmillikin) | 4 | TAC member, Project Maintainer, Minokawa Maintainer |
+| 4 | [SonicSwordcane](https://github.com/SupernaviX) | 3 | Project Maintainer, Firefly Maintainer |
+| 5 | [Arun S M](https://github.com/arsulegai) | 2 | TAC member, Chapter Leader |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [SonicSwordcane](https://github.com/SupernaviX) | 3 | Project Maintainer, Firefly Maintainer |
-| 2 | Nightforce1 | 1 | — |
-| 3 | [Ry Jones](https://github.com/ryjones) | 1 | LFDT Staff |
-| 4 | [Arun S M](https://github.com/arsulegai) | 1 | TAC member, Chapter Leader |
-| 5 | [davidwboswell](https://github.com/davidwboswell) | 1 | LFDT Staff |
+| 1 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
+| 2 | [Parisa Ataei](https://github.com/pataei) | 6 | Project Maintainer, Minokawa Maintainer |
+| 3 | [newton_meter (Kevin Millikin)](https://github.com/kmillikin) | 4 | TAC member, Project Maintainer, Minokawa Maintainer |
+| 4 | [SonicSwordcane](https://github.com/SupernaviX) | 3 | Project Maintainer, Firefly Maintainer |
+| 5 | [Arun S M](https://github.com/arsulegai) | 2 | TAC member, Chapter Leader |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 4 |
+| 2026 | 26 |
 | 2025 | 3 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 1 |
+| 2026-09 | 14 |
+| 2026-08 | 4 |
+| 2026-07 | 3 |
+| 2026-06 | 2 |
 | 2026-04 | 3 |
 | 2025-12 | 1 |
 | 2025-11 | 2 |
@@ -71,6 +80,20 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-24 | 1 |
+| 2026-09-23 | 1 |
+| 2026-09-17 | 2 |
+| 2026-09-16 | 1 |
+| 2026-09-10 | 3 |
+| 2026-09-09 | 3 |
+| 2026-09-08 | 1 |
+| 2026-09-02 | 2 |
+| 2026-08-26 | 1 |
+| 2026-08-19 | 3 |
+| 2026-07-29 | 1 |
+| 2026-07-03 | 1 |
+| 2026-07-02 | 1 |
+| 2026-06-29 | 1 |
 | 2026-06-04 | 1 |
 | 2026-04-09 | 1 |
 | 2026-04-01 | 2 |

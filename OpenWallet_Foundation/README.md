@@ -1,25 +1,25 @@
 # Guild Report: OpenWallet Foundation
 
 - **Guild ID:** 1022962884864643214
-- **Total Messages:** 9,199
-- **Last 30 Days:** 137
-- **Last 90 Days:** 357
-- **Last 365 Days:** 2,418 — [active users](users.md)
+- **Total Messages:** 9,602
+- **Last 30 Days:** 141
+- **Last 90 Days:** 375
+- **Last 365 Days:** 1,996 — [active users](users.md)
 - **First Message:** 2022-09-23
-- **Last Message:** 2026-06-15
+- **Last Message:** 2026-09-24
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,449 | 97 | 262 | 1,378 | 2023-11-08 | 2026-06-12 |
-| [General](General/README.md) | 1,857 | 5 | 11 | 108 | 2022-09-23 | 2026-06-11 |
-| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,815 | 5 | 21 | 163 | 2022-09-28 | 2026-06-01 |
-| [Impact Projects](Impact_Projects/README.md) | 852 | 18 | 32 | 248 | 2024-09-26 | 2026-06-15 |
-| [Labs](Labs/README.md) | 837 | 12 | 31 | 503 | 2023-06-02 | 2026-06-11 |
-| [Archive](Archive/README.md) | 321 | 0 | 0 | 2 | 2022-09-23 | 2025-08-08 |
-| [Information](Information/README.md) | 68 | 0 | 0 | 16 | 2022-09-28 | 2025-10-26 |
+| [Growth Projects](Growth_Projects/README.md) | 3,775 | 112 | 297 | 1,269 | 2023-11-08 | 2026-09-24 |
+| [General](General/README.md) | 1,863 | 4 | 7 | 81 | 2022-09-23 | 2026-09-23 |
+| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,835 | 11 | 19 | 129 | 2022-09-28 | 2026-09-17 |
+| [Impact Projects](Impact_Projects/README.md) | 868 | 2 | 18 | 172 | 2024-09-26 | 2026-09-15 |
+| [Labs](Labs/README.md) | 847 | 11 | 33 | 337 | 2023-06-02 | 2026-09-10 |
+| [Archive](Archive/README.md) | 345 | 0 | 0 | 1 | 2022-09-23 | 2025-10-23 |
+| [Information](Information/README.md) | 69 | 1 | 1 | 7 | 2022-09-28 | 2026-09-24 |
 
 ## Most Active Users
 
@@ -27,48 +27,48 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 33 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [davidz25](https://github.com/davidz25) | 18 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 14 | Linux Foundation Staff |
-| 4 | Sodium | 10 | — |
-| 5 | Cyril | 8 | — |
+| 1 | [Mirko](https://github.com/cre8) | 35 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | Cyril | 21 | — |
+| 3 | birte_lr | 19 | — |
+| 4 | [davidz25](https://github.com/davidz25) | 11 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 5 | espuni | 10 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 80 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | Cyril | 45 | — |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 38 | Linux Foundation Staff |
-| 4 | [davidz25](https://github.com/davidz25) | 30 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 5 | [Ry Jones, OWF](https://github.com/ryjones) | 15 | Linux Foundation Staff |
+| 1 | [Mirko](https://github.com/cre8) | 109 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | espuni | 40 | — |
+| 3 | Cyril | 28 | — |
+| 4 | [davidz25](https://github.com/davidz25) | 23 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 5 | [Ry Jones, OWF](https://github.com/ryjones) | 23 | Linux Foundation Staff |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 278 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 200 | Linux Foundation Staff |
-| 3 | [davidz25](https://github.com/davidz25) | 189 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 141 | Linux Foundation Staff |
-| 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 118 | Lab Maintainer |
+| 1 | [Mirko](https://github.com/cre8) | 369 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 167 | Linux Foundation Staff |
+| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 153 | Linux Foundation Staff |
+| 4 | [Lukas.J.Han](https://github.com/lukasjhan) | 122 | Lab Maintainer |
+| 5 | Cyril | 113 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 495 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 483 | Linux Foundation Staff |
+| 1 | [Mirko](https://github.com/cre8) | 610 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 496 | Linux Foundation Staff |
 | 3 | Tracy | 399 | — |
-| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 371 | Linux Foundation Staff |
-| 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 286 | Lab Maintainer |
+| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 394 | Linux Foundation Staff |
+| 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 301 | Lab Maintainer |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 991 |
-| 2025 | 2,831 |
+| 2026 | 1,395 |
+| 2025 | 2,830 |
 | 2024 | 2,596 |
 | 2023 | 1,595 |
 | 2022 | 1,186 |
@@ -77,16 +77,19 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 79 |
-| 2026-05 | 130 |
-| 2026-04 | 86 |
-| 2026-03 | 142 |
-| 2026-02 | 286 |
-| 2026-01 | 268 |
+| 2026-09 | 135 |
+| 2026-08 | 53 |
+| 2026-07 | 130 |
+| 2026-06 | 173 |
+| 2026-05 | 127 |
+| 2026-04 | 90 |
+| 2026-03 | 137 |
+| 2026-02 | 284 |
+| 2026-01 | 266 |
 | 2025-12 | 242 |
 | 2025-11 | 143 |
 | 2025-10 | 144 |
-| 2025-09 | 260 |
+| 2025-09 | 259 |
 | 2025-08 | 191 |
 | 2025-07 | 222 |
 | 2025-06 | 439 |
@@ -128,10 +131,80 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-06-15 | 4 |
+| 2026-09-24 | 3 |
+| 2026-09-23 | 19 |
+| 2026-09-22 | 9 |
+| 2026-09-21 | 5 |
+| 2026-09-20 | 2 |
+| 2026-09-19 | 7 |
+| 2026-09-18 | 14 |
+| 2026-09-17 | 11 |
+| 2026-09-16 | 13 |
+| 2026-09-15 | 3 |
+| 2026-09-14 | 7 |
+| 2026-09-11 | 5 |
+| 2026-09-10 | 9 |
+| 2026-09-09 | 10 |
+| 2026-09-08 | 5 |
+| 2026-09-06 | 5 |
+| 2026-09-04 | 1 |
+| 2026-09-03 | 3 |
+| 2026-09-02 | 1 |
+| 2026-09-01 | 3 |
+| 2026-08-30 | 1 |
+| 2026-08-27 | 1 |
+| 2026-08-26 | 2 |
+| 2026-08-25 | 2 |
+| 2026-08-24 | 7 |
+| 2026-08-22 | 3 |
+| 2026-08-21 | 1 |
+| 2026-08-20 | 5 |
+| 2026-08-19 | 2 |
+| 2026-08-18 | 7 |
+| 2026-08-17 | 6 |
+| 2026-08-12 | 1 |
+| 2026-08-11 | 2 |
+| 2026-08-10 | 5 |
+| 2026-08-07 | 3 |
+| 2026-08-06 | 1 |
+| 2026-08-03 | 3 |
+| 2026-08-01 | 1 |
+| 2026-07-30 | 2 |
+| 2026-07-28 | 1 |
+| 2026-07-27 | 2 |
+| 2026-07-23 | 2 |
+| 2026-07-22 | 9 |
+| 2026-07-21 | 14 |
+| 2026-07-20 | 15 |
+| 2026-07-19 | 2 |
+| 2026-07-18 | 5 |
+| 2026-07-17 | 10 |
+| 2026-07-16 | 13 |
+| 2026-07-15 | 6 |
+| 2026-07-12 | 3 |
+| 2026-07-10 | 1 |
+| 2026-07-09 | 6 |
+| 2026-07-08 | 3 |
+| 2026-07-07 | 11 |
+| 2026-07-06 | 9 |
+| 2026-07-02 | 4 |
+| 2026-07-01 | 12 |
+| 2026-06-30 | 18 |
+| 2026-06-29 | 33 |
+| 2026-06-26 | 6 |
+| 2026-06-25 | 2 |
+| 2026-06-24 | 4 |
+| 2026-06-23 | 6 |
+| 2026-06-22 | 4 |
+| 2026-06-21 | 10 |
+| 2026-06-19 | 4 |
+| 2026-06-18 | 3 |
+| 2026-06-17 | 2 |
+| 2026-06-16 | 4 |
+| 2026-06-15 | 6 |
 | 2026-06-13 | 1 |
 | 2026-06-12 | 5 |
-| 2026-06-11 | 9 |
+| 2026-06-11 | 8 |
 | 2026-06-10 | 7 |
 | 2026-06-09 | 6 |
 | 2026-06-08 | 12 |
@@ -141,11 +214,11 @@
 | 2026-06-04 | 14 |
 | 2026-06-03 | 6 |
 | 2026-06-02 | 5 |
-| 2026-06-01 | 7 |
+| 2026-06-01 | 4 |
 | 2026-05-31 | 1 |
 | 2026-05-29 | 2 |
-| 2026-05-28 | 6 |
-| 2026-05-27 | 3 |
+| 2026-05-28 | 5 |
+| 2026-05-27 | 2 |
 | 2026-05-26 | 4 |
 | 2026-05-25 | 12 |
 | 2026-05-24 | 7 |
@@ -154,7 +227,7 @@
 | 2026-05-20 | 2 |
 | 2026-05-19 | 7 |
 | 2026-05-18 | 1 |
-| 2026-05-16 | 2 |
+| 2026-05-16 | 1 |
 | 2026-05-15 | 2 |
 | 2026-05-14 | 11 |
 | 2026-05-13 | 4 |
@@ -172,9 +245,9 @@
 | 2026-04-24 | 3 |
 | 2026-04-23 | 4 |
 | 2026-04-22 | 1 |
-| 2026-04-21 | 4 |
-| 2026-04-20 | 1 |
-| 2026-04-18 | 1 |
+| 2026-04-21 | 5 |
+| 2026-04-20 | 2 |
+| 2026-04-18 | 3 |
 | 2026-04-17 | 3 |
 | 2026-04-16 | 1 |
 | 2026-04-15 | 1 |
@@ -196,12 +269,12 @@
 | 2026-03-18 | 5 |
 | 2026-03-17 | 9 |
 | 2026-03-16 | 20 |
-| 2026-03-14 | 4 |
+| 2026-03-14 | 2 |
 | 2026-03-13 | 12 |
-| 2026-03-12 | 8 |
+| 2026-03-12 | 6 |
 | 2026-03-10 | 3 |
 | 2026-03-09 | 1 |
-| 2026-03-05 | 4 |
+| 2026-03-05 | 3 |
 | 2026-03-04 | 13 |
 | 2026-03-03 | 3 |
 | 2026-03-02 | 2 |
@@ -224,8 +297,8 @@
 | 2026-02-10 | 28 |
 | 2026-02-09 | 18 |
 | 2026-02-08 | 14 |
-| 2026-02-06 | 10 |
-| 2026-02-05 | 5 |
+| 2026-02-06 | 9 |
+| 2026-02-05 | 4 |
 | 2026-02-04 | 17 |
 | 2026-02-03 | 2 |
 | 2026-02-02 | 7 |
@@ -244,7 +317,7 @@
 | 2026-01-18 | 1 |
 | 2026-01-15 | 4 |
 | 2026-01-14 | 7 |
-| 2026-01-13 | 10 |
+| 2026-01-13 | 8 |
 | 2026-01-12 | 7 |
 | 2026-01-11 | 6 |
 | 2026-01-10 | 15 |
@@ -339,7 +412,7 @@
 | 2025-09-15 | 4 |
 | 2025-09-12 | 6 |
 | 2025-09-11 | 4 |
-| 2025-09-10 | 10 |
+| 2025-09-10 | 9 |
 | 2025-09-09 | 11 |
 | 2025-09-08 | 2 |
 | 2025-09-07 | 5 |

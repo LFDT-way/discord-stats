@@ -4,9 +4,9 @@
 - **Category:** Technical Advisory Council
 - **Channel ID:** 1291067233967149150
 - **Total Messages:** 204
-- **Last 30 Days:** 2
-- **Last 90 Days:** 7
-- **Last 365 Days:** 86
+- **Last 30 Days:** 0
+- **Last 90 Days:** 0
+- **Last 365 Days:** 47
 - **First Message:** 2024-10-02
 - **Last Message:** 2026-06-01
 
@@ -14,27 +14,21 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
+_No activity in this period._
 
 ### Last 90 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 5 | Linux Foundation Staff |
-| 2 | davidejalexander | 1 | SIG member |
-| 3 | [drummondreed](https://github.com/talltree) | 1 | — |
+_No activity in this period._
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 39 | Linux Foundation Staff |
-| 2 | [cjhowland](https://github.com/cjhowland) | 28 | — |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 26 | Linux Foundation Staff |
+| 2 | [cjhowland](https://github.com/cjhowland) | 6 | — |
 | 3 | Jim St.Clair | 5 | SIG member |
-| 4 | davidejalexander | 2 | SIG member |
-| 5 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 4 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
+| 5 | davidejalexander | 2 | SIG member |
 
 ### All Time
 

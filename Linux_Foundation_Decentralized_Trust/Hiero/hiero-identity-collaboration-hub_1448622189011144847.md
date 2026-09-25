@@ -26,9 +26,9 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 10 | Project Maintainer, Hiero maintainer |
 | 2 | [Roger](https://github.com/rbarker-dev) | 7 | Project Maintainer, Hiero maintainer |
-| 3 | [explorer3](https://github.com/exploreriii) | 1 | Project Maintainer, Hiero maintainer |
-| 4 | Taro | 1 | — |
-| 5 | [hendrik.ebbers](https://github.com/hendrikebbers) | 1 | TAC member, Project Maintainer, Hiero maintainer |
+| 3 | Neji | 1 | — |
+| 4 | [explorer3](https://github.com/exploreriii) | 1 | Project Maintainer, Hiero maintainer |
+| 5 | [hendrik.ebbers](https://github.com/hendrikebbers) | 1 | TAC member, Project Maintainer, SIG leader, Hiero maintainer |
 
 ### All Time
 
@@ -36,9 +36,9 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 10 | Project Maintainer, Hiero maintainer |
 | 2 | [Roger](https://github.com/rbarker-dev) | 7 | Project Maintainer, Hiero maintainer |
-| 3 | [explorer3](https://github.com/exploreriii) | 1 | Project Maintainer, Hiero maintainer |
-| 4 | Taro | 1 | — |
-| 5 | [hendrik.ebbers](https://github.com/hendrikebbers) | 1 | TAC member, Project Maintainer, Hiero maintainer |
+| 3 | Neji | 1 | — |
+| 4 | [explorer3](https://github.com/exploreriii) | 1 | Project Maintainer, Hiero maintainer |
+| 5 | [hendrik.ebbers](https://github.com/hendrikebbers) | 1 | TAC member, Project Maintainer, SIG leader, Hiero maintainer |
 
 ## Yearly Traffic
 

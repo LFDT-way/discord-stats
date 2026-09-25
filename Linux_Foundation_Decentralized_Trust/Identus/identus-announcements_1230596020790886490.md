@@ -3,50 +3,52 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Identus
 - **Channel ID:** 1230596020790886490
-- **Total Messages:** 20
-- **Last 30 Days:** 0
-- **Last 90 Days:** 3
-- **Last 365 Days:** 6
+- **Total Messages:** 24
+- **Last 30 Days:** 1
+- **Last 90 Days:** 4
+- **Last 365 Days:** 8
 - **First Message:** 2024-06-18
-- **Last Message:** 2026-05-12
+- **Last Message:** 2026-09-15
 
 ## Most Active Users
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
-| 3 | havy | 1 | Identus Maintainer, Project Maintainer |
+| 1 | Yurii Shynbuiev | 3 | Identus Maintainer, Project Maintainer |
+| 2 | pat_pat | 1 | Identus Maintainer, Project Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Yurii Shynbuiev | 3 | Identus Maintainer, Project Maintainer |
+| 1 | Yurii Shynbuiev | 4 | Identus Maintainer, Project Maintainer |
 | 2 | havy | 2 | Identus Maintainer, Project Maintainer |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | LFDT Staff |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
+| 4 | pat_pat | 1 | Identus Maintainer, Project Maintainer |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Fay | 9 | Lab Leader |
-| 2 | Yurii Shynbuiev | 3 | Identus Maintainer, Project Maintainer |
-| 3 | havy | 3 | Identus Maintainer, Project Maintainer |
-| 4 | essbante | 3 | — |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | LFDT Staff |
+| 2 | Yurii Shynbuiev | 6 | Identus Maintainer, Project Maintainer |
+| 3 | essbante | 3 | — |
+| 4 | havy | 3 | Identus Maintainer, Project Maintainer |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 3 |
+| 2026 | 7 |
 | 2025 | 3 |
 | 2024 | 14 |
 
@@ -54,6 +56,9 @@ _No activity in this period._
 
 | Month | Messages |
 | --- | --- |
+| 2026-09 | 1 |
+| 2026-08 | 1 |
+| 2026-07 | 2 |
 | 2026-05 | 3 |
 | 2025-11 | 1 |
 | 2025-08 | 1 |
@@ -69,6 +74,10 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-15 | 1 |
+| 2026-08-18 | 1 |
+| 2026-07-21 | 1 |
+| 2026-07-07 | 1 |
 | 2026-05-12 | 2 |
 | 2026-05-06 | 1 |
 | 2025-11-20 | 1 |

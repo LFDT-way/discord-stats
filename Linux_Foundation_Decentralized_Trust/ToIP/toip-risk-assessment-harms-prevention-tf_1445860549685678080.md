@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1445860549685678080
-- **Total Messages:** 95
+- **Total Messages:** 105
 - **Last 30 Days:** 0
-- **Last 90 Days:** 15
-- **Last 365 Days:** 95
+- **Last 90 Days:** 7
+- **Last 365 Days:** 105
 - **First Message:** 2025-12-03
-- **Last Message:** 2026-05-09
+- **Last Message:** 2026-08-11
 
 ## Most Active Users
 
@@ -20,45 +20,45 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 9 | Lab Leader |
-| 2 | Nicky H | 4 | Project Maintainer, ToIP |
-| 3 | [drummondreed](https://github.com/talltree) | 2 | Project Maintainer, ToIP |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
+| 2 | Nicky H | 3 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 37 | Lab Leader |
-| 2 | Nicky H | 17 | Project Maintainer, ToIP |
-| 3 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
-| 4 | [drummondreed](https://github.com/talltree) | 11 | Project Maintainer, ToIP |
-| 5 | microbiocarly | 5 | Project Maintainer, ToIP |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 41 | Lab Leader |
+| 2 | Nicky H | 21 | Project Maintainer, ToIP |
+| 3 | [drummondreed](https://github.com/talltree) | 13 | Project Maintainer, ToIP |
+| 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
+| 5 | anil.helvaci \| GMT +3 | 5 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 37 | Lab Leader |
-| 2 | Nicky H | 17 | Project Maintainer, ToIP |
-| 3 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
-| 4 | [drummondreed](https://github.com/talltree) | 11 | Project Maintainer, ToIP |
-| 5 | microbiocarly | 5 | Project Maintainer, ToIP |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 41 | Lab Leader |
+| 2 | Nicky H | 21 | Project Maintainer, ToIP |
+| 3 | [drummondreed](https://github.com/talltree) | 13 | Project Maintainer, ToIP |
+| 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
+| 5 | anil.helvaci \| GMT +3 | 5 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 81 |
+| 2026 | 91 |
 | 2025 | 14 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-08 | 7 |
 | 2026-05 | 3 |
 | 2026-04 | 4 |
 | 2026-03 | 30 |
-| 2026-02 | 22 |
+| 2026-02 | 25 |
 | 2026-01 | 22 |
 | 2025-12 | 14 |
 
@@ -66,6 +66,9 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-08-11 | 3 |
+| 2026-08-10 | 2 |
+| 2026-08-06 | 2 |
 | 2026-05-09 | 2 |
 | 2026-05-06 | 1 |
 | 2026-04-28 | 1 |
@@ -87,7 +90,7 @@ _No activity in this period._
 | 2026-02-24 | 4 |
 | 2026-02-23 | 6 |
 | 2026-02-17 | 1 |
-| 2026-02-12 | 4 |
+| 2026-02-12 | 7 |
 | 2026-02-11 | 1 |
 | 2026-02-10 | 3 |
 | 2026-02-03 | 3 |

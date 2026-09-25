@@ -2,21 +2,21 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1255573270007251024
-- **Total Messages in Category:** 519
-- **Last 30 Days:** 8
-- **Last 90 Days:** 111
-- **Last 365 Days:** 215
+- **Total Messages in Category:** 647
+- **Last 30 Days:** 2
+- **Last 90 Days:** 25
+- **Last 365 Days:** 205
 - **First Message:** 2024-06-27
-- **Last Message:** 2026-06-02
+- **Last Message:** 2026-08-27
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [lockness-contribute](lockness-contribute_1285268686147424388.md) | 2026-06-02 | 8 | 91 | 143 | 343 |
-| [lockness-maintainers](lockness-maintainers_1255573353683746856.md) | 2026-03-25 | 0 | 16 | 43 | 143 |
-| [lockness](lockness_1294284489635139585.md) | 2025-09-16 | 0 | 0 | 24 | 24 |
-| [lockness-announce](lockness-announce_1285268049913712641.md) | 2026-04-20 | 0 | 4 | 5 | 9 |
+| [lockness-contribute](lockness-contribute_1285268686147424388.md) | 2026-08-27 | 2 | 9 | 165 | 377 |
+| [lockness-maintainers](lockness-maintainers_1255573353683746856.md) | 2026-08-14 | 0 | 14 | 33 | 199 |
+| [lockness](lockness_1294284489635139585.md) | 2026-07-01 | 0 | 2 | 2 | 62 |
+| [lockness-announce](lockness-announce_1285268049913712641.md) | 2026-04-20 | 0 | 0 | 5 | 9 |
 
 ## Most Active Users
 
@@ -24,64 +24,63 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Denis | 3 | Project Maintainer, Lockness Maintainer |
-| 2 | Gyan ranjan | 2 | — |
-| 3 | Mr Samtum | 2 | — |
-| 4 | pritish | 1 | — |
+| 1 | Denis | 2 | Project Maintainer, Lockness Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Denis | 39 | Project Maintainer, Lockness Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 18 | LFDT Staff |
-| 3 | TheRogueVigilante | 13 | — |
-| 4 | Prowler | 8 | — |
-| 5 | Aditya | 7 | — |
+| 1 | Denis | 9 | Project Maintainer, Lockness Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 5 | lfdt-ca, LFDT Staff |
+| 3 | Luis F. Castellanos | 4 | — |
+| 4 | [davidwboswell](https://github.com/davidwboswell) | 4 | lfdt-ca, LFDT Staff |
+| 5 | Harsh | 2 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Denis | 84 | Project Maintainer, Lockness Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 24 | LFDT Staff |
-| 3 | Alfonz | 16 | — |
-| 4 | TheRogueVigilante | 13 | — |
-| 5 | [vramaiitkgp](https://github.com/VRamakrishna) | 9 | TAC member, Cacti Maintainer |
+| 1 | Denis | 87 | Project Maintainer, Lockness Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 24 | lfdt-ca, LFDT Staff |
+| 3 | TheRogueVigilante | 13 | — |
+| 4 | Alfonz | 12 | — |
+| 5 | shridhar panigrahi | 10 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Denis | 259 | Project Maintainer, Lockness Maintainer |
+| 1 | Denis | 334 | Project Maintainer, Lockness Maintainer |
 | 2 | manel1874 | 64 | — |
-| 3 | [Ry Jones](https://github.com/ryjones) | 52 | LFDT Staff |
-| 4 | Alfonz | 16 | — |
-| 5 | TheRogueVigilante | 13 | — |
+| 3 | [Ry Jones](https://github.com/ryjones) | 61 | lfdt-ca, LFDT Staff |
+| 4 | Alfonz | 18 | — |
+| 5 | Kyle | 15 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 128 |
-| 2025 | 106 |
-| 2024 | 285 |
+| 2026 | 164 |
+| 2025 | 158 |
+| 2024 | 325 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-06 | 1 |
+| 2026-08 | 7 |
+| 2026-07 | 16 |
+| 2026-06 | 5 |
 | 2026-05 | 14 |
-| 2026-04 | 80 |
+| 2026-04 | 81 |
 | 2026-03 | 21 |
 | 2026-02 | 9 |
-| 2026-01 | 3 |
-| 2025-12 | 18 |
+| 2026-01 | 11 |
+| 2025-12 | 34 |
 | 2025-11 | 7 |
-| 2025-09 | 19 |
-| 2025-08 | 29 |
-| 2025-07 | 10 |
+| 2025-09 | 27 |
+| 2025-08 | 31 |
+| 2025-07 | 36 |
 | 2025-06 | 4 |
 | 2025-05 | 2 |
 | 2025-04 | 3 |
@@ -89,16 +88,25 @@
 | 2025-01 | 4 |
 | 2024-12 | 20 |
 | 2024-11 | 56 |
-| 2024-10 | 130 |
-| 2024-09 | 49 |
+| 2024-10 | 141 |
+| 2024-09 | 75 |
 | 2024-08 | 17 |
 | 2024-07 | 7 |
-| 2024-06 | 6 |
+| 2024-06 | 9 |
 
 ## Daily Traffic
 
 | Date | Messages |
 | --- | --- |
+| 2026-08-27 | 2 |
+| 2026-08-14 | 4 |
+| 2026-08-06 | 1 |
+| 2026-07-31 | 3 |
+| 2026-07-13 | 10 |
+| 2026-07-02 | 1 |
+| 2026-07-01 | 2 |
+| 2026-06-26 | 2 |
+| 2026-06-24 | 2 |
 | 2026-06-02 | 1 |
 | 2026-05-31 | 1 |
 | 2026-05-28 | 1 |
@@ -115,7 +123,7 @@
 | 2026-04-28 | 5 |
 | 2026-04-27 | 2 |
 | 2026-04-26 | 1 |
-| 2026-04-20 | 3 |
+| 2026-04-20 | 4 |
 | 2026-04-19 | 15 |
 | 2026-04-16 | 2 |
 | 2026-04-15 | 6 |
@@ -137,22 +145,25 @@
 | 2026-02-17 | 1 |
 | 2026-02-16 | 2 |
 | 2026-02-12 | 1 |
-| 2026-01-14 | 1 |
+| 2026-01-23 | 1 |
+| 2026-01-22 | 1 |
+| 2026-01-15 | 1 |
+| 2026-01-14 | 6 |
 | 2026-01-13 | 2 |
-| 2025-12-24 | 2 |
+| 2025-12-24 | 10 |
 | 2025-12-23 | 3 |
 | 2025-12-19 | 3 |
 | 2025-12-18 | 1 |
 | 2025-12-15 | 3 |
 | 2025-12-10 | 1 |
 | 2025-12-09 | 1 |
-| 2025-12-03 | 2 |
+| 2025-12-03 | 10 |
 | 2025-12-01 | 2 |
 | 2025-11-24 | 1 |
 | 2025-11-06 | 1 |
 | 2025-11-04 | 1 |
 | 2025-11-03 | 4 |
-| 2025-09-16 | 4 |
+| 2025-09-16 | 12 |
 | 2025-09-15 | 4 |
 | 2025-09-14 | 4 |
 | 2025-09-12 | 2 |
@@ -163,9 +174,14 @@
 | 2025-08-28 | 1 |
 | 2025-08-27 | 3 |
 | 2025-08-14 | 10 |
-| 2025-08-01 | 8 |
-| 2025-07-31 | 2 |
-| 2025-07-23 | 5 |
+| 2025-08-01 | 10 |
+| 2025-07-31 | 7 |
+| 2025-07-30 | 5 |
+| 2025-07-29 | 1 |
+| 2025-07-26 | 4 |
+| 2025-07-25 | 1 |
+| 2025-07-24 | 2 |
+| 2025-07-23 | 13 |
 | 2025-07-17 | 1 |
 | 2025-07-16 | 2 |
 | 2025-06-26 | 1 |
@@ -215,16 +231,17 @@
 | 2024-10-05 | 4 |
 | 2024-10-04 | 5 |
 | 2024-10-03 | 5 |
-| 2024-10-01 | 21 |
-| 2024-09-30 | 9 |
+| 2024-10-02 | 6 |
+| 2024-10-01 | 26 |
+| 2024-09-30 | 12 |
 | 2024-09-27 | 7 |
 | 2024-09-26 | 1 |
 | 2024-09-23 | 3 |
 | 2024-09-22 | 1 |
 | 2024-09-21 | 2 |
-| 2024-09-20 | 8 |
-| 2024-09-19 | 6 |
-| 2024-09-16 | 3 |
+| 2024-09-20 | 12 |
+| 2024-09-19 | 19 |
+| 2024-09-16 | 9 |
 | 2024-09-04 | 7 |
 | 2024-09-03 | 2 |
 | 2024-08-28 | 1 |
@@ -234,4 +251,4 @@
 | 2024-08-01 | 3 |
 | 2024-07-31 | 4 |
 | 2024-07-18 | 3 |
-| 2024-06-27 | 6 |
+| 2024-06-27 | 9 |

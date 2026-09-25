@@ -2,54 +2,57 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1022962884864643215
-- **Total Messages in Category:** 68
-- **Last 30 Days:** 0
-- **Last 90 Days:** 0
-- **Last 365 Days:** 16
+- **Total Messages in Category:** 69
+- **Last 30 Days:** 1
+- **Last 90 Days:** 1
+- **Last 365 Days:** 7
 - **First Message:** 2022-09-28
-- **Last Message:** 2025-10-26
+- **Last Message:** 2026-09-24
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [announcements](announcements_1022962884864643217.md) | 2025-10-26 | 0 | 0 | 16 | 65 |
+| [announcements](announcements_1022962884864643217.md) | 2026-09-24 | 1 | 1 | 7 | 66 |
 | [welcome-and-rules](welcome-and-rules_1022962884864643216.md) | 2023-03-02 | 0 | 0 | 0 | 3 |
 
 ## Most Active Users
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
 
 ### Last 90 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Lukas.J.Han](https://github.com/lukasjhan) | 7 | Lab Maintainer |
-| 2 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 2 | Linux Foundation Staff |
-| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
-| 5 | Azandure | 1 | — |
+| 1 | [Lukas.J.Han](https://github.com/lukasjhan) | 4 | Lab Maintainer |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
+| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 1 | Linux Foundation Staff |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Lukas.J.Han](https://github.com/lukasjhan) | 10 | Lab Maintainer |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 7 | Linux Foundation Staff |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 8 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 6 | Linux Foundation Staff |
-| 4 | Thierry (Talao) | 6 | — |
-| 5 | [drummondreed](https://github.com/talltree) | 6 | — |
+| 4 | [drummondreed](https://github.com/talltree) | 6 | — |
+| 5 | Thierry (Talao) | 6 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
+| 2026 | 1 |
 | 2025 | 28 |
 | 2024 | 25 |
 | 2023 | 14 |
@@ -59,6 +62,7 @@ _No activity in this period._
 
 | Month | Messages |
 | --- | --- |
+| 2026-09 | 1 |
 | 2025-10 | 6 |
 | 2025-09 | 6 |
 | 2025-08 | 1 |
@@ -87,6 +91,7 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-24 | 1 |
 | 2025-10-26 | 2 |
 | 2025-10-17 | 4 |
 | 2025-09-17 | 4 |
