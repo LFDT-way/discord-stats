@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 6,278
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 61
+- **Last 365 Days:** 56
 - **First Message:** 2022-01-20
 - **Last Message:** 2026-05-26
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [indy-node](indy-node_941709259710808155.md) | 2026-05-25 | 0 | 0 | 9 | 2,386 |
+| [indy-node](indy-node_941709259710808155.md) | 2026-05-25 | 0 | 0 | 4 | 2,386 |
 | [indy](indy_905205711850594336.md) | 2026-05-26 | 0 | 0 | 15 | 1,720 |
 | [indy-ubuntu-2204-upgrade](indy-ubuntu-2204-upgrade_1333885568433524736.md) | 2026-01-06 | 0 | 0 | 1 | 690 |
 | [indy-sdk](indy-sdk_941709279289815070.md) | 2025-04-15 | 0 | 0 | 0 | 607 |
@@ -37,7 +37,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Wade Barnes](https://github.com/WadeBarnes) | 12 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
+| 1 | [Wade Barnes](https://github.com/WadeBarnes) | 10 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 10 | lfdt-ca, LFDT Staff |
 | 3 | [swcurran](https://github.com/swcurran) | 6 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
 | 4 | Somesh | 5 | — |

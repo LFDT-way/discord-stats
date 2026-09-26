@@ -1,21 +1,21 @@
 # Guild Report: Post-Quantum Cryptography Alliance
 
 - **Guild ID:** 1202723482224295936
-- **Total Messages:** 4,491
-- **Last 30 Days:** 104
-- **Last 90 Days:** 310
-- **Last 365 Days:** 1,645 — [active users](users.md)
+- **Total Messages:** 4,493
+- **Last 30 Days:** 106
+- **Last 90 Days:** 306
+- **Last 365 Days:** 1,639 — [active users](users.md)
 - **First Message:** 2024-02-01
-- **Last Message:** 2026-09-25
+- **Last Message:** 2026-09-26
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PQ Code Package](PQ_Code_Package/README.md) | 3,567 | 69 | 236 | 1,336 | 2024-02-03 | 2026-09-23 |
-| [Welcome](Welcome/README.md) | 498 | 23 | 39 | 172 | 2024-02-01 | 2026-09-25 |
-| [Open Quantum Safe](Open_Quantum_Safe/README.md) | 281 | 9 | 32 | 79 | 2024-02-03 | 2026-09-23 |
+| [PQ Code Package](PQ_Code_Package/README.md) | 3,567 | 69 | 236 | 1,329 | 2024-02-03 | 2026-09-23 |
+| [Welcome](Welcome/README.md) | 500 | 25 | 41 | 173 | 2024-02-01 | 2026-09-26 |
+| [Open Quantum Safe](Open_Quantum_Safe/README.md) | 281 | 9 | 26 | 79 | 2024-02-03 | 2026-09-23 |
 | [Governance](Governance/README.md) | 81 | 0 | 0 | 6 | 2024-02-05 | 2026-02-10 |
 | [CBOMKit](CBOMKit/README.md) | 51 | 3 | 3 | 45 | 2025-05-06 | 2026-09-24 |
 | [Uncategorized](Uncategorized/README.md) | 11 | 0 | 0 | 7 | 2024-02-03 | 2026-05-18 |
@@ -47,8 +47,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 520 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 475 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 514 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 474 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 110 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 99 | LF Staff |
 | 5 | chozorho | 55 | — |
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 865 |
+| 2026 | 867 |
 | 2025 | 2,683 |
 | 2024 | 944 |
 | 2023 | 3 |
@@ -78,7 +78,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 92 |
+| 2026-09 | 94 |
 | 2026-08 | 130 |
 | 2026-07 | 71 |
 | 2026-06 | 130 |
@@ -121,7 +121,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-09-25 | 1 |
+| 2026-09-26 | 1 |
+| 2026-09-25 | 2 |
 | 2026-09-24 | 4 |
 | 2026-09-23 | 8 |
 | 2026-09-22 | 1 |

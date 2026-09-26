@@ -2,31 +2,31 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1357322461947101405
-- **Total Messages in Category:** 3,174
-- **Last 30 Days:** 205
-- **Last 90 Days:** 611
-- **Last 365 Days:** 2,926
+- **Total Messages in Category:** 3,176
+- **Last 30 Days:** 192
+- **Last 90 Days:** 613
+- **Last 365 Days:** 2,905
 - **First Message:** 2025-04-03
-- **Last Message:** 2026-09-25
+- **Last Message:** 2026-09-26
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [toip-aim-wg](toip-aim-wg_1379651804790264018.md) | 2026-09-23 | 29 | 106 | 643 | 797 |
-| [toip-decen-trust-graph-wg](toip-decen-trust-graph-wg_1414670897037443205.md) | 2026-09-25 | 54 | 136 | 423 | 429 |
-| [toip-bite-size-trust-tf](toip-bite-size-trust-tf_1414670208085528607.md) | 2026-09-18 | 2 | 19 | 267 | 306 |
+| [toip-aim-wg](toip-aim-wg_1379651804790264018.md) | 2026-09-23 | 29 | 106 | 638 | 797 |
+| [toip-decen-trust-graph-wg](toip-decen-trust-graph-wg_1414670897037443205.md) | 2026-09-25 | 40 | 136 | 420 | 429 |
+| [toip-bite-size-trust-tf](toip-bite-size-trust-tf_1414670208085528607.md) | 2026-09-18 | 2 | 19 | 264 | 306 |
 | [toip-trust-registry-tf](toip-trust-registry-tf_1414671976831910049.md) | 2026-09-24 | 31 | 49 | 280 | 280 |
-| [toip-general](toip-general_1357323158935572581.md) | 2026-09-24 | 13 | 33 | 238 | 267 |
-| [toip-governance-architecture-tf](toip-governance-architecture-tf_1414671405383159808.md) | 2026-09-24 | 8 | 42 | 172 | 174 |
-| [toip-steering-committee](toip-steering-committee_1414671746065371186.md) | 2026-09-17 | 8 | 17 | 158 | 159 |
+| [toip-general](toip-general_1357323158935572581.md) | 2026-09-26 | 14 | 34 | 237 | 268 |
+| [toip-governance-architecture-tf](toip-governance-architecture-tf_1414671405383159808.md) | 2026-09-24 | 8 | 42 | 169 | 174 |
+| [toip-steering-committee](toip-steering-committee_1414671746065371186.md) | 2026-09-17 | 8 | 17 | 151 | 159 |
 | [toip-ecosystem-governance-wg](toip-ecosystem-governance-wg_1414671336697233499.md) | 2026-09-16 | 22 | 46 | 123 | 123 |
-| [toip-risk-assessment-harms-prevention-tf](toip-risk-assessment-harms-prevention-tf_1445860549685678080.md) | 2026-08-11 | 0 | 7 | 105 | 105 |
+| [toip-risk-assessment-harms-prevention-tf](toip-risk-assessment-harms-prevention-tf_1445860549685678080.md) | 2026-09-26 | 1 | 8 | 106 | 106 |
 | [toip-keri-suite-wg](toip-keri-suite-wg_1414671689005928579.md) | 2026-07-08 | 0 | 3 | 96 | 96 |
 | [toip-symposium](toip-symposium_1414380462863945768.md) | 2025-12-03 | 0 | 0 | 63 | 79 |
 | [toip-dtgwg-zkp-tf](toip-dtgwg-zkp-tf_1521314643124162570.md) | 2026-09-23 | 8 | 69 | 69 | 69 |
 | [toip-concepts-terminology-wg](toip-concepts-terminology-wg_1414670384539897876.md) | 2026-08-20 | 0 | 10 | 66 | 66 |
-| [toip-technology-stack-wg](toip-technology-stack-wg_1414671863057223820.md) | 2026-09-23 | 9 | 22 | 55 | 55 |
+| [toip-technology-stack-wg](toip-technology-stack-wg_1414671863057223820.md) | 2026-09-23 | 8 | 22 | 55 | 55 |
 | [toip-high-assurance-vid-tf](toip-high-assurance-vid-tf_1414671546940915854.md) | 2026-08-03 | 0 | 2 | 37 | 37 |
 | [toip-data-model-and-repr-wg](toip-data-model-and-repr-wg_1414671233903235142.md) | 2026-05-13 | 0 | 0 | 32 | 32 |
 | [toip-dtgwg-htx-tf](toip-dtgwg-htx-tf_1532149134327546047.md) | 2026-09-24 | 11 | 32 | 32 | 32 |
@@ -42,9 +42,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 60 | Lab Leader |
-| 2 | [firegod](https://github.com/wenjing) | 33 | Project Maintainer, ToIP |
-| 3 | [drummondreed](https://github.com/talltree) | 31 | Project Maintainer, ToIP |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 54 | Lab Leader |
+| 2 | [firegod](https://github.com/wenjing) | 32 | Project Maintainer, ToIP |
+| 3 | [drummondreed](https://github.com/talltree) | 26 | Project Maintainer, ToIP |
 | 4 | microbiocarly | 26 | Project Maintainer, ToIP |
 | 5 | darrello | 13 | Project Maintainer |
 
@@ -52,7 +52,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 206 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 208 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 84 | Project Maintainer, ToIP |
 | 3 | [firegod](https://github.com/wenjing) | 71 | Project Maintainer, ToIP |
 | 4 | microbiocarly | 56 | Project Maintainer, ToIP |
@@ -62,17 +62,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 589 | Lab Leader |
-| 2 | [drummondreed](https://github.com/talltree) | 451 | Project Maintainer, ToIP |
-| 3 | microbiocarly | 392 | Project Maintainer, ToIP |
-| 4 | [firegod](https://github.com/wenjing) | 269 | Project Maintainer, ToIP |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 590 | Lab Leader |
+| 2 | [drummondreed](https://github.com/talltree) | 438 | Project Maintainer, ToIP |
+| 3 | microbiocarly | 391 | Project Maintainer, ToIP |
+| 4 | [firegod](https://github.com/wenjing) | 265 | Project Maintainer, ToIP |
 | 5 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 126 | Project Maintainer, ToIP |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 595 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 597 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 476 | Project Maintainer, ToIP |
 | 3 | microbiocarly | 430 | Project Maintainer, ToIP |
 | 4 | [firegod](https://github.com/wenjing) | 340 | Project Maintainer, ToIP |
@@ -82,14 +82,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 2,007 |
+| 2026 | 2,009 |
 | 2025 | 1,167 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 168 |
+| 2026-09 | 170 |
 | 2026-08 | 185 |
 | 2026-07 | 255 |
 | 2026-06 | 78 |
@@ -112,6 +112,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-26 | 2 |
 | 2026-09-25 | 1 |
 | 2026-09-24 | 32 |
 | 2026-09-23 | 19 |

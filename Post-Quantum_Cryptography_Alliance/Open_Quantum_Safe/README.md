@@ -4,7 +4,7 @@
 - **Category ID:** 1203395822390083676
 - **Total Messages in Category:** 281
 - **Last 30 Days:** 9
-- **Last 90 Days:** 32
+- **Last 90 Days:** 26
 - **Last 365 Days:** 79
 - **First Message:** 2024-02-03
 - **Last Message:** 2026-09-23
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [oqs-general](oqs-general_1203395992003678238.md) | 2026-09-23 | 9 | 32 | 72 | 266 |
+| [oqs-general](oqs-general_1203395992003678238.md) | 2026-09-23 | 9 | 26 | 72 | 266 |
 | [oqs-call](oqs-call_1214590815695933470.md) | 2026-06-13 | 0 | 0 | 7 | 13 |
 | [oqs-github](oqs-github_1214605403527184394.md) | 2024-12-23 | 0 | 0 | 0 | 2 |
 
@@ -31,10 +31,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | chozorho | 8 | — |
-| 2 | Ben | 6 | — |
-| 3 | θρπχι | 6 | — |
-| 4 | kstzv | 5 | — |
+| 1 | Ben | 6 | — |
+| 2 | θρπχι | 6 | — |
+| 3 | kstzv | 5 | — |
+| 4 | chozorho | 2 | — |
 | 5 | Meerkatdev | 2 | — |
 
 ### Last 365 Days

@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1426221261826293800
 - **Total Messages in Category:** 29
-- **Last 30 Days:** 15
+- **Last 30 Days:** 14
 - **Last 90 Days:** 22
 - **Last 365 Days:** 29
 - **First Message:** 2025-11-05
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [minokawa](minokawa_1426221491833409536.md) | 2026-09-24 | 15 | 22 | 29 | 29 |
+| [minokawa](minokawa_1426221491833409536.md) | 2026-09-24 | 14 | 22 | 29 | 29 |
 
 ## Most Active Users
 
@@ -25,7 +25,6 @@
 | 2 | [newton_meter (Kevin Millikin)](https://github.com/kmillikin) | 4 | TAC member, Project Maintainer, Minokawa Maintainer |
 | 3 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
 | 4 | Rodrigo Quelhas | 1 | — |
-| 5 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
 
 ### Last 90 Days
 

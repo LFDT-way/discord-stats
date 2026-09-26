@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1331657844193231030
 - **Total Messages in Category:** 415
-- **Last 30 Days:** 4
+- **Last 30 Days:** 2
 - **Last 90 Days:** 29
 - **Last 365 Days:** 173
 - **First Message:** 2025-01-23
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credebl](credebl_1331657363161219082.md) | 2026-09-16 | 4 | 22 | 112 | 282 |
+| [credebl](credebl_1331657363161219082.md) | 2026-09-16 | 2 | 22 | 112 | 282 |
 | [credebl-platform](credebl-platform_1354090545043210362.md) | 2025-09-30 | 0 | 0 | 2 | 61 |
 | [credebl-maintainers](credebl-maintainers_1354091009813905488.md) | 2026-07-07 | 0 | 7 | 50 | 58 |
 | [credebl-announcement](credebl-announcement_1354090474654404660.md) | 2026-04-09 | 0 | 0 | 9 | 14 |
@@ -24,7 +24,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | amitthosare | 3 | Credebl maintainer, Project Maintainer |
+| 1 | amitthosare | 1 | Credebl maintainer, Project Maintainer |
 | 2 | AmitPadmani | 1 | — |
 
 ### Last 90 Days

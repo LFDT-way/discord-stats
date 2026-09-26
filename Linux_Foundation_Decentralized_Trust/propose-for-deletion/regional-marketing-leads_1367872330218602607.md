@@ -6,7 +6,7 @@
 - **Total Messages:** 22
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 1
+- **Last 365 Days:** 0
 - **First Message:** 2025-05-02
 - **Last Message:** 2025-09-25
 
@@ -22,9 +22,7 @@ _No activity in this period._
 
 ### Last 365 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | Ben Thomas | 1 | LFDT Staff |
+_No activity in this period._
 
 ### All Time
 

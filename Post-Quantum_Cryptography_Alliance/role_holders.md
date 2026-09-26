@@ -9,7 +9,7 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 - **Role holders:** 25
 - **Inactive (no msgs in 365d):** 14
 - **Never posted (0 all-time):** 5
-- **Report generated:** 2026-09-25
+- **Report generated:** 2026-09-26
 
 | User | Roles | Last Msg | 30d | 90d | 365d | All-Time | All Guilds 365d |
 | :--- | :--- | :--- | ---: | ---: | ---: | ---: | ---: |
@@ -19,7 +19,7 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | Tomaz | LF Staff | never | 0 | 0 | 0 | 0 | **30** (elsewhere) |
 | Yarkin Doroz | TAC member | never | 0 | 0 | 0 | 0 | 0 |
 | [davidwboswell](https://github.com/davidwboswell) | LF Staff | 2024-02-01 | 0 | 0 | 0 | 2 | **83** (elsewhere) |
-| [SeanBohan](https://github.com/SeanBohan) | LF Staff | 2024-02-01 | 0 | 0 | 0 | 2 | **387** (elsewhere) |
+| [SeanBohan](https://github.com/SeanBohan) | LF Staff | 2024-02-01 | 0 | 0 | 0 | 2 | **382** (elsewhere) |
 | [danielabarbosa](https://github.com/daniela-barbosa) | LF Staff | 2024-02-02 | 0 | 0 | 0 | 2 | **7** (elsewhere) |
 | [Norman Ashley](https://github.com/ashman-p) | TAC member | 2024-03-12 | 0 | 0 | 0 | 4 | 0 |
 | max | TAC member | 2024-05-22 | 0 | 0 | 0 | 6 | 0 |
@@ -36,6 +36,6 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | Jake | PQ Code Package Maintainer, Project Maintainer | 2026-08-10 | 0 | 4 | 53 | 169 | 53 |
 | [RyJones](https://github.com/ryjones) | LF Staff | 2026-08-28 | 3 | 5 | 103 | 325 | 1,116 |
 | Hanno | PQ Code Package Maintainer | 2026-09-08 | 10 | 16 | 110 | 405 | 110 |
-| [Matthias Kannwischer](https://github.com/mkannwischer) | PQ Code Package Maintainer, Project Maintainer | 2026-09-11 | 18 | 77 | 475 | 1,139 | 475 |
-| Rod | PQ Code Package Maintainer, Project Maintainer | 2026-09-14 | 33 | 108 | 520 | 1,271 | 520 |
+| [Matthias Kannwischer](https://github.com/mkannwischer) | PQ Code Package Maintainer, Project Maintainer | 2026-09-11 | 18 | 77 | 474 | 1,139 | 474 |
+| Rod | PQ Code Package Maintainer, Project Maintainer | 2026-09-14 | 33 | 108 | 514 | 1,271 | 514 |
 

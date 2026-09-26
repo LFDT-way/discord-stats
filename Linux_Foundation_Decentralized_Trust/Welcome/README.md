@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 948958931512873030
 - **Total Messages in Category:** 14,120
-- **Last 30 Days:** 18
+- **Last 30 Days:** 16
 - **Last 90 Days:** 69
 - **Last 365 Days:** 406
 - **First Message:** 2022-03-03
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [welcome](welcome_948959099842883654.md) | 2026-08-12 | 0 | 2 | 44 | 10,733 |
-| [general](general_1021077182501621830.md) | 2026-09-21 | 13 | 28 | 208 | 1,888 |
+| [general](general_1021077182501621830.md) | 2026-09-21 | 11 | 28 | 208 | 1,888 |
 | [job-postings](job-postings_1050607623566802984.md) | 2026-09-03 | 1 | 23 | 74 | 447 |
 | [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-05-04 | 0 | 0 | 10 | 417 |
 | [connections](connections_948959243095130142.md) | 2026-09-21 | 4 | 8 | 27 | 372 |

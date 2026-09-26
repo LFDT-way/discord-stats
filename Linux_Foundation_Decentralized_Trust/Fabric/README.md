@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205464046915585
-- **Total Messages in Category:** 20,032
-- **Last 30 Days:** 45
-- **Last 90 Days:** 118
-- **Last 365 Days:** 838
+- **Total Messages in Category:** 20,036
+- **Last 30 Days:** 48
+- **Last 90 Days:** 122
+- **Last 365 Days:** 840
 - **First Message:** 2021-11-07
-- **Last Message:** 2026-09-25
+- **Last Message:** 2026-09-26
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric](fabric_905205541326975046.md) | 2026-09-17 | 5 | 18 | 239 | 10,153 |
+| [fabric](fabric_905205541326975046.md) | 2026-09-26 | 6 | 19 | 238 | 10,154 |
 | [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-09-25 | 1 | 2 | 13 | 1,631 |
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-08 | 0 | 0 | 6 | 1,527 |
 | [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 0 | 53 | 1,300 |
@@ -22,7 +22,7 @@
 | [fabric-orderer](fabric-orderer_945037581500940298.md) | 2026-04-12 | 0 | 0 | 23 | 817 |
 | [fabric-code-contributors](fabric-code-contributors_941396957635682314.md) | 2026-05-09 | 0 | 0 | 9 | 602 |
 | [fabric-contract-apis](fabric-contract-apis_943090527920877598.md) | 2026-09-13 | 1 | 1 | 12 | 549 |
-| [fabric-x](fabric-x_1427642480504999976.md) | 2026-09-22 | 28 | 74 | 369 | 369 |
+| [fabric-x](fabric-x_1427642480504999976.md) | 2026-09-22 | 27 | 74 | 369 | 369 |
 | [fabric-documentation](fabric-documentation_945038395825070141.md) | 2026-06-19 | 0 | 0 | 21 | 272 |
 | [fabric-japanese](fabric-japanese_942950198836092958.md) | 2026-09-16 | 3 | 4 | 19 | 241 |
 | [fabric-dublin-workshop](fabric-dublin-workshop_1005123918740332604.md) | 2024-09-27 | 0 | 0 | 0 | 119 |
@@ -32,7 +32,7 @@
 | [fabric-docs-i18n](fabric-docs-i18n_963703552352587786.md) | 2023-08-11 | 0 | 0 | 0 | 41 |
 | [fabric-announcements](fabric-announcements_941415351474880532.md) | 2026-02-25 | 0 | 0 | 2 | 15 |
 | [fabric-hacktoberfest](fabric-hacktoberfest_1024609249927634997.md) | 2022-10-13 | 0 | 0 | 0 | 10 |
-| [fabric-x-evm](fabric-x-evm_1550488625576415232.md) | 2026-09-24 | 6 | 6 | 6 | 6 |
+| [fabric-x-evm](fabric-x-evm_1550488625576415232.md) | 2026-09-25 | 9 | 9 | 9 | 9 |
 
 ## Most Active Users
 
@@ -42,9 +42,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Yoav Tock](https://github.com/tock-ibm) | 11 | TAC member, Project Maintainer, Fabric Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 8 | lfdt-ca, LFDT Staff |
-| 3 | EliMbadi | 7 | — |
-| 4 | [arner](https://github.com/arner) | 5 | Project Maintainer, Fabric Maintainer |
-| 5 | [davidwboswell](https://github.com/davidwboswell) | 2 | lfdt-ca, LFDT Staff |
+| 3 | [arner](https://github.com/arner) | 6 | Project Maintainer, Fabric Maintainer |
+| 4 | EliMbadi | 6 | — |
+| 5 | Storm1289 | 4 | — |
 
 ### Last 90 Days
 
@@ -52,19 +52,19 @@
 | ---: | :--- | ---: | :--- |
 | 1 | EliMbadi | 34 | — |
 | 2 | [Yoav Tock](https://github.com/tock-ibm) | 26 | TAC member, Project Maintainer, Fabric Maintainer |
-| 3 | [Ry Jones](https://github.com/ryjones) | 9 | lfdt-ca, LFDT Staff |
-| 4 | [arner](https://github.com/arner) | 9 | Project Maintainer, Fabric Maintainer |
-| 5 | Rudra | 4 | — |
+| 3 | [arner](https://github.com/arner) | 10 | Project Maintainer, Fabric Maintainer |
+| 4 | [Ry Jones](https://github.com/ryjones) | 9 | lfdt-ca, LFDT Staff |
+| 5 | Storm1289 | 4 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 99 | Project Maintainer, Fabric Maintainer |
-| 2 | Frank_The_Fish | 56 | Lab Leader |
+| 2 | Frank_The_Fish | 55 | Lab Leader |
 | 3 | [Yoav Tock](https://github.com/tock-ibm) | 46 | TAC member, Project Maintainer, Fabric Maintainer |
 | 4 | EliMbadi | 46 | — |
-| 5 | [arner](https://github.com/arner) | 35 | Project Maintainer, Fabric Maintainer |
+| 5 | [arner](https://github.com/arner) | 36 | Project Maintainer, Fabric Maintainer |
 
 ### All Time
 
@@ -80,7 +80,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 493 |
+| 2026 | 497 |
 | 2025 | 1,596 |
 | 2024 | 3,365 |
 | 2023 | 7,203 |
@@ -91,7 +91,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 44 |
+| 2026-09 | 48 |
 | 2026-08 | 34 |
 | 2026-07 | 39 |
 | 2026-06 | 30 |
@@ -153,7 +153,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-09-25 | 1 |
+| 2026-09-26 | 1 |
+| 2026-09-25 | 4 |
 | 2026-09-24 | 7 |
 | 2026-09-22 | 1 |
 | 2026-09-17 | 4 |

@@ -4,7 +4,7 @@
 - **Category:** Labs
 - **Channel ID:** 1542096589961699369
 - **Total Messages:** 3
-- **Last 30 Days:** 3
+- **Last 30 Days:** 0
 - **Last 90 Days:** 3
 - **Last 365 Days:** 3
 - **First Message:** 2026-08-26
@@ -14,10 +14,7 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
-| 2 | æœss | 1 | — |
+_No activity in this period._
 
 ### Last 90 Days
 

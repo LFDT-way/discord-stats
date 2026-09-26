@@ -5,12 +5,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
 - **Active Users (365d):** 99
-- **Messages (365d):** 1,645
+- **Messages (365d):** 1,639
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 520 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 475 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 514 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 474 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 110 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 99 | LF Staff |
 | 5 | chozorho | 55 | — |
@@ -19,8 +19,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 8 | Severus Snape | 25 | TAC member |
 | 9 | θρπχι | 12 | — |
 | 10 | brent | 12 | — |
-| 11 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 11 | — |
-| 12 | hatz | 10 | — |
+| 11 | hatz | 11 | — |
+| 12 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 11 | — |
 | 13 | Ishan | 10 | — |
 | 14 | Ben | 10 | — |
 | 15 | cybarg | 10 | — |
@@ -37,16 +37,16 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 26 | N.Nova | 5 | — |
 | 27 | kstzv | 5 | — |
 | 28 | Brendan T R | 4 | — |
-| 29 | Bigood | 4 | — |
-| 30 | Vëx | 4 | — |
-| 31 | Abhi-95 | 4 | — |
-| 32 | pittma | 4 | — |
-| 33 | Mr.F | 3 | — |
-| 34 | Jarek Duda | 3 | — |
-| 35 | Vijay G | 3 | — |
-| 36 | Mila Anastasova | 3 | — |
-| 37 | LoneRam | 3 | — |
-| 38 | Umk.Jr | 3 | — |
+| 29 | Umk.Jr | 4 | — |
+| 30 | Bigood | 4 | — |
+| 31 | Vëx | 4 | — |
+| 32 | Abhi-95 | 4 | — |
+| 33 | pittma | 4 | — |
+| 34 | Mr.F | 3 | — |
+| 35 | Jarek Duda | 3 | — |
+| 36 | Vijay G | 3 | — |
+| 37 | Mila Anastasova | 3 | — |
+| 38 | LoneRam | 3 | — |
 | 39 | OTO | 3 | — |
 | 40 | willieyz | 3 | — |
 | 41 | Snake | 3 | — |
@@ -67,26 +67,26 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 56 | Deepak Chauhan | 2 | — |
 | 57 | amaury | 2 | — |
 | 58 | Spartan | 2 | — |
-| 59 | Ayush | 2 | — |
-| 60 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 2 | — |
-| 61 | DJ. XYZ | 2 | — |
-| 62 | Meerkatdev | 2 | — |
-| 63 | Mephistopheles | 1 | — |
-| 64 | Chennamma Hotkar | 1 | — |
-| 65 | 【𝐊𝐮𝐦𝐞𝟎𝟎】\|𝔻𝕋\| | 1 | — |
-| 66 | Derekqw | 1 | — |
-| 67 | Siddhartha Bh | 1 | — |
-| 68 | keerthivasan | 1 | — |
-| 69 | Skytree | 1 | — |
-| 70 | Noxious | 1 | — |
-| 71 | sycramore | 1 | — |
-| 72 | Luke | 1 | — |
-| 73 | Kaartik Bhushan | 1 | — |
-| 74 | Vn | 1 | — |
-| 75 | Fynn Thierling | 1 | CBOM maintainer, Project Maintainer |
-| 76 | arun | 1 | — |
-| 77 | Jim St.Clair | 1 | — |
-| 78 | MrAyyyo | 1 | — |
+| 59 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 2 | — |
+| 60 | DJ. XYZ | 2 | — |
+| 61 | Meerkatdev | 2 | — |
+| 62 | Mephistopheles | 1 | — |
+| 63 | Chennamma Hotkar | 1 | — |
+| 64 | 【𝐊𝐮𝐦𝐞𝟎𝟎】\|𝔻𝕋\| | 1 | — |
+| 65 | Derekqw | 1 | — |
+| 66 | Siddhartha Bh | 1 | — |
+| 67 | keerthivasan | 1 | — |
+| 68 | Skytree | 1 | — |
+| 69 | Noxious | 1 | — |
+| 70 | sycramore | 1 | — |
+| 71 | Luke | 1 | — |
+| 72 | Kaartik Bhushan | 1 | — |
+| 73 | Vn | 1 | — |
+| 74 | Fynn Thierling | 1 | CBOM maintainer, Project Maintainer |
+| 75 | arun | 1 | — |
+| 76 | Jim St.Clair | 1 | — |
+| 77 | MrAyyyo | 1 | — |
+| 78 | Ayush | 1 | — |
 | 79 | Jeffrey C. Rombough | 1 | — |
 | 80 | Rockster | 1 | — |
 | 81 | shauryaneel13 | 1 | — |

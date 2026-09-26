@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 55
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 15
+- **Last 365 Days:** 14
 - **First Message:** 2022-07-28
 - **Last Message:** 2026-02-03
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [regional-marketing-leads](regional-marketing-leads_1367872330218602607.md) | 2025-09-25 | 0 | 0 | 1 | 22 |
+| [regional-marketing-leads](regional-marketing-leads_1367872330218602607.md) | 2025-09-25 | 0 | 0 | 0 | 22 |
 | [hlf-connector](hlf-connector_943223554709790771.md) | 2023-04-12 | 0 | 0 | 0 | 10 |
 | [maintainer-days](maintainer-days_1465743817906065478.md) | 2026-02-03 | 0 | 0 | 5 | 5 |
 | [artizyou](artizyou_1433779247734063174.md) | 2025-10-31 | 0 | 0 | 5 | 5 |
@@ -40,8 +40,7 @@ _No activity in this period._
 | 1 | [Ry Jones](https://github.com/ryjones) | 8 | lfdt-ca, LFDT Staff |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
 | 3 | AntiSpamGuy (Rob Andersen) | 2 | Lab Leader |
-| 4 | Ben Thomas | 1 | LFDT Staff |
-| 5 | [Maria Munaro](https://github.com/munapower) | 1 | — |
+| 4 | [Maria Munaro](https://github.com/munapower) | 1 | — |
 
 ### All Time
 
