@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 1,863
 - **Last 30 Days:** 4
 - **Last 90 Days:** 7
-- **Last 365 Days:** 81
+- **Last 365 Days:** 79
 - **First Message:** 2022-09-23
 - **Last Message:** 2026-09-23
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [welcome-landing](welcome-landing_1022962884864643219.md) | 2026-07-30 | 0 | 1 | 3 | 1,077 |
+| [welcome-landing](welcome-landing_1022962884864643219.md) | 2026-07-30 | 0 | 1 | 1 | 1,077 |
 | [general](general_1023188132042133574.md) | 2026-09-23 | 4 | 5 | 64 | 377 |
 | [introductions](introductions_1023219299902570589.md) | 2026-05-20 | 0 | 0 | 2 | 99 |
 | [community-connect](community-connect_1022965117362634855.md) | 2025-10-25 | 0 | 0 | 1 | 90 |

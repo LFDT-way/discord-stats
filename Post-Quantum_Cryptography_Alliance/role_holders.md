@@ -9,12 +9,12 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 - **Role holders:** 25
 - **Inactive (no msgs in 365d):** 14
 - **Never posted (0 all-time):** 5
-- **Report generated:** 2026-09-26
+- **Report generated:** 2026-09-27
 
 | User | Roles | Last Msg | 30d | 90d | 365d | All-Time | All Guilds 365d |
 | :--- | :--- | :--- | ---: | ---: | ---: | ---: | ---: |
 | K4TR1N | CBOM maintainer, Project Maintainer | never | 0 | 0 | 0 | 0 | 0 |
-| [Min Yu](https://github.com/minyu66) | LF Staff | never | 0 | 0 | 0 | 0 | **14** (elsewhere) |
+| [Min Yu](https://github.com/minyu66) | LF Staff | never | 0 | 0 | 0 | 0 | **13** (elsewhere) |
 | PQCA-bot | LF Staff | never | 0 | 0 | 0 | 0 | 0 |
 | Tomaz | LF Staff | never | 0 | 0 | 0 | 0 | **30** (elsewhere) |
 | Yarkin Doroz | TAC member | never | 0 | 0 | 0 | 0 | 0 |
@@ -34,8 +34,8 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | CBOM maintainer, Project Maintainer | 2026-02-06 | 0 | 0 | 7 | 11 | 7 |
 | Severus Snape | TAC member | 2026-09-24 | 6 | 8 | 25 | 35 | 25 |
 | Jake | PQ Code Package Maintainer, Project Maintainer | 2026-08-10 | 0 | 4 | 53 | 169 | 53 |
-| [RyJones](https://github.com/ryjones) | LF Staff | 2026-08-28 | 3 | 5 | 103 | 325 | 1,116 |
-| Hanno | PQ Code Package Maintainer | 2026-09-08 | 10 | 16 | 110 | 405 | 110 |
-| [Matthias Kannwischer](https://github.com/mkannwischer) | PQ Code Package Maintainer, Project Maintainer | 2026-09-11 | 18 | 77 | 474 | 1,139 | 474 |
+| [RyJones](https://github.com/ryjones) | LF Staff | 2026-08-28 | 3 | 5 | 103 | 325 | 1,110 |
+| Hanno | PQ Code Package Maintainer | 2026-09-08 | 10 | 16 | 109 | 405 | 109 |
+| [Matthias Kannwischer](https://github.com/mkannwischer) | PQ Code Package Maintainer, Project Maintainer | 2026-09-11 | 18 | 77 | 473 | 1,139 | 473 |
 | Rod | PQ Code Package Maintainer, Project Maintainer | 2026-09-14 | 33 | 108 | 514 | 1,271 | 514 |
 

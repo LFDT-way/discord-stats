@@ -5,25 +5,25 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
 - **Active Users (365d):** 99
-- **Messages (365d):** 1,639
+- **Messages (365d):** 1,634
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 514 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 474 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 110 | PQ Code Package Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 473 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 109 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 99 | LF Staff |
 | 5 | chozorho | 55 | — |
 | 6 | Jake | 53 | PQ Code Package Maintainer, Project Maintainer |
-| 7 | Brendan | 32 | — |
+| 7 | Brendan | 31 | — |
 | 8 | Severus Snape | 25 | TAC member |
 | 9 | θρπχι | 12 | — |
 | 10 | brent | 12 | — |
 | 11 | hatz | 11 | — |
-| 12 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 11 | — |
-| 13 | Ishan | 10 | — |
-| 14 | Ben | 10 | — |
-| 15 | cybarg | 10 | — |
+| 12 | Ishan | 10 | — |
+| 13 | Ben | 10 | — |
+| 14 | cybarg | 10 | — |
+| 15 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 9 | — |
 | 16 | Dadofpips | 9 | — |
 | 17 | Loganaden | 8 | — |
 | 18 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 7 | CBOM maintainer, Project Maintainer |

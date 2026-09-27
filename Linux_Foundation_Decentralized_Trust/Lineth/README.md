@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1498775901532454942
 - **Total Messages in Category:** 40
-- **Last 30 Days:** 19
+- **Last 30 Days:** 16
 - **Last 90 Days:** 26
 - **Last 365 Days:** 40
 - **First Message:** 2026-05-11
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [lineth-general](lineth-general_1498775958080065746.md) | 2026-09-22 | 19 | 26 | 36 | 36 |
+| [lineth-general](lineth-general_1498775958080065746.md) | 2026-09-22 | 16 | 26 | 36 | 36 |
 | [lineth-announcements](lineth-announcements_1499425506439729262.md) | 2026-06-26 | 0 | 0 | 2 | 2 |
 | [lineth-dev](lineth-dev_1509343096457134142.md) | 2026-06-25 | 0 | 0 | 2 | 2 |
 
@@ -23,8 +23,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Coenie | 7 | — |
-| 2 | Le Chiffre | 5 | — |
+| 1 | Coenie | 5 | — |
+| 2 | Le Chiffre | 4 | — |
 | 3 | TiteWare | 2 | — |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
 | 5 | Jimmy Lineth | 1 | — |

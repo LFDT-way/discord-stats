@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 281
 - **Last 30 Days:** 9
 - **Last 90 Days:** 26
-- **Last 365 Days:** 79
+- **Last 365 Days:** 78
 - **First Message:** 2024-02-03
 - **Last Message:** 2026-09-23
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [oqs-general](oqs-general_1203395992003678238.md) | 2026-09-23 | 9 | 26 | 72 | 266 |
+| [oqs-general](oqs-general_1203395992003678238.md) | 2026-09-23 | 9 | 26 | 71 | 266 |
 | [oqs-call](oqs-call_1214590815695933470.md) | 2026-06-13 | 0 | 0 | 7 | 13 |
 | [oqs-github](oqs-github_1214605403527184394.md) | 2024-12-23 | 0 | 0 | 0 | 2 |
 

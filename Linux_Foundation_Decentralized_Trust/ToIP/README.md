@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1357322461947101405
 - **Total Messages in Category:** 3,176
-- **Last 30 Days:** 192
+- **Last 30 Days:** 186
 - **Last 90 Days:** 613
-- **Last 365 Days:** 2,905
+- **Last 365 Days:** 2,895
 - **First Message:** 2025-04-03
 - **Last Message:** 2026-09-26
 
@@ -13,18 +13,18 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [toip-aim-wg](toip-aim-wg_1379651804790264018.md) | 2026-09-23 | 29 | 106 | 638 | 797 |
-| [toip-decen-trust-graph-wg](toip-decen-trust-graph-wg_1414670897037443205.md) | 2026-09-25 | 40 | 136 | 420 | 429 |
-| [toip-bite-size-trust-tf](toip-bite-size-trust-tf_1414670208085528607.md) | 2026-09-18 | 2 | 19 | 264 | 306 |
+| [toip-aim-wg](toip-aim-wg_1379651804790264018.md) | 2026-09-23 | 28 | 106 | 636 | 797 |
+| [toip-decen-trust-graph-wg](toip-decen-trust-graph-wg_1414670897037443205.md) | 2026-09-25 | 36 | 136 | 418 | 429 |
+| [toip-bite-size-trust-tf](toip-bite-size-trust-tf_1414670208085528607.md) | 2026-09-18 | 2 | 19 | 263 | 306 |
 | [toip-trust-registry-tf](toip-trust-registry-tf_1414671976831910049.md) | 2026-09-24 | 31 | 49 | 280 | 280 |
 | [toip-general](toip-general_1357323158935572581.md) | 2026-09-26 | 14 | 34 | 237 | 268 |
 | [toip-governance-architecture-tf](toip-governance-architecture-tf_1414671405383159808.md) | 2026-09-24 | 8 | 42 | 169 | 174 |
-| [toip-steering-committee](toip-steering-committee_1414671746065371186.md) | 2026-09-17 | 8 | 17 | 151 | 159 |
+| [toip-steering-committee](toip-steering-committee_1414671746065371186.md) | 2026-09-17 | 8 | 17 | 146 | 159 |
 | [toip-ecosystem-governance-wg](toip-ecosystem-governance-wg_1414671336697233499.md) | 2026-09-16 | 22 | 46 | 123 | 123 |
 | [toip-risk-assessment-harms-prevention-tf](toip-risk-assessment-harms-prevention-tf_1445860549685678080.md) | 2026-09-26 | 1 | 8 | 106 | 106 |
 | [toip-keri-suite-wg](toip-keri-suite-wg_1414671689005928579.md) | 2026-07-08 | 0 | 3 | 96 | 96 |
 | [toip-symposium](toip-symposium_1414380462863945768.md) | 2025-12-03 | 0 | 0 | 63 | 79 |
-| [toip-dtgwg-zkp-tf](toip-dtgwg-zkp-tf_1521314643124162570.md) | 2026-09-23 | 8 | 69 | 69 | 69 |
+| [toip-dtgwg-zkp-tf](toip-dtgwg-zkp-tf_1521314643124162570.md) | 2026-09-23 | 7 | 69 | 69 | 69 |
 | [toip-concepts-terminology-wg](toip-concepts-terminology-wg_1414670384539897876.md) | 2026-08-20 | 0 | 10 | 66 | 66 |
 | [toip-technology-stack-wg](toip-technology-stack-wg_1414671863057223820.md) | 2026-09-23 | 8 | 22 | 55 | 55 |
 | [toip-high-assurance-vid-tf](toip-high-assurance-vid-tf_1414671546940915854.md) | 2026-08-03 | 0 | 2 | 37 | 37 |
@@ -42,10 +42,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 54 | Lab Leader |
-| 2 | [firegod](https://github.com/wenjing) | 32 | Project Maintainer, ToIP |
-| 3 | [drummondreed](https://github.com/talltree) | 26 | Project Maintainer, ToIP |
-| 4 | microbiocarly | 26 | Project Maintainer, ToIP |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 52 | Lab Leader |
+| 2 | [firegod](https://github.com/wenjing) | 31 | Project Maintainer, ToIP |
+| 3 | microbiocarly | 25 | Project Maintainer, ToIP |
+| 4 | [drummondreed](https://github.com/talltree) | 24 | Project Maintainer, ToIP |
 | 5 | darrello | 13 | Project Maintainer |
 
 ### Last 90 Days
@@ -62,10 +62,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 590 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 589 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 438 | Project Maintainer, ToIP |
-| 3 | microbiocarly | 391 | Project Maintainer, ToIP |
-| 4 | [firegod](https://github.com/wenjing) | 265 | Project Maintainer, ToIP |
+| 3 | microbiocarly | 390 | Project Maintainer, ToIP |
+| 4 | [firegod](https://github.com/wenjing) | 264 | Project Maintainer, ToIP |
 | 5 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 126 | Project Maintainer, ToIP |
 
 ### All Time

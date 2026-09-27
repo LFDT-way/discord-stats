@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515538766254102
 - **Total Messages in Category:** 2,346
-- **Last 30 Days:** 5
+- **Last 30 Days:** 4
 - **Last 90 Days:** 18
 - **Last 365 Days:** 364
 - **First Message:** 2021-11-11
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-09-24 | 3 | 16 | 285 | 1,789 |
+| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-09-24 | 2 | 16 | 285 | 1,789 |
 | [cacti-users](cacti-users_908379366650703943.md) | 2026-09-24 | 1 | 1 | 60 | 509 |
 | [cacti-resources](cacti-resources_908349711537299497.md) | 2026-04-03 | 0 | 0 | 3 | 26 |
 | [cacti-announcements](cacti-announcements_908380513310498847.md) | 2026-09-11 | 1 | 1 | 10 | 16 |
@@ -25,8 +25,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [rafaelapb](https://github.com/RafaelAPB) | 2 | Project Maintainer, Cacti Maintainer |
-| 2 | Sarbojit Rana | 2 | — |
+| 1 | Sarbojit Rana | 2 | — |
+| 2 | [rafaelapb](https://github.com/RafaelAPB) | 1 | Project Maintainer, Cacti Maintainer |
 | 3 | mskr | 1 | — |
 
 ### Last 90 Days

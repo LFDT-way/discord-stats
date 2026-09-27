@@ -3,9 +3,9 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
 - **Total Messages in Category:** 3,791
-- **Last 30 Days:** 124
+- **Last 30 Days:** 123
 - **Last 90 Days:** 308
-- **Last 365 Days:** 1,266
+- **Last 365 Days:** 1,263
 - **First Message:** 2023-11-08
 - **Last Message:** 2026-09-25
 
@@ -13,9 +13,9 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credo](credo_1179453305856991263.md) | 2026-09-23 | 4 | 12 | 182 | 1,090 |
-| [bifold](bifold_1209891839071756419.md) | 2026-09-22 | 6 | 17 | 153 | 910 |
-| [multipaz](multipaz_1179828955717574707.md) | 2026-09-18 | 20 | 41 | 222 | 646 |
+| [credo](credo_1179453305856991263.md) | 2026-09-23 | 4 | 12 | 181 | 1,090 |
+| [bifold](bifold_1209891839071756419.md) | 2026-09-22 | 5 | 17 | 152 | 910 |
+| [multipaz](multipaz_1179828955717574707.md) | 2026-09-18 | 20 | 41 | 221 | 646 |
 | [eudiplo](eudiplo_1399429216604258365.md) | 2026-09-25 | 94 | 204 | 566 | 577 |
 | [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 28 | 106 | 268 |
 | [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 4 | 105 |
@@ -53,7 +53,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 320 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | Cyril | 114 | — |
-| 3 | [davidz25](https://github.com/davidz25) | 99 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 3 | [davidz25](https://github.com/davidz25) | 98 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 75 | Linux Foundation Staff |
 | 5 | [Ry Jones, OWF](https://github.com/ryjones) | 65 | Linux Foundation Staff |
 

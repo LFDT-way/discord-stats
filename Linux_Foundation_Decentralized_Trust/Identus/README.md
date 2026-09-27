@@ -2,12 +2,12 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1226983696306012181
-- **Total Messages in Category:** 1,550
-- **Last 30 Days:** 4
-- **Last 90 Days:** 37
-- **Last 365 Days:** 263
+- **Total Messages in Category:** 1,551
+- **Last 30 Days:** 5
+- **Last 90 Days:** 38
+- **Last 365 Days:** 264
 - **First Message:** 2024-04-10
-- **Last Message:** 2026-09-22
+- **Last Message:** 2026-09-27
 
 ## Channels in Category
 
@@ -22,7 +22,7 @@
 | [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-09-15 | 1 | 4 | 8 | 24 |
 | [mediator](mediator_1252629675943919679.md) | 2026-07-07 | 0 | 2 | 3 | 22 |
 | [meeting-minutes](meeting-minutes_1252982706212438016.md) | 2025-06-18 | 0 | 0 | 0 | 12 |
-| [sdk-kmp](sdk-kmp_1252629800372408330.md) | 2025-07-21 | 0 | 0 | 0 | 6 |
+| [sdk-kmp](sdk-kmp_1252629800372408330.md) | 2026-09-27 | 1 | 1 | 1 | 7 |
 | [docs](docs_1391699003674202142.md) | 2025-07-22 | 0 | 0 | 0 | 4 |
 
 ## Most Active Users
@@ -31,7 +31,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | jonbauer | 2 | Identus Maintainer, Project Maintainer |
+| 1 | jonbauer | 3 | Identus Maintainer, Project Maintainer |
 | 2 | [FabioPinheiro](https://github.com/FabioPinheiro) | 1 | Identus Maintainer, Project Maintainer |
 | 3 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
 
@@ -43,7 +43,7 @@
 | 2 | [FabioPinheiro](https://github.com/FabioPinheiro) | 10 | Identus Maintainer, Project Maintainer |
 | 3 | Yurii Shynbuiev | 3 | Identus Maintainer, Project Maintainer |
 | 4 | pat_pat | 3 | Identus Maintainer, Project Maintainer |
-| 5 | Prakhar Singh | 2 | — |
+| 5 | jonbauer | 3 | Identus Maintainer, Project Maintainer |
 
 ### Last 365 Days
 
@@ -63,13 +63,13 @@
 | 2 | [Ry Jones](https://github.com/ryjones) | 230 | lfdt-ca, LFDT Staff |
 | 3 | roberto | 194 | — |
 | 4 | [FabioPinheiro](https://github.com/FabioPinheiro) | 92 | Identus Maintainer, Project Maintainer |
-| 5 | [JessicaG](https://github.com/jwagantall) | 80 | lfdt-ca, LFDT Staff |
+| 5 | jonbauer | 80 | Identus Maintainer, Project Maintainer |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 180 |
+| 2026 | 181 |
 | 2025 | 943 |
 | 2024 | 427 |
 
@@ -77,7 +77,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 3 |
+| 2026-09 | 4 |
 | 2026-08 | 19 |
 | 2026-07 | 15 |
 | 2026-06 | 27 |
@@ -112,6 +112,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-27 | 1 |
 | 2026-09-22 | 2 |
 | 2026-09-15 | 1 |
 | 2026-08-28 | 1 |

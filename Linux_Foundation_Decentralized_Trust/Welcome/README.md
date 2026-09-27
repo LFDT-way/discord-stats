@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 14,120
 - **Last 30 Days:** 16
 - **Last 90 Days:** 69
-- **Last 365 Days:** 406
+- **Last 365 Days:** 404
 - **First Message:** 2022-03-03
 - **Last Message:** 2026-09-21
 
@@ -17,8 +17,8 @@
 | [general](general_1021077182501621830.md) | 2026-09-21 | 11 | 28 | 208 | 1,888 |
 | [job-postings](job-postings_1050607623566802984.md) | 2026-09-03 | 1 | 23 | 74 | 447 |
 | [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-05-04 | 0 | 0 | 10 | 417 |
-| [connections](connections_948959243095130142.md) | 2026-09-21 | 4 | 8 | 27 | 372 |
-| [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-07-30 | 0 | 5 | 33 | 191 |
+| [connections](connections_948959243095130142.md) | 2026-09-21 | 4 | 8 | 26 | 372 |
+| [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-07-30 | 0 | 5 | 32 | 191 |
 | [announcements](announcements_953133039372877844.md) | 2026-06-30 | 0 | 1 | 8 | 39 |
 | [git-help](git-help_1098621099681513492.md) | 2026-07-06 | 0 | 2 | 2 | 33 |
 
