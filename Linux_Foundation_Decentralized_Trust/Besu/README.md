@@ -2,10 +2,10 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205381872095283
-- **Total Messages in Category:** 47,701
-- **Last 30 Days:** 147
-- **Last 90 Days:** 537
-- **Last 365 Days:** 1,878
+- **Total Messages in Category:** 47,703
+- **Last 30 Days:** 144
+- **Last 90 Days:** 538
+- **Last 365 Days:** 1,880
 - **First Message:** 2021-11-09
 - **Last Message:** 2026-09-27
 
@@ -13,11 +13,11 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [besu](besu_938504958909747250.md) | 2026-09-27 | 71 | 216 | 812 | 33,791 |
-| [besu-contributors](besu-contributors_905205502940696607.md) | 2026-09-27 | 46 | 162 | 467 | 6,658 |
+| [besu](besu_938504958909747250.md) | 2026-09-27 | 71 | 217 | 813 | 33,792 |
+| [besu-contributors](besu-contributors_905205502940696607.md) | 2026-09-27 | 47 | 162 | 468 | 6,659 |
 | [besu-reviews](besu-reviews_938505506123812865.md) | 2026-09-24 | 8 | 47 | 244 | 2,365 |
 | [besu-enterprise](besu-enterprise_1172617318845657199.md) | 2026-08-19 | 0 | 76 | 166 | 1,800 |
-| [besu-release](besu-release_943252457063075880.md) | 2026-08-28 | 1 | 8 | 79 | 1,790 |
+| [besu-release](besu-release_943252457063075880.md) | 2026-08-28 | 0 | 8 | 79 | 1,790 |
 | [besu-performance](besu-performance_1129455688255553717.md) | 2026-09-21 | 3 | 3 | 46 | 448 |
 | [besu-workshop](besu-workshop_974732102450970654.md) | 2026-09-18 | 8 | 8 | 11 | 218 |
 | [besu-announce](besu-announce_906266945614135356.md) | 2026-09-25 | 2 | 6 | 20 | 147 |
@@ -25,7 +25,7 @@
 | [besu-legacy-sunset](besu-legacy-sunset_1288187441211244598.md) | 2026-06-25 | 0 | 0 | 3 | 76 |
 | [besu-modularity](besu-modularity_1134521811388870676.md) | 2026-01-26 | 0 | 0 | 2 | 71 |
 | [besu-portal](besu-portal_1326322164118458452.md) | 2025-12-15 | 0 | 0 | 1 | 64 |
-| [besu-docs](besu-docs_1354548845438177432.md) | 2026-09-03 | 7 | 10 | 14 | 54 |
+| [besu-docs](besu-docs_1354548845438177432.md) | 2026-09-03 | 4 | 10 | 14 | 54 |
 | [besu-fusaka](besu-fusaka_1217892754949017701.md) | 2025-03-31 | 0 | 0 | 0 | 46 |
 | [besu-for-finance-wg](besu-for-finance-wg_1214946534962241618.md) | 2025-11-13 | 0 | 0 | 11 | 42 |
 | [besu-github](besu-github_943169992436887632.md) | 2026-09-15 | 1 | 1 | 2 | 24 |
@@ -38,8 +38,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Matthew Whitehead](https://github.com/matthew1001) | 26 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 2 | yorick | 25 | — |
-| 3 | [macfarla \| Besu](https://github.com/macfarla) | 11 | Project Maintainer, Besu Maintainer |
-| 4 | matkt -  karim | 11 | Project Maintainer, Besu Maintainer |
+| 3 | matkt -  karim | 11 | Project Maintainer, Besu Maintainer |
+| 4 | [macfarla \| Besu](https://github.com/macfarla) | 10 | Project Maintainer, Besu Maintainer |
 | 5 | Rowan | 8 | — |
 
 ### Last 90 Days
@@ -76,7 +76,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,315 |
+| 2026 | 1,317 |
 | 2025 | 3,508 |
 | 2024 | 10,409 |
 | 2023 | 11,741 |
@@ -87,7 +87,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 135 |
+| 2026-09 | 137 |
 | 2026-08 | 173 |
 | 2026-07 | 225 |
 | 2026-06 | 160 |
@@ -149,7 +149,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-09-27 | 2 |
+| 2026-09-27 | 4 |
 | 2026-09-26 | 6 |
 | 2026-09-25 | 4 |
 | 2026-09-24 | 4 |

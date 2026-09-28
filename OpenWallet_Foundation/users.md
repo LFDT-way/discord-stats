@@ -5,15 +5,15 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 132
-- **Messages (365d):** 1,983
+- **Messages (365d):** 1,971
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 378 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 377 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 161 | Linux Foundation Staff |
-| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 150 | Linux Foundation Staff |
-| 4 | [Lukas.J.Han](https://github.com/lukasjhan) | 122 | Lab Maintainer |
-| 5 | Cyril | 114 | — |
+| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 142 | Linux Foundation Staff |
+| 4 | [Lukas.J.Han](https://github.com/lukasjhan) | 117 | Lab Maintainer |
+| 5 | Cyril | 116 | — |
 | 6 | [davidz25](https://github.com/davidz25) | 98 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 7 | [Timo Glastra](https://github.com/TimoGlastra) | 97 | credo maintainers, Project Maintainer |
 | 8 | espuni | 45 | — |

@@ -4,7 +4,7 @@
 - **Category ID:** 1111041471768961044
 - **Total Messages in Category:** 1,836
 - **Last 30 Days:** 12
-- **Last 90 Days:** 19
+- **Last 90 Days:** 18
 - **Last 365 Days:** 125
 - **First Message:** 2022-09-28
 - **Last Message:** 2026-09-24
@@ -16,7 +16,7 @@
 | [architecture-sig](architecture-sig_1024688298389688360.md) | 2026-08-10 | 0 | 2 | 47 | 898 |
 | [safe-wallet-sig](safe-wallet-sig_1154410858991067247.md) | 2025-05-12 | 0 | 0 | 0 | 393 |
 | [wallet-interoperability-sig](wallet-interoperability-sig_1291067233967149150.md) | 2026-06-01 | 0 | 0 | 42 | 204 |
-| [tac](tac_1080192375621685288.md) | 2026-09-24 | 12 | 17 | 26 | 203 |
+| [tac](tac_1080192375621685288.md) | 2026-09-24 | 12 | 16 | 26 | 203 |
 | [digital-wallet-and-agent-overviews-sig](digital-wallet-and-agent-overviews-sig_1154111877077532814.md) | 2025-11-17 | 0 | 0 | 10 | 138 |
 
 ## Most Active Users

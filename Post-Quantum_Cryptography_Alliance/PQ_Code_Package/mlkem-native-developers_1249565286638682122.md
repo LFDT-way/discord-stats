@@ -4,7 +4,7 @@
 - **Category:** PQ Code Package
 - **Channel ID:** 1249565286638682122
 - **Total Messages:** 927
-- **Last 30 Days:** 62
+- **Last 30 Days:** 51
 - **Last 90 Days:** 118
 - **Last 365 Days:** 436
 - **First Message:** 2024-06-10
@@ -16,10 +16,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 33 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 17 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 9 | PQ Code Package Maintainer |
-| 4 | [RyJones](https://github.com/ryjones) | 3 | LF Staff |
+| 1 | Rod | 30 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 14 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 7 | PQ Code Package Maintainer |
 
 ### Last 90 Days
 

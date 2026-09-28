@@ -4,7 +4,7 @@
 - **Category:** ToIP
 - **Channel ID:** 1414670897037443205
 - **Total Messages:** 429
-- **Last 30 Days:** 36
+- **Last 30 Days:** 34
 - **Last 90 Days:** 136
 - **Last 365 Days:** 418
 - **First Message:** 2025-09-24
@@ -16,10 +16,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 9 | Lab Leader |
-| 2 | [drummondreed](https://github.com/talltree) | 9 | Project Maintainer, ToIP |
-| 3 | microbiocarly | 6 | Project Maintainer, ToIP |
-| 4 | lyn brooks | 5 | Project Maintainer, ToIP |
+| 1 | [drummondreed](https://github.com/talltree) | 9 | Project Maintainer, ToIP |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 8 | Lab Leader |
+| 3 | lyn brooks | 5 | Project Maintainer, ToIP |
+| 4 | microbiocarly | 5 | Project Maintainer, ToIP |
 | 5 | [firegod](https://github.com/wenjing) | 4 | Project Maintainer, ToIP |
 
 ### Last 90 Days

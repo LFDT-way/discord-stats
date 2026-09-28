@@ -4,7 +4,7 @@
 - **Category ID:** 1426221261826293800
 - **Total Messages in Category:** 29
 - **Last 30 Days:** 14
-- **Last 90 Days:** 22
+- **Last 90 Days:** 21
 - **Last 365 Days:** 29
 - **First Message:** 2025-11-05
 - **Last Message:** 2026-09-24
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [minokawa](minokawa_1426221491833409536.md) | 2026-09-24 | 14 | 22 | 29 | 29 |
+| [minokawa](minokawa_1426221491833409536.md) | 2026-09-24 | 14 | 21 | 29 | 29 |
 
 ## Most Active Users
 

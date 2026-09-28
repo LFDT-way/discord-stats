@@ -2,9 +2,9 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1226983696306012181
-- **Total Messages in Category:** 1,551
+- **Total Messages in Category:** 1,552
 - **Last 30 Days:** 5
-- **Last 90 Days:** 38
+- **Last 90 Days:** 39
 - **Last 365 Days:** 264
 - **First Message:** 2024-04-10
 - **Last Message:** 2026-09-27
@@ -13,16 +13,16 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-08-28 | 1 | 9 | 100 | 747 |
+| [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-08-28 | 0 | 9 | 100 | 747 |
 | [sdk-ts](sdk-ts_1252629747389829152.md) | 2026-06-16 | 0 | 0 | 20 | 219 |
-| [cloud-agent](cloud-agent_1252629630763012116.md) | 2025-12-03 | 0 | 0 | 15 | 213 |
+| [cloud-agent](cloud-agent_1252629630763012116.md) | 2025-12-03 | 0 | 0 | 14 | 213 |
 | [general](general_1252630735269925057.md) | 2026-09-22 | 2 | 22 | 101 | 192 |
 | [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 0 | 65 |
 | [identus-faq](identus-faq_1252622748073853083.md) | 2025-11-29 | 0 | 0 | 16 | 46 |
 | [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-09-15 | 1 | 4 | 8 | 24 |
 | [mediator](mediator_1252629675943919679.md) | 2026-07-07 | 0 | 2 | 3 | 22 |
 | [meeting-minutes](meeting-minutes_1252982706212438016.md) | 2025-06-18 | 0 | 0 | 0 | 12 |
-| [sdk-kmp](sdk-kmp_1252629800372408330.md) | 2026-09-27 | 1 | 1 | 1 | 7 |
+| [sdk-kmp](sdk-kmp_1252629800372408330.md) | 2026-09-27 | 2 | 2 | 2 | 8 |
 | [docs](docs_1391699003674202142.md) | 2025-07-22 | 0 | 0 | 0 | 4 |
 
 ## Most Active Users
@@ -31,9 +31,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | jonbauer | 3 | Identus Maintainer, Project Maintainer |
-| 2 | [FabioPinheiro](https://github.com/FabioPinheiro) | 1 | Identus Maintainer, Project Maintainer |
-| 3 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
+| 1 | jonbauer | 4 | Identus Maintainer, Project Maintainer |
+| 2 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
 
 ### Last 90 Days
 
@@ -41,9 +40,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Prince Yarjack | 14 | — |
 | 2 | [FabioPinheiro](https://github.com/FabioPinheiro) | 10 | Identus Maintainer, Project Maintainer |
-| 3 | Yurii Shynbuiev | 3 | Identus Maintainer, Project Maintainer |
-| 4 | pat_pat | 3 | Identus Maintainer, Project Maintainer |
-| 5 | jonbauer | 3 | Identus Maintainer, Project Maintainer |
+| 3 | jonbauer | 4 | Identus Maintainer, Project Maintainer |
+| 4 | Yurii Shynbuiev | 3 | Identus Maintainer, Project Maintainer |
+| 5 | pat_pat | 3 | Identus Maintainer, Project Maintainer |
 
 ### Last 365 Days
 
@@ -63,13 +62,13 @@
 | 2 | [Ry Jones](https://github.com/ryjones) | 230 | lfdt-ca, LFDT Staff |
 | 3 | roberto | 194 | — |
 | 4 | [FabioPinheiro](https://github.com/FabioPinheiro) | 92 | Identus Maintainer, Project Maintainer |
-| 5 | jonbauer | 80 | Identus Maintainer, Project Maintainer |
+| 5 | jonbauer | 81 | Identus Maintainer, Project Maintainer |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 181 |
+| 2026 | 182 |
 | 2025 | 943 |
 | 2024 | 427 |
 
@@ -77,7 +76,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 4 |
+| 2026-09 | 5 |
 | 2026-08 | 19 |
 | 2026-07 | 15 |
 | 2026-06 | 27 |
@@ -112,7 +111,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-09-27 | 1 |
+| 2026-09-27 | 2 |
 | 2026-09-22 | 2 |
 | 2026-09-15 | 1 |
 | 2026-08-28 | 1 |
