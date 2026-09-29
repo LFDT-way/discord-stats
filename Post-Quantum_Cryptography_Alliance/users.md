@@ -5,16 +5,16 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
 - **Active Users (365d):** 99
-- **Messages (365d):** 1,631
+- **Messages (365d):** 1,627
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 514 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 470 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 109 | PQ Code Package Maintainer |
-| 4 | [RyJones](https://github.com/ryjones) | 99 | LF Staff |
-| 5 | chozorho | 55 | — |
-| 6 | Jake | 53 | PQ Code Package Maintainer, Project Maintainer |
+| 4 | [RyJones](https://github.com/ryjones) | 98 | LF Staff |
+| 5 | Jake | 53 | PQ Code Package Maintainer, Project Maintainer |
+| 6 | chozorho | 53 | — |
 | 7 | Brendan | 31 | — |
 | 8 | Severus Snape | 25 | TAC member |
 | 9 | θρπχι | 12 | — |
@@ -56,29 +56,29 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 45 | Ahmed Mohammed Umar | 2 | — |
 | 46 | Daniella | 2 | — |
 | 47 | Ben Knill | 2 | — |
-| 48 | Waleed | 2 | — |
-| 49 | Marc1 | 2 | — |
-| 50 | shubham17 | 2 | — |
-| 51 | mjmalone | 2 | — |
-| 52 | Vishnu Ajith | 2 | — |
-| 53 | [Andreas Schade](https://github.com/san-zrl) | 2 | CBOM maintainer, Project Maintainer |
-| 54 | [mikelodder](https://github.com/mikelodder) | 2 | — |
-| 55 | SAM | 2 | — |
-| 56 | Deepak Chauhan | 2 | — |
-| 57 | amaury | 2 | — |
-| 58 | Spartan | 2 | — |
-| 59 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 2 | — |
-| 60 | DJ. XYZ | 2 | — |
-| 61 | Meerkatdev | 2 | — |
-| 62 | Mephistopheles | 1 | — |
-| 63 | Chennamma Hotkar | 1 | — |
-| 64 | 【𝐊𝐮𝐦𝐞𝟎𝟎】\|𝔻𝕋\| | 1 | — |
-| 65 | Derekqw | 1 | — |
-| 66 | Siddhartha Bh | 1 | — |
-| 67 | keerthivasan | 1 | — |
-| 68 | Skytree | 1 | — |
-| 69 | Noxious | 1 | — |
-| 70 | sycramore | 1 | — |
+| 48 | Marc1 | 2 | — |
+| 49 | shubham17 | 2 | — |
+| 50 | mjmalone | 2 | — |
+| 51 | Vishnu Ajith | 2 | — |
+| 52 | [Andreas Schade](https://github.com/san-zrl) | 2 | CBOM maintainer, Project Maintainer |
+| 53 | [mikelodder](https://github.com/mikelodder) | 2 | — |
+| 54 | SAM | 2 | — |
+| 55 | Deepak Chauhan | 2 | — |
+| 56 | amaury | 2 | — |
+| 57 | Spartan | 2 | — |
+| 58 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 2 | — |
+| 59 | DJ. XYZ | 2 | — |
+| 60 | Meerkatdev | 2 | — |
+| 61 | Mephistopheles | 1 | — |
+| 62 | Chennamma Hotkar | 1 | — |
+| 63 | 【𝐊𝐮𝐦𝐞𝟎𝟎】\|𝔻𝕋\| | 1 | — |
+| 64 | Derekqw | 1 | — |
+| 65 | Siddhartha Bh | 1 | — |
+| 66 | keerthivasan | 1 | — |
+| 67 | Skytree | 1 | — |
+| 68 | Noxious | 1 | — |
+| 69 | sycramore | 1 | — |
+| 70 | Waleed | 1 | — |
 | 71 | Luke | 1 | — |
 | 72 | Kaartik Bhushan | 1 | — |
 | 73 | Vn | 1 | — |

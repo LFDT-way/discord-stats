@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414670897037443205
-- **Total Messages:** 429
-- **Last 30 Days:** 34
-- **Last 90 Days:** 136
-- **Last 365 Days:** 418
+- **Total Messages:** 430
+- **Last 30 Days:** 35
+- **Last 90 Days:** 137
+- **Last 365 Days:** 419
 - **First Message:** 2025-09-24
-- **Last Message:** 2026-09-25
+- **Last Message:** 2026-09-28
 
 ## Most Active Users
 
@@ -28,7 +28,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 55 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 33 | Project Maintainer, ToIP |
-| 3 | Nicky H | 21 | Project Maintainer, ToIP |
+| 3 | Nicky H | 22 | Project Maintainer, ToIP |
 | 4 | microbiocarly | 10 | Project Maintainer, ToIP |
 | 5 | lyn brooks | 7 | Project Maintainer, ToIP |
 
@@ -38,7 +38,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [drummondreed](https://github.com/talltree) | 140 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 121 | Lab Leader |
-| 3 | Nicky H | 30 | Project Maintainer, ToIP |
+| 3 | Nicky H | 31 | Project Maintainer, ToIP |
 | 4 | Jonathan Bellack | 15 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 15 | Project Maintainer, ToIP |
 
@@ -48,7 +48,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [drummondreed](https://github.com/talltree) | 146 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 121 | Lab Leader |
-| 3 | Nicky H | 30 | Project Maintainer, ToIP |
+| 3 | Nicky H | 31 | Project Maintainer, ToIP |
 | 4 | Jonathan Bellack | 16 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 15 | Project Maintainer, ToIP |
 
@@ -56,14 +56,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 287 |
+| 2026 | 288 |
 | 2025 | 142 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 31 |
+| 2026-09 | 32 |
 | 2026-08 | 54 |
 | 2026-07 | 51 |
 | 2026-06 | 16 |
@@ -81,6 +81,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-28 | 1 |
 | 2026-09-25 | 1 |
 | 2026-09-24 | 2 |
 | 2026-09-23 | 3 |

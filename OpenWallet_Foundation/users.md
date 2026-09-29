@@ -5,7 +5,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 132
-- **Messages (365d):** 1,971
+- **Messages (365d):** 1,970
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -22,7 +22,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 11 | PStLouis | 36 | Lab Maintainer, Project Maintainer |
 | 12 | thidalgo | 35 | — |
 | 13 | [swcurran](https://github.com/swcurran) | 30 | Lab Maintainer, TAC members, Project Maintainer |
-| 14 | [bryce-mcmath](https://github.com/bryce-mcmath) | 30 | bifold maintainers, Project Maintainer |
+| 14 | [bryce-mcmath](https://github.com/bryce-mcmath) | 29 | bifold maintainers, Project Maintainer |
 | 15 | Thomas Tran | 28 | Lab Maintainer |
 | 16 | birte_lr | 26 | — |
 | 17 | albertoleon_7794 | 25 | — |

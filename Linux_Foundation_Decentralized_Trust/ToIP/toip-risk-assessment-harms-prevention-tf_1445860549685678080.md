@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1445860549685678080
-- **Total Messages:** 106
-- **Last 30 Days:** 1
-- **Last 90 Days:** 8
-- **Last 365 Days:** 106
+- **Total Messages:** 107
+- **Last 30 Days:** 2
+- **Last 90 Days:** 9
+- **Last 365 Days:** 107
 - **First Message:** 2025-12-03
-- **Last Message:** 2026-09-26
+- **Last Message:** 2026-09-28
 
 ## Most Active Users
 
@@ -17,20 +17,21 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 1 | Lab Leader |
+| 2 | Nicky H | 1 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 5 | Lab Leader |
-| 2 | Nicky H | 3 | Project Maintainer, ToIP |
+| 2 | Nicky H | 4 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 42 | Lab Leader |
-| 2 | Nicky H | 21 | Project Maintainer, ToIP |
+| 2 | Nicky H | 22 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 13 | Project Maintainer, ToIP |
 | 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
 | 5 | anil.helvaci \| GMT +3 | 5 | — |
@@ -40,7 +41,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 42 | Lab Leader |
-| 2 | Nicky H | 21 | Project Maintainer, ToIP |
+| 2 | Nicky H | 22 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 13 | Project Maintainer, ToIP |
 | 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
 | 5 | anil.helvaci \| GMT +3 | 5 | — |
@@ -49,14 +50,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 92 |
+| 2026 | 93 |
 | 2025 | 14 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 1 |
+| 2026-09 | 2 |
 | 2026-08 | 7 |
 | 2026-05 | 3 |
 | 2026-04 | 4 |
@@ -69,6 +70,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-28 | 1 |
 | 2026-09-26 | 1 |
 | 2026-08-11 | 3 |
 | 2026-08-10 | 2 |

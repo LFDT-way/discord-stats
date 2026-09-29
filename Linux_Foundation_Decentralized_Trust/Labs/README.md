@@ -2,12 +2,12 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
-- **Total Messages in Category:** 21,358
-- **Last 30 Days:** 38
-- **Last 90 Days:** 212
-- **Last 365 Days:** 1,020
+- **Total Messages in Category:** 21,366
+- **Last 30 Days:** 46
+- **Last 90 Days:** 217
+- **Last 365 Days:** 1,028
 - **First Message:** 2021-11-05
-- **Last Message:** 2026-09-28
+- **Last Message:** 2026-09-29
 
 ## Channels in Category
 
@@ -19,13 +19,13 @@
 | [caliper](caliper_941417677778473031.md) | 2026-03-23 | 0 | 0 | 46 | 1,439 |
 | [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-04-15 | 0 | 0 | 170 | 1,185 |
 | [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 13 | 859 |
-| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-09-28 | 9 | 21 | 165 | 343 |
+| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-09-29 | 12 | 24 | 168 | 346 |
 | [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-08-31 | 4 | 11 | 61 | 150 |
 | [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 11 | 148 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-09-21 | 8 | 8 | 11 | 108 |
+| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-09-29 | 9 | 89 | 89 | 89 |
 | [fablo](fablo_1109190949394989127.md) | 2026-09-15 | 2 | 2 | 14 | 87 |
-| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-09-23 | 4 | 84 | 84 | 84 |
-| [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-09-22 | 5 | 33 | 81 | 81 |
+| [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-09-22 | 5 | 30 | 81 | 81 |
 | [general](general_988569914266775662.md) | 2026-07-30 | 0 | 3 | 11 | 72 |
 | [cello](cello_941475454378991646.md) | 2026-08-28 | 0 | 1 | 10 | 54 |
 | [cc-tools](cc-tools_1156653969133809715.md) | 2025-05-07 | 0 | 0 | 0 | 45 |
@@ -48,30 +48,30 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 6 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 8 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 2 | Vipin Bharathan | 5 | lab stewards |
-| 3 | kadalkidal | 4 | Lab Leader |
-| 4 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
+| 3 | kadalkidal | 5 | Lab Leader |
+| 4 | [Ry Jones](https://github.com/ryjones) | 5 | lfdt-ca, LFDT Staff |
 | 5 | [DanielSzego](https://github.com/Daniel-Szego) | 4 | Meetup Organizer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 47 | lfdt-ca, LFDT Staff |
-| 2 | Dondo | 22 | Lab Leader |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 15 | lfdt-ca, LFDT Staff |
-| 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 14 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
-| 5 | kadalkidal | 12 | Lab Leader |
+| 1 | [Ry Jones](https://github.com/ryjones) | 48 | lfdt-ca, LFDT Staff |
+| 2 | Dondo | 23 | Lab Leader |
+| 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 16 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 14 | lfdt-ca, LFDT Staff |
+| 5 | kadalkidal | 13 | Lab Leader |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 136 | lfdt-ca, LFDT Staff |
+| 1 | [Ry Jones](https://github.com/ryjones) | 137 | lfdt-ca, LFDT Staff |
 | 2 | [RAWx18](https://github.com/RAWx18) | 96 | Lab Leader |
-| 3 | NorfolkAndChance | 72 | Project Maintainer |
-| 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 71 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 73 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 4 | NorfolkAndChance | 72 | Project Maintainer |
 | 5 | [Attila Klenik](https://github.com/aklenik) | 60 | Project Maintainer, Lab Leader |
 
 ### All Time
@@ -88,7 +88,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 656 |
+| 2026 | 664 |
 | 2025 | 993 |
 | 2024 | 2,099 |
 | 2023 | 7,409 |
@@ -99,7 +99,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 32 |
+| 2026-09 | 40 |
 | 2026-08 | 53 |
 | 2026-07 | 124 |
 | 2026-06 | 64 |
@@ -161,7 +161,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-09-28 | 2 |
+| 2026-09-29 | 2 |
+| 2026-09-28 | 8 |
 | 2026-09-25 | 4 |
 | 2026-09-23 | 1 |
 | 2026-09-22 | 4 |

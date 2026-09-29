@@ -3,8 +3,8 @@
 - **Guild ID:** 1202723482224295936
 - **Total Messages:** 4,493
 - **Last 30 Days:** 95
-- **Last 90 Days:** 299
-- **Last 365 Days:** 1,631 — [active users](users.md)
+- **Last 90 Days:** 295
+- **Last 365 Days:** 1,627 — [active users](users.md)
 - **First Message:** 2024-02-01
 - **Last Message:** 2026-09-26
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -13,8 +13,8 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PQ Code Package](PQ_Code_Package/README.md) | 3,567 | 58 | 229 | 1,323 | 2024-02-03 | 2026-09-23 |
-| [Welcome](Welcome/README.md) | 500 | 25 | 41 | 172 | 2024-02-01 | 2026-09-26 |
+| [PQ Code Package](PQ_Code_Package/README.md) | 3,567 | 58 | 225 | 1,322 | 2024-02-03 | 2026-09-23 |
+| [Welcome](Welcome/README.md) | 500 | 25 | 41 | 169 | 2024-02-01 | 2026-09-26 |
 | [Open Quantum Safe](Open_Quantum_Safe/README.md) | 281 | 9 | 26 | 78 | 2024-02-03 | 2026-09-23 |
 | [Governance](Governance/README.md) | 81 | 0 | 0 | 6 | 2024-02-05 | 2026-02-10 |
 | [CBOMKit](CBOMKit/README.md) | 51 | 3 | 3 | 45 | 2025-05-06 | 2026-09-24 |
@@ -37,8 +37,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 104 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 74 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 102 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 72 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 16 | PQ Code Package Maintainer |
 | 4 | θρπχι | 12 | — |
 | 5 | Ishan | 10 | — |
@@ -50,8 +50,8 @@
 | 1 | Rod | 514 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 470 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 109 | PQ Code Package Maintainer |
-| 4 | [RyJones](https://github.com/ryjones) | 99 | LF Staff |
-| 5 | chozorho | 55 | — |
+| 4 | [RyJones](https://github.com/ryjones) | 98 | LF Staff |
+| 5 | Jake | 53 | PQ Code Package Maintainer, Project Maintainer |
 
 ### All Time
 

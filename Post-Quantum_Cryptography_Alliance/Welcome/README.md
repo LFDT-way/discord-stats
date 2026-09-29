@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 500
 - **Last 30 Days:** 25
 - **Last 90 Days:** 41
-- **Last 365 Days:** 172
+- **Last 365 Days:** 169
 - **First Message:** 2024-02-01
 - **Last Message:** 2026-09-26
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [general](general_1202723483289780236.md) | 2026-09-26 | 25 | 41 | 170 | 462 |
+| [general](general_1202723483289780236.md) | 2026-09-26 | 25 | 41 | 167 | 462 |
 | [linkedin](linkedin_1205645746192261220.md) | 2026-05-24 | 0 | 0 | 2 | 33 |
 | [links](links_1205170239436754974.md) | 2024-02-13 | 0 | 0 | 0 | 4 |
 | [events](events_1214569223012089878.md) | 2025-03-11 | 0 | 0 | 0 | 1 |
@@ -44,11 +44,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | chozorho | 28 | — |
+| 1 | chozorho | 26 | — |
 | 2 | Severus Snape | 15 | TAC member |
-| 3 | [RyJones](https://github.com/ryjones) | 8 | LF Staff |
-| 4 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 7 | — |
-| 5 | Dadofpips | 7 | — |
+| 3 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 7 | — |
+| 4 | Dadofpips | 7 | — |
+| 5 | [RyJones](https://github.com/ryjones) | 7 | LF Staff |
 
 ### All Time
 

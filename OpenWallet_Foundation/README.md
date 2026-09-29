@@ -3,8 +3,8 @@
 - **Guild ID:** 1022962884864643214
 - **Total Messages:** 9,631
 - **Last 30 Days:** 165
-- **Last 90 Days:** 365
-- **Last 365 Days:** 1,971 — [active users](users.md)
+- **Last 90 Days:** 347
+- **Last 365 Days:** 1,970 — [active users](users.md)
 - **First Message:** 2022-09-23
 - **Last Message:** 2026-09-28
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -13,11 +13,11 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,795 | 127 | 280 | 1,251 | 2023-11-08 | 2026-09-28 |
+| [Growth Projects](Growth_Projects/README.md) | 3,795 | 127 | 264 | 1,250 | 2023-11-08 | 2026-09-28 |
 | [General](General/README.md) | 1,863 | 4 | 7 | 79 | 2022-09-23 | 2026-09-23 |
-| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 12 | 18 | 125 | 2022-09-28 | 2026-09-24 |
+| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 12 | 17 | 125 | 2022-09-28 | 2026-09-24 |
 | [Impact Projects](Impact_Projects/README.md) | 868 | 2 | 18 | 168 | 2024-09-26 | 2026-09-15 |
-| [Labs](Labs/README.md) | 855 | 19 | 41 | 340 | 2023-06-02 | 2026-09-26 |
+| [Labs](Labs/README.md) | 855 | 19 | 40 | 340 | 2023-06-02 | 2026-09-26 |
 | [Archive](Archive/README.md) | 345 | 0 | 0 | 1 | 2022-09-23 | 2025-10-23 |
 | [Information](Information/README.md) | 69 | 1 | 1 | 7 | 2022-09-28 | 2026-09-24 |
 
@@ -37,11 +37,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 109 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | espuni | 40 | — |
+| 1 | [Mirko](https://github.com/cre8) | 103 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | espuni | 33 | — |
 | 3 | Cyril | 31 | — |
 | 4 | birte_lr | 26 | — |
-| 5 | [davidz25](https://github.com/davidz25) | 20 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 5 | [davidz25](https://github.com/davidz25) | 19 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 
 ### Last 365 Days
 

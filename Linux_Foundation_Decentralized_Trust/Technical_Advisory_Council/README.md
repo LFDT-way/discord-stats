@@ -3,8 +3,8 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 941383941217222708
 - **Total Messages in Category:** 2,587
-- **Last 30 Days:** 55
-- **Last 90 Days:** 105
+- **Last 30 Days:** 54
+- **Last 90 Days:** 101
 - **Last 365 Days:** 375
 - **First Message:** 2022-02-10
 - **Last Message:** 2026-09-28
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-09-28 | 55 | 105 | 357 | 2,534 |
+| [tac](tac_941384040316018790.md) | 2026-09-28 | 54 | 101 | 357 | 2,534 |
 | [automated-pipelines](automated-pipelines_1156961689971998782.md) | 2026-04-15 | 0 | 0 | 18 | 52 |
 | [tac-announcements](tac-announcements_941399554731966564.md) | 2022-02-17 | 0 | 0 | 0 | 1 |
 
@@ -33,7 +33,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 48 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 47 | TAC member, Chapter Leader |
 | 2 | [davidwboswell](https://github.com/davidwboswell) | 11 | lfdt-ca, LFDT Staff |
 | 3 | [vramaiitkgp](https://github.com/VRamakrishna) | 7 | TAC member, Cacti Maintainer |
 | 4 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
