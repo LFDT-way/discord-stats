@@ -6,7 +6,7 @@
 - **Total Messages:** 204
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 42
+- **Last 365 Days:** 40
 - **First Message:** 2024-10-02
 - **Last Message:** 2026-06-01
 
@@ -25,8 +25,8 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 24 | Linux Foundation Staff |
-| 2 | [cjhowland](https://github.com/cjhowland) | 6 | — |
-| 3 | Jim St.Clair | 5 | SIG member |
+| 2 | Jim St.Clair | 5 | SIG member |
+| 3 | [cjhowland](https://github.com/cjhowland) | 4 | — |
 | 4 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
 | 5 | davidejalexander | 2 | SIG member |
 

@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 855
 - **Last 30 Days:** 19
 - **Last 90 Days:** 40
-- **Last 365 Days:** 340
+- **Last 365 Days:** 337
 - **First Message:** 2023-06-02
 - **Last Message:** 2026-09-26
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tsp](tsp_1240339063618277467.md) | 2026-09-10 | 6 | 6 | 40 | 268 |
+| [tsp](tsp_1240339063618277467.md) | 2026-09-10 | 6 | 6 | 37 | 268 |
 | [mdoc-ts](mdoc-ts_1251180041124053052.md) | 2026-04-01 | 0 | 0 | 128 | 172 |
 | [sd-jwt-dotnet](sd-jwt-dotnet_1179453047169110056.md) | 2026-04-30 | 0 | 0 | 64 | 80 |
 | [sd-jwt-general](sd-jwt-general_1180161138030284910.md) | 2025-09-24 | 0 | 0 | 0 | 70 |
@@ -61,7 +61,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones, OWF](https://github.com/ryjones) | 78 | Linux Foundation Staff |
+| 1 | [Ry Jones, OWF](https://github.com/ryjones) | 76 | Linux Foundation Staff |
 | 2 | [Lukas.J.Han](https://github.com/lukasjhan) | 72 | Lab Maintainer |
 | 3 | [Timo Glastra](https://github.com/TimoGlastra) | 58 | credo maintainers, Project Maintainer |
 | 4 | [Mirko](https://github.com/cre8) | 30 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |

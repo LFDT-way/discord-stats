@@ -6,7 +6,7 @@
 - **Total Messages:** 1,075
 - **Last 30 Days:** 0
 - **Last 90 Days:** 3
-- **Last 365 Days:** 37
+- **Last 365 Days:** 36
 - **First Message:** 2022-02-15
 - **Last Message:** 2026-08-14
 
@@ -30,8 +30,8 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | [Maria Munaro](https://github.com/munapower) | 12 | — |
 | 2 | PsychoPunkSage | 10 | — |
-| 3 | Glayer | 4 | — |
-| 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 3 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 3 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 4 | Glayer | 3 | — |
 | 5 | Casol | 3 | — |
 
 ### All Time

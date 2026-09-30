@@ -6,7 +6,7 @@
 - **Total Messages:** 32
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 32
+- **Last 365 Days:** 25
 - **First Message:** 2025-09-29
 - **Last Message:** 2026-05-13
 
@@ -25,10 +25,10 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | NeilJT | 12 | ToIP |
-| 2 | Kent Bull | 9 | Project Maintainer, ToIP |
-| 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
-| 4 | [swcurran](https://github.com/swcurran) | 1 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
-| 5 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 1 | Project Maintainer, ToIP |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
+| 3 | Kent Bull | 4 | Project Maintainer, ToIP |
+| 4 | microbiocarly | 1 | Project Maintainer, ToIP |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
 
 ### All Time
 

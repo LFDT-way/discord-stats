@@ -2,9 +2,9 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 948958931512873030
-- **Total Messages in Category:** 14,125
-- **Last 30 Days:** 21
-- **Last 90 Days:** 69
+- **Total Messages in Category:** 14,127
+- **Last 30 Days:** 23
+- **Last 90 Days:** 71
 - **Last 365 Days:** 406
 - **First Message:** 2022-03-03
 - **Last Message:** 2026-09-29
@@ -14,10 +14,10 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [welcome](welcome_948959099842883654.md) | 2026-08-12 | 0 | 2 | 44 | 10,733 |
-| [general](general_1021077182501621830.md) | 2026-09-29 | 16 | 32 | 211 | 1,893 |
+| [general](general_1021077182501621830.md) | 2026-09-29 | 18 | 34 | 212 | 1,895 |
 | [job-postings](job-postings_1050607623566802984.md) | 2026-09-03 | 1 | 21 | 74 | 447 |
 | [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-05-04 | 0 | 0 | 10 | 417 |
-| [connections](connections_948959243095130142.md) | 2026-09-21 | 4 | 7 | 26 | 372 |
+| [connections](connections_948959243095130142.md) | 2026-09-21 | 4 | 7 | 25 | 372 |
 | [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-07-30 | 0 | 5 | 31 | 191 |
 | [announcements](announcements_953133039372877844.md) | 2026-06-30 | 0 | 0 | 8 | 39 |
 | [git-help](git-help_1098621099681513492.md) | 2026-07-06 | 0 | 2 | 2 | 33 |
@@ -32,7 +32,7 @@
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
 | 3 | morreoo34 | 2 | — |
 | 4 | Daniel | 2 | — |
-| 5 | DerHarry | 2 | — |
+| 5 | Tony23955 | 2 | — |
 
 ### Last 90 Days
 
@@ -48,7 +48,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 39 | lfdt-ca, LFDT Staff |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 38 | lfdt-ca, LFDT Staff |
 | 2 | [Ry Jones](https://github.com/ryjones) | 25 | lfdt-ca, LFDT Staff |
 | 3 | varun | 15 | — |
 | 4 | Zion'sEarthlyPrince | 13 | — |
@@ -68,7 +68,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 253 |
+| 2026 | 255 |
 | 2025 | 523 |
 | 2024 | 1,379 |
 | 2023 | 7,571 |
@@ -78,7 +78,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 21 |
+| 2026-09 | 23 |
 | 2026-08 | 15 |
 | 2026-07 | 33 |
 | 2026-06 | 28 |
@@ -138,7 +138,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-09-29 | 1 |
+| 2026-09-29 | 3 |
 | 2026-09-28 | 4 |
 | 2026-09-21 | 2 |
 | 2026-09-18 | 6 |

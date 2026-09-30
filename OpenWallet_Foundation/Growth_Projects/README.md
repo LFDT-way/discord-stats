@@ -4,8 +4,8 @@
 - **Category ID:** 1179453189368586260
 - **Total Messages in Category:** 3,795
 - **Last 30 Days:** 127
-- **Last 90 Days:** 264
-- **Last 365 Days:** 1,250
+- **Last 90 Days:** 255
+- **Last 365 Days:** 1,246
 - **First Message:** 2023-11-08
 - **Last Message:** 2026-09-28
 
@@ -13,11 +13,11 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credo](credo_1179453305856991263.md) | 2026-09-23 | 4 | 12 | 181 | 1,090 |
-| [bifold](bifold_1209891839071756419.md) | 2026-09-22 | 5 | 16 | 151 | 910 |
-| [multipaz](multipaz_1179828955717574707.md) | 2026-09-18 | 20 | 32 | 221 | 646 |
-| [eudiplo](eudiplo_1399429216604258365.md) | 2026-09-28 | 98 | 196 | 570 | 581 |
-| [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 2 | 90 | 268 |
+| [credo](credo_1179453305856991263.md) | 2026-09-23 | 4 | 12 | 179 | 1,090 |
+| [bifold](bifold_1209891839071756419.md) | 2026-09-22 | 5 | 16 | 149 | 910 |
+| [multipaz](multipaz_1179828955717574707.md) | 2026-09-18 | 20 | 31 | 221 | 646 |
+| [eudiplo](eudiplo_1399429216604258365.md) | 2026-09-28 | 98 | 189 | 570 | 581 |
+| [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 1 | 90 | 268 |
 | [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 4 | 105 |
 | [owl](owl_1214965981470924911.md) | 2026-05-07 | 0 | 0 | 10 | 85 |
 | [vcx](vcx_1344319756324311123.md) | 2026-03-31 | 0 | 0 | 8 | 69 |
@@ -41,9 +41,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 94 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 86 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | espuni | 33 | — |
-| 3 | Cyril | 31 | — |
+| 3 | Cyril | 30 | — |
 | 4 | birte_lr | 26 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 19 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 

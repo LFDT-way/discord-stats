@@ -4,7 +4,7 @@
 - **Category:** ToIP
 - **Channel ID:** 1414671746065371186
 - **Total Messages:** 159
-- **Last 30 Days:** 5
+- **Last 30 Days:** 3
 - **Last 90 Days:** 17
 - **Last 365 Days:** 146
 - **First Message:** 2025-09-24
@@ -18,8 +18,6 @@
 | ---: | :--- | ---: | :--- |
 | 1 | John Phillips | 2 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 1 | Lab Leader |
-| 3 | [drummondreed](https://github.com/talltree) | 1 | Project Maintainer, ToIP |
-| 4 | Kor Dwarshuis | 1 | ToIP |
 
 ### Last 90 Days
 
