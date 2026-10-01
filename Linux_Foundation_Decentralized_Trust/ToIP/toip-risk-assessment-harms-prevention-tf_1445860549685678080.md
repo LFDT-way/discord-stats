@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1445860549685678080
-- **Total Messages:** 107
-- **Last 30 Days:** 2
-- **Last 90 Days:** 9
-- **Last 365 Days:** 107
+- **Total Messages:** 112
+- **Last 30 Days:** 7
+- **Last 90 Days:** 14
+- **Last 365 Days:** 112
 - **First Message:** 2025-12-03
-- **Last Message:** 2026-09-28
+- **Last Message:** 2026-09-30
 
 ## Most Active Users
 
@@ -16,21 +16,23 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 1 | Lab Leader |
-| 2 | Nicky H | 1 | Project Maintainer, ToIP |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
+| 2 | stevevitka | 2 | ToIP |
+| 3 | Nicky H | 1 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 5 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 8 | Lab Leader |
 | 2 | Nicky H | 4 | Project Maintainer, ToIP |
+| 3 | stevevitka | 2 | ToIP |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 42 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 45 | Lab Leader |
 | 2 | Nicky H | 22 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 13 | Project Maintainer, ToIP |
 | 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
@@ -40,7 +42,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 42 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 45 | Lab Leader |
 | 2 | Nicky H | 22 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 13 | Project Maintainer, ToIP |
 | 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
@@ -50,14 +52,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 93 |
+| 2026 | 98 |
 | 2025 | 14 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 2 |
+| 2026-09 | 7 |
 | 2026-08 | 7 |
 | 2026-05 | 3 |
 | 2026-04 | 4 |
@@ -70,6 +72,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-30 | 5 |
 | 2026-09-28 | 1 |
 | 2026-09-26 | 1 |
 | 2026-08-11 | 3 |

@@ -4,8 +4,8 @@
 - **Category ID:** 905515688758751282
 - **Total Messages in Category:** 26,651
 - **Last 30 Days:** 32
-- **Last 90 Days:** 191
-- **Last 365 Days:** 698
+- **Last 90 Days:** 184
+- **Last 365 Days:** 697
 - **First Message:** 2022-01-05
 - **Last Message:** 2026-09-15
 
@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [firefly](firefly_928377875827154984.md) | 2026-09-11 | 1 | 12 | 170 | 25,508 |
-| [firefly-maintainers](firefly-maintainers_1151539141826322482.md) | 2026-09-15 | 31 | 179 | 528 | 973 |
+| [firefly](firefly_928377875827154984.md) | 2026-09-11 | 1 | 12 | 169 | 25,508 |
+| [firefly-maintainers](firefly-maintainers_1151539141826322482.md) | 2026-09-15 | 31 | 172 | 528 | 973 |
 | [firefly-workshop](firefly-workshop_1063562168064282685.md) | 2025-08-28 | 0 | 0 | 0 | 169 |
 | [firefly-announcements](firefly-announcements_928380528422432769.md) | 2022-04-13 | 0 | 0 | 0 | 1 |
 
@@ -34,9 +34,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 95 | TAC member, Project Maintainer, Firefly Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 45 | lfdt-ca, LFDT Staff |
-| 3 | [SonicSwordcane](https://github.com/SupernaviX) | 31 | Project Maintainer, Firefly Maintainer |
+| 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 92 | TAC member, Project Maintainer, Firefly Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 42 | lfdt-ca, LFDT Staff |
+| 3 | [SonicSwordcane](https://github.com/SupernaviX) | 30 | Project Maintainer, Firefly Maintainer |
 | 4 | Dan | 9 | Project Maintainer, Firefly Maintainer |
 | 5 | [cheng](https://github.com/Chengxuan) | 7 | Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 
@@ -44,7 +44,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 278 | TAC member, Project Maintainer, Firefly Maintainer |
+| 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 277 | TAC member, Project Maintainer, Firefly Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 240 | lfdt-ca, LFDT Staff |
 | 3 | [SonicSwordcane](https://github.com/SupernaviX) | 59 | Project Maintainer, Firefly Maintainer |
 | 4 | Dan | 29 | Project Maintainer, Firefly Maintainer |

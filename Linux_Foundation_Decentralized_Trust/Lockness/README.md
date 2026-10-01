@@ -4,7 +4,7 @@
 - **Category ID:** 1255573270007251024
 - **Total Messages in Category:** 647
 - **Last 30 Days:** 0
-- **Last 90 Days:** 21
+- **Last 90 Days:** 20
 - **Last 365 Days:** 205
 - **First Message:** 2024-06-27
 - **Last Message:** 2026-08-27
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [lockness-contribute](lockness-contribute_1285268686147424388.md) | 2026-08-27 | 0 | 7 | 165 | 377 |
+| [lockness-contribute](lockness-contribute_1285268686147424388.md) | 2026-08-27 | 0 | 6 | 165 | 377 |
 | [lockness-maintainers](lockness-maintainers_1255573353683746856.md) | 2026-08-14 | 0 | 14 | 33 | 199 |
 | [lockness](lockness_1294284489635139585.md) | 2026-07-01 | 0 | 0 | 2 | 62 |
 | [lockness-announce](lockness-announce_1285268049913712641.md) | 2026-04-20 | 0 | 0 | 5 | 9 |
@@ -32,7 +32,6 @@ _No activity in this period._
 | 2 | [Ry Jones](https://github.com/ryjones) | 5 | lfdt-ca, LFDT Staff |
 | 3 | Luis F. Castellanos | 4 | — |
 | 4 | [davidwboswell](https://github.com/davidwboswell) | 4 | lfdt-ca, LFDT Staff |
-| 5 | pranavjeet | 1 | — |
 
 ### Last 365 Days
 

@@ -3,22 +3,26 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414671233903235142
-- **Total Messages:** 32
-- **Last 30 Days:** 0
-- **Last 90 Days:** 0
-- **Last 365 Days:** 25
+- **Total Messages:** 34
+- **Last 30 Days:** 2
+- **Last 90 Days:** 2
+- **Last 365 Days:** 22
 - **First Message:** 2025-09-29
-- **Last Message:** 2026-05-13
+- **Last Message:** 2026-09-30
 
 ## Most Active Users
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | NeilJT | 2 | ToIP |
 
 ### Last 90 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | NeilJT | 2 | ToIP |
 
 ### Last 365 Days
 
@@ -26,15 +30,15 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | NeilJT | 12 | ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
-| 3 | Kent Bull | 4 | Project Maintainer, ToIP |
-| 4 | microbiocarly | 1 | Project Maintainer, ToIP |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
+| 3 | Kent Bull | 2 | Project Maintainer, ToIP |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
+| 5 | [drummondreed](https://github.com/talltree) | 1 | Project Maintainer, ToIP |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | NeilJT | 12 | ToIP |
+| 1 | NeilJT | 14 | ToIP |
 | 2 | Kent Bull | 9 | Project Maintainer, ToIP |
 | 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
 | 4 | [swcurran](https://github.com/swcurran) | 1 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
@@ -44,13 +48,14 @@ _No activity in this period._
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 8 |
+| 2026 | 10 |
 | 2025 | 24 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-09 | 2 |
 | 2026-05 | 3 |
 | 2026-02 | 3 |
 | 2026-01 | 2 |
@@ -63,6 +68,7 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-30 | 2 |
 | 2026-05-13 | 2 |
 | 2026-05-12 | 1 |
 | 2026-02-03 | 3 |

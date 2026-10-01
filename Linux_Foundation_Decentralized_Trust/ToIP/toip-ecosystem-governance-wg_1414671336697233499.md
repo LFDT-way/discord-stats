@@ -6,7 +6,7 @@
 - **Total Messages:** 123
 - **Last 30 Days:** 22
 - **Last 90 Days:** 46
-- **Last 365 Days:** 123
+- **Last 365 Days:** 122
 - **First Message:** 2025-09-30
 - **Last Message:** 2026-09-16
 
@@ -35,7 +35,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 43 | Project Maintainer, ToIP |
+| 1 | microbiocarly | 42 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 29 | Lab Leader |
 | 3 | [drummondreed](https://github.com/talltree) | 15 | Project Maintainer, ToIP |
 | 4 | Eric Drury | 12 | Project Maintainer, ToIP |

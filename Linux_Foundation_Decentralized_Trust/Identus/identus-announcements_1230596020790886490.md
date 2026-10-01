@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Identus
 - **Channel ID:** 1230596020790886490
-- **Total Messages:** 26
-- **Last 30 Days:** 3
-- **Last 90 Days:** 6
-- **Last 365 Days:** 10
+- **Total Messages:** 27
+- **Last 30 Days:** 4
+- **Last 90 Days:** 7
+- **Last 365 Days:** 11
 - **First Message:** 2024-06-18
-- **Last Message:** 2026-09-29
+- **Last Message:** 2026-09-30
 
 ## Most Active Users
 
@@ -17,8 +17,9 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | havy | 1 | Identus Maintainer, Project Maintainer |
-| 2 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
+| 2 | jonbauer | 1 | Identus Maintainer, Project Maintainer |
+| 3 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 
@@ -26,8 +27,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Yurii Shynbuiev | 3 | Identus Maintainer, Project Maintainer |
 | 2 | havy | 1 | Identus Maintainer, Project Maintainer |
-| 3 | pat_pat | 1 | Identus Maintainer, Project Maintainer |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
+| 3 | jonbauer | 1 | Identus Maintainer, Project Maintainer |
+| 4 | pat_pat | 1 | Identus Maintainer, Project Maintainer |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
 
@@ -36,7 +38,8 @@
 | 1 | Yurii Shynbuiev | 4 | Identus Maintainer, Project Maintainer |
 | 2 | havy | 3 | Identus Maintainer, Project Maintainer |
 | 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
-| 4 | pat_pat | 1 | Identus Maintainer, Project Maintainer |
+| 4 | jonbauer | 1 | Identus Maintainer, Project Maintainer |
+| 5 | pat_pat | 1 | Identus Maintainer, Project Maintainer |
 
 ### All Time
 
@@ -52,7 +55,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 9 |
+| 2026 | 10 |
 | 2025 | 3 |
 | 2024 | 14 |
 
@@ -60,7 +63,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 3 |
+| 2026-09 | 4 |
 | 2026-08 | 1 |
 | 2026-07 | 2 |
 | 2026-05 | 3 |
@@ -78,6 +81,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-30 | 1 |
 | 2026-09-29 | 2 |
 | 2026-09-15 | 1 |
 | 2026-08-18 | 1 |

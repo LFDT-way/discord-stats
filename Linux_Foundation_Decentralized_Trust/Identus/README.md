@@ -2,12 +2,12 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1226983696306012181
-- **Total Messages in Category:** 1,555
-- **Last 30 Days:** 8
-- **Last 90 Days:** 42
-- **Last 365 Days:** 263
+- **Total Messages in Category:** 1,556
+- **Last 30 Days:** 9
+- **Last 90 Days:** 43
+- **Last 365 Days:** 264
 - **First Message:** 2024-04-10
-- **Last Message:** 2026-09-29
+- **Last Message:** 2026-09-30
 
 ## Channels in Category
 
@@ -19,7 +19,7 @@
 | [general](general_1252630735269925057.md) | 2026-09-22 | 2 | 22 | 99 | 192 |
 | [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 0 | 65 |
 | [identus-faq](identus-faq_1252622748073853083.md) | 2025-11-29 | 0 | 0 | 16 | 46 |
-| [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-09-29 | 3 | 6 | 10 | 26 |
+| [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-09-30 | 4 | 7 | 11 | 27 |
 | [mediator](mediator_1252629675943919679.md) | 2026-07-07 | 0 | 2 | 3 | 22 |
 | [meeting-minutes](meeting-minutes_1252982706212438016.md) | 2025-06-18 | 0 | 0 | 0 | 12 |
 | [sdk-kmp](sdk-kmp_1252629800372408330.md) | 2026-09-28 | 3 | 3 | 3 | 9 |
@@ -31,7 +31,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | jonbauer | 5 | Identus Maintainer, Project Maintainer |
+| 1 | jonbauer | 6 | Identus Maintainer, Project Maintainer |
 | 2 | havy | 1 | Identus Maintainer, Project Maintainer |
 | 3 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
@@ -42,7 +42,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Prince Yarjack | 14 | — |
 | 2 | [FabioPinheiro](https://github.com/FabioPinheiro) | 10 | Identus Maintainer, Project Maintainer |
-| 3 | jonbauer | 5 | Identus Maintainer, Project Maintainer |
+| 3 | jonbauer | 6 | Identus Maintainer, Project Maintainer |
 | 4 | Yurii Shynbuiev | 3 | Identus Maintainer, Project Maintainer |
 | 5 | pat_pat | 3 | Identus Maintainer, Project Maintainer |
 
@@ -64,13 +64,13 @@
 | 2 | [Ry Jones](https://github.com/ryjones) | 230 | lfdt-ca, LFDT Staff |
 | 3 | roberto | 194 | — |
 | 4 | [FabioPinheiro](https://github.com/FabioPinheiro) | 92 | Identus Maintainer, Project Maintainer |
-| 5 | jonbauer | 82 | Identus Maintainer, Project Maintainer |
+| 5 | jonbauer | 83 | Identus Maintainer, Project Maintainer |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 185 |
+| 2026 | 186 |
 | 2025 | 943 |
 | 2024 | 427 |
 
@@ -78,7 +78,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-09 | 8 |
+| 2026-09 | 9 |
 | 2026-08 | 19 |
 | 2026-07 | 15 |
 | 2026-06 | 27 |
@@ -113,6 +113,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-09-30 | 1 |
 | 2026-09-29 | 2 |
 | 2026-09-28 | 1 |
 | 2026-09-27 | 2 |

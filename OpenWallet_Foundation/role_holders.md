@@ -9,7 +9,7 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 - **Role holders:** 48
 - **Inactive (no msgs in 365d):** 20
 - **Never posted (0 all-time):** 0
-- **Report generated:** 2026-09-30
+- **Report generated:** 2026-10-01
 
 | User | Roles | Last Msg | 30d | 90d | 365d | All-Time | All Guilds 365d |
 | :--- | :--- | :--- | ---: | ---: | ---: | ---: | ---: |
@@ -53,12 +53,12 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | Thomas Tran | Lab Maintainer | 2026-04-30 | 0 | 0 | 28 | 52 | 28 |
 | [swcurran](https://github.com/swcurran) | Lab Maintainer, TAC members, Project Maintainer | 2026-09-25 | 3 | 7 | 30 | 180 | 60 |
 | PStLouis | Lab Maintainer, Project Maintainer | 2026-08-06 | 0 | 4 | 36 | 213 | 57 |
-| davidejalexander | SIG member | 2026-08-10 | 0 | 2 | 37 | 98 | 37 |
-| [bryce-mcmath](https://github.com/bryce-mcmath) | bifold maintainers, Project Maintainer | 2026-09-10 | 1 | 1 | 50 | 185 | 50 |
-| [davidz25](https://github.com/davidz25) | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer | 2026-09-18 | 11 | 19 | 98 | 302 | 98 |
+| davidejalexander | SIG member | 2026-08-10 | 0 | 2 | 36 | 98 | 36 |
+| [bryce-mcmath](https://github.com/bryce-mcmath) | bifold maintainers, Project Maintainer | 2026-09-10 | 1 | 1 | 49 | 185 | 49 |
+| [davidz25](https://github.com/davidz25) | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer | 2026-09-18 | 11 | 18 | 98 | 302 | 98 |
 | [Lukas.J.Han](https://github.com/lukasjhan) | Lab Maintainer | 2026-09-11 | 6 | 14 | 117 | 305 | 117 |
 | [Timo Glastra](https://github.com/TimoGlastra) | credo maintainers, Project Maintainer | 2026-09-17 | 4 | 4 | 117 | 288 | 117 |
-| [Ry Jones, OWF](https://github.com/ryjones) | Linux Foundation Staff | 2026-09-25 | 2 | 7 | 153 | 416 | 1,098 |
-| [Sean Bohan, OWF](https://github.com/SeanBohan) | Linux Foundation Staff | 2026-09-24 | 4 | 9 | 162 | 500 | 384 |
-| [Mirko](https://github.com/cre8) | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member | 2026-09-28 | 45 | 95 | 384 | 629 | 385 |
+| [Ry Jones, OWF](https://github.com/ryjones) | Linux Foundation Staff | 2026-09-25 | 2 | 7 | 153 | 416 | 1,099 |
+| [Sean Bohan, OWF](https://github.com/SeanBohan) | Linux Foundation Staff | 2026-09-24 | 4 | 9 | 160 | 500 | 384 |
+| [Mirko](https://github.com/cre8) | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member | 2026-09-30 | 46 | 94 | 385 | 630 | 386 |
 

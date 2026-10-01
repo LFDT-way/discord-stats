@@ -5,12 +5,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
 - **Active Users (365d):** 98
-- **Messages (365d):** 1,628
+- **Messages (365d):** 1,621
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 518 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 468 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 462 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 110 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 98 | LF Staff |
 | 5 | Jake | 53 | PQ Code Package Maintainer, Project Maintainer |
@@ -23,8 +23,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 12 | Ben | 11 | — |
 | 13 | Ishan | 10 | — |
 | 14 | cybarg | 10 | — |
-| 15 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 9 | — |
-| 16 | Dadofpips | 9 | — |
+| 15 | Dadofpips | 9 | — |
+| 16 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 8 | — |
 | 17 | Loganaden | 8 | — |
 | 18 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 7 | CBOM maintainer, Project Maintainer |
 | 19 | Scott Corzine | 7 | — |

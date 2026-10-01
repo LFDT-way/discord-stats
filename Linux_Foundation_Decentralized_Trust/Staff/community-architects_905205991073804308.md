@@ -18,7 +18,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | akupemulaygbaik | 3 | — |
 | 2 | [Ry Jones](https://github.com/ryjones) | 2 | lfdt-ca, LFDT Staff |
-| 3 | vetefe | 1 | — |
+| 3 | vetefe | 1 | Lab Leader |
 
 ### Last 90 Days
 

@@ -5,12 +5,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 131
-- **Messages (365d):** 1,960
+- **Messages (365d):** 1,956
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 377 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 161 | Linux Foundation Staff |
+| 1 | [Mirko](https://github.com/cre8) | 378 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 159 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 140 | Linux Foundation Staff |
 | 4 | [Lukas.J.Han](https://github.com/lukasjhan) | 117 | Lab Maintainer |
 | 5 | Cyril | 116 | — |
@@ -18,17 +18,17 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 7 | [Timo Glastra](https://github.com/TimoGlastra) | 97 | credo maintainers, Project Maintainer |
 | 8 | espuni | 45 | — |
 | 9 | Timbl | 40 | — |
-| 10 | davidejalexander | 37 | SIG member |
-| 11 | PStLouis | 36 | Lab Maintainer, Project Maintainer |
+| 10 | PStLouis | 36 | Lab Maintainer, Project Maintainer |
+| 11 | davidejalexander | 36 | SIG member |
 | 12 | thidalgo | 35 | — |
 | 13 | [swcurran](https://github.com/swcurran) | 30 | Lab Maintainer, TAC members, Project Maintainer |
-| 14 | [bryce-mcmath](https://github.com/bryce-mcmath) | 29 | bifold maintainers, Project Maintainer |
-| 15 | Thomas Tran | 28 | Lab Maintainer |
-| 16 | birte_lr | 26 | — |
+| 14 | [bryce-mcmath](https://github.com/bryce-mcmath) | 28 | bifold maintainers, Project Maintainer |
+| 15 | birte_lr | 28 | — |
+| 16 | Thomas Tran | 28 | Lab Maintainer |
 | 17 | ai Igor | 24 | — |
 | 18 | RMLearney | 23 | — |
-| 19 | albertoleon_7794 | 23 | — |
-| 20 | Graham | 20 | — |
+| 19 | Graham | 20 | — |
+| 20 | albertoleon_7794 | 20 | — |
 | 21 | [VishnuSanal](https://github.com/VishnuSanal) | 19 | multipaz maintainer, Project Maintainer |
 | 22 | kukgini | 18 | — |
 | 23 | [firegod](https://github.com/wenjing) | 16 | — |
