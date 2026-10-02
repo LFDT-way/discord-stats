@@ -2,19 +2,19 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1195061874950144120
-- **Total Messages in Category:** 1,395
+- **Total Messages in Category:** 1,396
 - **Last 30 Days:** 27
 - **Last 90 Days:** 66
-- **Last 365 Days:** 184
+- **Last 365 Days:** 181
 - **First Message:** 2024-01-11
-- **Last Message:** 2026-09-30
+- **Last Message:** 2026-10-01
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-09-30 | 27 | 64 | 112 | 853 |
-| [web3j-general](web3j-general_1195062053682032700.md) | 2026-08-23 | 0 | 2 | 72 | 542 |
+| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-10-01 | 27 | 64 | 113 | 854 |
+| [web3j-general](web3j-general_1195062053682032700.md) | 2026-08-23 | 0 | 2 | 68 | 542 |
 
 ## Most Active Users
 
@@ -42,7 +42,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | George Tebrean | 51 | Project Maintainer, Web3j Maintainer |
+| 1 | George Tebrean | 50 | Project Maintainer, Web3j Maintainer |
 | 2 | Dev | 42 | — |
 | 3 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 32 | Project Maintainer, Web3j Maintainer |
 | 4 | Saurav | 11 | — |
@@ -54,7 +54,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 354 | Project Maintainer, Web3j Maintainer |
 | 2 | Shashank Kumar | 289 | — |
-| 3 | George Tebrean | 269 | Project Maintainer, Web3j Maintainer |
+| 3 | George Tebrean | 270 | Project Maintainer, Web3j Maintainer |
 | 4 | Deleted User | 65 | — |
 | 5 | [Ry Jones](https://github.com/ryjones) | 54 | lfdt-ca, LFDT Staff |
 
@@ -62,7 +62,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 151 |
+| 2026 | 152 |
 | 2025 | 341 |
 | 2024 | 903 |
 
@@ -70,6 +70,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-10 | 1 |
 | 2026-09 | 27 |
 | 2026-08 | 12 |
 | 2026-07 | 27 |
@@ -106,6 +107,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-01 | 1 |
 | 2026-09-30 | 5 |
 | 2026-09-29 | 4 |
 | 2026-09-28 | 1 |

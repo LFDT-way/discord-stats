@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 20,043
 - **Last 30 Days:** 55
 - **Last 90 Days:** 121
-- **Last 365 Days:** 838
+- **Last 365 Days:** 836
 - **First Message:** 2021-11-07
 - **Last Message:** 2026-10-01
 
@@ -18,7 +18,7 @@
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-08 | 0 | 0 | 6 | 1,527 |
 | [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 0 | 53 | 1,300 |
 | [fabric-peer](fabric-peer_945037339170836501.md) | 2026-04-10 | 0 | 0 | 9 | 1,084 |
-| [fabric-private-chaincode](fabric-private-chaincode_943059293765267497.md) | 2026-08-14 | 0 | 3 | 31 | 1,075 |
+| [fabric-private-chaincode](fabric-private-chaincode_943059293765267497.md) | 2026-08-14 | 0 | 3 | 29 | 1,075 |
 | [fabric-orderer](fabric-orderer_945037581500940298.md) | 2026-04-12 | 0 | 0 | 23 | 817 |
 | [fabric-code-contributors](fabric-code-contributors_941396957635682314.md) | 2026-05-09 | 0 | 0 | 9 | 602 |
 | [fabric-contract-apis](fabric-contract-apis_943090527920877598.md) | 2026-09-13 | 1 | 1 | 12 | 549 |

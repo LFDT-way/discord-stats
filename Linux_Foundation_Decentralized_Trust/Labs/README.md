@@ -2,24 +2,24 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
-- **Total Messages in Category:** 21,372
-- **Last 30 Days:** 46
-- **Last 90 Days:** 222
-- **Last 365 Days:** 998
+- **Total Messages in Category:** 21,374
+- **Last 30 Days:** 47
+- **Last 90 Days:** 221
+- **Last 365 Days:** 989
 - **First Message:** 2021-11-05
-- **Last Message:** 2026-10-01
+- **Last Message:** 2026-10-02
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [solang-contributors](solang-contributors_905834552965103638.md) | 2026-07-03 | 0 | 3 | 40 | 10,568 |
+| [solang-contributors](solang-contributors_905834552965103638.md) | 2026-07-03 | 0 | 0 | 40 | 10,568 |
 | [bevel-operator-fabric](bevel-operator-fabric_967823782712594442.md) | 2026-05-11 | 0 | 0 | 38 | 3,400 |
-| [bevel](bevel_941475087389950002.md) | 2026-09-01 | 1 | 1 | 11 | 2,563 |
+| [bevel](bevel_941475087389950002.md) | 2026-09-01 | 0 | 1 | 11 | 2,563 |
 | [caliper](caliper_941417677778473031.md) | 2026-03-23 | 0 | 0 | 46 | 1,439 |
-| [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-04-15 | 0 | 0 | 134 | 1,185 |
+| [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-04-15 | 0 | 0 | 123 | 1,185 |
 | [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 13 | 859 |
-| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-09-29 | 12 | 24 | 168 | 346 |
+| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-02 | 13 | 25 | 169 | 347 |
 | [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-01 | 3 | 14 | 64 | 153 |
 | [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 11 | 148 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-09-21 | 8 | 8 | 11 | 108 |
@@ -38,8 +38,8 @@
 | [caliper-announcements](caliper-announcements_941417775275065364.md) | 2025-10-03 | 0 | 0 | 1 | 5 |
 | [caliper-github](caliper-github_943549642824638544.md) | 2024-04-12 | 0 | 0 | 0 | 4 |
 | [accountable-impact-commons](accountable-impact-commons_1540006318125879346.md) | 2026-09-03 | 2 | 4 | 4 | 4 |
+| [composable-evidence-criteria](composable-evidence-criteria_1554888185958502581.md) | 2026-10-02 | 4 | 4 | 4 | 4 |
 | [agent-authority-conformance](agent-authority-conformance_1542096589961699369.md) | 2026-08-26 | 0 | 3 | 3 | 3 |
-| [composable-evidence-criteria](composable-evidence-criteria_1554888185958502581.md) | 2026-10-01 | 3 | 3 | 3 | 3 |
 | [veltoracore](veltoracore_1504169634910310410.md) | 2026-09-22 | 1 | 2 | 2 | 2 |
 | [os_frontiers](os_frontiers_1498334265769726123.md) | 2026-09-20 | 1 | 1 | 1 | 1 |
 
@@ -49,7 +49,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 8 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 9 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 2 | Vipin Bharathan | 5 | lab stewards |
 | 3 | [Ry Jones](https://github.com/ryjones) | 5 | lfdt-ca, LFDT Staff |
 | 4 | kadalkidal | 4 | Lab Leader |
@@ -61,7 +61,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 48 | lfdt-ca, LFDT Staff |
 | 2 | Dondo | 23 | Lab Leader |
-| 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 16 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 17 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 14 | lfdt-ca, LFDT Staff |
 | 5 | kadalkidal | 13 | Lab Leader |
 
@@ -69,9 +69,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 136 | lfdt-ca, LFDT Staff |
+| 1 | [Ry Jones](https://github.com/ryjones) | 129 | lfdt-ca, LFDT Staff |
 | 2 | [RAWx18](https://github.com/RAWx18) | 96 | Lab Leader |
-| 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 73 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 74 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 4 | NorfolkAndChance | 56 | Project Maintainer |
 | 5 | [DanielSzego](https://github.com/Daniel-Szego) | 55 | Meetup Organizer |
 
@@ -89,7 +89,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 670 |
+| 2026 | 672 |
 | 2025 | 993 |
 | 2024 | 2,099 |
 | 2023 | 7,409 |
@@ -100,7 +100,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 4 |
+| 2026-10 | 6 |
 | 2026-09 | 42 |
 | 2026-08 | 53 |
 | 2026-07 | 124 |
@@ -163,6 +163,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-02 | 2 |
 | 2026-10-01 | 4 |
 | 2026-09-30 | 2 |
 | 2026-09-29 | 2 |

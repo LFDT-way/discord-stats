@@ -4,7 +4,7 @@
 - **Category ID:** 1426221261826293800
 - **Total Messages in Category:** 31
 - **Last 30 Days:** 16
-- **Last 90 Days:** 22
+- **Last 90 Days:** 21
 - **Last 365 Days:** 31
 - **First Message:** 2025-11-05
 - **Last Message:** 2026-09-28
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [minokawa](minokawa_1426221491833409536.md) | 2026-09-28 | 16 | 22 | 31 | 31 |
+| [minokawa](minokawa_1426221491833409536.md) | 2026-09-28 | 16 | 21 | 31 | 31 |
 
 ## Most Active Users
 
@@ -31,8 +31,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Parisa Ataei](https://github.com/pataei) | 8 | Project Maintainer, Minokawa Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 5 | lfdt-ca, LFDT Staff |
-| 3 | [newton_meter (Kevin Millikin)](https://github.com/kmillikin) | 4 | TAC member, Project Maintainer, Minokawa Maintainer |
+| 2 | [newton_meter (Kevin Millikin)](https://github.com/kmillikin) | 4 | TAC member, Project Maintainer, Minokawa Maintainer |
+| 3 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
 | 4 | Rodrigo Quelhas | 1 | — |
 | 5 | Jonathan Sobel (Midnight) | 1 | — |
 

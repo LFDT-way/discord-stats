@@ -6,7 +6,7 @@
 - **Total Messages:** 34
 - **Last 30 Days:** 2
 - **Last 90 Days:** 2
-- **Last 365 Days:** 22
+- **Last 365 Days:** 19
 - **First Message:** 2025-09-29
 - **Last Message:** 2026-09-30
 
@@ -30,9 +30,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | NeilJT | 12 | ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
-| 3 | Kent Bull | 2 | Project Maintainer, ToIP |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
-| 5 | [drummondreed](https://github.com/talltree) | 1 | Project Maintainer, ToIP |
+| 3 | Kent Bull | 1 | Project Maintainer, ToIP |
+| 4 | [drummondreed](https://github.com/talltree) | 1 | Project Maintainer, ToIP |
+| 5 | peacekeeper | 1 | Project Maintainer, ToIP |
 
 ### All Time
 

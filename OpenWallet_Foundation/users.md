@@ -4,14 +4,14 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
-- **Active Users (365d):** 131
-- **Messages (365d):** 1,956
+- **Active Users (365d):** 130
+- **Messages (365d):** 1,960
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 378 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 382 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 159 | Linux Foundation Staff |
-| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 140 | Linux Foundation Staff |
+| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 144 | Linux Foundation Staff |
 | 4 | [Lukas.J.Han](https://github.com/lukasjhan) | 117 | Lab Maintainer |
 | 5 | Cyril | 116 | — |
 | 6 | [davidz25](https://github.com/davidz25) | 98 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
@@ -28,12 +28,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 17 | ai Igor | 24 | — |
 | 18 | RMLearney | 23 | — |
 | 19 | Graham | 20 | — |
-| 20 | albertoleon_7794 | 20 | — |
-| 21 | [VishnuSanal](https://github.com/VishnuSanal) | 19 | multipaz maintainer, Project Maintainer |
+| 20 | [VishnuSanal](https://github.com/VishnuSanal) | 19 | multipaz maintainer, Project Maintainer |
+| 21 | albertoleon_7794 | 18 | — |
 | 22 | kukgini | 18 | — |
 | 23 | [firegod](https://github.com/wenjing) | 16 | — |
-| 24 | [GenAris](https://github.com/genaris) | 15 | credo maintainers, Project Maintainer |
-| 25 | diegoz (OpenMobileHub, Multipaz) | 15 | Lab Maintainer, multipaz maintainer |
+| 24 | diegoz (OpenMobileHub, Multipaz) | 15 | Lab Maintainer, multipaz maintainer |
+| 25 | [GenAris](https://github.com/genaris) | 14 | credo maintainers, Project Maintainer |
 | 26 | [jamshale](https://github.com/jamshale) | 13 | Project Maintainer |
 | 27 | Samuel | 13 | SIG member |
 | 28 | MostafaGamal | 12 | — |
@@ -112,31 +112,30 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 101 | feldim2425 | 1 | — |
 | 102 | Sagar Khole | 1 | — |
 | 103 | joaocruz | 1 | — |
-| 104 | lippac | 1 | — |
-| 105 | FindingFilene | 1 | — |
-| 106 | ethanpunk_ | 1 | — |
-| 107 | Jazz | 1 | — |
-| 108 | Yunna | 1 | — |
-| 109 | Lunelle | 1 | — |
-| 110 | Ankita | 1 | — |
-| 111 | Siva | 1 | — |
-| 112 | Pankti | 1 | — |
-| 113 | Nahuel_NP | 1 | — |
-| 114 | Cseh. Rafin | 1 | — |
-| 115 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
-| 116 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
-| 117 | anil.helvaci \| GMT +3 | 1 | — |
-| 118 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
-| 119 | rosterbyte | 1 | — |
-| 120 | Adrian | 1 | — |
-| 121 | skamy | 1 | — |
-| 122 | Daev Mithran | 1 | — |
-| 123 | SRellihan.Phinxlab | 1 | — |
-| 124 | Arsalan Shahzad | 1 | — |
-| 125 | sherri58 | 1 | — |
-| 126 | latika_04_17594 | 1 | — |
-| 127 | michkauf | 1 | — |
-| 128 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
-| 129 | Aaron | 1 | — |
-| 130 | JohnH | 1 | — |
-| 131 | arifthehappy | 1 | — |
+| 104 | FindingFilene | 1 | — |
+| 105 | ethanpunk_ | 1 | — |
+| 106 | Jazz | 1 | — |
+| 107 | Yunna | 1 | — |
+| 108 | Lunelle | 1 | — |
+| 109 | Ankita | 1 | — |
+| 110 | Siva | 1 | — |
+| 111 | Pankti | 1 | — |
+| 112 | Nahuel_NP | 1 | — |
+| 113 | Cseh. Rafin | 1 | — |
+| 114 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
+| 115 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
+| 116 | anil.helvaci \| GMT +3 | 1 | — |
+| 117 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
+| 118 | rosterbyte | 1 | — |
+| 119 | Adrian | 1 | — |
+| 120 | skamy | 1 | — |
+| 121 | Daev Mithran | 1 | — |
+| 122 | SRellihan.Phinxlab | 1 | — |
+| 123 | Arsalan Shahzad | 1 | — |
+| 124 | sherri58 | 1 | — |
+| 125 | latika_04_17594 | 1 | — |
+| 126 | michkauf | 1 | — |
+| 127 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
+| 128 | Aaron | 1 | — |
+| 129 | JohnH | 1 | — |
+| 130 | arifthehappy | 1 | — |

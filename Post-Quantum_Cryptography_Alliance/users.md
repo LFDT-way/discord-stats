@@ -5,17 +5,17 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
 - **Active Users (365d):** 98
-- **Messages (365d):** 1,621
+- **Messages (365d):** 1,580
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 518 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 462 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 503 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 443 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 110 | PQ Code Package Maintainer |
-| 4 | [RyJones](https://github.com/ryjones) | 98 | LF Staff |
+| 4 | [RyJones](https://github.com/ryjones) | 97 | LF Staff |
 | 5 | Jake | 53 | PQ Code Package Maintainer, Project Maintainer |
-| 6 | chozorho | 51 | — |
-| 7 | Brendan | 31 | — |
+| 6 | chozorho | 49 | — |
+| 7 | Brendan | 30 | — |
 | 8 | Severus Snape | 25 | TAC member |
 | 9 | θρπχι | 12 | — |
 | 10 | brent | 12 | — |
@@ -24,13 +24,13 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 13 | Ishan | 10 | — |
 | 14 | cybarg | 10 | — |
 | 15 | Dadofpips | 9 | — |
-| 16 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 8 | — |
-| 17 | Loganaden | 8 | — |
-| 18 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 7 | CBOM maintainer, Project Maintainer |
-| 19 | Scott Corzine | 7 | — |
-| 20 | f15hr | 6 | — |
-| 21 | Sachin Kumar | 5 | — |
-| 22 | Chrissy Harter | 5 | LF Staff |
+| 16 | Loganaden | 8 | — |
+| 17 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 7 | CBOM maintainer, Project Maintainer |
+| 18 | Scott Corzine | 7 | — |
+| 19 | f15hr | 6 | — |
+| 20 | Sachin Kumar | 5 | — |
+| 21 | Chrissy Harter | 5 | LF Staff |
+| 22 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 5 | — |
 | 23 | Brunoee | 5 | — |
 | 24 | [hartm](https://github.com/hartm) | 5 | LF Staff |
 | 25 | AutoJanitor | 5 | — |

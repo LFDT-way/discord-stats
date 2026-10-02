@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414670897037443205
-- **Total Messages:** 431
-- **Last 30 Days:** 33
-- **Last 90 Days:** 125
-- **Last 365 Days:** 414
+- **Total Messages:** 432
+- **Last 30 Days:** 34
+- **Last 90 Days:** 126
+- **Last 365 Days:** 410
 - **First Message:** 2025-09-24
-- **Last Message:** 2026-09-30
+- **Last Message:** 2026-10-01
 
 ## Most Active Users
 
@@ -20,7 +20,7 @@
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 6 | Lab Leader |
 | 3 | lyn brooks | 5 | Project Maintainer, ToIP |
 | 4 | microbiocarly | 5 | Project Maintainer, ToIP |
-| 5 | [firegod](https://github.com/wenjing) | 4 | Project Maintainer, ToIP |
+| 5 | [firegod](https://github.com/wenjing) | 5 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
@@ -38,9 +38,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [drummondreed](https://github.com/talltree) | 138 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 121 | Lab Leader |
-| 3 | Nicky H | 31 | Project Maintainer, ToIP |
-| 4 | Jonathan Bellack | 15 | Project Maintainer, ToIP |
-| 5 | microbiocarly | 15 | Project Maintainer, ToIP |
+| 3 | Nicky H | 30 | Project Maintainer, ToIP |
+| 4 | microbiocarly | 15 | Project Maintainer, ToIP |
+| 5 | Jonathan Bellack | 14 | Project Maintainer, ToIP |
 
 ### All Time
 
@@ -56,13 +56,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 289 |
+| 2026 | 290 |
 | 2025 | 142 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-10 | 1 |
 | 2026-09 | 33 |
 | 2026-08 | 54 |
 | 2026-07 | 51 |
@@ -81,6 +82,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-01 | 1 |
 | 2026-09-30 | 1 |
 | 2026-09-28 | 1 |
 | 2026-09-25 | 1 |

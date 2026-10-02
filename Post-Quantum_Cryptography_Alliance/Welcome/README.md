@@ -2,18 +2,18 @@
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1202723483289780234
-- **Total Messages in Category:** 500
-- **Last 30 Days:** 24
-- **Last 90 Days:** 41
-- **Last 365 Days:** 168
+- **Total Messages in Category:** 501
+- **Last 30 Days:** 25
+- **Last 90 Days:** 42
+- **Last 365 Days:** 163
 - **First Message:** 2024-02-01
-- **Last Message:** 2026-09-26
+- **Last Message:** 2026-10-01
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [general](general_1202723483289780236.md) | 2026-09-26 | 24 | 41 | 166 | 462 |
+| [general](general_1202723483289780236.md) | 2026-10-01 | 25 | 42 | 161 | 463 |
 | [linkedin](linkedin_1205645746192261220.md) | 2026-05-24 | 0 | 0 | 2 | 33 |
 | [links](links_1205170239436754974.md) | 2024-02-13 | 0 | 0 | 0 | 4 |
 | [events](events_1214569223012089878.md) | 2025-03-11 | 0 | 0 | 0 | 1 |
@@ -44,18 +44,18 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | chozorho | 26 | — |
+| 1 | chozorho | 24 | — |
 | 2 | Severus Snape | 15 | TAC member |
 | 3 | Dadofpips | 7 | — |
 | 4 | [RyJones](https://github.com/ryjones) | 7 | LF Staff |
-| 5 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 6 | — |
+| 5 | θρπχι | 6 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [RyJones](https://github.com/ryjones) | 41 | LF Staff |
-| 2 | chozorho | 28 | — |
+| 2 | chozorho | 29 | — |
 | 3 | Strike_Attack \| Ω | 26 | — |
 | 4 | [Nigel Jones](https://github.com/planetf1) | 22 | PQ Code Package Maintainer, Project Maintainer, TAC member |
 | 5 | Dennis | 21 | — |
@@ -64,7 +64,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 110 |
+| 2026 | 111 |
 | 2025 | 144 |
 | 2024 | 246 |
 
@@ -72,6 +72,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-10 | 1 |
 | 2026-09 | 24 |
 | 2026-08 | 7 |
 | 2026-07 | 10 |
@@ -108,6 +109,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-01 | 1 |
 | 2026-09-26 | 1 |
 | 2026-09-25 | 2 |
 | 2026-09-24 | 3 |
