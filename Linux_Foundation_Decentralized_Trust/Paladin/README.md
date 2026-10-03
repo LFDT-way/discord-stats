@@ -3,8 +3,8 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1430941644034670794
 - **Total Messages in Category:** 1,673
-- **Last 30 Days:** 38
-- **Last 90 Days:** 157
+- **Last 30 Days:** 36
+- **Last 90 Days:** 156
 - **Last 365 Days:** 586
 - **First Message:** 2024-07-08
 - **Last Message:** 2026-10-01
@@ -16,7 +16,7 @@
 | [paladin](paladin_1303371167020879903.md) | 2026-09-28 | 4 | 11 | 114 | 633 |
 | [paladin-maintainers](paladin-maintainers_1332404027052392488.md) | 2026-09-22 | 2 | 23 | 241 | 505 |
 | [zeto](zeto_1259800071185367040.md) | 2026-09-04 | 3 | 14 | 22 | 326 |
-| [paladin-java-sdk](paladin-java-sdk_1513571876708810834.md) | 2026-10-01 | 29 | 107 | 146 | 146 |
+| [paladin-java-sdk](paladin-java-sdk_1513571876708810834.md) | 2026-10-01 | 27 | 106 | 146 | 146 |
 | [paladin-general](paladin-general_1430941784610963538.md) | 2026-08-11 | 0 | 2 | 45 | 45 |
 | [paladin-release](paladin-release_1435984838388875284.md) | 2026-06-25 | 0 | 0 | 17 | 17 |
 | [paladin-announce](paladin-announce_1430941736460484638.md) | 2026-06-25 | 0 | 0 | 1 | 1 |
@@ -27,7 +27,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 19 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 17 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 2 | divyam-jha | 12 | — |
 | 3 | gurbaj08 | 3 | — |
 | 4 | [cheng](https://github.com/Chengxuan) | 3 | Project Maintainer, Paladin Maintainer, Firefly Maintainer |
@@ -38,7 +38,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Matthew Whitehead](https://github.com/matthew1001) | 63 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 2 | divyam-jha | 58 | — |
+| 2 | divyam-jha | 57 | — |
 | 3 | [Anna McAllister](https://github.com/annamcallister) | 6 | Paladin Maintainer, Project Maintainer, Lab Leader |
 | 4 | [Enrique Lacal](https://github.com/EnriqueL8) | 6 | TAC member, Project Maintainer, Firefly Maintainer |
 | 5 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |

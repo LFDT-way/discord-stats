@@ -6,7 +6,7 @@
 - **Total Messages:** 176
 - **Last 30 Days:** 10
 - **Last 90 Days:** 44
-- **Last 365 Days:** 160
+- **Last 365 Days:** 151
 - **First Message:** 2025-09-24
 - **Last Message:** 2026-10-01
 
@@ -34,8 +34,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 70 | Lab Leader |
-| 2 | John Phillips | 40 | Project Maintainer, ToIP |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 67 | Lab Leader |
+| 2 | John Phillips | 34 | Project Maintainer, ToIP |
 | 3 | NeilJT | 19 | ToIP |
 | 4 | [drummondreed](https://github.com/talltree) | 17 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 4 | Project Maintainer, ToIP |

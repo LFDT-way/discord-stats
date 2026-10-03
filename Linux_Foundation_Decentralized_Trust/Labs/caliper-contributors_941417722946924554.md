@@ -6,7 +6,7 @@
 - **Total Messages:** 1,185
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 123
+- **Last 365 Days:** 98
 - **First Message:** 2022-02-16
 - **Last Message:** 2026-04-15
 
@@ -24,9 +24,9 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | NorfolkAndChance | 44 | Project Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 43 | lfdt-ca, LFDT Staff |
-| 3 | [Attila Klenik](https://github.com/aklenik) | 24 | Project Maintainer, Lab Leader |
+| 1 | NorfolkAndChance | 42 | Project Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 28 | lfdt-ca, LFDT Staff |
+| 3 | [Attila Klenik](https://github.com/aklenik) | 16 | Project Maintainer, Lab Leader |
 | 4 | davidfdr | 6 | — |
 | 5 | [Arun S M](https://github.com/arsulegai) | 4 | TAC member, Chapter Leader |
 

@@ -2,9 +2,9 @@
 
 - **Guild ID:** 1022962884864643214
 - **Total Messages:** 9,642
-- **Last 30 Days:** 172
+- **Last 30 Days:** 171
 - **Last 90 Days:** 342
-- **Last 365 Days:** 1,960 — [active users](users.md)
+- **Last 365 Days:** 1,948 — [active users](users.md)
 - **First Message:** 2022-09-23
 - **Last Message:** 2026-10-02
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -13,7 +13,7 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,806 | 135 | 262 | 1,248 | 2023-11-08 | 2026-10-02 |
+| [Growth Projects](Growth_Projects/README.md) | 3,806 | 134 | 262 | 1,236 | 2023-11-08 | 2026-10-02 |
 | [General](General/README.md) | 1,863 | 4 | 7 | 79 | 2022-09-23 | 2026-09-23 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 12 | 14 | 120 | 2022-09-28 | 2026-09-24 |
 | [Impact Projects](Impact_Projects/README.md) | 868 | 1 | 18 | 168 | 2024-09-26 | 2026-09-15 |
@@ -29,7 +29,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 49 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | birte_lr | 28 | — |
-| 3 | Cyril | 22 | — |
+| 3 | Cyril | 21 | — |
 | 4 | [davidz25](https://github.com/davidz25) | 11 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 5 | espuni | 8 | — |
 
@@ -50,8 +50,8 @@
 | 1 | [Mirko](https://github.com/cre8) | 382 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 159 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 144 | Linux Foundation Staff |
-| 4 | [Lukas.J.Han](https://github.com/lukasjhan) | 117 | Lab Maintainer |
-| 5 | Cyril | 116 | — |
+| 4 | Cyril | 116 | — |
+| 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 115 | Lab Maintainer |
 
 ### All Time
 

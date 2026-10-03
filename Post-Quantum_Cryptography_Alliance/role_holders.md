@@ -9,7 +9,7 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 - **Role holders:** 25
 - **Inactive (no msgs in 365d):** 14
 - **Never posted (0 all-time):** 5
-- **Report generated:** 2026-10-02
+- **Report generated:** 2026-10-03
 
 | User | Roles | Last Msg | 30d | 90d | 365d | All-Time | All Guilds 365d |
 | :--- | :--- | :--- | ---: | ---: | ---: | ---: | ---: |
@@ -18,8 +18,8 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | PQCA-bot | LF Staff | never | 0 | 0 | 0 | 0 | 0 |
 | Tomaz | LF Staff | never | 0 | 0 | 0 | 0 | **25** (elsewhere) |
 | Yarkin Doroz | TAC member | never | 0 | 0 | 0 | 0 | 0 |
-| [davidwboswell](https://github.com/davidwboswell) | LF Staff | 2024-02-01 | 0 | 0 | 0 | 2 | **83** (elsewhere) |
-| [SeanBohan](https://github.com/SeanBohan) | LF Staff | 2024-02-01 | 0 | 0 | 0 | 2 | **383** (elsewhere) |
+| [davidwboswell](https://github.com/davidwboswell) | LF Staff | 2024-02-01 | 0 | 0 | 0 | 2 | **82** (elsewhere) |
+| [SeanBohan](https://github.com/SeanBohan) | LF Staff | 2024-02-01 | 0 | 0 | 0 | 2 | **385** (elsewhere) |
 | [danielabarbosa](https://github.com/daniela-barbosa) | LF Staff | 2024-02-02 | 0 | 0 | 0 | 2 | **7** (elsewhere) |
 | [Norman Ashley](https://github.com/ashman-p) | TAC member | 2024-03-12 | 0 | 0 | 0 | 4 | 0 |
 | max | TAC member | 2024-05-22 | 0 | 0 | 0 | 6 | 0 |
@@ -30,12 +30,12 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | Fynn Thierling | CBOM maintainer, Project Maintainer | 2025-12-03 | 0 | 0 | 1 | 1 | 1 |
 | [Andreas Schade](https://github.com/san-zrl) | CBOM maintainer, Project Maintainer | 2026-06-16 | 0 | 0 | 2 | 2 | 2 |
 | [hartm](https://github.com/hartm) | LF Staff | 2026-04-02 | 0 | 0 | 5 | 21 | 17 |
-| Chrissy Harter | LF Staff | 2026-05-18 | 0 | 0 | 5 | 5 | 8 |
+| Chrissy Harter | LF Staff | 2026-05-18 | 0 | 0 | 5 | 5 | 6 |
 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | CBOM maintainer, Project Maintainer | 2026-02-06 | 0 | 0 | 7 | 11 | 7 |
 | Severus Snape | TAC member | 2026-09-24 | 6 | 8 | 25 | 35 | 25 |
-| Jake | PQ Code Package Maintainer, Project Maintainer | 2026-08-10 | 0 | 3 | 53 | 169 | 53 |
-| [RyJones](https://github.com/ryjones) | LF Staff | 2026-08-28 | 0 | 4 | 101 | 325 | 1,098 |
+| Jake | PQ Code Package Maintainer, Project Maintainer | 2026-08-10 | 0 | 3 | 51 | 169 | 51 |
+| [RyJones](https://github.com/ryjones) | LF Staff | 2026-08-28 | 0 | 4 | 101 | 325 | 1,080 |
 | Hanno | PQ Code Package Maintainer | 2026-09-29 | 9 | 17 | 110 | 406 | 110 |
-| [Matthias Kannwischer](https://github.com/mkannwischer) | PQ Code Package Maintainer, Project Maintainer | 2026-10-01 | 22 | 73 | 443 | 1,146 | 443 |
-| Rod | PQ Code Package Maintainer, Project Maintainer | 2026-10-01 | 42 | 104 | 503 | 1,283 | 503 |
+| [Matthias Kannwischer](https://github.com/mkannwischer) | PQ Code Package Maintainer, Project Maintainer | 2026-10-01 | 20 | 73 | 434 | 1,146 | 434 |
+| Rod | PQ Code Package Maintainer, Project Maintainer | 2026-10-01 | 39 | 104 | 499 | 1,283 | 499 |
 

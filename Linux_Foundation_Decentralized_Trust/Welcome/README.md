@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 14,132
 - **Last 30 Days:** 28
 - **Last 90 Days:** 76
-- **Last 365 Days:** 411
+- **Last 365 Days:** 410
 - **First Message:** 2022-03-03
 - **Last Message:** 2026-09-30
 
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [welcome](welcome_948959099842883654.md) | 2026-08-12 | 0 | 2 | 44 | 10,733 |
-| [general](general_1021077182501621830.md) | 2026-09-30 | 23 | 39 | 217 | 1,900 |
+| [general](general_1021077182501621830.md) | 2026-09-30 | 23 | 39 | 216 | 1,900 |
 | [job-postings](job-postings_1050607623566802984.md) | 2026-09-03 | 1 | 21 | 74 | 447 |
 | [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-05-04 | 0 | 0 | 10 | 417 |
 | [connections](connections_948959243095130142.md) | 2026-09-21 | 4 | 7 | 25 | 372 |

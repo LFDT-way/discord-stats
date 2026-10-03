@@ -6,7 +6,7 @@
 - **Total Messages:** 1,075
 - **Last 30 Days:** 0
 - **Last 90 Days:** 3
-- **Last 365 Days:** 29
+- **Last 365 Days:** 28
 - **First Message:** 2022-02-15
 - **Last Message:** 2026-08-14
 

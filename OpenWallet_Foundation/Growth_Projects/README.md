@@ -3,9 +3,9 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
 - **Total Messages in Category:** 3,806
-- **Last 30 Days:** 135
+- **Last 30 Days:** 134
 - **Last 90 Days:** 262
-- **Last 365 Days:** 1,248
+- **Last 365 Days:** 1,236
 - **First Message:** 2023-11-08
 - **Last Message:** 2026-10-02
 
@@ -13,11 +13,11 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credo](credo_1179453305856991263.md) | 2026-09-23 | 4 | 12 | 175 | 1,090 |
-| [bifold](bifold_1209891839071756419.md) | 2026-09-22 | 5 | 16 | 145 | 910 |
-| [multipaz](multipaz_1179828955717574707.md) | 2026-09-18 | 20 | 29 | 221 | 646 |
-| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-02 | 106 | 198 | 581 | 592 |
-| [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 1 | 90 | 268 |
+| [credo](credo_1179453305856991263.md) | 2026-09-23 | 4 | 12 | 168 | 1,090 |
+| [bifold](bifold_1209891839071756419.md) | 2026-09-22 | 5 | 16 | 144 | 910 |
+| [multipaz](multipaz_1179828955717574707.md) | 2026-09-18 | 20 | 29 | 219 | 646 |
+| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-02 | 105 | 198 | 581 | 592 |
+| [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 1 | 88 | 268 |
 | [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 4 | 105 |
 | [owl](owl_1214965981470924911.md) | 2026-05-07 | 0 | 0 | 10 | 85 |
 | [vcx](vcx_1344319756324311123.md) | 2026-03-31 | 0 | 0 | 7 | 69 |
@@ -33,7 +33,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 40 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | birte_lr | 28 | — |
-| 3 | Cyril | 22 | — |
+| 3 | Cyril | 21 | — |
 | 4 | [davidz25](https://github.com/davidz25) | 11 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 5 | espuni | 8 | — |
 
@@ -53,7 +53,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 324 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | Cyril | 116 | — |
-| 3 | [davidz25](https://github.com/davidz25) | 98 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 3 | [davidz25](https://github.com/davidz25) | 97 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 74 | Linux Foundation Staff |
 | 5 | [Ry Jones, OWF](https://github.com/ryjones) | 61 | Linux Foundation Staff |
 

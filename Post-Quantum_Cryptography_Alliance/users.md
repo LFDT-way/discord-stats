@@ -4,19 +4,19 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
-- **Active Users (365d):** 98
-- **Messages (365d):** 1,580
+- **Active Users (365d):** 97
+- **Messages (365d):** 1,557
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 503 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 443 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 499 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 434 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 110 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 97 | LF Staff |
-| 5 | Jake | 53 | PQ Code Package Maintainer, Project Maintainer |
+| 5 | Jake | 51 | PQ Code Package Maintainer, Project Maintainer |
 | 6 | chozorho | 49 | — |
-| 7 | Brendan | 30 | — |
-| 8 | Severus Snape | 25 | TAC member |
+| 7 | Severus Snape | 25 | TAC member |
+| 8 | Brendan | 23 | — |
 | 9 | θρπχι | 12 | — |
 | 10 | brent | 12 | — |
 | 11 | hatz | 11 | — |
@@ -84,26 +84,25 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 73 | Fynn Thierling | 1 | CBOM maintainer, Project Maintainer |
 | 74 | arun | 1 | — |
 | 75 | Jim St.Clair | 1 | — |
-| 76 | MrAyyyo | 1 | — |
-| 77 | Ayush | 1 | — |
-| 78 | Jeffrey C. Rombough | 1 | — |
-| 79 | Rockster | 1 | — |
-| 80 | shauryaneel13 | 1 | — |
-| 81 | <AJMAL\|I\|MA> | 1 | — |
-| 82 | Gaudenzio.eth | 1 | — |
-| 83 | Doveblade | 1 | — |
-| 84 | beafn28 | 1 | — |
-| 85 | manishtiwari | 1 | — |
-| 86 | Prince | 1 | — |
-| 87 | Jonutella | 1 | — |
-| 88 | rockpaperdev | 1 | — |
-| 89 | Arkariun | 1 | — |
-| 90 | T-P | 1 | — |
-| 91 | matu3ba | 1 | — |
-| 92 | motohiro suzuki | 1 | — |
-| 93 | ramuiruri | 1 | — |
-| 94 | Tim420 | 1 | — |
-| 95 | Allan_Cryptowhickk ♨ | 1 | — |
-| 96 | knugen1337 | 1 | — |
-| 97 | Surbhi Agarwal | 1 | — |
-| 98 | eccstartup | 1 | — |
+| 76 | Ayush | 1 | — |
+| 77 | Jeffrey C. Rombough | 1 | — |
+| 78 | Rockster | 1 | — |
+| 79 | shauryaneel13 | 1 | — |
+| 80 | <AJMAL\|I\|MA> | 1 | — |
+| 81 | Gaudenzio.eth | 1 | — |
+| 82 | Doveblade | 1 | — |
+| 83 | beafn28 | 1 | — |
+| 84 | manishtiwari | 1 | — |
+| 85 | Prince | 1 | — |
+| 86 | Jonutella | 1 | — |
+| 87 | rockpaperdev | 1 | — |
+| 88 | Arkariun | 1 | — |
+| 89 | T-P | 1 | — |
+| 90 | matu3ba | 1 | — |
+| 91 | motohiro suzuki | 1 | — |
+| 92 | ramuiruri | 1 | — |
+| 93 | Tim420 | 1 | — |
+| 94 | Allan_Cryptowhickk ♨ | 1 | — |
+| 95 | knugen1337 | 1 | — |
+| 96 | Surbhi Agarwal | 1 | — |
+| 97 | eccstartup | 1 | — |

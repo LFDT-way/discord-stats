@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 941383941217222708
-- **Total Messages in Category:** 2,593
-- **Last 30 Days:** 55
-- **Last 90 Days:** 106
-- **Last 365 Days:** 375
+- **Total Messages in Category:** 2,598
+- **Last 30 Days:** 56
+- **Last 90 Days:** 111
+- **Last 365 Days:** 377
 - **First Message:** 2022-02-10
-- **Last Message:** 2026-10-01
+- **Last Message:** 2026-10-02
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-10-01 | 55 | 106 | 357 | 2,540 |
+| [tac](tac_941384040316018790.md) | 2026-10-02 | 56 | 111 | 359 | 2,545 |
 | [automated-pipelines](automated-pipelines_1156961689971998782.md) | 2026-04-15 | 0 | 0 | 18 | 52 |
 | [tac-announcements](tac-announcements_941399554731966564.md) | 2022-02-17 | 0 | 0 | 0 | 1 |
 
@@ -23,29 +23,29 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 20 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 22 | TAC member, Chapter Leader |
 | 2 | [davidwboswell](https://github.com/davidwboswell) | 8 | lfdt-ca, LFDT Staff |
-| 3 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
-| 4 | [vramaiitkgp](https://github.com/VRamakrishna) | 3 | TAC member, Cacti Maintainer |
-| 5 | [Enrique Lacal](https://github.com/EnriqueL8) | 3 | TAC member, Project Maintainer, Firefly Maintainer |
+| 3 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
+| 5 | [vramaiitkgp](https://github.com/VRamakrishna) | 3 | TAC member, Cacti Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 51 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 53 | TAC member, Chapter Leader |
 | 2 | [davidwboswell](https://github.com/davidwboswell) | 11 | lfdt-ca, LFDT Staff |
 | 3 | [vramaiitkgp](https://github.com/VRamakrishna) | 7 | TAC member, Cacti Maintainer |
-| 4 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
-| 5 | [Enrique Lacal](https://github.com/EnriqueL8) | 5 | TAC member, Project Maintainer, Firefly Maintainer |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 7 | lfdt-ca, LFDT Staff |
+| 5 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 131 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 133 | TAC member, Chapter Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 38 | lfdt-ca, LFDT Staff |
-| 3 | [davidwboswell](https://github.com/davidwboswell) | 36 | lfdt-ca, LFDT Staff |
+| 3 | [davidwboswell](https://github.com/davidwboswell) | 35 | lfdt-ca, LFDT Staff |
 | 4 | Tracy | 29 | — |
 | 5 | [vramaiitkgp](https://github.com/VRamakrishna) | 18 | TAC member, Cacti Maintainer |
 
@@ -55,7 +55,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Tracy | 690 | — |
 | 2 | [Ry Jones](https://github.com/ryjones) | 359 | lfdt-ca, LFDT Staff |
-| 3 | [Arun S M](https://github.com/arsulegai) | 349 | TAC member, Chapter Leader |
+| 3 | [Arun S M](https://github.com/arsulegai) | 351 | TAC member, Chapter Leader |
 | 4 | Peter Metz | 130 | — |
 | 5 | [Hart Montgomery](https://github.com/hartm) | 108 | LFDT Staff |
 
@@ -63,7 +63,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 288 |
+| 2026 | 293 |
 | 2025 | 400 |
 | 2024 | 501 |
 | 2023 | 816 |
@@ -73,7 +73,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 3 |
+| 2026-10 | 8 |
 | 2026-09 | 54 |
 | 2026-08 | 33 |
 | 2026-07 | 17 |
@@ -135,6 +135,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-02 | 5 |
 | 2026-10-01 | 3 |
 | 2026-09-30 | 1 |
 | 2026-09-29 | 2 |
