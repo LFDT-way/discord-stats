@@ -4,7 +4,7 @@
 - **Category:** Labs
 - **Channel ID:** 1540006318125879346
 - **Total Messages:** 4
-- **Last 30 Days:** 2
+- **Last 30 Days:** 0
 - **Last 90 Days:** 4
 - **Last 365 Days:** 4
 - **First Message:** 2026-08-24
@@ -14,10 +14,7 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | kitblake | 1 | — |
-| 2 | christiaan | 1 | — |
+_No activity in this period._
 
 ### Last 90 Days
 

@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205464046915585
 - **Total Messages in Category:** 20,043
-- **Last 30 Days:** 55
+- **Last 30 Days:** 53
 - **Last 90 Days:** 121
 - **Last 365 Days:** 833
 - **First Message:** 2021-11-07
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric](fabric_905205541326975046.md) | 2026-09-26 | 6 | 19 | 233 | 10,154 |
+| [fabric](fabric_905205541326975046.md) | 2026-09-26 | 4 | 19 | 233 | 10,154 |
 | [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-09-25 | 1 | 2 | 13 | 1,631 |
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-08 | 0 | 0 | 6 | 1,527 |
 | [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 0 | 53 | 1,300 |

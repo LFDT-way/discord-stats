@@ -2,9 +2,9 @@
 
 - **Guild ID:** 1022962884864643214
 - **Total Messages:** 9,642
-- **Last 30 Days:** 171
+- **Last 30 Days:** 168
 - **Last 90 Days:** 342
-- **Last 365 Days:** 1,948 — [active users](users.md)
+- **Last 365 Days:** 1,944 — [active users](users.md)
 - **First Message:** 2022-09-23
 - **Last Message:** 2026-10-02
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -13,10 +13,10 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,806 | 134 | 262 | 1,236 | 2023-11-08 | 2026-10-02 |
+| [Growth Projects](Growth_Projects/README.md) | 3,806 | 131 | 262 | 1,235 | 2023-11-08 | 2026-10-02 |
 | [General](General/README.md) | 1,863 | 4 | 7 | 79 | 2022-09-23 | 2026-09-23 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 12 | 14 | 120 | 2022-09-28 | 2026-09-24 |
-| [Impact Projects](Impact_Projects/README.md) | 868 | 1 | 18 | 168 | 2024-09-26 | 2026-09-15 |
+| [Impact Projects](Impact_Projects/README.md) | 868 | 1 | 18 | 165 | 2024-09-26 | 2026-09-15 |
 | [Labs](Labs/README.md) | 855 | 19 | 40 | 337 | 2023-06-02 | 2026-09-26 |
 | [Archive](Archive/README.md) | 345 | 0 | 0 | 1 | 2022-09-23 | 2025-10-23 |
 | [Information](Information/README.md) | 69 | 1 | 1 | 7 | 2022-09-28 | 2026-09-24 |

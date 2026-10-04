@@ -3,9 +3,9 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
 - **Total Messages in Category:** 3,806
-- **Last 30 Days:** 134
+- **Last 30 Days:** 131
 - **Last 90 Days:** 262
-- **Last 365 Days:** 1,236
+- **Last 365 Days:** 1,235
 - **First Message:** 2023-11-08
 - **Last Message:** 2026-10-02
 
@@ -14,14 +14,14 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [credo](credo_1179453305856991263.md) | 2026-09-23 | 4 | 12 | 168 | 1,090 |
-| [bifold](bifold_1209891839071756419.md) | 2026-09-22 | 5 | 16 | 144 | 910 |
+| [bifold](bifold_1209891839071756419.md) | 2026-09-22 | 2 | 16 | 144 | 910 |
 | [multipaz](multipaz_1179828955717574707.md) | 2026-09-18 | 20 | 29 | 219 | 646 |
 | [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-02 | 105 | 198 | 581 | 592 |
 | [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 1 | 88 | 268 |
 | [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 4 | 105 |
 | [owl](owl_1214965981470924911.md) | 2026-05-07 | 0 | 0 | 10 | 85 |
 | [vcx](vcx_1344319756324311123.md) | 2026-03-31 | 0 | 0 | 7 | 69 |
-| [didcomm-mediator-service](didcomm-mediator-service_1286300013365952583.md) | 2026-07-23 | 0 | 3 | 8 | 34 |
+| [didcomm-mediator-service](didcomm-mediator-service_1286300013365952583.md) | 2026-07-23 | 0 | 3 | 7 | 34 |
 | [diip](diip_1493643118078201856.md) | 2026-07-27 | 0 | 1 | 5 | 5 |
 | [thunderid](thunderid_1530170675493339227.md) | 2026-08-20 | 0 | 2 | 2 | 2 |
 

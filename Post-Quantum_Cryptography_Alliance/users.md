@@ -5,18 +5,18 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
 - **Active Users (365d):** 97
-- **Messages (365d):** 1,557
+- **Messages (365d):** 1,548
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 499 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 434 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 429 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 110 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 97 | LF Staff |
-| 5 | Jake | 51 | PQ Code Package Maintainer, Project Maintainer |
-| 6 | chozorho | 49 | — |
+| 5 | chozorho | 49 | — |
+| 6 | Jake | 48 | PQ Code Package Maintainer, Project Maintainer |
 | 7 | Severus Snape | 25 | TAC member |
-| 8 | Brendan | 23 | — |
+| 8 | Brendan | 21 | — |
 | 9 | θρπχι | 12 | — |
 | 10 | brent | 12 | — |
 | 11 | hatz | 11 | — |
@@ -39,11 +39,11 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 28 | Brendan T R | 4 | — |
 | 29 | Umk.Jr | 4 | — |
 | 30 | Bigood | 4 | — |
-| 31 | Vëx | 4 | — |
-| 32 | Abhi-95 | 4 | — |
-| 33 | pittma | 4 | — |
-| 34 | Mr.F | 3 | — |
-| 35 | Jarek Duda | 3 | — |
+| 31 | Jarek Duda | 4 | — |
+| 32 | Vëx | 4 | — |
+| 33 | Abhi-95 | 4 | — |
+| 34 | pittma | 4 | — |
+| 35 | Mr.F | 3 | — |
 | 36 | Vijay G | 3 | — |
 | 37 | Mila Anastasova | 3 | — |
 | 38 | LoneRam | 3 | — |

@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1283486767546237040
 - **Total Messages in Category:** 2,100
-- **Last 30 Days:** 69
+- **Last 30 Days:** 66
 - **Last 90 Days:** 251
 - **Last 365 Days:** 1,431
 - **First Message:** 2024-09-11
@@ -14,8 +14,8 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [hiero-sdk-python](hiero-sdk-python_1336494517544681563.md) | 2026-10-02 | 4 | 26 | 312 | 524 |
-| [hiero-general](hiero-general_1289954446712770600.md) | 2026-09-30 | 11 | 56 | 244 | 295 |
-| [hiero-maintainers](hiero-maintainers_1283487103006543952.md) | 2026-10-02 | 21 | 51 | 135 | 190 |
+| [hiero-general](hiero-general_1289954446712770600.md) | 2026-09-30 | 9 | 56 | 244 | 295 |
+| [hiero-maintainers](hiero-maintainers_1283487103006543952.md) | 2026-10-02 | 20 | 51 | 135 | 190 |
 | [hiero-website](hiero-website_1458790070986215567.md) | 2026-10-02 | 7 | 9 | 179 | 179 |
 | [hiero-announcements](hiero-announcements_1283487046484234270.md) | 2026-09-29 | 9 | 28 | 109 | 163 |
 | [hiero-solo-action](hiero-solo-action_1337046798472052776.md) | 2026-08-31 | 0 | 6 | 7 | 131 |
@@ -47,8 +47,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [JessicaG](https://github.com/jwagantall) | 27 | lfdt-ca, LFDT Staff |
-| 2 | [Daniel Marvin](https://github.com/danielmarv) | 19 | Project Maintainer, Hiero maintainer |
+| 1 | [JessicaG](https://github.com/jwagantall) | 26 | lfdt-ca, LFDT Staff |
+| 2 | [Daniel Marvin](https://github.com/danielmarv) | 17 | Project Maintainer, Hiero maintainer |
 | 3 | [hendrik.ebbers](https://github.com/hendrikebbers) | 4 | TAC member, Project Maintainer, SIG leader, Hiero maintainer |
 | 4 | [Roger](https://github.com/rbarker-dev) | 3 | Project Maintainer, Hiero maintainer |
 | 5 | Ang | 3 | Project Maintainer, Hiero maintainer |

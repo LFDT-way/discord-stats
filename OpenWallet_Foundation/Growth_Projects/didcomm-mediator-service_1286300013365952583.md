@@ -6,7 +6,7 @@
 - **Total Messages:** 34
 - **Last 30 Days:** 0
 - **Last 90 Days:** 3
-- **Last 365 Days:** 8
+- **Last 365 Days:** 7
 - **First Message:** 2024-09-24
 - **Last Message:** 2026-07-23
 
@@ -30,8 +30,7 @@ _No activity in this period._
 | 1 | [jamshale](https://github.com/jamshale) | 2 | Project Maintainer |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
 | 3 | José Puma | 2 | — |
-| 4 | albertoleon_7794 | 1 | — |
-| 5 | Muhammad Ahmer Khan | 1 | — |
+| 4 | Muhammad Ahmer Khan | 1 | — |
 
 ### All Time
 

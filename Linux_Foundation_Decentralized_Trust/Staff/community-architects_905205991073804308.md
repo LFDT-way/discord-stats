@@ -25,7 +25,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
-| 2 | æœss | 3 | — |
+| 2 | æœss | 3 | Lab Leader |
 | 3 | akupemulaygbaik | 3 | — |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
 | 5 | CrazyChopin | 2 | — |
@@ -36,7 +36,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
-| 3 | æœss | 3 | — |
+| 3 | æœss | 3 | Lab Leader |
 | 4 | akupemulaygbaik | 3 | — |
 | 5 | Prof.xoxo | 2 | — |
 

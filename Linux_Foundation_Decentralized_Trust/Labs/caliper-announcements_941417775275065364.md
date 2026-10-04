@@ -6,7 +6,7 @@
 - **Total Messages:** 5
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 1
+- **Last 365 Days:** 0
 - **First Message:** 2022-05-20
 - **Last Message:** 2025-10-03
 
@@ -22,9 +22,7 @@ _No activity in this period._
 
 ### Last 365 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [Attila Klenik](https://github.com/aklenik) | 1 | Project Maintainer, Lab Leader |
+_No activity in this period._
 
 ### All Time
 

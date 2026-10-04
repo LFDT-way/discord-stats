@@ -4,8 +4,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
-- **Active Users (365d):** 129
-- **Messages (365d):** 1,948
+- **Active Users (365d):** 128
+- **Messages (365d):** 1,944
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -32,10 +32,10 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 21 | kukgini | 18 | — |
 | 22 | [firegod](https://github.com/wenjing) | 16 | — |
 | 23 | diegoz (OpenMobileHub, Multipaz) | 14 | Lab Maintainer, multipaz maintainer |
-| 24 | albertoleon_7794 | 14 | — |
-| 25 | [jamshale](https://github.com/jamshale) | 13 | Project Maintainer |
-| 26 | [GenAris](https://github.com/genaris) | 13 | credo maintainers, Project Maintainer |
-| 27 | Samuel | 13 | SIG member |
+| 24 | [jamshale](https://github.com/jamshale) | 13 | Project Maintainer |
+| 25 | [GenAris](https://github.com/genaris) | 13 | credo maintainers, Project Maintainer |
+| 26 | Samuel | 13 | SIG member |
+| 27 | albertoleon_7794 | 13 | — |
 | 28 | MostafaGamal | 12 | — |
 | 29 | Amine | 11 | — |
 | 30 | [gmulhearn](https://github.com/gmulhearn) | 11 | vcx maintainer, Project Maintainer |
@@ -48,11 +48,11 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 37 | Jim St.Clair | 8 | SIG member |
 | 38 | [esune](https://github.com/esune) | 8 | Project Maintainer |
 | 39 | Manthan | 8 | — |
-| 40 | vivek | 8 | — |
-| 41 | Jason | 7 | bifold maintainers, Project Maintainer |
-| 42 | Thiago Romano | 7 | — |
-| 43 | Pragya Jain | 7 | — |
-| 44 | jarosss_ | 6 | — |
+| 40 | Jason | 7 | bifold maintainers, Project Maintainer |
+| 41 | Thiago Romano | 7 | — |
+| 42 | Pragya Jain | 7 | — |
+| 43 | jarosss_ | 6 | — |
+| 44 | vivek | 6 | — |
 | 45 | [amanji](https://github.com/amanji) | 6 | — |
 | 46 | senu | 5 | — |
 | 47 | gr0 | 5 | — |
@@ -126,15 +126,14 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 115 | anil.helvaci \| GMT +3 | 1 | — |
 | 116 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
 | 117 | rosterbyte | 1 | — |
-| 118 | Adrian | 1 | — |
-| 119 | skamy | 1 | — |
-| 120 | Daev Mithran | 1 | — |
-| 121 | SRellihan.Phinxlab | 1 | — |
-| 122 | Arsalan Shahzad | 1 | — |
-| 123 | sherri58 | 1 | — |
-| 124 | latika_04_17594 | 1 | — |
-| 125 | michkauf | 1 | — |
-| 126 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
-| 127 | Aaron | 1 | — |
-| 128 | JohnH | 1 | — |
-| 129 | arifthehappy | 1 | — |
+| 118 | skamy | 1 | — |
+| 119 | Daev Mithran | 1 | — |
+| 120 | SRellihan.Phinxlab | 1 | — |
+| 121 | Arsalan Shahzad | 1 | — |
+| 122 | sherri58 | 1 | — |
+| 123 | latika_04_17594 | 1 | — |
+| 124 | michkauf | 1 | — |
+| 125 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
+| 126 | Aaron | 1 | — |
+| 127 | JohnH | 1 | — |
+| 128 | arifthehappy | 1 | — |

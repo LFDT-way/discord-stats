@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 941383941217222708
 - **Total Messages in Category:** 2,598
-- **Last 30 Days:** 56
+- **Last 30 Days:** 51
 - **Last 90 Days:** 111
 - **Last 365 Days:** 377
 - **First Message:** 2022-02-10
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-10-02 | 56 | 111 | 359 | 2,545 |
+| [tac](tac_941384040316018790.md) | 2026-10-02 | 51 | 111 | 359 | 2,545 |
 | [automated-pipelines](automated-pipelines_1156961689971998782.md) | 2026-04-15 | 0 | 0 | 18 | 52 |
 | [tac-announcements](tac-announcements_941399554731966564.md) | 2022-02-17 | 0 | 0 | 0 | 1 |
 
@@ -24,10 +24,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Arun S M](https://github.com/arsulegai) | 22 | TAC member, Chapter Leader |
-| 2 | [davidwboswell](https://github.com/davidwboswell) | 8 | lfdt-ca, LFDT Staff |
-| 3 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
-| 5 | [vramaiitkgp](https://github.com/VRamakrishna) | 3 | TAC member, Cacti Maintainer |
+| 2 | [davidwboswell](https://github.com/davidwboswell) | 6 | lfdt-ca, LFDT Staff |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
+| 4 | [vramaiitkgp](https://github.com/VRamakrishna) | 3 | TAC member, Cacti Maintainer |
+| 5 | [Ry Jones](https://github.com/ryjones) | 3 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 
