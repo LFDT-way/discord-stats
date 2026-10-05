@@ -3,10 +3,10 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414670897037443205
-- **Total Messages:** 434
-- **Last 30 Days:** 34
-- **Last 90 Days:** 128
-- **Last 365 Days:** 402
+- **Total Messages:** 435
+- **Last 30 Days:** 33
+- **Last 90 Days:** 129
+- **Last 365 Days:** 403
 - **First Message:** 2025-09-24
 - **Last Message:** 2026-10-04
 
@@ -17,10 +17,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [drummondreed](https://github.com/talltree) | 9 | Project Maintainer, ToIP |
-| 2 | lyn brooks | 5 | Project Maintainer, ToIP |
-| 3 | microbiocarly | 5 | Project Maintainer, ToIP |
-| 4 | [firegod](https://github.com/wenjing) | 5 | Project Maintainer, ToIP |
-| 5 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 5 | Lab Leader |
+| 2 | microbiocarly | 5 | Project Maintainer, ToIP |
+| 3 | [firegod](https://github.com/wenjing) | 5 | Project Maintainer, ToIP |
+| 4 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 5 | Lab Leader |
+| 5 | lyn brooks | 4 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
@@ -56,14 +56,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 292 |
+| 2026 | 293 |
 | 2025 | 142 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 3 |
+| 2026-10 | 4 |
 | 2026-09 | 33 |
 | 2026-08 | 54 |
 | 2026-07 | 51 |
@@ -82,7 +82,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-04 | 1 |
+| 2026-10-04 | 2 |
 | 2026-10-03 | 1 |
 | 2026-10-01 | 1 |
 | 2026-09-30 | 1 |

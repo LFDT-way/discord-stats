@@ -4,7 +4,7 @@
 - **Category ID:** 905515538766254102
 - **Total Messages in Category:** 2,355
 - **Last 30 Days:** 12
-- **Last 90 Days:** 26
+- **Last 90 Days:** 24
 - **Last 365 Days:** 364
 - **First Message:** 2021-11-11
 - **Last Message:** 2026-10-02
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-10-02 | 8 | 22 | 285 | 1,796 |
+| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-10-02 | 8 | 20 | 285 | 1,796 |
 | [cacti-users](cacti-users_908379366650703943.md) | 2026-10-02 | 2 | 2 | 60 | 510 |
 | [cacti-resources](cacti-resources_908349711537299497.md) | 2026-04-03 | 0 | 0 | 2 | 26 |
 | [cacti-announcements](cacti-announcements_908380513310498847.md) | 2026-10-01 | 2 | 2 | 11 | 17 |
@@ -34,7 +34,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [rafaelapb](https://github.com/RafaelAPB) | 12 | Project Maintainer, Cacti Maintainer |
+| 1 | [rafaelapb](https://github.com/RafaelAPB) | 10 | Project Maintainer, Cacti Maintainer |
 | 2 | mskr | 5 | — |
 | 3 | AgrimTawani \| Cryptobazaar | 4 | — |
 | 4 | Humayun | 2 | — |

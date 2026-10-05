@@ -5,16 +5,16 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
 - **Active Users (365d):** 97
-- **Messages (365d):** 1,548
+- **Messages (365d):** 1,535
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 499 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 429 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 426 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 110 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 97 | LF Staff |
-| 5 | chozorho | 49 | — |
-| 6 | Jake | 48 | PQ Code Package Maintainer, Project Maintainer |
+| 5 | Jake | 45 | PQ Code Package Maintainer, Project Maintainer |
+| 6 | chozorho | 39 | — |
 | 7 | Severus Snape | 25 | TAC member |
 | 8 | Brendan | 21 | — |
 | 9 | θρπχι | 12 | — |
@@ -27,27 +27,27 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 16 | Loganaden | 8 | — |
 | 17 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 7 | CBOM maintainer, Project Maintainer |
 | 18 | Scott Corzine | 7 | — |
-| 19 | f15hr | 6 | — |
-| 20 | Sachin Kumar | 5 | — |
-| 21 | Chrissy Harter | 5 | LF Staff |
-| 22 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 5 | — |
-| 23 | Brunoee | 5 | — |
-| 24 | [hartm](https://github.com/hartm) | 5 | LF Staff |
-| 25 | AutoJanitor | 5 | — |
-| 26 | N.Nova | 5 | — |
-| 27 | kstzv | 5 | — |
-| 28 | Brendan T R | 4 | — |
-| 29 | Umk.Jr | 4 | — |
-| 30 | Bigood | 4 | — |
-| 31 | Jarek Duda | 4 | — |
+| 19 | Jarek Duda | 6 | — |
+| 20 | f15hr | 6 | — |
+| 21 | Sachin Kumar | 5 | — |
+| 22 | Chrissy Harter | 5 | LF Staff |
+| 23 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 5 | — |
+| 24 | Brunoee | 5 | — |
+| 25 | [hartm](https://github.com/hartm) | 5 | LF Staff |
+| 26 | AutoJanitor | 5 | — |
+| 27 | N.Nova | 5 | — |
+| 28 | kstzv | 5 | — |
+| 29 | Brendan T R | 4 | — |
+| 30 | Umk.Jr | 4 | — |
+| 31 | Bigood | 4 | — |
 | 32 | Vëx | 4 | — |
-| 33 | Abhi-95 | 4 | — |
-| 34 | pittma | 4 | — |
-| 35 | Mr.F | 3 | — |
-| 36 | Vijay G | 3 | — |
-| 37 | Mila Anastasova | 3 | — |
-| 38 | LoneRam | 3 | — |
-| 39 | OTO | 3 | — |
+| 33 | OTO | 4 | — |
+| 34 | Abhi-95 | 4 | — |
+| 35 | pittma | 4 | — |
+| 36 | Mr.F | 3 | — |
+| 37 | Vijay G | 3 | — |
+| 38 | Mila Anastasova | 3 | — |
+| 39 | LoneRam | 3 | — |
 | 40 | willieyz | 3 | — |
 | 41 | Snake | 3 | — |
 | 42 | Chun-Ming Chiu | 3 | — |

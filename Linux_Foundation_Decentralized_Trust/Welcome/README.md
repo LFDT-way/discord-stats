@@ -4,8 +4,8 @@
 - **Category ID:** 948958931512873030
 - **Total Messages in Category:** 14,132
 - **Last 30 Days:** 27
-- **Last 90 Days:** 76
-- **Last 365 Days:** 410
+- **Last 90 Days:** 74
+- **Last 365 Days:** 409
 - **First Message:** 2022-03-03
 - **Last Message:** 2026-09-30
 
@@ -17,10 +17,10 @@
 | [general](general_1021077182501621830.md) | 2026-09-30 | 23 | 39 | 216 | 1,900 |
 | [job-postings](job-postings_1050607623566802984.md) | 2026-09-03 | 0 | 21 | 74 | 447 |
 | [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-05-04 | 0 | 0 | 10 | 417 |
-| [connections](connections_948959243095130142.md) | 2026-09-21 | 4 | 7 | 25 | 372 |
+| [connections](connections_948959243095130142.md) | 2026-09-21 | 4 | 7 | 24 | 372 |
 | [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-07-30 | 0 | 5 | 31 | 191 |
 | [announcements](announcements_953133039372877844.md) | 2026-06-30 | 0 | 0 | 8 | 39 |
-| [git-help](git-help_1098621099681513492.md) | 2026-07-06 | 0 | 2 | 2 | 33 |
+| [git-help](git-help_1098621099681513492.md) | 2026-07-06 | 0 | 0 | 2 | 33 |
 
 ## Most Active Users
 
@@ -39,8 +39,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | lfdt-ca, LFDT Staff |
-| 2 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
-| 3 | TechnocratOne | 6 | — |
+| 2 | TechnocratOne | 6 | — |
+| 3 | [Ry Jones](https://github.com/ryjones) | 5 | lfdt-ca, LFDT Staff |
 | 4 | Rowan | 5 | — |
 | 5 | Andres | 5 | — |
 

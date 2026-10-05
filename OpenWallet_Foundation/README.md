@@ -1,23 +1,23 @@
 # Guild Report: OpenWallet Foundation
 
 - **Guild ID:** 1022962884864643214
-- **Total Messages:** 9,642
+- **Total Messages:** 9,643
 - **Last 30 Days:** 168
-- **Last 90 Days:** 342
-- **Last 365 Days:** 1,944 — [active users](users.md)
+- **Last 90 Days:** 334
+- **Last 365 Days:** 1,945 — [active users](users.md)
 - **First Message:** 2022-09-23
-- **Last Message:** 2026-10-02
+- **Last Message:** 2026-10-05
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,806 | 131 | 262 | 1,235 | 2023-11-08 | 2026-10-02 |
-| [General](General/README.md) | 1,863 | 4 | 7 | 79 | 2022-09-23 | 2026-09-23 |
+| [Growth Projects](Growth_Projects/README.md) | 3,806 | 130 | 255 | 1,235 | 2023-11-08 | 2026-10-02 |
+| [General](General/README.md) | 1,864 | 5 | 8 | 80 | 2022-09-23 | 2026-10-05 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 12 | 14 | 120 | 2022-09-28 | 2026-09-24 |
-| [Impact Projects](Impact_Projects/README.md) | 868 | 1 | 18 | 165 | 2024-09-26 | 2026-09-15 |
-| [Labs](Labs/README.md) | 855 | 19 | 40 | 337 | 2023-06-02 | 2026-09-26 |
+| [Impact Projects](Impact_Projects/README.md) | 868 | 1 | 17 | 165 | 2024-09-26 | 2026-09-15 |
+| [Labs](Labs/README.md) | 855 | 19 | 39 | 337 | 2023-06-02 | 2026-09-26 |
 | [Archive](Archive/README.md) | 345 | 0 | 0 | 1 | 2022-09-23 | 2025-10-23 |
 | [Information](Information/README.md) | 69 | 1 | 1 | 7 | 2022-09-28 | 2026-09-24 |
 
@@ -27,7 +27,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 49 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 48 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | birte_lr | 28 | — |
 | 3 | Cyril | 21 | — |
 | 4 | [davidz25](https://github.com/davidz25) | 11 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
@@ -37,9 +37,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 98 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | espuni | 33 | — |
-| 3 | Cyril | 29 | — |
+| 1 | [Mirko](https://github.com/cre8) | 94 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | espuni | 31 | — |
+| 3 | Cyril | 28 | — |
 | 4 | birte_lr | 28 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 18 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,435 |
+| 2026 | 1,436 |
 | 2025 | 2,830 |
 | 2024 | 2,596 |
 | 2023 | 1,595 |
@@ -77,7 +77,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 9 |
+| 2026-10 | 10 |
 | 2026-09 | 166 |
 | 2026-08 | 53 |
 | 2026-07 | 130 |
@@ -132,6 +132,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-05 | 1 |
 | 2026-10-02 | 7 |
 | 2026-10-01 | 2 |
 | 2026-09-30 | 2 |

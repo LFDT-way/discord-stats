@@ -4,7 +4,7 @@
 - **Category ID:** 1155727691216076911
 - **Total Messages in Category:** 2,382
 - **Last 30 Days:** 23
-- **Last 90 Days:** 29
+- **Last 90 Days:** 26
 - **Last 365 Days:** 151
 - **First Message:** 2023-09-10
 - **Last Message:** 2026-09-16
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [fabric-newbies](fabric-newbies_1150488600975245412.md) | 2026-07-20 | 0 | 3 | 113 | 1,957 |
-| [firefly-newbies](firefly-newbies_1154921177207275520.md) | 2026-09-16 | 23 | 26 | 38 | 425 |
+| [firefly-newbies](firefly-newbies_1154921177207275520.md) | 2026-09-16 | 23 | 23 | 38 | 425 |
 
 ## Most Active Users
 
@@ -31,8 +31,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [SonicSwordcane](https://github.com/SupernaviX) | 10 | Project Maintainer, Firefly Maintainer |
-| 2 | [Enrique Lacal](https://github.com/EnriqueL8) | 9 | TAC member, Project Maintainer, Firefly Maintainer |
-| 3 | 0xTemi Hardhek 🦀 | 7 | — |
+| 2 | 0xTemi Hardhek 🦀 | 7 | — |
+| 3 | [Enrique Lacal](https://github.com/EnriqueL8) | 6 | TAC member, Project Maintainer, Firefly Maintainer |
 | 4 | yash | 1 | — |
 | 5 | EliMbadi | 1 | — |
 

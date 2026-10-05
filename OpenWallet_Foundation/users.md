@@ -5,7 +5,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 128
-- **Messages (365d):** 1,944
+- **Messages (365d):** 1,945
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -57,15 +57,15 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 46 | senu | 5 | — |
 | 47 | gr0 | 5 | — |
 | 48 | ζατch bell | 5 | — |
-| 49 | aaron | 5 | — |
-| 50 | HashMapsData2Value | 5 | — |
-| 51 | geertdoornbos | 4 | — |
-| 52 | Bilal | 4 | — |
-| 53 | Harshitha | 4 | — |
-| 54 | [cjhowland](https://github.com/cjhowland) | 4 | — |
-| 55 | Damignos | 4 | — |
-| 56 | friendlyfire137 | 4 | Project Maintainer |
-| 57 | Ginga | 4 | — |
+| 49 | Ginga | 5 | — |
+| 50 | aaron | 5 | — |
+| 51 | HashMapsData2Value | 5 | — |
+| 52 | geertdoornbos | 4 | — |
+| 53 | Bilal | 4 | — |
+| 54 | Harshitha | 4 | — |
+| 55 | [cjhowland](https://github.com/cjhowland) | 4 | — |
+| 56 | Damignos | 4 | — |
+| 57 | friendlyfire137 | 4 | Project Maintainer |
 | 58 | Neha | 3 | — |
 | 59 | akishiseki | 3 | — |
 | 60 | Hassan | 3 | — |

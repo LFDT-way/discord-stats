@@ -4,7 +4,7 @@
 - **Category ID:** 1285999377751736443
 - **Total Messages in Category:** 868
 - **Last 30 Days:** 1
-- **Last 90 Days:** 18
+- **Last 90 Days:** 17
 - **Last 365 Days:** 165
 - **First Message:** 2024-09-26
 - **Last Message:** 2026-09-15
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aca-py](aca-py_1286299858994462842.md) | 2026-09-15 | 1 | 18 | 164 | 807 |
+| [aca-py](aca-py_1286299858994462842.md) | 2026-09-15 | 1 | 17 | 164 | 807 |
 | [acapy-did-registration](acapy-did-registration_1303470616581509130.md) | 2025-10-25 | 0 | 0 | 1 | 61 |
 
 ## Most Active Users
@@ -28,8 +28,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [swcurran](https://github.com/swcurran) | 5 | Lab Maintainer, TAC members, Project Maintainer |
-| 2 | vivek | 5 | — |
+| 1 | vivek | 5 | — |
+| 2 | [swcurran](https://github.com/swcurran) | 4 | Lab Maintainer, TAC members, Project Maintainer |
 | 3 | [jamshale](https://github.com/jamshale) | 4 | Project Maintainer |
 | 4 | PStLouis | 3 | Lab Maintainer, Project Maintainer |
 | 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
