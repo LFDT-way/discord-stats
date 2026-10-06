@@ -5,7 +5,7 @@
 - **Channel ID:** 1230596020790886490
 - **Total Messages:** 27
 - **Last 30 Days:** 4
-- **Last 90 Days:** 7
+- **Last 90 Days:** 6
 - **Last 365 Days:** 11
 - **First Message:** 2024-06-18
 - **Last Message:** 2026-09-30
@@ -25,7 +25,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Yurii Shynbuiev | 3 | Identus Maintainer, Project Maintainer |
+| 1 | Yurii Shynbuiev | 2 | Identus Maintainer, Project Maintainer |
 | 2 | havy | 1 | Identus Maintainer, Project Maintainer |
 | 3 | jonbauer | 1 | Identus Maintainer, Project Maintainer |
 | 4 | pat_pat | 1 | Identus Maintainer, Project Maintainer |

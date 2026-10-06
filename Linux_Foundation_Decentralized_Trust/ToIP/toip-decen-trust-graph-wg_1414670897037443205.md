@@ -6,7 +6,7 @@
 - **Total Messages:** 435
 - **Last 30 Days:** 33
 - **Last 90 Days:** 129
-- **Last 365 Days:** 403
+- **Last 365 Days:** 402
 - **First Message:** 2025-09-24
 - **Last Message:** 2026-10-04
 
@@ -36,7 +36,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 134 | Project Maintainer, ToIP |
+| 1 | [drummondreed](https://github.com/talltree) | 133 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 122 | Lab Leader |
 | 3 | Nicky H | 30 | Project Maintainer, ToIP |
 | 4 | microbiocarly | 15 | Project Maintainer, ToIP |

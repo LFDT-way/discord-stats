@@ -5,12 +5,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
 - **Active Users (365d):** 97
-- **Messages (365d):** 1,535
+- **Messages (365d):** 1,537
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 499 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 426 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 500 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 427 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 110 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 97 | LF Staff |
 | 5 | Jake | 45 | PQ Code Package Maintainer, Project Maintainer |
@@ -90,7 +90,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 79 | shauryaneel13 | 1 | — |
 | 80 | <AJMAL\|I\|MA> | 1 | — |
 | 81 | Gaudenzio.eth | 1 | — |
-| 82 | Doveblade | 1 | — |
+| 82 | Princess Apogee | 1 | — |
 | 83 | beafn28 | 1 | — |
 | 84 | manishtiwari | 1 | — |
 | 85 | Prince | 1 | — |

@@ -2,12 +2,12 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
-- **Total Messages in Category:** 21,381
-- **Last 30 Days:** 50
-- **Last 90 Days:** 225
-- **Last 365 Days:** 897
+- **Total Messages in Category:** 21,382
+- **Last 30 Days:** 51
+- **Last 90 Days:** 223
+- **Last 365 Days:** 898
 - **First Message:** 2021-11-05
-- **Last Message:** 2026-10-04
+- **Last Message:** 2026-10-05
 
 ## Channels in Category
 
@@ -19,17 +19,17 @@
 | [caliper](caliper_941417677778473031.md) | 2026-03-23 | 0 | 0 | 38 | 1,439 |
 | [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-04-15 | 0 | 0 | 46 | 1,185 |
 | [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 10 | 859 |
-| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-02 | 12 | 24 | 169 | 347 |
+| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-02 | 12 | 22 | 169 | 347 |
 | [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-01 | 3 | 14 | 64 | 153 |
 | [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 9 | 148 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-09-21 | 8 | 8 | 11 | 108 |
-| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-10-03 | 9 | 90 | 90 | 90 |
+| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-10-05 | 10 | 91 | 91 | 91 |
 | [fablo](fablo_1109190949394989127.md) | 2026-09-15 | 1 | 2 | 14 | 87 |
 | [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-09-22 | 5 | 30 | 81 | 81 |
 | [general](general_988569914266775662.md) | 2026-07-30 | 0 | 3 | 11 | 72 |
 | [cello](cello_941475454378991646.md) | 2026-08-28 | 0 | 1 | 10 | 54 |
 | [cc-tools](cc-tools_1156653969133809715.md) | 2025-05-07 | 0 | 0 | 0 | 45 |
-| [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-07-27 | 0 | 9 | 37 | 43 |
+| [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-07-27 | 0 | 8 | 37 | 43 |
 | [learning-tokens](learning-tokens_1120853856360878271.md) | 2026-08-25 | 0 | 4 | 6 | 36 |
 | [hypernate](hypernate_1417903966464770159.md) | 2026-07-23 | 0 | 4 | 16 | 32 |
 | [cbweb3](cbweb3_1400427588287074364.md) | 2026-05-29 | 0 | 0 | 30 | 31 |
@@ -60,8 +60,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 48 | lfdt-ca, LFDT Staff |
-| 2 | Dondo | 23 | Lab Leader |
-| 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 16 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 2 | Dondo | 24 | Lab Leader |
+| 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 15 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 14 | lfdt-ca, LFDT Staff |
 | 5 | kadalkidal | 13 | Lab Leader |
 
@@ -89,7 +89,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 679 |
+| 2026 | 680 |
 | 2025 | 993 |
 | 2024 | 2,099 |
 | 2023 | 7,409 |
@@ -100,7 +100,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 13 |
+| 2026-10 | 14 |
 | 2026-09 | 42 |
 | 2026-08 | 53 |
 | 2026-07 | 124 |
@@ -163,6 +163,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-05 | 1 |
 | 2026-10-04 | 1 |
 | 2026-10-03 | 6 |
 | 2026-10-02 | 2 |

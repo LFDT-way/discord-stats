@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414671863057223820
-- **Total Messages:** 59
-- **Last 30 Days:** 6
-- **Last 90 Days:** 26
+- **Total Messages:** 60
+- **Last 30 Days:** 7
+- **Last 90 Days:** 25
 - **Last 365 Days:** 59
 - **First Message:** 2025-10-05
-- **Last Message:** 2026-10-04
+- **Last Message:** 2026-10-05
 
 ## Most Active Users
 
@@ -17,14 +17,14 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [firegod](https://github.com/wenjing) | 4 | Project Maintainer, ToIP |
-| 2 | [drummondreed](https://github.com/talltree) | 2 | Project Maintainer, ToIP |
+| 2 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [firegod](https://github.com/wenjing) | 16 | Project Maintainer, ToIP |
-| 2 | [drummondreed](https://github.com/talltree) | 10 | Project Maintainer, ToIP |
+| 2 | [drummondreed](https://github.com/talltree) | 9 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 
@@ -40,7 +40,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 28 | Project Maintainer, ToIP |
+| 1 | [drummondreed](https://github.com/talltree) | 29 | Project Maintainer, ToIP |
 | 2 | [firegod](https://github.com/wenjing) | 17 | Project Maintainer, ToIP |
 | 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 6 | Lab Leader |
 | 4 | microbiocarly | 4 | Project Maintainer, ToIP |
@@ -50,14 +50,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 53 |
+| 2026 | 54 |
 | 2025 | 6 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 4 |
+| 2026-10 | 5 |
 | 2026-09 | 7 |
 | 2026-08 | 11 |
 | 2026-07 | 4 |
@@ -74,6 +74,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-05 | 1 |
 | 2026-10-04 | 2 |
 | 2026-10-02 | 1 |
 | 2026-10-01 | 1 |

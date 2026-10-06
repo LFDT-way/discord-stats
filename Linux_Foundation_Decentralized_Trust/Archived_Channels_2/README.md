@@ -88,7 +88,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 16 | lfdt-ca, LFDT Staff |
-| 2 | [Matthew Whitehead](https://github.com/matthew1001) | 15 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 2 | [Matthew Whitehead](https://github.com/matthew1001) | 15 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 3 | Amin.Chegeni | 9 | — |
 | 4 | amitthosare | 7 | Credebl maintainer, Project Maintainer |
 | 5 | Admiral OOM | 6 | — |

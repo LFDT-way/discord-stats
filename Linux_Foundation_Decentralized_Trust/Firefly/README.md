@@ -4,7 +4,7 @@
 - **Category ID:** 905515688758751282
 - **Total Messages in Category:** 26,651
 - **Last 30 Days:** 18
-- **Last 90 Days:** 135
+- **Last 90 Days:** 90
 - **Last 365 Days:** 682
 - **First Message:** 2022-01-05
 - **Last Message:** 2026-09-15
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [firefly](firefly_928377875827154984.md) | 2026-09-11 | 1 | 12 | 154 | 25,508 |
-| [firefly-maintainers](firefly-maintainers_1151539141826322482.md) | 2026-09-15 | 17 | 123 | 528 | 973 |
+| [firefly-maintainers](firefly-maintainers_1151539141826322482.md) | 2026-09-15 | 17 | 78 | 528 | 973 |
 | [firefly-workshop](firefly-workshop_1063562168064282685.md) | 2025-08-28 | 0 | 0 | 0 | 169 |
 | [firefly-announcements](firefly-announcements_928380528422432769.md) | 2022-04-13 | 0 | 0 | 0 | 1 |
 
@@ -33,11 +33,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 69 | TAC member, Project Maintainer, Firefly Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 34 | lfdt-ca, LFDT Staff |
-| 3 | [SonicSwordcane](https://github.com/SupernaviX) | 15 | Project Maintainer, Firefly Maintainer |
-| 4 | Dan | 7 | Project Maintainer, Firefly Maintainer |
-| 5 | [cheng](https://github.com/Chengxuan) | 6 | Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 50 | TAC member, Project Maintainer, Firefly Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 24 | lfdt-ca, LFDT Staff |
+| 3 | [SonicSwordcane](https://github.com/SupernaviX) | 6 | Project Maintainer, Firefly Maintainer |
+| 4 | [cheng](https://github.com/Chengxuan) | 6 | Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 5 | 0xTemi Hardhek 🦀 | 1 | — |
 
 ### Last 365 Days
 
@@ -57,7 +57,7 @@
 | 2 | [Peter Broadhurst](https://github.com/peterbroadhurst) | 3,066 | Paladin Maintainer, Project Maintainer, Lab Leader, Firefly Maintainer |
 | 3 | [Enrique Lacal](https://github.com/EnriqueL8) | 2,335 | TAC member, Project Maintainer, Firefly Maintainer |
 | 4 | [andrew.richardson](https://github.com/awrichar) | 1,399 | Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 5 | [Matthew Whitehead](https://github.com/matthew1001) | 467 | TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 5 | [Matthew Whitehead](https://github.com/matthew1001) | 467 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 
 ## Yearly Traffic
 
