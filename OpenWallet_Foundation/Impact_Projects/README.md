@@ -2,18 +2,18 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1285999377751736443
-- **Total Messages in Category:** 869
-- **Last 30 Days:** 2
-- **Last 90 Days:** 18
-- **Last 365 Days:** 166
+- **Total Messages in Category:** 871
+- **Last 30 Days:** 4
+- **Last 90 Days:** 20
+- **Last 365 Days:** 167
 - **First Message:** 2024-09-26
-- **Last Message:** 2026-10-05
+- **Last Message:** 2026-10-07
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aca-py](aca-py_1286299858994462842.md) | 2026-10-05 | 2 | 18 | 165 | 808 |
+| [aca-py](aca-py_1286299858994462842.md) | 2026-10-07 | 4 | 20 | 166 | 810 |
 | [acapy-did-registration](acapy-did-registration_1303470616581509130.md) | 2025-10-25 | 0 | 0 | 1 | 61 |
 
 ## Most Active Users
@@ -23,7 +23,9 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Pragya Jain | 1 | — |
-| 2 | [swcurran](https://github.com/swcurran) | 1 | Lab Maintainer, TAC members, Project Maintainer |
+| 2 | RMLearney | 1 | — |
+| 3 | [esune](https://github.com/esune) | 1 | Project Maintainer |
+| 4 | [swcurran](https://github.com/swcurran) | 1 | Lab Maintainer, TAC members, Project Maintainer |
 
 ### Last 90 Days
 
@@ -59,7 +61,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 94 |
+| 2026 | 96 |
 | 2025 | 531 |
 | 2024 | 244 |
 
@@ -67,7 +69,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 1 |
+| 2026-10 | 3 |
 | 2026-09 | 1 |
 | 2026-08 | 2 |
 | 2026-07 | 15 |
@@ -98,6 +100,8 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-07 | 1 |
+| 2026-10-06 | 1 |
 | 2026-10-05 | 1 |
 | 2026-09-15 | 1 |
 | 2026-08-30 | 1 |

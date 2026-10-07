@@ -23,14 +23,14 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | shubham17 | 2 | — |
-| 2 | Severus Snape | 1 | TAC member |
+| 2 | Severus Snape | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | shubham17 | 2 | — |
-| 2 | Severus Snape | 1 | TAC member |
+| 2 | Severus Snape | 1 | — |
 
 ### Last 365 Days
 
@@ -40,7 +40,7 @@
 | 2 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 7 | CBOM maintainer, Project Maintainer |
 | 3 | Scott Corzine | 6 | — |
 | 4 | Sachin Kumar | 4 | — |
-| 5 | Severus Snape | 3 | TAC member |
+| 5 | Severus Snape | 3 | — |
 
 ### All Time
 
@@ -50,7 +50,7 @@
 | 2 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 11 | CBOM maintainer, Project Maintainer |
 | 3 | Scott Corzine | 6 | — |
 | 4 | Sachin Kumar | 4 | — |
-| 5 | Severus Snape | 3 | TAC member |
+| 5 | Severus Snape | 3 | — |
 
 ## Yearly Traffic
 

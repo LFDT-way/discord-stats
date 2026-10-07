@@ -39,7 +39,7 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [RyJones](https://github.com/ryjones) | 22 | LF Staff |
-| 2 | [Nigel Jones](https://github.com/planetf1) | 16 | PQ Code Package Maintainer, Project Maintainer, TAC member |
+| 2 | [Nigel Jones](https://github.com/planetf1) | 16 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 7 | PQ Code Package Maintainer |
 | 4 | [hartm](https://github.com/hartm) | 7 | LF Staff |
 | 5 | Naomi Washington [LF] | 5 | — |

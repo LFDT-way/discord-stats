@@ -34,7 +34,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Nigel Jones](https://github.com/planetf1) | 2 | PQ Code Package Maintainer, Project Maintainer, TAC member |
+| 1 | [Nigel Jones](https://github.com/planetf1) | 2 | PQ Code Package Maintainer, Project Maintainer |
 
 ## Yearly Traffic
 

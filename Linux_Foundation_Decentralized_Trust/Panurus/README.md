@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1518924075123081246
-- **Total Messages in Category:** 682
-- **Last 30 Days:** 10
-- **Last 90 Days:** 89
-- **Last 365 Days:** 152
+- **Total Messages in Category:** 683
+- **Last 30 Days:** 11
+- **Last 90 Days:** 90
+- **Last 365 Days:** 153
 - **First Message:** 2022-03-02
-- **Last Message:** 2026-09-23
+- **Last Message:** 2026-10-06
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [panurus](panurus_945691840110272522.md) | 2026-09-23 | 10 | 89 | 152 | 682 |
+| [panurus](panurus_945691840110272522.md) | 2026-10-06 | 11 | 90 | 153 | 683 |
 
 ## Most Active Users
 
@@ -24,6 +24,7 @@
 | 1 | [Angelo De Caro](https://github.com/adecaro) | 5 | Lab Leader, Fabric Maintainer, Project Maintainer |
 | 2 | EliMbadi | 4 | — |
 | 3 | hstar | 1 | — |
+| 4 | ⛅CloudEllie | 1 | — |
 
 ### Last 90 Days
 
@@ -59,7 +60,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 149 |
+| 2026 | 150 |
 | 2025 | 13 |
 | 2024 | 67 |
 | 2023 | 84 |
@@ -69,6 +70,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-10 | 1 |
 | 2026-09 | 10 |
 | 2026-08 | 49 |
 | 2026-07 | 30 |
@@ -114,6 +116,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-06 | 1 |
 | 2026-09-23 | 1 |
 | 2026-09-22 | 1 |
 | 2026-09-20 | 1 |

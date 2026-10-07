@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 1,836
 - **Last 30 Days:** 12
 - **Last 90 Days:** 14
-- **Last 365 Days:** 120
+- **Last 365 Days:** 118
 - **First Message:** 2022-09-28
 - **Last Message:** 2026-09-24
 
@@ -13,9 +13,9 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [architecture-sig](architecture-sig_1024688298389688360.md) | 2026-08-10 | 0 | 2 | 45 | 898 |
+| [architecture-sig](architecture-sig_1024688298389688360.md) | 2026-08-10 | 0 | 2 | 44 | 898 |
 | [safe-wallet-sig](safe-wallet-sig_1154410858991067247.md) | 2025-05-12 | 0 | 0 | 0 | 393 |
-| [wallet-interoperability-sig](wallet-interoperability-sig_1291067233967149150.md) | 2026-06-01 | 0 | 0 | 39 | 204 |
+| [wallet-interoperability-sig](wallet-interoperability-sig_1291067233967149150.md) | 2026-06-01 | 0 | 0 | 38 | 204 |
 | [tac](tac_1080192375621685288.md) | 2026-09-24 | 12 | 12 | 26 | 203 |
 | [digital-wallet-and-agent-overviews-sig](digital-wallet-and-agent-overviews-sig_1154111877077532814.md) | 2025-11-17 | 0 | 0 | 10 | 138 |
 
@@ -44,8 +44,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | davidejalexander | 35 | SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 35 | Linux Foundation Staff |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 35 | Linux Foundation Staff |
+| 2 | davidejalexander | 34 | SIG member |
 | 3 | [Mirko](https://github.com/cre8) | 16 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 4 | Jim St.Clair | 5 | SIG member |
 | 5 | Samuel | 5 | SIG member |

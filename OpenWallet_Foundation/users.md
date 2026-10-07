@@ -17,16 +17,16 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 6 | [davidz25](https://github.com/davidz25) | 97 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 7 | [Timo Glastra](https://github.com/TimoGlastra) | 97 | credo maintainers, Project Maintainer |
 | 8 | espuni | 45 | — |
-| 9 | Timbl | 40 | — |
+| 9 | Timbl | 39 | — |
 | 10 | birte_lr | 39 | — |
 | 11 | PStLouis | 36 | Lab Maintainer, Project Maintainer |
-| 12 | davidejalexander | 36 | SIG member |
+| 12 | davidejalexander | 35 | SIG member |
 | 13 | thidalgo | 35 | — |
 | 14 | [swcurran](https://github.com/swcurran) | 30 | Lab Maintainer, TAC members, Project Maintainer |
 | 15 | [bryce-mcmath](https://github.com/bryce-mcmath) | 28 | bifold maintainers, Project Maintainer |
 | 16 | Thomas Tran | 28 | Lab Maintainer |
-| 17 | ai Igor | 24 | — |
-| 18 | RMLearney | 22 | — |
+| 17 | RMLearney | 24 | — |
+| 18 | ai Igor | 24 | — |
 | 19 | Graham | 20 | — |
 | 20 | [VishnuSanal](https://github.com/VishnuSanal) | 19 | multipaz maintainer, Project Maintainer |
 | 21 | kukgini | 18 | — |
@@ -43,12 +43,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 32 | sirawt | 10 | — |
 | 33 | [drummondreed](https://github.com/talltree) | 10 | — |
 | 34 | Sodium | 10 | — |
-| 35 | Abhi | 9 | — |
-| 36 | [Wade Barnes](https://github.com/WadeBarnes) | 9 | — |
-| 37 | Jim St.Clair | 8 | SIG member |
-| 38 | [esune](https://github.com/esune) | 8 | Project Maintainer |
-| 39 | Manthan | 8 | — |
-| 40 | Jason | 7 | bifold maintainers, Project Maintainer |
+| 35 | [esune](https://github.com/esune) | 9 | Project Maintainer |
+| 36 | Abhi | 9 | — |
+| 37 | [Wade Barnes](https://github.com/WadeBarnes) | 9 | — |
+| 38 | Jim St.Clair | 8 | SIG member |
+| 39 | Jason | 8 | bifold maintainers, Project Maintainer |
+| 40 | Manthan | 8 | — |
 | 41 | Thiago Romano | 7 | — |
 | 42 | Pragya Jain | 7 | — |
 | 43 | jarosss_ | 6 | — |
@@ -57,23 +57,23 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 46 | Neha | 5 | — |
 | 47 | senu | 5 | — |
 | 48 | gr0 | 5 | — |
-| 49 | ζατch bell | 5 | — |
-| 50 | Ginga | 5 | — |
-| 51 | aaron | 5 | — |
-| 52 | HashMapsData2Value | 5 | — |
-| 53 | geertdoornbos | 4 | — |
-| 54 | Bilal | 4 | — |
-| 55 | Harshitha | 4 | — |
-| 56 | [cjhowland](https://github.com/cjhowland) | 4 | — |
-| 57 | Damignos | 4 | — |
-| 58 | friendlyfire137 | 4 | Project Maintainer |
-| 59 | akishiseki | 3 | — |
-| 60 | Hassan | 3 | — |
-| 61 | [Gavinok](https://github.com/Gavinok) | 3 | — |
-| 62 | José Puma | 3 | — |
-| 63 | [Patrik Stas](https://github.com/Patrik-Stas) | 3 | — |
-| 64 | Iancu Fofiu | 3 | — |
-| 65 | mashukur.rahman | 3 | — |
+| 49 | Ginga | 5 | — |
+| 50 | aaron | 5 | — |
+| 51 | HashMapsData2Value | 5 | — |
+| 52 | geertdoornbos | 4 | — |
+| 53 | Bilal | 4 | — |
+| 54 | Harshitha | 4 | — |
+| 55 | ζατch bell | 4 | — |
+| 56 | Damignos | 4 | — |
+| 57 | friendlyfire137 | 4 | Project Maintainer |
+| 58 | akishiseki | 3 | — |
+| 59 | Hassan | 3 | — |
+| 60 | [Gavinok](https://github.com/Gavinok) | 3 | — |
+| 61 | José Puma | 3 | — |
+| 62 | [Patrik Stas](https://github.com/Patrik-Stas) | 3 | — |
+| 63 | Iancu Fofiu | 3 | — |
+| 64 | mashukur.rahman | 3 | — |
+| 65 | [cjhowland](https://github.com/cjhowland) | 3 | — |
 | 66 | [JSyro](https://github.com/Jsyro) | 3 | Lab Maintainer, Project Maintainer |
 | 67 | LukeBC | 3 | — |
 | 68 | sencond1800 | 3 | — |

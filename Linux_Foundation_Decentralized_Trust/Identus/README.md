@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 1,557
 - **Last 30 Days:** 10
 - **Last 90 Days:** 40
-- **Last 365 Days:** 261
+- **Last 365 Days:** 260
 - **First Message:** 2024-04-10
 - **Last Message:** 2026-10-01
 
@@ -18,7 +18,7 @@
 | [cloud-agent](cloud-agent_1252629630763012116.md) | 2025-12-03 | 0 | 0 | 12 | 213 |
 | [general](general_1252630735269925057.md) | 2026-10-01 | 3 | 22 | 96 | 193 |
 | [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 0 | 65 |
-| [identus-faq](identus-faq_1252622748073853083.md) | 2025-11-29 | 0 | 0 | 16 | 46 |
+| [identus-faq](identus-faq_1252622748073853083.md) | 2025-11-29 | 0 | 0 | 15 | 46 |
 | [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-09-30 | 4 | 6 | 11 | 27 |
 | [mediator](mediator_1252629675943919679.md) | 2026-07-07 | 0 | 0 | 3 | 22 |
 | [meeting-minutes](meeting-minutes_1252982706212438016.md) | 2025-06-18 | 0 | 0 | 0 | 12 |
@@ -53,7 +53,7 @@
 | 1 | [FabioPinheiro](https://github.com/FabioPinheiro) | 63 | Identus Maintainer, Project Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 32 | lfdt-ca, LFDT Staff |
 | 3 | Vaclav.Janecek | 22 | — |
-| 4 | Yurii Shynbuiev | 21 | Identus Maintainer, Project Maintainer |
+| 4 | Yurii Shynbuiev | 20 | Identus Maintainer, Project Maintainer |
 | 5 | Prince Yarjack | 14 | — |
 
 ### All Time

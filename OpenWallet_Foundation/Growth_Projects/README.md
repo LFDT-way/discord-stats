@@ -2,21 +2,21 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
-- **Total Messages in Category:** 3,822
-- **Last 30 Days:** 146
+- **Total Messages in Category:** 3,824
+- **Last 30 Days:** 148
 - **Last 90 Days:** 260
-- **Last 365 Days:** 1,251
+- **Last 365 Days:** 1,253
 - **First Message:** 2023-11-08
-- **Last Message:** 2026-10-06
+- **Last Message:** 2026-10-07
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credo](credo_1179453305856991263.md) | 2026-10-05 | 5 | 13 | 169 | 1,091 |
-| [bifold](bifold_1209891839071756419.md) | 2026-10-05 | 3 | 17 | 145 | 911 |
-| [multipaz](multipaz_1179828955717574707.md) | 2026-09-18 | 20 | 29 | 219 | 646 |
-| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-06 | 118 | 194 | 595 | 606 |
+| [credo](credo_1179453305856991263.md) | 2026-10-07 | 6 | 14 | 170 | 1,092 |
+| [bifold](bifold_1209891839071756419.md) | 2026-10-06 | 4 | 18 | 146 | 912 |
+| [multipaz](multipaz_1179828955717574707.md) | 2026-09-18 | 20 | 28 | 219 | 646 |
+| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-06 | 118 | 193 | 595 | 606 |
 | [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 1 | 88 | 268 |
 | [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 4 | 105 |
 | [owl](owl_1214965981470924911.md) | 2026-05-07 | 0 | 0 | 10 | 85 |
@@ -41,11 +41,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 85 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 84 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | birte_lr | 39 | — |
 | 3 | Cyril | 26 | — |
 | 4 | espuni | 24 | — |
-| 5 | [davidz25](https://github.com/davidz25) | 18 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 5 | [davidz25](https://github.com/davidz25) | 17 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 
 ### Last 365 Days
 
@@ -71,7 +71,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,027 |
+| 2026 | 1,029 |
 | 2025 | 1,412 |
 | 2024 | 1,309 |
 | 2023 | 74 |
@@ -80,7 +80,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 25 |
+| 2026-10 | 27 |
 | 2026-09 | 129 |
 | 2026-08 | 47 |
 | 2026-07 | 90 |
@@ -121,7 +121,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-06 | 2 |
+| 2026-10-07 | 1 |
+| 2026-10-06 | 3 |
 | 2026-10-05 | 14 |
 | 2026-10-02 | 7 |
 | 2026-10-01 | 2 |

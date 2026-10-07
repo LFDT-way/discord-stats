@@ -2,18 +2,18 @@
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1203395822390083676
-- **Total Messages in Category:** 281
-- **Last 30 Days:** 9
-- **Last 90 Days:** 26
-- **Last 365 Days:** 78
+- **Total Messages in Category:** 282
+- **Last 30 Days:** 10
+- **Last 90 Days:** 27
+- **Last 365 Days:** 79
 - **First Message:** 2024-02-03
-- **Last Message:** 2026-09-23
+- **Last Message:** 2026-10-06
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [oqs-general](oqs-general_1203395992003678238.md) | 2026-09-23 | 9 | 26 | 71 | 266 |
+| [oqs-general](oqs-general_1203395992003678238.md) | 2026-10-06 | 10 | 27 | 72 | 267 |
 | [oqs-call](oqs-call_1214590815695933470.md) | 2026-06-13 | 0 | 0 | 7 | 13 |
 | [oqs-github](oqs-github_1214605403527184394.md) | 2024-12-23 | 0 | 0 | 0 | 2 |
 
@@ -25,7 +25,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | θρπχι | 6 | — |
 | 2 | Meerkatdev | 2 | — |
-| 3 | brent | 1 | — |
+| 3 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 1 | — |
+| 4 | brent | 1 | — |
 
 ### Last 90 Days
 
@@ -53,7 +54,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Jelle Groenendijk | 32 | — |
 | 2 | [RyJones](https://github.com/ryjones) | 28 | LF Staff |
-| 3 | [Nigel Jones](https://github.com/planetf1) | 18 | PQ Code Package Maintainer, Project Maintainer, TAC member |
+| 3 | [Nigel Jones](https://github.com/planetf1) | 18 | PQ Code Package Maintainer, Project Maintainer |
 | 4 | Jason Goertzen | 16 | Project Maintainer, Open Quantum Safe maintainer |
 | 5 | chozorho | 14 | — |
 
@@ -61,7 +62,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 63 |
+| 2026 | 64 |
 | 2025 | 46 |
 | 2024 | 172 |
 
@@ -69,6 +70,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-10 | 1 |
 | 2026-09 | 9 |
 | 2026-08 | 15 |
 | 2026-07 | 2 |
@@ -102,6 +104,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-06 | 1 |
 | 2026-09-23 | 3 |
 | 2026-09-20 | 2 |
 | 2026-09-17 | 4 |

@@ -2,18 +2,18 @@
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1202723483289780234
-- **Total Messages in Category:** 505
-- **Last 30 Days:** 28
-- **Last 90 Days:** 46
-- **Last 365 Days:** 166
+- **Total Messages in Category:** 507
+- **Last 30 Days:** 29
+- **Last 90 Days:** 48
+- **Last 365 Days:** 168
 - **First Message:** 2024-02-01
-- **Last Message:** 2026-10-04
+- **Last Message:** 2026-10-07
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [general](general_1202723483289780236.md) | 2026-10-04 | 28 | 46 | 164 | 467 |
+| [general](general_1202723483289780236.md) | 2026-10-07 | 29 | 48 | 166 | 469 |
 | [linkedin](linkedin_1205645746192261220.md) | 2026-05-24 | 0 | 0 | 2 | 33 |
 | [links](links_1205170239436754974.md) | 2024-02-13 | 0 | 0 | 0 | 4 |
 | [events](events_1214569223012089878.md) | 2025-03-11 | 0 | 0 | 0 | 1 |
@@ -25,16 +25,16 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | θρπχι | 6 | — |
-| 2 | Severus Snape | 5 | TAC member |
+| 2 | Severus Snape | 5 | — |
 | 3 | Jarek Duda | 5 | — |
 | 4 | Umk.Jr | 3 | — |
-| 5 | Ahmed Mohammed Umar | 2 | — |
+| 5 | hatz | 2 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Severus Snape | 7 | TAC member |
+| 1 | Severus Snape | 7 | — |
 | 2 | θρπχι | 6 | — |
 | 3 | Jarek Duda | 5 | — |
 | 4 | Umk.Jr | 4 | — |
@@ -45,7 +45,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | chozorho | 24 | — |
-| 2 | Severus Snape | 15 | TAC member |
+| 2 | Severus Snape | 15 | — |
 | 3 | Dadofpips | 7 | — |
 | 4 | [RyJones](https://github.com/ryjones) | 7 | LF Staff |
 | 5 | Jarek Duda | 6 | — |
@@ -57,14 +57,14 @@
 | 1 | [RyJones](https://github.com/ryjones) | 41 | LF Staff |
 | 2 | chozorho | 29 | — |
 | 3 | Strike_Attack \| Ω | 26 | — |
-| 4 | [Nigel Jones](https://github.com/planetf1) | 22 | PQ Code Package Maintainer, Project Maintainer, TAC member |
+| 4 | [Nigel Jones](https://github.com/planetf1) | 22 | PQ Code Package Maintainer, Project Maintainer |
 | 5 | Dennis | 21 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 115 |
+| 2026 | 117 |
 | 2025 | 144 |
 | 2024 | 246 |
 
@@ -72,7 +72,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 5 |
+| 2026-10 | 7 |
 | 2026-09 | 24 |
 | 2026-08 | 7 |
 | 2026-07 | 10 |
@@ -109,6 +109,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-07 | 2 |
 | 2026-10-04 | 3 |
 | 2026-10-03 | 1 |
 | 2026-10-01 | 1 |

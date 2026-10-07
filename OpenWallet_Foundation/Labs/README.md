@@ -3,7 +3,7 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1108449719212048556
 - **Total Messages in Category:** 855
-- **Last 30 Days:** 19
+- **Last 30 Days:** 14
 - **Last 90 Days:** 39
 - **Last 365 Days:** 337
 - **First Message:** 2023-06-02
@@ -23,7 +23,7 @@
 | [wallet-framework-dotnet](wallet-framework-dotnet_1159552665940938842.md) | 2024-10-11 | 0 | 0 | 0 | 26 |
 | [pydentity-wallet](pydentity-wallet_1352199414956953630.md) | 2026-02-11 | 0 | 0 | 3 | 20 |
 | [axle](axle_1404761591710355506.md) | 2026-07-17 | 0 | 14 | 14 | 17 |
-| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-09-26 | 13 | 13 | 15 | 15 |
+| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-09-26 | 8 | 13 | 15 | 15 |
 | [farmworker-wallet-os](farmworker-wallet-os_1138937641123987466.md) | 2024-10-09 | 0 | 0 | 0 | 10 |
 | [sd-jwt-vc-dm](sd-jwt-vc-dm_1331889781570932849.md) | 2025-04-20 | 0 | 0 | 0 | 10 |
 | [dcql-ts](dcql-ts_1326615136865095731.md) | 2025-11-12 | 0 | 0 | 3 | 9 |
@@ -42,10 +42,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Manthan | 5 | — |
-| 2 | [Mirko](https://github.com/cre8) | 3 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | [firegod](https://github.com/wenjing) | 3 | — |
-| 4 | [Lukas.J.Han](https://github.com/lukasjhan) | 3 | Lab Maintainer |
-| 5 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
+| 2 | [firegod](https://github.com/wenjing) | 3 | — |
+| 3 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
+| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 2 | Linux Foundation Staff |
+| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
 
 ### Last 90 Days
 

@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 7,188
 - **Last 30 Days:** 1
 - **Last 90 Days:** 4
-- **Last 365 Days:** 111
+- **Last 365 Days:** 110
 - **First Message:** 2022-02-12
 - **Last Message:** 2026-09-24
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aries](aries_905206466410057728.md) | 2025-11-03 | 0 | 0 | 7 | 2,521 |
+| [aries](aries_905206466410057728.md) | 2025-11-03 | 0 | 0 | 6 | 2,521 |
 | [aifaq](aifaq_1182418263460819085.md) | 2025-09-14 | 0 | 0 | 0 | 588 |
 | [solang-solana](solang-solana_1133399591610482779.md) | 2025-04-30 | 0 | 0 | 0 | 439 |
 | [blockchain-explorer](blockchain-explorer_1039606111654920255.md) | 2025-07-12 | 0 | 0 | 0 | 338 |
