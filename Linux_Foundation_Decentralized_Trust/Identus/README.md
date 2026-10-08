@@ -4,8 +4,8 @@
 - **Category ID:** 1226983696306012181
 - **Total Messages in Category:** 1,557
 - **Last 30 Days:** 10
-- **Last 90 Days:** 40
-- **Last 365 Days:** 260
+- **Last 90 Days:** 39
+- **Last 365 Days:** 259
 - **First Message:** 2024-04-10
 - **Last Message:** 2026-10-01
 
@@ -13,10 +13,10 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-08-28 | 0 | 9 | 100 | 747 |
+| [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-08-28 | 0 | 8 | 100 | 747 |
 | [sdk-ts](sdk-ts_1252629747389829152.md) | 2026-06-16 | 0 | 0 | 20 | 219 |
 | [cloud-agent](cloud-agent_1252629630763012116.md) | 2025-12-03 | 0 | 0 | 12 | 213 |
-| [general](general_1252630735269925057.md) | 2026-10-01 | 3 | 22 | 96 | 193 |
+| [general](general_1252630735269925057.md) | 2026-10-01 | 3 | 22 | 95 | 193 |
 | [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 0 | 65 |
 | [identus-faq](identus-faq_1252622748073853083.md) | 2025-11-29 | 0 | 0 | 15 | 46 |
 | [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-09-30 | 4 | 6 | 11 | 27 |
@@ -41,7 +41,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Prince Yarjack | 14 | — |
-| 2 | [FabioPinheiro](https://github.com/FabioPinheiro) | 8 | Identus Maintainer, Project Maintainer |
+| 2 | [FabioPinheiro](https://github.com/FabioPinheiro) | 7 | Identus Maintainer, Project Maintainer |
 | 3 | jonbauer | 6 | Identus Maintainer, Project Maintainer |
 | 4 | pat_pat | 3 | Identus Maintainer, Project Maintainer |
 | 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
@@ -50,7 +50,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [FabioPinheiro](https://github.com/FabioPinheiro) | 63 | Identus Maintainer, Project Maintainer |
+| 1 | [FabioPinheiro](https://github.com/FabioPinheiro) | 62 | Identus Maintainer, Project Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 32 | lfdt-ca, LFDT Staff |
 | 3 | Vaclav.Janecek | 22 | — |
 | 4 | Yurii Shynbuiev | 20 | Identus Maintainer, Project Maintainer |

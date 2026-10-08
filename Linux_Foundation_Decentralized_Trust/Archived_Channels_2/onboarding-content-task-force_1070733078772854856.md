@@ -6,7 +6,7 @@
 - **Total Messages:** 94
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 10
+- **Last 365 Days:** 9
 - **First Message:** 2023-02-02
 - **Last Message:** 2025-11-07
 
@@ -26,7 +26,6 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | Admiral OOM | 6 | — |
 | 2 | Tevo | 3 | — |
-| 3 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 1 | Project Maintainer, ToIP |
 
 ### All Time
 

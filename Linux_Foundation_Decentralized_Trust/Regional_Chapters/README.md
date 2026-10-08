@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 942821993391202394
-- **Total Messages in Category:** 885
-- **Last 30 Days:** 0
-- **Last 90 Days:** 10
-- **Last 365 Days:** 68
+- **Total Messages in Category:** 886
+- **Last 30 Days:** 1
+- **Last 90 Days:** 11
+- **Last 365 Days:** 69
 - **First Message:** 2022-02-15
-- **Last Message:** 2026-08-19
+- **Last Message:** 2026-10-07
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [india-chapter](india-chapter_942822085917556777.md) | 2026-08-19 | 0 | 7 | 29 | 455 |
+| [india-chapter](india-chapter_942822085917556777.md) | 2026-10-07 | 1 | 8 | 30 | 456 |
 | [brasil-chapter](brasil-chapter_943207619508723723.md) | 2026-07-22 | 0 | 1 | 15 | 277 |
 | [european-chapter](european-chapter_1289237830081581158.md) | 2026-08-19 | 0 | 2 | 23 | 132 |
 | [japan-chapter-🇯🇵](japan-chapter-🇯🇵_956727657884692550.md) | 2026-06-17 | 0 | 0 | 1 | 21 |
@@ -22,14 +22,16 @@
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | amitthosare | 1 | Credebl maintainer, Project Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Ankita | 6 | Credebl maintainer, Project Maintainer |
-| 2 | amitthosare | 2 | Credebl maintainer, Project Maintainer |
+| 2 | amitthosare | 3 | Credebl maintainer, Project Maintainer |
 | 3 | Zapperombie | 1 | — |
 | 4 | Prince Yarjack | 1 | — |
 
@@ -38,7 +40,7 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Ankita | 16 | Credebl maintainer, Project Maintainer |
-| 2 | amitthosare | 12 | Credebl maintainer, Project Maintainer |
+| 2 | amitthosare | 13 | Credebl maintainer, Project Maintainer |
 | 3 | joselio.teider | 8 | — |
 | 4 | MH | 7 | Chapter Leader |
 | 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | lfdt-ca, LFDT Staff |
@@ -57,7 +59,7 @@ _No activity in this period._
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 48 |
+| 2026 | 49 |
 | 2025 | 185 |
 | 2024 | 138 |
 | 2023 | 271 |
@@ -67,6 +69,7 @@ _No activity in this period._
 
 | Month | Messages |
 | --- | --- |
+| 2026-10 | 1 |
 | 2026-08 | 5 |
 | 2026-07 | 5 |
 | 2026-06 | 6 |
@@ -127,6 +130,7 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-07 | 1 |
 | 2026-08-19 | 2 |
 | 2026-08-16 | 1 |
 | 2026-08-11 | 1 |

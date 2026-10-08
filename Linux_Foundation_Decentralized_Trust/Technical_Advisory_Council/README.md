@@ -4,8 +4,8 @@
 - **Category ID:** 941383941217222708
 - **Total Messages in Category:** 2,599
 - **Last 30 Days:** 51
-- **Last 90 Days:** 108
-- **Last 365 Days:** 378
+- **Last 90 Days:** 107
+- **Last 365 Days:** 370
 - **First Message:** 2022-02-10
 - **Last Message:** 2026-10-05
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-10-05 | 51 | 108 | 360 | 2,546 |
+| [tac](tac_941384040316018790.md) | 2026-10-05 | 51 | 107 | 352 | 2,546 |
 | [automated-pipelines](automated-pipelines_1156961689971998782.md) | 2026-04-15 | 0 | 0 | 18 | 52 |
 | [tac-announcements](tac-announcements_941399554731966564.md) | 2022-02-17 | 0 | 0 | 0 | 1 |
 
@@ -36,8 +36,8 @@
 | 1 | [Arun S M](https://github.com/arsulegai) | 51 | TAC member, Chapter Leader |
 | 2 | [davidwboswell](https://github.com/davidwboswell) | 11 | lfdt-ca, LFDT Staff |
 | 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 7 | lfdt-ca, LFDT Staff |
-| 4 | [vramaiitkgp](https://github.com/VRamakrishna) | 6 | TAC member, Cacti Maintainer |
-| 5 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
+| 4 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
+| 5 | [vramaiitkgp](https://github.com/VRamakrishna) | 5 | TAC member, Cacti Maintainer |
 
 ### Last 365 Days
 
@@ -46,7 +46,7 @@
 | 1 | [Arun S M](https://github.com/arsulegai) | 133 | TAC member, Chapter Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 38 | lfdt-ca, LFDT Staff |
 | 3 | [davidwboswell](https://github.com/davidwboswell) | 36 | lfdt-ca, LFDT Staff |
-| 4 | Tracy | 29 | — |
+| 4 | Tracy | 22 | — |
 | 5 | [vramaiitkgp](https://github.com/VRamakrishna) | 18 | TAC member, Cacti Maintainer |
 
 ### All Time

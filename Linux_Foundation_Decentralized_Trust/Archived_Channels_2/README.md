@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 7,188
 - **Last 30 Days:** 1
 - **Last 90 Days:** 4
-- **Last 365 Days:** 110
+- **Last 365 Days:** 108
 - **First Message:** 2022-02-12
 - **Last Message:** 2026-09-24
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aries](aries_905206466410057728.md) | 2025-11-03 | 0 | 0 | 6 | 2,521 |
+| [aries](aries_905206466410057728.md) | 2025-11-03 | 0 | 0 | 5 | 2,521 |
 | [aifaq](aifaq_1182418263460819085.md) | 2025-09-14 | 0 | 0 | 0 | 588 |
 | [solang-solana](solang-solana_1133399591610482779.md) | 2025-04-30 | 0 | 0 | 0 | 439 |
 | [blockchain-explorer](blockchain-explorer_1039606111654920255.md) | 2025-07-12 | 0 | 0 | 0 | 338 |
@@ -29,7 +29,7 @@
 | [business-partner-agent](business-partner-agent_948240184124788736.md) | 2025-11-07 | 0 | 0 | 1 | 114 |
 | [latinoamerica-chapter](latinoamerica-chapter_946127492622721095.md) | 2026-06-17 | 0 | 0 | 3 | 108 |
 | [harmonia](harmonia_1118266461736140841.md) | 2025-02-04 | 0 | 0 | 0 | 99 |
-| [onboarding-content-task-force](onboarding-content-task-force_1070733078772854856.md) | 2025-11-07 | 0 | 0 | 10 | 94 |
+| [onboarding-content-task-force](onboarding-content-task-force_1070733078772854856.md) | 2025-11-07 | 0 | 0 | 9 | 94 |
 | [learning-materials-development](learning-materials-development_943951538345377832.md) | 2024-06-10 | 0 | 0 | 0 | 86 |
 | [healthcare-sig](healthcare-sig_943951175634550874.md) | 2026-04-22 | 0 | 0 | 3 | 83 |
 | [private-data-objects](private-data-objects_1195066449685905548.md) | 2025-12-14 | 0 | 0 | 1 | 83 |

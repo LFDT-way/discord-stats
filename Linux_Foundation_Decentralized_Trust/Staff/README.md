@@ -2,10 +2,10 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205929920856137
-- **Total Messages in Category:** 1,579
-- **Last 30 Days:** 8
-- **Last 90 Days:** 20
-- **Last 365 Days:** 38
+- **Total Messages in Category:** 1,580
+- **Last 30 Days:** 9
+- **Last 90 Days:** 21
+- **Last 365 Days:** 39
 - **First Message:** 2021-11-03
 - **Last Message:** 2026-10-07
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [community-architects](community-architects_905205991073804308.md) | 2026-10-07 | 8 | 20 | 38 | 1,579 |
+| [community-architects](community-architects_905205991073804308.md) | 2026-10-07 | 9 | 21 | 39 | 1,580 |
 
 ## Most Active Users
 
@@ -22,8 +22,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 3 | lfdt-ca, LFDT Staff |
-| 2 | akupemulaygbaik | 3 | — |
-| 3 | vetefe | 2 | Lab Leader |
+| 2 | vetefe | 3 | Lab Leader |
+| 3 | akupemulaygbaik | 3 | — |
 
 ### Last 90 Days
 
@@ -31,8 +31,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 5 | lfdt-ca, LFDT Staff |
 | 2 | æœss | 3 | Lab Leader |
-| 3 | akupemulaygbaik | 3 | — |
-| 4 | vetefe | 2 | Lab Leader |
+| 3 | vetefe | 3 | Lab Leader |
+| 4 | akupemulaygbaik | 3 | — |
 | 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
@@ -42,8 +42,8 @@
 | 1 | [Ry Jones](https://github.com/ryjones) | 8 | lfdt-ca, LFDT Staff |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
 | 3 | æœss | 3 | Lab Leader |
-| 4 | akupemulaygbaik | 3 | — |
-| 5 | Prof.xoxo | 2 | — |
+| 4 | vetefe | 3 | Lab Leader |
+| 5 | akupemulaygbaik | 3 | — |
 
 ### All Time
 
@@ -59,7 +59,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 34 |
+| 2026 | 35 |
 | 2025 | 51 |
 | 2024 | 297 |
 | 2023 | 381 |
@@ -70,7 +70,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 2 |
+| 2026-10 | 3 |
 | 2026-09 | 6 |
 | 2026-08 | 8 |
 | 2026-07 | 4 |
@@ -131,7 +131,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-07 | 2 |
+| 2026-10-07 | 3 |
 | 2026-09-22 | 1 |
 | 2026-09-14 | 5 |
 | 2026-08-26 | 4 |
