@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
 - **Total Messages in Category:** 21,384
-- **Last 30 Days:** 53
+- **Last 30 Days:** 51
 - **Last 90 Days:** 218
-- **Last 365 Days:** 858
+- **Last 365 Days:** 854
 - **First Message:** 2021-11-05
 - **Last Message:** 2026-10-07
 
@@ -16,16 +16,16 @@
 | [solang-contributors](solang-contributors_905834552965103638.md) | 2026-07-03 | 0 | 0 | 40 | 10,568 |
 | [bevel-operator-fabric](bevel-operator-fabric_967823782712594442.md) | 2026-05-11 | 0 | 0 | 38 | 3,400 |
 | [bevel](bevel_941475087389950002.md) | 2026-09-01 | 0 | 1 | 11 | 2,563 |
-| [caliper](caliper_941417677778473031.md) | 2026-03-23 | 0 | 0 | 33 | 1,439 |
+| [caliper](caliper_941417677778473031.md) | 2026-03-23 | 0 | 0 | 32 | 1,439 |
 | [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-04-15 | 0 | 0 | 12 | 1,185 |
-| [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 8 | 859 |
+| [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 5 | 859 |
 | [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-02 | 12 | 21 | 169 | 347 |
 | [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-01 | 3 | 11 | 64 | 153 |
 | [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 8 | 148 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-09-21 | 8 | 8 | 11 | 108 |
 | [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-10-07 | 11 | 92 | 92 | 92 |
 | [fablo](fablo_1109190949394989127.md) | 2026-09-15 | 1 | 2 | 13 | 87 |
-| [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-09-22 | 5 | 30 | 81 | 81 |
+| [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-09-22 | 3 | 30 | 81 | 81 |
 | [general](general_988569914266775662.md) | 2026-07-30 | 0 | 3 | 11 | 72 |
 | [cello](cello_941475454378991646.md) | 2026-08-28 | 0 | 1 | 10 | 54 |
 | [cc-tools](cc-tools_1156653969133809715.md) | 2025-05-07 | 0 | 0 | 0 | 45 |
@@ -70,7 +70,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [RAWx18](https://github.com/RAWx18) | 96 | Lab Leader |
-| 2 | [Ry Jones](https://github.com/ryjones) | 82 | lfdt-ca, LFDT Staff |
+| 2 | [Ry Jones](https://github.com/ryjones) | 81 | lfdt-ca, LFDT Staff |
 | 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 74 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 4 | [DanielSzego](https://github.com/Daniel-Szego) | 55 | Meetup Organizer |
 | 5 | [Angelo De Caro](https://github.com/adecaro) | 49 | Lab Leader, Fabric Maintainer, Project Maintainer |

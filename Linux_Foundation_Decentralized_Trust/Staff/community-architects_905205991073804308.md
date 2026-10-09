@@ -5,7 +5,7 @@
 - **Channel ID:** 905205991073804308
 - **Total Messages:** 1,580
 - **Last 30 Days:** 9
-- **Last 90 Days:** 21
+- **Last 90 Days:** 20
 - **Last 365 Days:** 39
 - **First Message:** 2021-11-03
 - **Last Message:** 2026-10-07
@@ -28,7 +28,7 @@
 | 2 | æœss | 3 | Lab Leader |
 | 3 | vetefe | 3 | Lab Leader |
 | 4 | akupemulaygbaik | 3 | — |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
+| 5 | CrazyChopin | 2 | — |
 
 ### Last 365 Days
 

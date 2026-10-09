@@ -4,7 +4,7 @@
 - **Category ID:** 905205929920856137
 - **Total Messages in Category:** 1,580
 - **Last 30 Days:** 9
-- **Last 90 Days:** 21
+- **Last 90 Days:** 20
 - **Last 365 Days:** 39
 - **First Message:** 2021-11-03
 - **Last Message:** 2026-10-07
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [community-architects](community-architects_905205991073804308.md) | 2026-10-07 | 9 | 21 | 39 | 1,580 |
+| [community-architects](community-architects_905205991073804308.md) | 2026-10-07 | 9 | 20 | 39 | 1,580 |
 
 ## Most Active Users
 
@@ -33,7 +33,7 @@
 | 2 | æœss | 3 | Lab Leader |
 | 3 | vetefe | 3 | Lab Leader |
 | 4 | akupemulaygbaik | 3 | — |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
+| 5 | CrazyChopin | 2 | — |
 
 ### Last 365 Days
 

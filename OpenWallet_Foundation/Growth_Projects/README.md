@@ -2,12 +2,12 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
-- **Total Messages in Category:** 3,826
-- **Last 30 Days:** 150
-- **Last 90 Days:** 256
-- **Last 365 Days:** 1,245
+- **Total Messages in Category:** 3,839
+- **Last 30 Days:** 158
+- **Last 90 Days:** 269
+- **Last 365 Days:** 1,256
 - **First Message:** 2023-11-08
-- **Last Message:** 2026-10-07
+- **Last Message:** 2026-10-09
 
 ## Channels in Category
 
@@ -15,8 +15,8 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [credo](credo_1179453305856991263.md) | 2026-10-07 | 8 | 12 | 162 | 1,094 |
 | [bifold](bifold_1209891839071756419.md) | 2026-10-06 | 4 | 18 | 146 | 912 |
-| [multipaz](multipaz_1179828955717574707.md) | 2026-09-18 | 20 | 26 | 219 | 646 |
-| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-06 | 118 | 193 | 595 | 606 |
+| [multipaz](multipaz_1179828955717574707.md) | 2026-09-18 | 20 | 26 | 217 | 646 |
+| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-09 | 126 | 206 | 608 | 619 |
 | [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 1 | 88 | 268 |
 | [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 4 | 105 |
 | [owl](owl_1214965981470924911.md) | 2026-05-07 | 0 | 0 | 10 | 85 |
@@ -31,8 +31,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 41 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | birte_lr | 39 | — |
+| 1 | birte_lr | 50 | — |
+| 2 | [Mirko](https://github.com/cre8) | 40 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | Cyril | 21 | — |
 | 4 | [davidz25](https://github.com/davidz25) | 11 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 5 | espuni | 8 | — |
@@ -41,8 +41,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 84 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | birte_lr | 39 | — |
+| 1 | [Mirko](https://github.com/cre8) | 86 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | birte_lr | 50 | — |
 | 3 | Cyril | 26 | — |
 | 4 | espuni | 24 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 15 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
@@ -51,9 +51,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 326 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 328 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | Cyril | 116 | — |
-| 3 | [davidz25](https://github.com/davidz25) | 97 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 3 | [davidz25](https://github.com/davidz25) | 95 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 74 | Linux Foundation Staff |
 | 5 | [Ry Jones, OWF](https://github.com/ryjones) | 61 | Linux Foundation Staff |
 
@@ -61,7 +61,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 381 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 383 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [davidz25](https://github.com/davidz25) | 298 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 204 | Linux Foundation Staff |
 | 4 | [Timo Glastra](https://github.com/TimoGlastra) | 176 | credo maintainers, Project Maintainer |
@@ -71,7 +71,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,031 |
+| 2026 | 1,044 |
 | 2025 | 1,412 |
 | 2024 | 1,309 |
 | 2023 | 74 |
@@ -80,7 +80,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 29 |
+| 2026-10 | 42 |
 | 2026-09 | 129 |
 | 2026-08 | 47 |
 | 2026-07 | 90 |
@@ -121,6 +121,8 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-09 | 3 |
+| 2026-10-08 | 10 |
 | 2026-10-07 | 3 |
 | 2026-10-06 | 3 |
 | 2026-10-05 | 14 |

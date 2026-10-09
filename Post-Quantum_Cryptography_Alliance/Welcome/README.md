@@ -3,7 +3,7 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1202723483289780234
 - **Total Messages in Category:** 507
-- **Last 30 Days:** 29
+- **Last 30 Days:** 28
 - **Last 90 Days:** 48
 - **Last 365 Days:** 159
 - **First Message:** 2024-02-01
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [general](general_1202723483289780236.md) | 2026-10-07 | 29 | 48 | 157 | 469 |
+| [general](general_1202723483289780236.md) | 2026-10-07 | 28 | 48 | 157 | 469 |
 | [linkedin](linkedin_1205645746192261220.md) | 2026-05-24 | 0 | 0 | 2 | 33 |
 | [links](links_1205170239436754974.md) | 2024-02-13 | 0 | 0 | 0 | 4 |
 | [events](events_1214569223012089878.md) | 2025-03-11 | 0 | 0 | 0 | 1 |
@@ -28,7 +28,7 @@
 | 2 | Severus Snape | 5 | — |
 | 3 | Jarek Duda | 5 | — |
 | 4 | Umk.Jr | 3 | — |
-| 5 | hatz | 2 | — |
+| 5 | Tim | 2 | — |
 
 ### Last 90 Days
 

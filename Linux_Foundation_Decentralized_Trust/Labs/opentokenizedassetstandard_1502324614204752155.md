@@ -4,7 +4,7 @@
 - **Category:** Labs
 - **Channel ID:** 1502324614204752155
 - **Total Messages:** 81
-- **Last 30 Days:** 5
+- **Last 30 Days:** 3
 - **Last 90 Days:** 30
 - **Last 365 Days:** 81
 - **First Message:** 2026-05-08
@@ -16,8 +16,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Mukul | 3 | — |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
+| 2 | Mukul | 1 | — |
 
 ### Last 90 Days
 

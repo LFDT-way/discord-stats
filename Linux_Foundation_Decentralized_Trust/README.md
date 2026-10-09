@@ -1,37 +1,37 @@
 # Guild Report: Linux Foundation Decentralized Trust
 
 - **Guild ID:** 905194001349627914
-- **Total Messages:** 167,993
-- **Last 30 Days:** 837
-- **Last 90 Days:** 2,598
-- **Last 365 Days:** 11,812 — [active users](users.md)
+- **Total Messages:** 168,023
+- **Last 30 Days:** 842
+- **Last 90 Days:** 2,608
+- **Last 365 Days:** 11,787 — [active users](users.md)
 - **First Message:** 2021-11-02
-- **Last Message:** 2026-10-08
+- **Last Message:** 2026-10-09
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Besu](Besu/README.md) | 47,776 | 142 | 575 | 1,881 | 2021-11-09 | 2026-10-07 |
-| [Firefly](Firefly/README.md) | 26,651 | 18 | 72 | 679 | 2022-01-05 | 2026-09-15 |
-| [Labs](Labs/README.md) | 21,384 | 53 | 218 | 858 | 2021-11-05 | 2026-10-07 |
-| [Fabric](Fabric/README.md) | 20,049 | 50 | 122 | 824 | 2021-11-07 | 2026-10-07 |
-| [Welcome](Welcome/README.md) | 14,139 | 34 | 72 | 411 | 2022-03-03 | 2026-10-07 |
+| [Besu](Besu/README.md) | 47,778 | 140 | 575 | 1,870 | 2021-11-09 | 2026-10-09 |
+| [Firefly](Firefly/README.md) | 26,651 | 18 | 71 | 672 | 2022-01-05 | 2026-09-15 |
+| [Labs](Labs/README.md) | 21,384 | 51 | 218 | 854 | 2021-11-05 | 2026-10-07 |
+| [Fabric](Fabric/README.md) | 20,054 | 55 | 127 | 828 | 2021-11-07 | 2026-10-08 |
+| [Welcome](Welcome/README.md) | 14,139 | 34 | 71 | 405 | 2022-03-03 | 2026-10-07 |
 | [Archived Channels 2](Archived_Channels_2/README.md) | 7,188 | 1 | 4 | 108 | 2022-02-12 | 2026-09-24 |
 | [Indy](Indy/README.md) | 6,278 | 0 | 0 | 55 | 2022-01-20 | 2026-05-26 |
-| [ToIP](ToIP/README.md) | 3,297 | 256 | 653 | 2,846 | 2025-04-03 | 2026-10-08 |
-| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 2,599 | 51 | 107 | 370 | 2022-02-10 | 2026-10-05 |
+| [ToIP](ToIP/README.md) | 3,309 | 261 | 659 | 2,840 | 2025-04-03 | 2026-10-09 |
+| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 2,605 | 52 | 113 | 374 | 2022-02-10 | 2026-10-08 |
 | [Newbies](Newbies/README.md) | 2,382 | 23 | 25 | 151 | 2023-09-10 | 2026-09-16 |
 | [Cacti](Cacti/README.md) | 2,355 | 12 | 21 | 364 | 2021-11-11 | 2026-10-02 |
-| [Hiero](Hiero/README.md) | 2,108 | 65 | 252 | 1,436 | 2024-09-11 | 2026-10-07 |
+| [Hiero](Hiero/README.md) | 2,110 | 63 | 247 | 1,437 | 2024-09-11 | 2026-10-09 |
 | [Iroha](Iroha/README.md) | 1,684 | 0 | 0 | 3 | 2022-02-10 | 2026-04-12 |
-| [Paladin](Paladin/README.md) | 1,677 | 32 | 147 | 588 | 2024-07-08 | 2026-10-07 |
-| [Staff](Staff/README.md) | 1,580 | 9 | 21 | 39 | 2021-11-03 | 2026-10-07 |
+| [Paladin](Paladin/README.md) | 1,677 | 32 | 147 | 587 | 2024-07-08 | 2026-10-07 |
+| [Staff](Staff/README.md) | 1,580 | 9 | 20 | 39 | 2021-11-03 | 2026-10-07 |
 | [Identus](Identus/README.md) | 1,557 | 10 | 39 | 259 | 2024-04-10 | 2026-10-01 |
-| [Web3j](Web3j/README.md) | 1,406 | 37 | 72 | 191 | 2024-01-11 | 2026-10-06 |
-| [Regional Chapters](Regional_Chapters/README.md) | 886 | 1 | 11 | 69 | 2022-02-15 | 2026-10-07 |
-| [Panurus](Panurus/README.md) | 683 | 6 | 86 | 153 | 2022-03-02 | 2026-10-06 |
+| [Web3j](Web3j/README.md) | 1,409 | 38 | 75 | 194 | 2024-01-11 | 2026-10-08 |
+| [Regional Chapters](Regional_Chapters/README.md) | 886 | 1 | 11 | 67 | 2022-02-15 | 2026-10-07 |
+| [Panurus](Panurus/README.md) | 683 | 6 | 84 | 153 | 2022-03-02 | 2026-10-06 |
 | [Lockness](Lockness/README.md) | 649 | 2 | 22 | 207 | 2024-06-27 | 2026-10-08 |
 | [Anoncreds](Anoncreds/README.md) | 538 | 0 | 1 | 14 | 2022-10-26 | 2026-08-24 |
 | [Credebl](Credebl/README.md) | 417 | 3 | 17 | 171 | 2025-01-23 | 2026-10-07 |
@@ -39,7 +39,7 @@
 | [Archived Channels](Archived_Channels/README.md) | 124 | 0 | 0 | 1 | 2022-02-23 | 2025-11-02 |
 | [propose-for-deletion](propose-for-deletion/README.md) | 55 | 0 | 0 | 14 | 2022-07-28 | 2026-02-03 |
 | [Lineth](Lineth/README.md) | 41 | 4 | 23 | 41 | 2026-05-11 | 2026-09-30 |
-| [Minokawa](Minokawa/README.md) | 32 | 15 | 22 | 32 | 2025-11-05 | 2026-10-07 |
+| [Minokawa](Minokawa/README.md) | 32 | 14 | 22 | 32 | 2025-11-05 | 2026-10-07 |
 | [Smoot](Smoot/README.md) | 19 | 0 | 2 | 5 | 2025-05-08 | 2026-08-19 |
 | [Uncategorized](Uncategorized/README.md) | 15 | 0 | 0 | 7 | 2021-11-02 | 2024-11-22 |
 | [SIGs and WGs](SIGs_and_WGs/README.md) | 13 | 13 | 13 | 13 | 2026-09-25 | 2026-10-07 |
@@ -54,38 +54,38 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 78 | Lab Leader |
-| 2 | [Ry Jones](https://github.com/ryjones) | 65 | lfdt-ca, LFDT Staff |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 80 | Lab Leader |
+| 2 | [Ry Jones](https://github.com/ryjones) | 66 | lfdt-ca, LFDT Staff |
 | 3 | [Matthew Whitehead](https://github.com/matthew1001) | 46 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 4 | microbiocarly | 35 | Project Maintainer, ToIP |
-| 5 | [firegod](https://github.com/wenjing) | 34 | Project Maintainer, ToIP |
+| 4 | [drummondreed](https://github.com/talltree) | 35 | Project Maintainer, ToIP |
+| 5 | [firegod](https://github.com/wenjing) | 35 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 212 | Lab Leader |
-| 2 | [Matthew Whitehead](https://github.com/matthew1001) | 182 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 213 | Lab Leader |
+| 2 | [Matthew Whitehead](https://github.com/matthew1001) | 183 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 3 | [Ry Jones](https://github.com/ryjones) | 168 | lfdt-ca, LFDT Staff |
-| 4 | [drummondreed](https://github.com/talltree) | 93 | Project Maintainer, ToIP |
-| 5 | [firegod](https://github.com/wenjing) | 79 | Project Maintainer, ToIP |
+| 4 | [drummondreed](https://github.com/talltree) | 95 | Project Maintainer, ToIP |
+| 5 | [firegod](https://github.com/wenjing) | 80 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 814 | lfdt-ca, LFDT Staff |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 624 | Lab Leader |
-| 3 | [Matthew Whitehead](https://github.com/matthew1001) | 469 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 4 | [drummondreed](https://github.com/talltree) | 437 | Project Maintainer, ToIP |
-| 5 | [explorer3](https://github.com/exploreriii) | 436 | Project Maintainer, Hiero maintainer |
+| 1 | [Ry Jones](https://github.com/ryjones) | 811 | lfdt-ca, LFDT Staff |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 629 | Lab Leader |
+| 3 | [Matthew Whitehead](https://github.com/matthew1001) | 470 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 4 | [drummondreed](https://github.com/talltree) | 436 | Project Maintainer, ToIP |
+| 5 | [explorer3](https://github.com/exploreriii) | 435 | Project Maintainer, Hiero maintainer |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Nicko Guyer](https://github.com/nguyer) | 7,531 | Project Maintainer, Firefly Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 4,260 | lfdt-ca, LFDT Staff |
+| 2 | [Ry Jones](https://github.com/ryjones) | 4,261 | lfdt-ca, LFDT Staff |
 | 3 | Deleted User | 4,094 | — |
 | 4 | [Simon Dudley](https://github.com/siladu) | 3,796 | Project Maintainer, Besu Maintainer |
 | 5 | [bestbeforetoday](https://github.com/bestbeforetoday) | 3,679 | Project Maintainer, Fabric Maintainer |
@@ -94,7 +94,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 8,978 |
+| 2026 | 9,008 |
 | 2025 | 17,579 |
 | 2024 | 28,268 |
 | 2023 | 51,211 |
@@ -105,7 +105,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 263 |
+| 2026-10 | 293 |
 | 2026-09 | 768 |
 | 2026-08 | 816 |
 | 2026-07 | 1,154 |
@@ -169,7 +169,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-08 | 2 |
+| 2026-10-09 | 4 |
+| 2026-10-08 | 28 |
 | 2026-10-07 | 51 |
 | 2026-10-06 | 40 |
 | 2026-10-05 | 68 |

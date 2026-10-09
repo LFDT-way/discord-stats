@@ -3,18 +3,20 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category:** PQ Code Package
 - **Channel ID:** 1339067141269229652
-- **Total Messages:** 2,194
-- **Last 30 Days:** 0
-- **Last 90 Days:** 77
-- **Last 365 Days:** 727
+- **Total Messages:** 2,195
+- **Last 30 Days:** 1
+- **Last 90 Days:** 76
+- **Last 365 Days:** 722
 - **First Message:** 2025-02-12
-- **Last Message:** 2026-08-24
+- **Last Message:** 2026-10-09
 
 ## Most Active Users
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | Brendan | 1 | — |
 
 ### Last 90 Days
 
@@ -30,10 +32,10 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 297 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 293 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | Rod | 258 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 57 | PQ Code Package Maintainer |
-| 4 | Jake | 44 | PQ Code Package Maintainer, Project Maintainer |
+| 4 | Jake | 42 | PQ Code Package Maintainer, Project Maintainer |
 | 5 | [RyJones](https://github.com/ryjones) | 40 | LF Staff |
 
 ### All Time
@@ -44,19 +46,20 @@ _No activity in this period._
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 849 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Jake | 168 | PQ Code Package Maintainer, Project Maintainer |
 | 4 | Hanno | 167 | PQ Code Package Maintainer |
-| 5 | Brendan | 55 | — |
+| 5 | Brendan | 56 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 286 |
+| 2026 | 287 |
 | 2025 | 1,908 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-10 | 1 |
 | 2026-08 | 52 |
 | 2026-07 | 31 |
 | 2026-06 | 42 |
@@ -81,6 +84,7 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-09 | 1 |
 | 2026-08-24 | 6 |
 | 2026-08-23 | 1 |
 | 2026-08-21 | 7 |

@@ -4,8 +4,8 @@
 - **Category ID:** 948958931512873030
 - **Total Messages in Category:** 14,139
 - **Last 30 Days:** 34
-- **Last 90 Days:** 72
-- **Last 365 Days:** 411
+- **Last 90 Days:** 71
+- **Last 365 Days:** 405
 - **First Message:** 2022-03-03
 - **Last Message:** 2026-10-07
 
@@ -14,11 +14,11 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [welcome](welcome_948959099842883654.md) | 2026-08-12 | 0 | 2 | 43 | 10,733 |
-| [general](general_1021077182501621830.md) | 2026-10-06 | 25 | 36 | 218 | 1,902 |
+| [general](general_1021077182501621830.md) | 2026-10-06 | 25 | 36 | 216 | 1,902 |
 | [job-postings](job-postings_1050607623566802984.md) | 2026-10-07 | 3 | 21 | 77 | 450 |
 | [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-10-07 | 1 | 1 | 11 | 418 |
-| [connections](connections_948959243095130142.md) | 2026-10-07 | 5 | 7 | 21 | 373 |
-| [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-07-30 | 0 | 5 | 31 | 191 |
+| [connections](connections_948959243095130142.md) | 2026-10-07 | 5 | 6 | 18 | 373 |
+| [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-07-30 | 0 | 5 | 30 | 191 |
 | [announcements](announcements_953133039372877844.md) | 2026-06-30 | 0 | 0 | 8 | 39 |
 | [git-help](git-help_1098621099681513492.md) | 2026-07-06 | 0 | 0 | 2 | 33 |
 
@@ -49,7 +49,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 38 | lfdt-ca, LFDT Staff |
-| 2 | [Ry Jones](https://github.com/ryjones) | 27 | lfdt-ca, LFDT Staff |
+| 2 | [Ry Jones](https://github.com/ryjones) | 26 | lfdt-ca, LFDT Staff |
 | 3 | varun | 15 | — |
 | 4 | Zion'sEarthlyPrince | 13 | — |
 | 5 | Tsafaras | 12 | — |

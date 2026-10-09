@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 1,677
 - **Last 30 Days:** 32
 - **Last 90 Days:** 147
-- **Last 365 Days:** 588
+- **Last 365 Days:** 587
 - **First Message:** 2024-07-08
 - **Last Message:** 2026-10-07
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [paladin](paladin_1303371167020879903.md) | 2026-09-28 | 4 | 11 | 114 | 633 |
+| [paladin](paladin_1303371167020879903.md) | 2026-09-28 | 4 | 11 | 113 | 633 |
 | [paladin-maintainers](paladin-maintainers_1332404027052392488.md) | 2026-10-06 | 3 | 19 | 240 | 506 |
 | [zeto](zeto_1259800071185367040.md) | 2026-09-04 | 0 | 14 | 22 | 326 |
 | [paladin-java-sdk](paladin-java-sdk_1513571876708810834.md) | 2026-10-07 | 25 | 102 | 149 | 149 |
