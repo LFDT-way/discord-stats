@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 19
 - **Last 30 Days:** 0
 - **Last 90 Days:** 2
-- **Last 365 Days:** 5
+- **Last 365 Days:** 4
 - **First Message:** 2025-05-08
 - **Last Message:** 2026-08-19
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [smoot-general](smoot-general_1369405582422835272.md) | 2026-08-19 | 0 | 2 | 5 | 19 |
+| [smoot-general](smoot-general_1369405582422835272.md) | 2026-08-19 | 0 | 2 | 4 | 19 |
 
 ## Most Active Users
 
@@ -32,8 +32,7 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 3 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
-| 3 | [Arun S M](https://github.com/arsulegai) | 1 | TAC member, Chapter Leader |
+| 2 | [Arun S M](https://github.com/arsulegai) | 1 | TAC member, Chapter Leader |
 
 ### All Time
 

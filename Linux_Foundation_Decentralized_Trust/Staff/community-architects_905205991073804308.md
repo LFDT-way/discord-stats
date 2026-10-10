@@ -6,7 +6,7 @@
 - **Total Messages:** 1,580
 - **Last 30 Days:** 9
 - **Last 90 Days:** 20
-- **Last 365 Days:** 39
+- **Last 365 Days:** 35
 - **First Message:** 2021-11-03
 - **Last Message:** 2026-10-07
 
@@ -35,10 +35,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 8 | lfdt-ca, LFDT Staff |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
-| 3 | æœss | 3 | Lab Leader |
-| 4 | vetefe | 3 | Lab Leader |
-| 5 | akupemulaygbaik | 3 | — |
+| 2 | æœss | 3 | Lab Leader |
+| 3 | vetefe | 3 | Lab Leader |
+| 4 | akupemulaygbaik | 3 | — |
+| 5 | Prof.xoxo | 2 | — |
 
 ### All Time
 

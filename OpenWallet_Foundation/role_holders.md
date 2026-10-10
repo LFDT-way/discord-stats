@@ -9,7 +9,7 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 - **Role holders:** 48
 - **Inactive (no msgs in 365d):** 21
 - **Never posted (0 all-time):** 0
-- **Report generated:** 2026-10-09
+- **Report generated:** 2026-10-10
 
 | User | Roles | Last Msg | 30d | 90d | 365d | All-Time | All Guilds 365d |
 | :--- | :--- | :--- | ---: | ---: | ---: | ---: | ---: |
@@ -42,23 +42,23 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | [alexander.shenshin](https://github.com/AlexanderShenshin) | Lab Maintainer | 2026-07-15 | 0 | 1 | 3 | 12 | 28 |
 | Ever | multipaz maintainer | 2026-09-18 | 2 | 3 | 3 | 3 | 3 |
 | Jason | bifold maintainers, Project Maintainer | 2026-10-06 | 2 | 2 | 8 | 134 | 8 |
-| Jim St.Clair | SIG member | 2026-03-13 | 0 | 0 | 9 | 9 | 24 |
-| [esune](https://github.com/esune) | Project Maintainer | 2026-10-06 | 1 | 1 | 9 | 20 | 9 |
+| Jim St.Clair | SIG member | 2026-03-13 | 0 | 0 | 9 | 9 | 21 |
 | [gmulhearn](https://github.com/gmulhearn) | vcx maintainer, Project Maintainer | 2026-06-26 | 0 | 0 | 11 | 32 | 11 |
 | [GenAris](https://github.com/genaris) | credo maintainers, Project Maintainer | 2026-06-04 | 0 | 0 | 13 | 101 | 13 |
 | [jamshale](https://github.com/jamshale) | Project Maintainer | 2026-07-21 | 0 | 6 | 13 | 115 | 13 |
 | diegoz (OpenMobileHub, Multipaz) | Lab Maintainer, multipaz maintainer | 2026-06-30 | 0 | 0 | 14 | 58 | 14 |
+| [esune](https://github.com/esune) | Project Maintainer | 2026-10-09 | 6 | 6 | 14 | 25 | 14 |
 | Samuel | SIG member | 2026-07-27 | 0 | 1 | 15 | 37 | 15 |
-| [VishnuSanal](https://github.com/VishnuSanal) | multipaz maintainer, Project Maintainer | 2026-06-05 | 0 | 0 | 19 | 33 | 19 |
+| [VishnuSanal](https://github.com/VishnuSanal) | multipaz maintainer, Project Maintainer | 2026-10-09 | 1 | 1 | 20 | 34 | 20 |
 | Thomas Tran | Lab Maintainer | 2026-04-30 | 0 | 0 | 28 | 52 | 28 |
 | [swcurran](https://github.com/swcurran) | Lab Maintainer, TAC members, Project Maintainer | 2026-10-07 | 4 | 7 | 31 | 181 | 60 |
 | davidejalexander | SIG member | 2026-08-10 | 0 | 2 | 35 | 98 | 35 |
 | PStLouis | Lab Maintainer, Project Maintainer | 2026-08-06 | 0 | 4 | 36 | 213 | 36 |
-| [bryce-mcmath](https://github.com/bryce-mcmath) | bifold maintainers, Project Maintainer | 2026-09-10 | 1 | 1 | 47 | 185 | 47 |
-| [davidz25](https://github.com/davidz25) | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer | 2026-09-18 | 11 | 15 | 95 | 302 | 95 |
+| [bryce-mcmath](https://github.com/bryce-mcmath) | bifold maintainers, Project Maintainer | 2026-09-10 | 1 | 1 | 45 | 185 | 45 |
+| [davidz25](https://github.com/davidz25) | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer | 2026-10-09 | 12 | 16 | 96 | 303 | 96 |
 | [Lukas.J.Han](https://github.com/lukasjhan) | Lab Maintainer | 2026-09-11 | 3 | 14 | 115 | 305 | 115 |
 | [Timo Glastra](https://github.com/TimoGlastra) | credo maintainers, Project Maintainer | 2026-09-17 | 4 | 4 | 117 | 288 | 117 |
 | [Ry Jones, OWF](https://github.com/ryjones) | Linux Foundation Staff | 2026-10-02 | 6 | 11 | 157 | 420 | 1,078 |
-| [Sean Bohan, OWF](https://github.com/SeanBohan) | Linux Foundation Staff | 2026-09-24 | 4 | 8 | 159 | 500 | 382 |
-| [Mirko](https://github.com/cre8) | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member | 2026-10-09 | 47 | 95 | 393 | 638 | 394 |
+| [Sean Bohan, OWF](https://github.com/SeanBohan) | Linux Foundation Staff | 2026-09-24 | 4 | 8 | 158 | 500 | 376 |
+| [Mirko](https://github.com/cre8) | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member | 2026-10-10 | 46 | 96 | 394 | 639 | 395 |
 

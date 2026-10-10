@@ -3,34 +3,38 @@
 - **Guild:** OpenWallet Foundation
 - **Category:** Growth Projects
 - **Channel ID:** 1286300013365952583
-- **Total Messages:** 34
-- **Last 30 Days:** 0
-- **Last 90 Days:** 3
-- **Last 365 Days:** 7
+- **Total Messages:** 37
+- **Last 30 Days:** 3
+- **Last 90 Days:** 6
+- **Last 365 Days:** 10
 - **First Message:** 2024-09-24
-- **Last Message:** 2026-07-23
+- **Last Message:** 2026-10-09
 
 ## Most Active Users
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | [esune](https://github.com/esune) | 3 | Project Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [jamshale](https://github.com/jamshale) | 2 | Project Maintainer |
-| 2 | José Puma | 1 | — |
+| 1 | [esune](https://github.com/esune) | 3 | Project Maintainer |
+| 2 | [jamshale](https://github.com/jamshale) | 2 | Project Maintainer |
+| 3 | José Puma | 1 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [jamshale](https://github.com/jamshale) | 2 | Project Maintainer |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
-| 3 | José Puma | 2 | — |
-| 4 | Muhammad Ahmer Khan | 1 | — |
+| 1 | [esune](https://github.com/esune) | 3 | Project Maintainer |
+| 2 | [jamshale](https://github.com/jamshale) | 2 | Project Maintainer |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
+| 4 | José Puma | 2 | — |
+| 5 | Muhammad Ahmer Khan | 1 | — |
 
 ### All Time
 
@@ -40,13 +44,13 @@ _No activity in this period._
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 6 | Linux Foundation Staff |
 | 3 | Akshay Kurhekar | 3 | — |
 | 4 | albertoleon_7794 | 3 | — |
-| 5 | [Kim Ebert](https://github.com/KimEbert42) | 2 | — |
+| 5 | [esune](https://github.com/esune) | 3 | Project Maintainer |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 7 |
+| 2026 | 10 |
 | 2025 | 21 |
 | 2024 | 6 |
 
@@ -54,6 +58,7 @@ _No activity in this period._
 
 | Month | Messages |
 | --- | --- |
+| 2026-10 | 3 |
 | 2026-07 | 3 |
 | 2026-06 | 1 |
 | 2026-05 | 1 |
@@ -72,6 +77,7 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-09 | 3 |
 | 2026-07-23 | 1 |
 | 2026-07-20 | 2 |
 | 2026-06-23 | 1 |

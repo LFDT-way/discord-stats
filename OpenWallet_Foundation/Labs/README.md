@@ -2,12 +2,12 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1108449719212048556
-- **Total Messages in Category:** 855
-- **Last 30 Days:** 14
-- **Last 90 Days:** 38
-- **Last 365 Days:** 337
+- **Total Messages in Category:** 856
+- **Last 30 Days:** 15
+- **Last 90 Days:** 39
+- **Last 365 Days:** 338
 - **First Message:** 2023-06-02
-- **Last Message:** 2026-09-26
+- **Last Message:** 2026-10-10
 
 ## Channels in Category
 
@@ -23,7 +23,7 @@
 | [wallet-framework-dotnet](wallet-framework-dotnet_1159552665940938842.md) | 2024-10-11 | 0 | 0 | 0 | 26 |
 | [pydentity-wallet](pydentity-wallet_1352199414956953630.md) | 2026-02-11 | 0 | 0 | 3 | 20 |
 | [axle](axle_1404761591710355506.md) | 2026-07-17 | 0 | 14 | 14 | 17 |
-| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-09-26 | 8 | 13 | 15 | 15 |
+| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-10-10 | 9 | 14 | 16 | 16 |
 | [farmworker-wallet-os](farmworker-wallet-os_1138937641123987466.md) | 2024-10-09 | 0 | 0 | 0 | 10 |
 | [sd-jwt-vc-dm](sd-jwt-vc-dm_1331889781570932849.md) | 2025-04-20 | 0 | 0 | 0 | 10 |
 | [dcql-ts](dcql-ts_1326615136865095731.md) | 2025-11-12 | 0 | 0 | 3 | 9 |
@@ -43,9 +43,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Manthan | 5 | — |
 | 2 | [firegod](https://github.com/wenjing) | 3 | — |
-| 3 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
-| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 2 | Linux Foundation Staff |
-| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
+| 3 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 4 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
+| 5 | [Ry Jones, OWF](https://github.com/ryjones) | 2 | Linux Foundation Staff |
 
 ### Last 90 Days
 
@@ -54,8 +54,8 @@
 | 1 | [Lukas.J.Han](https://github.com/lukasjhan) | 11 | Lab Maintainer |
 | 2 | [Ry Jones, OWF](https://github.com/ryjones) | 6 | Linux Foundation Staff |
 | 3 | Manthan | 5 | — |
-| 4 | kukgini | 3 | — |
-| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 3 | Linux Foundation Staff |
+| 4 | [Mirko](https://github.com/cre8) | 4 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 5 | kukgini | 3 | — |
 
 ### Last 365 Days
 
@@ -64,7 +64,7 @@
 | 1 | [Ry Jones, OWF](https://github.com/ryjones) | 76 | Linux Foundation Staff |
 | 2 | [Lukas.J.Han](https://github.com/lukasjhan) | 72 | Lab Maintainer |
 | 3 | [Timo Glastra](https://github.com/TimoGlastra) | 58 | credo maintainers, Project Maintainer |
-| 4 | [Mirko](https://github.com/cre8) | 30 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 4 | [Mirko](https://github.com/cre8) | 31 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 5 | Thomas Tran | 28 | Lab Maintainer |
 
 ### All Time
@@ -81,7 +81,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 211 |
+| 2026 | 212 |
 | 2025 | 449 |
 | 2024 | 96 |
 | 2023 | 99 |
@@ -90,6 +90,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-10 | 1 |
 | 2026-09 | 19 |
 | 2026-08 | 3 |
 | 2026-07 | 18 |
@@ -132,6 +133,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-10 | 1 |
 | 2026-09-26 | 1 |
 | 2026-09-25 | 4 |
 | 2026-09-24 | 3 |

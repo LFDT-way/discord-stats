@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 1,580
 - **Last 30 Days:** 9
 - **Last 90 Days:** 20
-- **Last 365 Days:** 39
+- **Last 365 Days:** 35
 - **First Message:** 2021-11-03
 - **Last Message:** 2026-10-07
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [community-architects](community-architects_905205991073804308.md) | 2026-10-07 | 9 | 20 | 39 | 1,580 |
+| [community-architects](community-architects_905205991073804308.md) | 2026-10-07 | 9 | 20 | 35 | 1,580 |
 
 ## Most Active Users
 
@@ -40,10 +40,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 8 | lfdt-ca, LFDT Staff |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
-| 3 | æœss | 3 | Lab Leader |
-| 4 | vetefe | 3 | Lab Leader |
-| 5 | akupemulaygbaik | 3 | — |
+| 2 | æœss | 3 | Lab Leader |
+| 3 | vetefe | 3 | Lab Leader |
+| 4 | akupemulaygbaik | 3 | — |
+| 5 | Prof.xoxo | 2 | — |
 
 ### All Time
 

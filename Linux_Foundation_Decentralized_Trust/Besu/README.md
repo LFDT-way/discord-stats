@@ -2,10 +2,10 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205381872095283
-- **Total Messages in Category:** 47,778
-- **Last 30 Days:** 140
-- **Last 90 Days:** 575
-- **Last 365 Days:** 1,870
+- **Total Messages in Category:** 47,779
+- **Last 30 Days:** 141
+- **Last 90 Days:** 576
+- **Last 365 Days:** 1,868
 - **First Message:** 2021-11-09
 - **Last Message:** 2026-10-09
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [besu](besu_938504958909747250.md) | 2026-10-09 | 38 | 230 | 780 | 33,811 |
+| [besu](besu_938504958909747250.md) | 2026-10-09 | 39 | 231 | 778 | 33,812 |
 | [besu-contributors](besu-contributors_905205502940696607.md) | 2026-10-06 | 57 | 170 | 490 | 6,687 |
 | [besu-reviews](besu-reviews_938505506123812865.md) | 2026-10-07 | 9 | 40 | 246 | 2,370 |
 | [besu-enterprise](besu-enterprise_1172617318845657199.md) | 2026-10-06 | 12 | 88 | 175 | 1,812 |
@@ -57,8 +57,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Simon Dudley](https://github.com/siladu) | 242 | Project Maintainer, Besu Maintainer |
-| 2 | [Matthew Whitehead](https://github.com/matthew1001) | 236 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 1 | [Simon Dudley](https://github.com/siladu) | 241 | Project Maintainer, Besu Maintainer |
+| 2 | [Matthew Whitehead](https://github.com/matthew1001) | 235 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 3 | [macfarla \| Besu](https://github.com/macfarla) | 198 | Project Maintainer, Besu Maintainer |
 | 4 | yorick | 73 | — |
 | 5 | [Jason Frame](https://github.com/jframe) | 64 | Project Maintainer, Besu Maintainer |
@@ -77,7 +77,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,392 |
+| 2026 | 1,393 |
 | 2025 | 3,508 |
 | 2024 | 10,409 |
 | 2023 | 11,741 |
@@ -88,7 +88,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 66 |
+| 2026-10 | 67 |
 | 2026-09 | 146 |
 | 2026-08 | 173 |
 | 2026-07 | 225 |
@@ -151,7 +151,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-09 | 1 |
+| 2026-10-09 | 2 |
 | 2026-10-08 | 1 |
 | 2026-10-07 | 5 |
 | 2026-10-06 | 13 |

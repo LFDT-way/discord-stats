@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 51
 - **Last 30 Days:** 3
 - **Last 90 Days:** 3
-- **Last 365 Days:** 45
+- **Last 365 Days:** 44
 - **First Message:** 2025-05-06
 - **Last Message:** 2026-09-24
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [wg-tooling](wg-tooling_1323700037099847782.md) | 2025-11-17 | 0 | 0 | 26 | 32 |
+| [wg-tooling](wg-tooling_1323700037099847782.md) | 2025-11-17 | 0 | 0 | 25 | 32 |
 | [cbomkit-general](cbomkit-general_1440054266571133053.md) | 2026-09-24 | 3 | 3 | 19 | 19 |
 
 ## Most Active Users
@@ -36,7 +36,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [RyJones](https://github.com/ryjones) | 18 | LF Staff |
+| 1 | [RyJones](https://github.com/ryjones) | 17 | LF Staff |
 | 2 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 7 | CBOM maintainer, Project Maintainer |
 | 3 | Scott Corzine | 6 | — |
 | 4 | Sachin Kumar | 4 | — |
