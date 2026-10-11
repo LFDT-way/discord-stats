@@ -2,12 +2,12 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
-- **Total Messages in Category:** 21,385
-- **Last 30 Days:** 51
-- **Last 90 Days:** 219
-- **Last 365 Days:** 853
+- **Total Messages in Category:** 21,386
+- **Last 30 Days:** 52
+- **Last 90 Days:** 220
+- **Last 365 Days:** 847
 - **First Message:** 2021-11-05
-- **Last Message:** 2026-10-09
+- **Last Message:** 2026-10-10
 
 ## Channels in Category
 
@@ -16,14 +16,14 @@
 | [solang-contributors](solang-contributors_905834552965103638.md) | 2026-07-03 | 0 | 0 | 40 | 10,568 |
 | [bevel-operator-fabric](bevel-operator-fabric_967823782712594442.md) | 2026-05-11 | 0 | 0 | 38 | 3,400 |
 | [bevel](bevel_941475087389950002.md) | 2026-09-01 | 0 | 1 | 11 | 2,563 |
-| [caliper](caliper_941417677778473031.md) | 2026-03-23 | 0 | 0 | 30 | 1,439 |
+| [caliper](caliper_941417677778473031.md) | 2026-03-23 | 0 | 0 | 23 | 1,439 |
 | [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-04-15 | 0 | 0 | 12 | 1,185 |
 | [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 5 | 859 |
 | [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-02 | 12 | 21 | 169 | 347 |
 | [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-01 | 3 | 11 | 64 | 153 |
 | [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 8 | 148 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-09-21 | 8 | 8 | 11 | 108 |
-| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-10-07 | 10 | 92 | 92 | 92 |
+| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-10-10 | 11 | 93 | 93 | 93 |
 | [fablo](fablo_1109190949394989127.md) | 2026-09-15 | 1 | 2 | 13 | 87 |
 | [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-09-22 | 3 | 30 | 81 | 81 |
 | [general](general_988569914266775662.md) | 2026-07-30 | 0 | 3 | 11 | 72 |
@@ -53,7 +53,7 @@
 | 2 | vetefe | 6 | Lab Leader |
 | 3 | Vipin Bharathan | 5 | lab stewards |
 | 4 | [Ry Jones](https://github.com/ryjones) | 5 | lfdt-ca, LFDT Staff |
-| 5 | [davidwboswell](https://github.com/davidwboswell) | 4 | lfdt-ca, LFDT Staff |
+| 5 | Oofers | 4 | — |
 
 ### Last 90 Days
 
@@ -89,7 +89,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 683 |
+| 2026 | 684 |
 | 2025 | 993 |
 | 2024 | 2,099 |
 | 2023 | 7,409 |
@@ -100,7 +100,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 17 |
+| 2026-10 | 18 |
 | 2026-09 | 42 |
 | 2026-08 | 53 |
 | 2026-07 | 124 |
@@ -163,6 +163,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-10 | 1 |
 | 2026-10-09 | 1 |
 | 2026-10-07 | 2 |
 | 2026-10-05 | 1 |

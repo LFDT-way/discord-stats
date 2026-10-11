@@ -6,7 +6,7 @@
 - **Total Messages:** 37
 - **Last 30 Days:** 0
 - **Last 90 Days:** 2
-- **Last 365 Days:** 33
+- **Last 365 Days:** 32
 - **First Message:** 2025-10-02
 - **Last Message:** 2026-08-03
 
@@ -26,9 +26,9 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 11 | Project Maintainer, ToIP |
-| 2 | Tweeddalex | 10 | Project Maintainer, ToIP |
-| 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 10 | Lab Leader |
+| 1 | Tweeddalex | 10 | Project Maintainer, ToIP |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 10 | Lab Leader |
+| 3 | [drummondreed](https://github.com/talltree) | 10 | Project Maintainer, ToIP |
 | 4 | Scott Perry | 1 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 1 | Project Maintainer, ToIP |
 

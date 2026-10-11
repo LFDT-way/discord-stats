@@ -3,8 +3,8 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1283486767546237040
 - **Total Messages in Category:** 2,110
-- **Last 30 Days:** 62
-- **Last 90 Days:** 245
+- **Last 30 Days:** 59
+- **Last 90 Days:** 243
 - **Last 365 Days:** 1,436
 - **First Message:** 2024-09-11
 - **Last Message:** 2026-10-09
@@ -14,17 +14,17 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [hiero-sdk-python](hiero-sdk-python_1336494517544681563.md) | 2026-10-09 | 5 | 24 | 313 | 526 |
-| [hiero-general](hiero-general_1289954446712770600.md) | 2026-10-07 | 9 | 54 | 246 | 297 |
+| [hiero-general](hiero-general_1289954446712770600.md) | 2026-10-07 | 9 | 53 | 246 | 297 |
 | [hiero-maintainers](hiero-maintainers_1283487103006543952.md) | 2026-10-07 | 18 | 52 | 136 | 191 |
 | [hiero-website](hiero-website_1458790070986215567.md) | 2026-10-02 | 7 | 9 | 179 | 179 |
-| [hiero-announcements](hiero-announcements_1283487046484234270.md) | 2026-10-06 | 9 | 30 | 107 | 165 |
+| [hiero-announcements](hiero-announcements_1283487046484234270.md) | 2026-10-06 | 6 | 30 | 107 | 165 |
 | [hiero-solo-action](hiero-solo-action_1337046798472052776.md) | 2026-08-31 | 0 | 6 | 7 | 131 |
 | [solo](solo_1364886813017247775.md) | 2026-09-14 | 2 | 6 | 42 | 108 |
 | [hiero-did-sdk-js](hiero-did-sdk-js_1403132892007366806.md) | 2026-05-06 | 0 | 0 | 23 | 75 |
 | [hiero-sdk-community](hiero-sdk-community_1460295344620572907.md) | 2026-10-02 | 4 | 6 | 74 | 74 |
 | [hiero-sdk-cpp](hiero-sdk-cpp_1337424839761465364.md) | 2026-10-06 | 4 | 5 | 60 | 65 |
 | [hiero-enterprise-java](hiero-enterprise-java_1370373361942663178.md) | 2026-08-10 | 0 | 21 | 32 | 34 |
-| [hiero-hackers](hiero-hackers_1471877661856104649.md) | 2026-08-14 | 0 | 20 | 33 | 33 |
+| [hiero-hackers](hiero-hackers_1471877661856104649.md) | 2026-08-14 | 0 | 19 | 33 | 33 |
 | [hiero-sdk-js](hiero-sdk-js_1337424656138899537.md) | 2026-09-07 | 0 | 2 | 29 | 32 |
 | [hiero-sdk-rust](hiero-sdk-rust_1400196736244518982.md) | 2026-09-07 | 0 | 3 | 32 | 32 |
 | [heka-identity-platform](heka-identity-platform_1474117589692317823.md) | 2026-05-18 | 0 | 0 | 31 | 31 |
@@ -47,9 +47,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [JessicaG](https://github.com/jwagantall) | 25 | lfdt-ca, LFDT Staff |
+| 1 | [JessicaG](https://github.com/jwagantall) | 23 | lfdt-ca, LFDT Staff |
 | 2 | [Daniel Marvin](https://github.com/danielmarv) | 9 | Project Maintainer, Hiero maintainer |
-| 3 | [hendrik.ebbers](https://github.com/hendrikebbers) | 4 | TAC member, Project Maintainer, SIG leader, Hiero maintainer |
+| 3 | [hendrik.ebbers](https://github.com/hendrikebbers) | 3 | TAC member, Project Maintainer, SIG leader, Hiero maintainer |
 | 4 | [Roger](https://github.com/rbarker-dev) | 3 | Project Maintainer, Hiero maintainer |
 | 5 | Ang | 3 | Project Maintainer, Hiero maintainer |
 
@@ -59,7 +59,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [JessicaG](https://github.com/jwagantall) | 72 | lfdt-ca, LFDT Staff |
 | 2 | Ang | 39 | Project Maintainer, Hiero maintainer |
-| 3 | [explorer3](https://github.com/exploreriii) | 37 | Project Maintainer, Hiero maintainer |
+| 3 | [explorer3](https://github.com/exploreriii) | 35 | Project Maintainer, Hiero maintainer |
 | 4 | [Daniel Marvin](https://github.com/danielmarv) | 22 | Project Maintainer, Hiero maintainer |
 | 5 | [hendrik.ebbers](https://github.com/hendrikebbers) | 10 | TAC member, Project Maintainer, SIG leader, Hiero maintainer |
 

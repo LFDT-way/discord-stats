@@ -3,9 +3,9 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1108449719212048556
 - **Total Messages in Category:** 856
-- **Last 30 Days:** 15
+- **Last 30 Days:** 9
 - **Last 90 Days:** 39
-- **Last 365 Days:** 338
+- **Last 365 Days:** 336
 - **First Message:** 2023-06-02
 - **Last Message:** 2026-10-10
 
@@ -13,11 +13,11 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tsp](tsp_1240339063618277467.md) | 2026-09-10 | 6 | 6 | 37 | 268 |
+| [tsp](tsp_1240339063618277467.md) | 2026-09-10 | 0 | 6 | 37 | 268 |
 | [mdoc-ts](mdoc-ts_1251180041124053052.md) | 2026-04-01 | 0 | 0 | 128 | 172 |
 | [sd-jwt-dotnet](sd-jwt-dotnet_1179453047169110056.md) | 2026-04-30 | 0 | 0 | 64 | 80 |
 | [sd-jwt-general](sd-jwt-general_1180161138030284910.md) | 2025-09-24 | 0 | 0 | 0 | 70 |
-| [oid4vc-ts](oid4vc-ts_1326616895453007933.md) | 2026-08-12 | 0 | 1 | 47 | 62 |
+| [oid4vc-ts](oid4vc-ts_1326616895453007933.md) | 2026-08-12 | 0 | 1 | 45 | 62 |
 | [vc-api](vc-api_1157008901020073994.md) | 2025-10-24 | 0 | 0 | 2 | 39 |
 | [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-08-18 | 0 | 4 | 21 | 28 |
 | [wallet-framework-dotnet](wallet-framework-dotnet_1159552665940938842.md) | 2024-10-11 | 0 | 0 | 0 | 26 |
@@ -41,11 +41,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Manthan | 5 | — |
-| 2 | [firegod](https://github.com/wenjing) | 3 | — |
-| 3 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 4 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
-| 5 | [Ry Jones, OWF](https://github.com/ryjones) | 2 | Linux Foundation Staff |
+| 1 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
+| 3 | Manthan | 2 | — |
+| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 2 | Linux Foundation Staff |
+| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
 
 ### Last 90 Days
 
@@ -64,7 +64,7 @@
 | 1 | [Ry Jones, OWF](https://github.com/ryjones) | 76 | Linux Foundation Staff |
 | 2 | [Lukas.J.Han](https://github.com/lukasjhan) | 72 | Lab Maintainer |
 | 3 | [Timo Glastra](https://github.com/TimoGlastra) | 58 | credo maintainers, Project Maintainer |
-| 4 | [Mirko](https://github.com/cre8) | 31 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 4 | [Mirko](https://github.com/cre8) | 29 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 5 | Thomas Tran | 28 | Lab Maintainer |
 
 ### All Time

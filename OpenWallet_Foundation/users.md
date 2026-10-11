@@ -5,11 +5,11 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 128
-- **Messages (365d):** 1,957
+- **Messages (365d):** 1,954
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 387 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 385 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 157 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 144 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
@@ -27,8 +27,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 16 | RMLearney | 24 | — |
 | 17 | ai Igor | 24 | — |
 | 18 | [bryce-mcmath](https://github.com/bryce-mcmath) | 24 | bifold maintainers, Project Maintainer |
-| 19 | Graham | 20 | — |
-| 20 | [VishnuSanal](https://github.com/VishnuSanal) | 20 | multipaz maintainer, Project Maintainer |
+| 19 | [VishnuSanal](https://github.com/VishnuSanal) | 20 | multipaz maintainer, Project Maintainer |
+| 20 | Graham | 19 | — |
 | 21 | kukgini | 18 | — |
 | 22 | [firegod](https://github.com/wenjing) | 16 | — |
 | 23 | diegoz (OpenMobileHub, Multipaz) | 14 | Lab Maintainer, multipaz maintainer |

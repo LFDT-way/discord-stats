@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 941383941217222708
 - **Total Messages in Category:** 2,605
-- **Last 30 Days:** 51
+- **Last 30 Days:** 49
 - **Last 90 Days:** 113
 - **Last 365 Days:** 371
 - **First Message:** 2022-02-10
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-10-08 | 51 | 113 | 353 | 2,552 |
+| [tac](tac_941384040316018790.md) | 2026-10-08 | 49 | 113 | 353 | 2,552 |
 | [automated-pipelines](automated-pipelines_1156961689971998782.md) | 2026-04-15 | 0 | 0 | 18 | 52 |
 | [tac-announcements](tac-announcements_941399554731966564.md) | 2022-02-17 | 0 | 0 | 0 | 1 |
 
@@ -26,8 +26,8 @@
 | 1 | [Arun S M](https://github.com/arsulegai) | 20 | TAC member, Chapter Leader |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
 | 3 | [davidwboswell](https://github.com/davidwboswell) | 4 | lfdt-ca, LFDT Staff |
-| 4 | [vramaiitkgp](https://github.com/VRamakrishna) | 3 | TAC member, Cacti Maintainer |
-| 5 | [Ry Jones](https://github.com/ryjones) | 3 | lfdt-ca, LFDT Staff |
+| 4 | [Ry Jones](https://github.com/ryjones) | 3 | lfdt-ca, LFDT Staff |
+| 5 | [Enrique Lacal](https://github.com/EnriqueL8) | 3 | TAC member, Project Maintainer, Firefly Maintainer |
 
 ### Last 90 Days
 

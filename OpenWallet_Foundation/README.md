@@ -2,9 +2,9 @@
 
 - **Guild ID:** 1022962884864643214
 - **Total Messages:** 9,687
-- **Last 30 Days:** 192
-- **Last 90 Days:** 357
-- **Last 365 Days:** 1,957 — [active users](users.md)
+- **Last 30 Days:** 183
+- **Last 90 Days:** 354
+- **Last 365 Days:** 1,954 — [active users](users.md)
 - **First Message:** 2022-09-23
 - **Last Message:** 2026-10-10
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -13,11 +13,11 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,846 | 155 | 276 | 1,259 | 2023-11-08 | 2026-10-09 |
+| [Growth Projects](Growth_Projects/README.md) | 3,846 | 152 | 273 | 1,258 | 2023-11-08 | 2026-10-09 |
 | [General](General/README.md) | 1,864 | 5 | 7 | 71 | 2022-09-23 | 2026-10-05 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 12 | 14 | 117 | 2022-09-28 | 2026-09-24 |
 | [Impact Projects](Impact_Projects/README.md) | 871 | 4 | 20 | 164 | 2024-09-26 | 2026-10-07 |
-| [Labs](Labs/README.md) | 856 | 15 | 39 | 338 | 2023-06-02 | 2026-10-10 |
+| [Labs](Labs/README.md) | 856 | 9 | 39 | 336 | 2023-06-02 | 2026-10-10 |
 | [Archive](Archive/README.md) | 345 | 0 | 0 | 1 | 2022-09-23 | 2025-10-23 |
 | [Information](Information/README.md) | 69 | 1 | 1 | 7 | 2022-09-28 | 2026-09-24 |
 
@@ -30,24 +30,24 @@
 | 1 | birte_lr | 50 | — |
 | 2 | [Mirko](https://github.com/cre8) | 46 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | Cyril | 15 | — |
-| 4 | [davidz25](https://github.com/davidz25) | 12 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 5 | Manthan | 9 | — |
+| 4 | [davidz25](https://github.com/davidz25) | 10 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 5 | espuni | 8 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 96 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 95 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | birte_lr | 50 | — |
 | 3 | Cyril | 26 | — |
-| 4 | espuni | 24 | — |
+| 4 | espuni | 22 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 16 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 387 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 385 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 157 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 144 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |

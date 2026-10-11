@@ -5,18 +5,18 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
 - **Active Users (365d):** 97
-- **Messages (365d):** 1,510
+- **Messages (365d):** 1,504
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 501 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 414 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 107 | PQ Code Package Maintainer |
+| 3 | Hanno | 104 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 95 | LF Staff |
 | 5 | Jake | 42 | PQ Code Package Maintainer, Project Maintainer |
 | 6 | chozorho | 33 | — |
 | 7 | Severus Snape | 25 | — |
-| 8 | Brendan | 17 | — |
+| 8 | Brendan | 15 | — |
 | 9 | θρπχι | 12 | — |
 | 10 | brent | 12 | — |
 | 11 | hatz | 11 | — |
@@ -27,11 +27,11 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 16 | Loganaden | 8 | — |
 | 17 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 7 | CBOM maintainer, Project Maintainer |
 | 18 | Scott Corzine | 7 | — |
-| 19 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 6 | — |
-| 20 | Jarek Duda | 6 | — |
-| 21 | f15hr | 6 | — |
-| 22 | Sachin Kumar | 5 | — |
-| 23 | Chrissy Harter | 5 | LF Staff |
+| 19 | Jarek Duda | 6 | — |
+| 20 | f15hr | 6 | — |
+| 21 | Sachin Kumar | 5 | — |
+| 22 | Chrissy Harter | 5 | LF Staff |
+| 23 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 5 | — |
 | 24 | Brunoee | 5 | — |
 | 25 | [hartm](https://github.com/hartm) | 5 | LF Staff |
 | 26 | AutoJanitor | 5 | — |
