@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
 - **Total Messages in Category:** 21,386
-- **Last 30 Days:** 52
+- **Last 30 Days:** 51
 - **Last 90 Days:** 220
-- **Last 365 Days:** 847
+- **Last 365 Days:** 840
 - **First Message:** 2021-11-05
 - **Last Message:** 2026-10-10
 
@@ -19,9 +19,9 @@
 | [caliper](caliper_941417677778473031.md) | 2026-03-23 | 0 | 0 | 23 | 1,439 |
 | [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-04-15 | 0 | 0 | 12 | 1,185 |
 | [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 5 | 859 |
-| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-02 | 12 | 21 | 169 | 347 |
-| [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-01 | 3 | 11 | 64 | 153 |
-| [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 8 | 148 | 148 |
+| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-02 | 11 | 21 | 169 | 347 |
+| [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-01 | 3 | 11 | 63 | 153 |
+| [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 8 | 143 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-09-21 | 8 | 8 | 11 | 108 |
 | [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-10-10 | 11 | 93 | 93 | 93 |
 | [fablo](fablo_1109190949394989127.md) | 2026-09-15 | 1 | 2 | 13 | 87 |
@@ -31,7 +31,7 @@
 | [cc-tools](cc-tools_1156653969133809715.md) | 2025-05-07 | 0 | 0 | 0 | 45 |
 | [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-10-07 | 1 | 7 | 38 | 44 |
 | [learning-tokens](learning-tokens_1120853856360878271.md) | 2026-08-25 | 0 | 4 | 6 | 36 |
-| [hypernate](hypernate_1417903966464770159.md) | 2026-07-23 | 0 | 4 | 16 | 32 |
+| [hypernate](hypernate_1417903966464770159.md) | 2026-07-23 | 0 | 4 | 15 | 32 |
 | [cbweb3](cbweb3_1400427588287074364.md) | 2026-05-29 | 0 | 0 | 30 | 31 |
 | [composable-evidence-criteria](composable-evidence-criteria_1554888185958502581.md) | 2026-10-03 | 9 | 9 | 9 | 9 |
 | [fabricops](fabricops_1537506138008981524.md) | 2026-10-04 | 1 | 7 | 7 | 7 |
@@ -49,7 +49,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 8 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 7 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 2 | vetefe | 6 | Lab Leader |
 | 3 | Vipin Bharathan | 5 | lab stewards |
 | 4 | [Ry Jones](https://github.com/ryjones) | 5 | lfdt-ca, LFDT Staff |
@@ -69,8 +69,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [RAWx18](https://github.com/RAWx18) | 96 | Lab Leader |
-| 2 | [Ry Jones](https://github.com/ryjones) | 81 | lfdt-ca, LFDT Staff |
+| 1 | [RAWx18](https://github.com/RAWx18) | 92 | Lab Leader |
+| 2 | [Ry Jones](https://github.com/ryjones) | 80 | lfdt-ca, LFDT Staff |
 | 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 74 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 4 | [DanielSzego](https://github.com/Daniel-Szego) | 55 | Meetup Organizer |
 | 5 | [Angelo De Caro](https://github.com/adecaro) | 49 | Lab Leader, Fabric Maintainer, Project Maintainer |

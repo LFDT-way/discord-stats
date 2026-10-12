@@ -3,8 +3,8 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515688758751282
 - **Total Messages in Category:** 26,651
-- **Last 30 Days:** 14
-- **Last 90 Days:** 71
+- **Last 30 Days:** 13
+- **Last 90 Days:** 63
 - **Last 365 Days:** 665
 - **First Message:** 2022-01-05
 - **Last Message:** 2026-09-15
@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [firefly](firefly_928377875827154984.md) | 2026-09-11 | 1 | 11 | 138 | 25,508 |
-| [firefly-maintainers](firefly-maintainers_1151539141826322482.md) | 2026-09-15 | 13 | 60 | 527 | 973 |
+| [firefly](firefly_928377875827154984.md) | 2026-09-11 | 0 | 11 | 138 | 25,508 |
+| [firefly-maintainers](firefly-maintainers_1151539141826322482.md) | 2026-09-15 | 13 | 52 | 527 | 973 |
 | [firefly-workshop](firefly-workshop_1063562168064282685.md) | 2025-08-28 | 0 | 0 | 0 | 169 |
 | [firefly-announcements](firefly-announcements_928380528422432769.md) | 2022-04-13 | 0 | 0 | 0 | 1 |
 
@@ -26,14 +26,13 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
 | 2 | [Enrique Lacal](https://github.com/EnriqueL8) | 6 | TAC member, Project Maintainer, Firefly Maintainer |
-| 3 | 0xTemi Hardhek 🦀 | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 40 | TAC member, Project Maintainer, Firefly Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 18 | lfdt-ca, LFDT Staff |
+| 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 34 | TAC member, Project Maintainer, Firefly Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 16 | lfdt-ca, LFDT Staff |
 | 3 | [cheng](https://github.com/Chengxuan) | 6 | Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 4 | [SonicSwordcane](https://github.com/SupernaviX) | 3 | Project Maintainer, Firefly Maintainer |
 | 5 | 0xTemi Hardhek 🦀 | 1 | — |

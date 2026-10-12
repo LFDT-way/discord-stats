@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205464046915585
-- **Total Messages in Category:** 20,054
+- **Total Messages in Category:** 20,056
 - **Last 30 Days:** 45
 - **Last 90 Days:** 127
-- **Last 365 Days:** 822
+- **Last 365 Days:** 824
 - **First Message:** 2021-11-07
-- **Last Message:** 2026-10-08
+- **Last Message:** 2026-10-11
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric](fabric_905205541326975046.md) | 2026-10-04 | 5 | 19 | 229 | 10,155 |
+| [fabric](fabric_905205541326975046.md) | 2026-10-04 | 3 | 17 | 229 | 10,155 |
 | [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-09-25 | 1 | 2 | 13 | 1,631 |
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-08 | 0 | 0 | 0 | 1,527 |
 | [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 0 | 46 | 1,300 |
@@ -30,7 +30,7 @@
 | [fabric-certified-practitioner](fabric-certified-practitioner_1158754773026222130.md) | 2026-08-04 | 0 | 8 | 16 | 70 |
 | [fabric-code-reviews](fabric-code-reviews_960583805708664882.md) | 2026-09-24 | 1 | 1 | 3 | 41 |
 | [fabric-docs-i18n](fabric-docs-i18n_963703552352587786.md) | 2023-08-11 | 0 | 0 | 0 | 41 |
-| [fabric-x-evm](fabric-x-evm_1550488625576415232.md) | 2026-10-08 | 26 | 26 | 26 | 26 |
+| [fabric-x-evm](fabric-x-evm_1550488625576415232.md) | 2026-10-11 | 28 | 28 | 28 | 28 |
 | [fabric-announcements](fabric-announcements_941415351474880532.md) | 2026-02-25 | 0 | 0 | 2 | 15 |
 | [fabric-hacktoberfest](fabric-hacktoberfest_1024609249927634997.md) | 2022-10-13 | 0 | 0 | 0 | 10 |
 
@@ -40,9 +40,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Storm1289 | 10 | — |
+| 1 | Storm1289 | 11 | — |
 | 2 | [arner](https://github.com/arner) | 10 | Project Maintainer, Fabric Maintainer |
-| 3 | Siddhartha | 6 | — |
+| 3 | Siddhartha | 7 | — |
 | 4 | [Yoav Tock](https://github.com/tock-ibm) | 4 | TAC member, Project Maintainer, Fabric Maintainer |
 | 5 | Pereowei | 2 | Lab Leader |
 
@@ -53,7 +53,7 @@
 | 1 | EliMbadi | 30 | — |
 | 2 | [Yoav Tock](https://github.com/tock-ibm) | 24 | TAC member, Project Maintainer, Fabric Maintainer |
 | 3 | [arner](https://github.com/arner) | 12 | Project Maintainer, Fabric Maintainer |
-| 4 | Storm1289 | 10 | — |
+| 4 | Storm1289 | 11 | — |
 | 5 | [Ry Jones](https://github.com/ryjones) | 8 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
@@ -80,7 +80,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 515 |
+| 2026 | 517 |
 | 2025 | 1,596 |
 | 2024 | 3,365 |
 | 2023 | 7,203 |
@@ -91,7 +91,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 12 |
+| 2026-10 | 14 |
 | 2026-09 | 54 |
 | 2026-08 | 34 |
 | 2026-07 | 39 |
@@ -154,6 +154,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-11 | 2 |
 | 2026-10-08 | 5 |
 | 2026-10-07 | 1 |
 | 2026-10-06 | 2 |

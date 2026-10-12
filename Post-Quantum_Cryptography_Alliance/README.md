@@ -2,9 +2,9 @@
 
 - **Guild ID:** 1202723482224295936
 - **Total Messages:** 4,529
-- **Last 30 Days:** 72
-- **Last 90 Days:** 302
-- **Last 365 Days:** 1,504 — [active users](users.md)
+- **Last 30 Days:** 71
+- **Last 90 Days:** 299
+- **Last 365 Days:** 1,501 — [active users](users.md)
 - **First Message:** 2024-02-01
 - **Last Message:** 2026-10-10
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -13,8 +13,8 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PQ Code Package](PQ_Code_Package/README.md) | 3,593 | 29 | 222 | 1,208 | 2024-02-03 | 2026-10-09 |
-| [Welcome](Welcome/README.md) | 509 | 30 | 50 | 160 | 2024-02-01 | 2026-10-10 |
+| [PQ Code Package](PQ_Code_Package/README.md) | 3,593 | 28 | 219 | 1,208 | 2024-02-03 | 2026-10-09 |
+| [Welcome](Welcome/README.md) | 509 | 30 | 50 | 157 | 2024-02-01 | 2026-10-10 |
 | [Open Quantum Safe](Open_Quantum_Safe/README.md) | 282 | 10 | 27 | 79 | 2024-02-03 | 2026-10-06 |
 | [Governance](Governance/README.md) | 81 | 0 | 0 | 6 | 2024-02-05 | 2026-02-10 |
 | [CBOMKit](CBOMKit/README.md) | 51 | 3 | 3 | 44 | 2025-05-06 | 2026-09-24 |
@@ -29,7 +29,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 16 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | θρπχι | 12 | — |
-| 3 | [Matthias Kannwischer](https://github.com/mkannwischer) | 9 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | [Matthias Kannwischer](https://github.com/mkannwischer) | 8 | PQ Code Package Maintainer, Project Maintainer |
 | 4 | Severus Snape | 6 | — |
 | 5 | Jarek Duda | 5 | — |
 
@@ -37,9 +37,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 102 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 100 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 70 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 17 | PQ Code Package Maintainer |
+| 3 | Hanno | 16 | PQ Code Package Maintainer |
 | 4 | θρπχι | 12 | — |
 | 5 | Ben | 11 | — |
 

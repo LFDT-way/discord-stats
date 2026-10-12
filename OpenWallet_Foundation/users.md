@@ -5,7 +5,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 128
-- **Messages (365d):** 1,954
+- **Messages (365d):** 1,952
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -14,8 +14,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 144 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
 | 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 115 | Lab Maintainer |
-| 6 | [Timo Glastra](https://github.com/TimoGlastra) | 97 | credo maintainers, Project Maintainer |
-| 7 | [davidz25](https://github.com/davidz25) | 96 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 6 | [davidz25](https://github.com/davidz25) | 96 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 7 | [Timo Glastra](https://github.com/TimoGlastra) | 95 | credo maintainers, Project Maintainer |
 | 8 | birte_lr | 50 | — |
 | 9 | espuni | 45 | — |
 | 10 | Timbl | 39 | — |

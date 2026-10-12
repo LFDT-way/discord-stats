@@ -2,9 +2,9 @@
 
 - **Guild ID:** 1022962884864643214
 - **Total Messages:** 9,687
-- **Last 30 Days:** 183
+- **Last 30 Days:** 178
 - **Last 90 Days:** 354
-- **Last 365 Days:** 1,954 — [active users](users.md)
+- **Last 365 Days:** 1,952 — [active users](users.md)
 - **First Message:** 2022-09-23
 - **Last Message:** 2026-10-10
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -13,7 +13,7 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,846 | 152 | 273 | 1,258 | 2023-11-08 | 2026-10-09 |
+| [Growth Projects](Growth_Projects/README.md) | 3,846 | 147 | 273 | 1,256 | 2023-11-08 | 2026-10-09 |
 | [General](General/README.md) | 1,864 | 5 | 7 | 71 | 2022-09-23 | 2026-10-05 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 12 | 14 | 117 | 2022-09-28 | 2026-09-24 |
 | [Impact Projects](Impact_Projects/README.md) | 871 | 4 | 20 | 164 | 2024-09-26 | 2026-10-07 |
@@ -28,7 +28,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | birte_lr | 50 | — |
-| 2 | [Mirko](https://github.com/cre8) | 46 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [Mirko](https://github.com/cre8) | 45 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | Cyril | 15 | — |
 | 4 | [davidz25](https://github.com/davidz25) | 10 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 5 | espuni | 8 | — |

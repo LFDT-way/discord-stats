@@ -5,7 +5,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
 - **Active Users (365d):** 97
-- **Messages (365d):** 1,504
+- **Messages (365d):** 1,501
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -22,10 +22,10 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 11 | hatz | 11 | — |
 | 12 | Ben | 11 | — |
 | 13 | Ishan | 10 | — |
-| 14 | cybarg | 10 | — |
-| 15 | Dadofpips | 9 | — |
-| 16 | Loganaden | 8 | — |
-| 17 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 7 | CBOM maintainer, Project Maintainer |
+| 14 | Dadofpips | 9 | — |
+| 15 | Loganaden | 8 | — |
+| 16 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 7 | CBOM maintainer, Project Maintainer |
+| 17 | cybarg | 7 | — |
 | 18 | Scott Corzine | 7 | — |
 | 19 | Jarek Duda | 6 | — |
 | 20 | f15hr | 6 | — |

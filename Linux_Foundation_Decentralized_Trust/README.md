@@ -1,38 +1,38 @@
 # Guild Report: Linux Foundation Decentralized Trust
 
 - **Guild ID:** 905194001349627914
-- **Total Messages:** 168,053
-- **Last 30 Days:** 814
-- **Last 90 Days:** 2,630
-- **Last 365 Days:** 11,734 — [active users](users.md)
+- **Total Messages:** 168,066
+- **Last 30 Days:** 812
+- **Last 90 Days:** 2,585
+- **Last 365 Days:** 11,722 — [active users](users.md)
 - **First Message:** 2021-11-02
-- **Last Message:** 2026-10-11
+- **Last Message:** 2026-10-12
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Besu](Besu/README.md) | 47,779 | 140 | 576 | 1,862 | 2021-11-09 | 2026-10-09 |
-| [Firefly](Firefly/README.md) | 26,651 | 14 | 71 | 665 | 2022-01-05 | 2026-09-15 |
-| [Labs](Labs/README.md) | 21,386 | 52 | 220 | 847 | 2021-11-05 | 2026-10-10 |
-| [Fabric](Fabric/README.md) | 20,054 | 45 | 127 | 822 | 2021-11-07 | 2026-10-08 |
-| [Welcome](Welcome/README.md) | 14,142 | 37 | 73 | 399 | 2022-03-03 | 2026-10-09 |
+| [Besu](Besu/README.md) | 47,783 | 143 | 577 | 1,854 | 2021-11-09 | 2026-10-12 |
+| [Firefly](Firefly/README.md) | 26,651 | 13 | 63 | 665 | 2022-01-05 | 2026-09-15 |
+| [Labs](Labs/README.md) | 21,386 | 51 | 220 | 840 | 2021-11-05 | 2026-10-10 |
+| [Fabric](Fabric/README.md) | 20,056 | 45 | 127 | 824 | 2021-11-07 | 2026-10-11 |
+| [Welcome](Welcome/README.md) | 14,142 | 37 | 67 | 396 | 2022-03-03 | 2026-10-09 |
 | [Archived Channels 2](Archived_Channels_2/README.md) | 7,188 | 1 | 4 | 108 | 2022-02-12 | 2026-09-24 |
 | [Indy](Indy/README.md) | 6,278 | 0 | 0 | 55 | 2022-01-20 | 2026-05-26 |
-| [ToIP](ToIP/README.md) | 3,332 | 261 | 680 | 2,838 | 2025-04-03 | 2026-10-11 |
-| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 2,605 | 49 | 113 | 371 | 2022-02-10 | 2026-10-08 |
-| [Newbies](Newbies/README.md) | 2,382 | 23 | 25 | 149 | 2023-09-10 | 2026-09-16 |
-| [Cacti](Cacti/README.md) | 2,355 | 12 | 21 | 361 | 2021-11-11 | 2026-10-02 |
-| [Hiero](Hiero/README.md) | 2,110 | 59 | 243 | 1,436 | 2024-09-11 | 2026-10-09 |
+| [ToIP](ToIP/README.md) | 3,335 | 262 | 681 | 2,838 | 2025-04-03 | 2026-10-12 |
+| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 2,608 | 52 | 116 | 374 | 2022-02-10 | 2026-10-12 |
+| [Newbies](Newbies/README.md) | 2,382 | 16 | 25 | 149 | 2023-09-10 | 2026-09-16 |
+| [Cacti](Cacti/README.md) | 2,356 | 12 | 22 | 362 | 2021-11-11 | 2026-10-11 |
+| [Hiero](Hiero/README.md) | 2,110 | 59 | 236 | 1,436 | 2024-09-11 | 2026-10-09 |
 | [Iroha](Iroha/README.md) | 1,684 | 0 | 0 | 3 | 2022-02-10 | 2026-04-12 |
-| [Paladin](Paladin/README.md) | 1,677 | 31 | 146 | 584 | 2024-07-08 | 2026-10-07 |
+| [Paladin](Paladin/README.md) | 1,677 | 31 | 131 | 584 | 2024-07-08 | 2026-10-07 |
 | [Staff](Staff/README.md) | 1,580 | 9 | 20 | 35 | 2021-11-03 | 2026-10-07 |
-| [Identus](Identus/README.md) | 1,557 | 10 | 39 | 258 | 2024-04-10 | 2026-10-01 |
-| [Web3j](Web3j/README.md) | 1,410 | 35 | 76 | 195 | 2024-01-11 | 2026-10-09 |
+| [Identus](Identus/README.md) | 1,557 | 10 | 37 | 258 | 2024-04-10 | 2026-10-01 |
+| [Web3j](Web3j/README.md) | 1,410 | 35 | 73 | 195 | 2024-01-11 | 2026-10-09 |
 | [Regional Chapters](Regional_Chapters/README.md) | 886 | 1 | 11 | 67 | 2022-02-15 | 2026-10-07 |
 | [Panurus](Panurus/README.md) | 683 | 6 | 84 | 153 | 2022-03-02 | 2026-10-06 |
-| [Lockness](Lockness/README.md) | 649 | 2 | 22 | 207 | 2024-06-27 | 2026-10-08 |
+| [Lockness](Lockness/README.md) | 649 | 2 | 12 | 207 | 2024-06-27 | 2026-10-08 |
 | [Anoncreds](Anoncreds/README.md) | 538 | 0 | 1 | 14 | 2022-10-26 | 2026-08-24 |
 | [Credebl](Credebl/README.md) | 417 | 3 | 17 | 171 | 2025-01-23 | 2026-10-07 |
 | [Mentorship Program](Mentorship_Program/README.md) | 393 | 0 | 0 | 21 | 2022-03-16 | 2026-06-11 |
@@ -54,19 +54,19 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 86 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 88 | Lab Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 67 | lfdt-ca, LFDT Staff |
 | 3 | [Matthew Whitehead](https://github.com/matthew1001) | 44 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 4 | microbiocarly | 33 | Project Maintainer, ToIP |
+| 4 | microbiocarly | 32 | Project Maintainer, ToIP |
 | 5 | [drummondreed](https://github.com/talltree) | 31 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 223 | Lab Leader |
-| 2 | [Matthew Whitehead](https://github.com/matthew1001) | 183 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 3 | [Ry Jones](https://github.com/ryjones) | 174 | lfdt-ca, LFDT Staff |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 225 | Lab Leader |
+| 2 | [Matthew Whitehead](https://github.com/matthew1001) | 180 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 3 | [Ry Jones](https://github.com/ryjones) | 165 | lfdt-ca, LFDT Staff |
 | 4 | [drummondreed](https://github.com/talltree) | 95 | Project Maintainer, ToIP |
 | 5 | [firegod](https://github.com/wenjing) | 81 | Project Maintainer, ToIP |
 
@@ -74,8 +74,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 813 | lfdt-ca, LFDT Staff |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 638 | Lab Leader |
+| 1 | [Ry Jones](https://github.com/ryjones) | 811 | lfdt-ca, LFDT Staff |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 640 | Lab Leader |
 | 3 | [Matthew Whitehead](https://github.com/matthew1001) | 468 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 4 | [explorer3](https://github.com/exploreriii) | 435 | Project Maintainer, Hiero maintainer |
 | 5 | [drummondreed](https://github.com/talltree) | 434 | Project Maintainer, ToIP |
@@ -94,7 +94,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 9,038 |
+| 2026 | 9,051 |
 | 2025 | 17,579 |
 | 2024 | 28,268 |
 | 2023 | 51,211 |
@@ -105,7 +105,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 323 |
+| 2026-10 | 336 |
 | 2026-09 | 768 |
 | 2026-08 | 816 |
 | 2026-07 | 1,154 |
@@ -169,7 +169,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-11 | 3 |
+| 2026-10-12 | 8 |
+| 2026-10-11 | 8 |
 | 2026-10-10 | 11 |
 | 2026-10-09 | 20 |
 | 2026-10-08 | 28 |

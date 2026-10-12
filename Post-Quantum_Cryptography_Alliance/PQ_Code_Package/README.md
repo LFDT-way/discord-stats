@@ -3,8 +3,8 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1203395867214745651
 - **Total Messages in Category:** 3,593
-- **Last 30 Days:** 29
-- **Last 90 Days:** 222
+- **Last 30 Days:** 28
+- **Last 90 Days:** 219
 - **Last 365 Days:** 1,208
 - **First Message:** 2024-02-03
 - **Last Message:** 2026-10-09
@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [mldsa-native-developers](mldsa-native-developers_1339067141269229652.md) | 2026-10-09 | 1 | 76 | 710 | 2,195 |
-| [mlkem-native-developers](mlkem-native-developers_1249565286638682122.md) | 2026-10-08 | 27 | 122 | 449 | 952 |
+| [mldsa-native-developers](mldsa-native-developers_1339067141269229652.md) | 2026-10-09 | 1 | 75 | 710 | 2,195 |
+| [mlkem-native-developers](mlkem-native-developers_1249565286638682122.md) | 2026-10-08 | 26 | 120 | 449 | 952 |
 | [pqcp-tsc](pqcp-tsc_1233337574668501033.md) | 2025-11-19 | 0 | 0 | 2 | 249 |
 | [pqcp-general](pqcp-general_1203396039977996359.md) | 2026-09-23 | 1 | 24 | 44 | 171 |
 | [hackathon](hackathon_1217120054618095746.md) | 2026-02-07 | 0 | 0 | 1 | 11 |
@@ -28,7 +28,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 16 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 9 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 8 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Ishan | 1 | — |
 | 4 | Brendan | 1 | — |
 | 5 | Hanno | 1 | PQ Code Package Maintainer |
@@ -37,9 +37,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 102 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 100 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 70 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 17 | PQ Code Package Maintainer |
+| 3 | Hanno | 16 | PQ Code Package Maintainer |
 | 4 | Ishan | 10 | — |
 | 5 | Ben | 4 | — |
 
