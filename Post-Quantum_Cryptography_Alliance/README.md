@@ -1,20 +1,20 @@
 # Guild Report: Post-Quantum Cryptography Alliance
 
 - **Guild ID:** 1202723482224295936
-- **Total Messages:** 4,529
-- **Last 30 Days:** 71
-- **Last 90 Days:** 299
-- **Last 365 Days:** 1,501 — [active users](users.md)
+- **Total Messages:** 4,530
+- **Last 30 Days:** 70
+- **Last 90 Days:** 294
+- **Last 365 Days:** 1,502 — [active users](users.md)
 - **First Message:** 2024-02-01
-- **Last Message:** 2026-10-10
+- **Last Message:** 2026-10-12
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PQ Code Package](PQ_Code_Package/README.md) | 3,593 | 28 | 219 | 1,208 | 2024-02-03 | 2026-10-09 |
-| [Welcome](Welcome/README.md) | 509 | 30 | 50 | 157 | 2024-02-01 | 2026-10-10 |
+| [PQ Code Package](PQ_Code_Package/README.md) | 3,593 | 28 | 214 | 1,208 | 2024-02-03 | 2026-10-09 |
+| [Welcome](Welcome/README.md) | 510 | 29 | 50 | 158 | 2024-02-01 | 2026-10-12 |
 | [Open Quantum Safe](Open_Quantum_Safe/README.md) | 282 | 10 | 27 | 79 | 2024-02-03 | 2026-10-06 |
 | [Governance](Governance/README.md) | 81 | 0 | 0 | 6 | 2024-02-05 | 2026-02-10 |
 | [CBOMKit](CBOMKit/README.md) | 51 | 3 | 3 | 44 | 2025-05-06 | 2026-09-24 |
@@ -37,11 +37,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 100 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 70 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 16 | PQ Code Package Maintainer |
+| 1 | Rod | 98 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 68 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 15 | PQ Code Package Maintainer |
 | 4 | θρπχι | 12 | — |
-| 5 | Ben | 11 | — |
+| 5 | Ishan | 10 | — |
 
 ### Last 365 Days
 
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 903 |
+| 2026 | 904 |
 | 2025 | 2,683 |
 | 2024 | 944 |
 | 2023 | 3 |
@@ -78,7 +78,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 21 |
+| 2026-10 | 22 |
 | 2026-09 | 109 |
 | 2026-08 | 130 |
 | 2026-07 | 71 |
@@ -122,6 +122,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-12 | 1 |
 | 2026-10-10 | 2 |
 | 2026-10-09 | 1 |
 | 2026-10-08 | 2 |

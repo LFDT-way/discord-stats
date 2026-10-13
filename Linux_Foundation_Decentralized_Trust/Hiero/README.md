@@ -4,7 +4,7 @@
 - **Category ID:** 1283486767546237040
 - **Total Messages in Category:** 2,110
 - **Last 30 Days:** 59
-- **Last 90 Days:** 236
+- **Last 90 Days:** 233
 - **Last 365 Days:** 1,436
 - **First Message:** 2024-09-11
 - **Last Message:** 2026-10-09
@@ -14,10 +14,10 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [hiero-sdk-python](hiero-sdk-python_1336494517544681563.md) | 2026-10-09 | 5 | 24 | 313 | 526 |
-| [hiero-general](hiero-general_1289954446712770600.md) | 2026-10-07 | 9 | 52 | 246 | 297 |
+| [hiero-general](hiero-general_1289954446712770600.md) | 2026-10-07 | 9 | 50 | 246 | 297 |
 | [hiero-maintainers](hiero-maintainers_1283487103006543952.md) | 2026-10-07 | 18 | 52 | 136 | 191 |
 | [hiero-website](hiero-website_1458790070986215567.md) | 2026-10-02 | 7 | 9 | 179 | 179 |
-| [hiero-announcements](hiero-announcements_1283487046484234270.md) | 2026-10-06 | 6 | 30 | 107 | 165 |
+| [hiero-announcements](hiero-announcements_1283487046484234270.md) | 2026-10-06 | 6 | 29 | 107 | 165 |
 | [hiero-solo-action](hiero-solo-action_1337046798472052776.md) | 2026-08-31 | 0 | 6 | 7 | 131 |
 | [solo](solo_1364886813017247775.md) | 2026-09-14 | 2 | 6 | 42 | 108 |
 | [hiero-did-sdk-js](hiero-did-sdk-js_1403132892007366806.md) | 2026-05-06 | 0 | 0 | 23 | 75 |
@@ -57,11 +57,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [JessicaG](https://github.com/jwagantall) | 72 | lfdt-ca, LFDT Staff |
-| 2 | Ang | 39 | Project Maintainer, Hiero maintainer |
+| 1 | [JessicaG](https://github.com/jwagantall) | 71 | lfdt-ca, LFDT Staff |
+| 2 | Ang | 38 | Project Maintainer, Hiero maintainer |
 | 3 | [explorer3](https://github.com/exploreriii) | 32 | Project Maintainer, Hiero maintainer |
 | 4 | [Daniel Marvin](https://github.com/danielmarv) | 22 | Project Maintainer, Hiero maintainer |
-| 5 | [hendrik.ebbers](https://github.com/hendrikebbers) | 10 | TAC member, Project Maintainer, SIG leader, Hiero maintainer |
+| 5 | [hendrik.ebbers](https://github.com/hendrikebbers) | 9 | TAC member, Project Maintainer, SIG leader, Hiero maintainer |
 
 ### Last 365 Days
 

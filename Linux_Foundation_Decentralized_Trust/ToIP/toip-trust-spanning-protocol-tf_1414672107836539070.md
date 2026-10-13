@@ -4,7 +4,7 @@
 - **Category:** ToIP
 - **Channel ID:** 1414672107836539070
 - **Total Messages:** 32
-- **Last 30 Days:** 8
+- **Last 30 Days:** 7
 - **Last 90 Days:** 20
 - **Last 365 Days:** 31
 - **First Message:** 2025-10-01
@@ -17,7 +17,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [firegod](https://github.com/wenjing) | 5 | Project Maintainer, ToIP |
-| 2 | [drummondreed](https://github.com/talltree) | 2 | Project Maintainer, ToIP |
+| 2 | [drummondreed](https://github.com/talltree) | 1 | Project Maintainer, ToIP |
 | 3 | microbiocarly | 1 | Project Maintainer, ToIP |
 
 ### Last 90 Days

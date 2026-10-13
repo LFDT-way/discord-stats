@@ -5,7 +5,7 @@
 - **Channel ID:** 1502324614204752155
 - **Total Messages:** 81
 - **Last 30 Days:** 3
-- **Last 90 Days:** 30
+- **Last 90 Days:** 27
 - **Last 365 Days:** 81
 - **First Message:** 2026-05-08
 - **Last Message:** 2026-09-22
@@ -24,10 +24,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 12 | lfdt-ca, LFDT Staff |
-| 2 | Zapperombie | 8 | — |
-| 3 | Mukul | 7 | — |
-| 4 | [OA](https://github.com/pv-sarvesh) | 2 | Lab Leader |
-| 5 | Isabela from OpenAssets | 1 | Lab Leader |
+| 2 | Mukul | 7 | — |
+| 3 | Zapperombie | 6 | — |
+| 4 | Isabela from OpenAssets | 1 | Lab Leader |
+| 5 | [OA](https://github.com/pv-sarvesh) | 1 | Lab Leader |
 
 ### Last 365 Days
 

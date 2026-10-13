@@ -2,18 +2,18 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1285999377751736443
-- **Total Messages in Category:** 871
-- **Last 30 Days:** 4
-- **Last 90 Days:** 20
-- **Last 365 Days:** 164
+- **Total Messages in Category:** 876
+- **Last 30 Days:** 9
+- **Last 90 Days:** 25
+- **Last 365 Days:** 169
 - **First Message:** 2024-09-26
-- **Last Message:** 2026-10-07
+- **Last Message:** 2026-10-13
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aca-py](aca-py_1286299858994462842.md) | 2026-10-07 | 4 | 20 | 163 | 810 |
+| [aca-py](aca-py_1286299858994462842.md) | 2026-10-13 | 9 | 25 | 168 | 815 |
 | [acapy-did-registration](acapy-did-registration_1303470616581509130.md) | 2025-10-25 | 0 | 0 | 1 | 61 |
 
 ## Most Active Users
@@ -22,37 +22,37 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Pragya Jain | 1 | — |
-| 2 | RMLearney | 1 | — |
-| 3 | [esune](https://github.com/esune) | 1 | Project Maintainer |
-| 4 | [swcurran](https://github.com/swcurran) | 1 | Lab Maintainer, TAC members, Project Maintainer |
+| 1 | Pragya Jain | 3 | — |
+| 2 | RMLearney | 3 | — |
+| 3 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
+| 4 | [esune](https://github.com/esune) | 1 | Project Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | vivek | 5 | — |
-| 2 | [swcurran](https://github.com/swcurran) | 4 | Lab Maintainer, TAC members, Project Maintainer |
+| 1 | [swcurran](https://github.com/swcurran) | 5 | Lab Maintainer, TAC members, Project Maintainer |
+| 2 | vivek | 5 | — |
 | 3 | [jamshale](https://github.com/jamshale) | 4 | Project Maintainer |
-| 4 | PStLouis | 3 | Lab Maintainer, Project Maintainer |
-| 5 | Pragya Jain | 1 | — |
+| 4 | Pragya Jain | 3 | — |
+| 5 | RMLearney | 3 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | PStLouis | 30 | Lab Maintainer, Project Maintainer |
-| 2 | [swcurran](https://github.com/swcurran) | 21 | Lab Maintainer, TAC members, Project Maintainer |
+| 2 | [swcurran](https://github.com/swcurran) | 22 | Lab Maintainer, TAC members, Project Maintainer |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 21 | Linux Foundation Staff |
 | 4 | [jamshale](https://github.com/jamshale) | 9 | Project Maintainer |
-| 5 | Timbl | 8 | — |
+| 5 | RMLearney | 8 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | PStLouis | 166 | Lab Maintainer, Project Maintainer |
-| 2 | [swcurran](https://github.com/swcurran) | 107 | Lab Maintainer, TAC members, Project Maintainer |
+| 2 | [swcurran](https://github.com/swcurran) | 108 | Lab Maintainer, TAC members, Project Maintainer |
 | 3 | [jamshale](https://github.com/jamshale) | 86 | Project Maintainer |
 | 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 49 | Linux Foundation Staff |
 | 5 | friendlyfire137 | 37 | Project Maintainer |
@@ -61,7 +61,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 96 |
+| 2026 | 101 |
 | 2025 | 531 |
 | 2024 | 244 |
 
@@ -69,7 +69,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 3 |
+| 2026-10 | 8 |
 | 2026-09 | 1 |
 | 2026-08 | 2 |
 | 2026-07 | 15 |
@@ -100,6 +100,8 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-13 | 4 |
+| 2026-10-12 | 1 |
 | 2026-10-07 | 1 |
 | 2026-10-06 | 1 |
 | 2026-10-05 | 1 |

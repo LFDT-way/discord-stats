@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1195061874950144120
-- **Total Messages in Category:** 1,410
-- **Last 30 Days:** 35
-- **Last 90 Days:** 73
-- **Last 365 Days:** 195
+- **Total Messages in Category:** 1,411
+- **Last 30 Days:** 36
+- **Last 90 Days:** 74
+- **Last 365 Days:** 196
 - **First Message:** 2024-01-11
-- **Last Message:** 2026-10-09
+- **Last Message:** 2026-10-13
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-10-09 | 35 | 72 | 127 | 868 |
+| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-10-13 | 36 | 73 | 128 | 869 |
 | [web3j-general](web3j-general_1195062053682032700.md) | 2026-08-23 | 0 | 1 | 68 | 542 |
 
 ## Most Active Users
@@ -25,7 +25,7 @@
 | 1 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 14 | Project Maintainer, Web3j Maintainer |
 | 2 | George Tebrean | 9 | Project Maintainer, Web3j Maintainer |
 | 3 | Saurav | 6 | — |
-| 4 | 0xnadeem | 5 | — |
+| 4 | 0xnadeem | 6 | — |
 | 5 | Dev | 1 | — |
 
 ### Last 90 Days
@@ -36,7 +36,7 @@
 | 2 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 16 | Project Maintainer, Web3j Maintainer |
 | 3 | Dev | 14 | — |
 | 4 | Saurav | 11 | — |
-| 5 | 0xnadeem | 5 | — |
+| 5 | 0xnadeem | 6 | — |
 
 ### Last 365 Days
 
@@ -62,7 +62,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 166 |
+| 2026 | 167 |
 | 2025 | 341 |
 | 2024 | 903 |
 
@@ -70,7 +70,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 15 |
+| 2026-10 | 16 |
 | 2026-09 | 27 |
 | 2026-08 | 12 |
 | 2026-07 | 27 |
@@ -107,6 +107,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-13 | 1 |
 | 2026-10-09 | 1 |
 | 2026-10-08 | 3 |
 | 2026-10-06 | 3 |

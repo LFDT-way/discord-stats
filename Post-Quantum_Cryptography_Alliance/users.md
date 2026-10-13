@@ -4,8 +4,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
-- **Active Users (365d):** 97
-- **Messages (365d):** 1,501
+- **Active Users (365d):** 98
+- **Messages (365d):** 1,502
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -78,31 +78,32 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 67 | keerthivasan | 1 | — |
 | 68 | Skytree | 1 | — |
 | 69 | Noxious | 1 | — |
-| 70 | sycramore | 1 | — |
-| 71 | Luke | 1 | — |
-| 72 | Kaartik Bhushan | 1 | — |
-| 73 | Vn | 1 | — |
-| 74 | Fynn Thierling | 1 | CBOM maintainer, Project Maintainer |
-| 75 | arun | 1 | — |
-| 76 | Jim St.Clair | 1 | — |
-| 77 | Ayush | 1 | — |
-| 78 | Jeffrey C. Rombough | 1 | — |
-| 79 | Rockster | 1 | — |
-| 80 | shauryaneel13 | 1 | — |
-| 81 | <AJMAL\|I\|MA> | 1 | — |
-| 82 | Gaudenzio.eth | 1 | — |
-| 83 | beafn28 | 1 | — |
-| 84 | manishtiwari | 1 | — |
-| 85 | Prince | 1 | — |
-| 86 | Jonutella | 1 | — |
-| 87 | rockpaperdev | 1 | — |
-| 88 | Arkariun | 1 | — |
-| 89 | T-P | 1 | — |
-| 90 | matu3ba | 1 | — |
-| 91 | motohiro suzuki | 1 | — |
-| 92 | ramuiruri | 1 | — |
-| 93 | Tim420 | 1 | — |
-| 94 | Allan_Cryptowhickk ♨ | 1 | — |
-| 95 | knugen1337 | 1 | — |
-| 96 | Surbhi Agarwal | 1 | — |
-| 97 | eccstartup | 1 | — |
+| 70 | Abacus | 1 | — |
+| 71 | sycramore | 1 | — |
+| 72 | Luke | 1 | — |
+| 73 | Kaartik Bhushan | 1 | — |
+| 74 | Vn | 1 | — |
+| 75 | Fynn Thierling | 1 | CBOM maintainer, Project Maintainer |
+| 76 | arun | 1 | — |
+| 77 | Jim St.Clair | 1 | — |
+| 78 | Ayush | 1 | — |
+| 79 | Jeffrey C. Rombough | 1 | — |
+| 80 | Rockster | 1 | — |
+| 81 | shauryaneel13 | 1 | — |
+| 82 | <AJMAL\|I\|MA> | 1 | — |
+| 83 | Gaudenzio.eth | 1 | — |
+| 84 | beafn28 | 1 | — |
+| 85 | manishtiwari | 1 | — |
+| 86 | Prince | 1 | — |
+| 87 | Jonutella | 1 | — |
+| 88 | rockpaperdev | 1 | — |
+| 89 | Arkariun | 1 | — |
+| 90 | T-P | 1 | — |
+| 91 | matu3ba | 1 | — |
+| 92 | motohiro suzuki | 1 | — |
+| 93 | ramuiruri | 1 | — |
+| 94 | Tim420 | 1 | — |
+| 95 | Allan_Cryptowhickk ♨ | 1 | — |
+| 96 | knugen1337 | 1 | — |
+| 97 | Surbhi Agarwal | 1 | — |
+| 98 | eccstartup | 1 | — |

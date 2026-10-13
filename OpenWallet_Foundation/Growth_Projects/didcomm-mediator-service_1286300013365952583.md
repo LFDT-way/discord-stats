@@ -3,12 +3,12 @@
 - **Guild:** OpenWallet Foundation
 - **Category:** Growth Projects
 - **Channel ID:** 1286300013365952583
-- **Total Messages:** 37
-- **Last 30 Days:** 3
-- **Last 90 Days:** 6
-- **Last 365 Days:** 10
+- **Total Messages:** 39
+- **Last 30 Days:** 5
+- **Last 90 Days:** 8
+- **Last 365 Days:** 12
 - **First Message:** 2024-09-24
-- **Last Message:** 2026-10-09
+- **Last Message:** 2026-10-12
 
 ## Most Active Users
 
@@ -17,6 +17,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [esune](https://github.com/esune) | 3 | Project Maintainer |
+| 2 | Pragya Jain | 1 | — |
+| 3 | RMLearney | 1 | — |
 
 ### Last 90 Days
 
@@ -24,7 +26,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [esune](https://github.com/esune) | 3 | Project Maintainer |
 | 2 | [jamshale](https://github.com/jamshale) | 2 | Project Maintainer |
-| 3 | José Puma | 1 | — |
+| 3 | Pragya Jain | 1 | — |
+| 4 | RMLearney | 1 | — |
+| 5 | José Puma | 1 | — |
 
 ### Last 365 Days
 
@@ -34,7 +38,7 @@
 | 2 | [jamshale](https://github.com/jamshale) | 2 | Project Maintainer |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
 | 4 | José Puma | 2 | — |
-| 5 | Muhammad Ahmer Khan | 1 | — |
+| 5 | Pragya Jain | 1 | — |
 
 ### All Time
 
@@ -50,7 +54,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 10 |
+| 2026 | 12 |
 | 2025 | 21 |
 | 2024 | 6 |
 
@@ -58,7 +62,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 3 |
+| 2026-10 | 5 |
 | 2026-07 | 3 |
 | 2026-06 | 1 |
 | 2026-05 | 1 |
@@ -77,6 +81,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-12 | 2 |
 | 2026-10-09 | 3 |
 | 2026-07-23 | 1 |
 | 2026-07-20 | 2 |

@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Staff
 - **Channel ID:** 905205991073804308
-- **Total Messages:** 1,580
-- **Last 30 Days:** 9
-- **Last 90 Days:** 20
-- **Last 365 Days:** 35
+- **Total Messages:** 1,581
+- **Last 30 Days:** 10
+- **Last 90 Days:** 18
+- **Last 365 Days:** 36
 - **First Message:** 2021-11-03
-- **Last Message:** 2026-10-07
+- **Last Message:** 2026-10-12
 
 ## Most Active Users
 
@@ -16,7 +16,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 3 | lfdt-ca, LFDT Staff |
+| 1 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
 | 2 | vetefe | 3 | Lab Leader |
 | 3 | akupemulaygbaik | 3 | — |
 
@@ -34,7 +34,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 8 | lfdt-ca, LFDT Staff |
+| 1 | [Ry Jones](https://github.com/ryjones) | 9 | lfdt-ca, LFDT Staff |
 | 2 | æœss | 3 | Lab Leader |
 | 3 | vetefe | 3 | Lab Leader |
 | 4 | akupemulaygbaik | 3 | — |
@@ -44,7 +44,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 598 | lfdt-ca, LFDT Staff |
+| 1 | [Ry Jones](https://github.com/ryjones) | 599 | lfdt-ca, LFDT Staff |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 97 | lfdt-ca, LFDT Staff |
 | 3 | [Nicko Guyer](https://github.com/nguyer) | 78 | Project Maintainer, Firefly Maintainer |
 | 4 | [seanyoung](https://github.com/seanyoung) | 62 | Project Maintainer, Solang Maintainer |
@@ -54,7 +54,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 35 |
+| 2026 | 36 |
 | 2025 | 51 |
 | 2024 | 297 |
 | 2023 | 381 |
@@ -65,7 +65,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 3 |
+| 2026-10 | 4 |
 | 2026-09 | 6 |
 | 2026-08 | 8 |
 | 2026-07 | 4 |
@@ -126,6 +126,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-12 | 1 |
 | 2026-10-07 | 3 |
 | 2026-09-22 | 1 |
 | 2026-09-14 | 5 |
