@@ -4,7 +4,7 @@
 - **Category ID:** 1108449719212048556
 - **Total Messages in Category:** 856
 - **Last 30 Days:** 9
-- **Last 90 Days:** 39
+- **Last 90 Days:** 37
 - **Last 365 Days:** 336
 - **First Message:** 2023-06-02
 - **Last Message:** 2026-10-10
@@ -19,7 +19,7 @@
 | [sd-jwt-general](sd-jwt-general_1180161138030284910.md) | 2025-09-24 | 0 | 0 | 0 | 70 |
 | [oid4vc-ts](oid4vc-ts_1326616895453007933.md) | 2026-08-12 | 0 | 1 | 45 | 62 |
 | [vc-api](vc-api_1157008901020073994.md) | 2025-10-24 | 0 | 0 | 2 | 39 |
-| [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-08-18 | 0 | 4 | 21 | 28 |
+| [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-08-18 | 0 | 2 | 21 | 28 |
 | [wallet-framework-dotnet](wallet-framework-dotnet_1159552665940938842.md) | 2024-10-11 | 0 | 0 | 0 | 26 |
 | [pydentity-wallet](pydentity-wallet_1352199414956953630.md) | 2026-02-11 | 0 | 0 | 3 | 20 |
 | [axle](axle_1404761591710355506.md) | 2026-07-17 | 0 | 14 | 14 | 17 |
@@ -55,7 +55,7 @@
 | 2 | [Ry Jones, OWF](https://github.com/ryjones) | 6 | Linux Foundation Staff |
 | 3 | Manthan | 5 | — |
 | 4 | [Mirko](https://github.com/cre8) | 4 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 5 | kukgini | 3 | — |
+| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 3 | Linux Foundation Staff |
 
 ### Last 365 Days
 

@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 3,593
 - **Last 30 Days:** 28
 - **Last 90 Days:** 214
-- **Last 365 Days:** 1,208
+- **Last 365 Days:** 1,206
 - **First Message:** 2024-02-03
 - **Last Message:** 2026-10-09
 
@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [mldsa-native-developers](mldsa-native-developers_1339067141269229652.md) | 2026-10-09 | 1 | 70 | 710 | 2,195 |
-| [mlkem-native-developers](mlkem-native-developers_1249565286638682122.md) | 2026-10-08 | 26 | 120 | 449 | 952 |
+| [mldsa-native-developers](mldsa-native-developers_1339067141269229652.md) | 2026-10-09 | 1 | 70 | 709 | 2,195 |
+| [mlkem-native-developers](mlkem-native-developers_1249565286638682122.md) | 2026-10-08 | 26 | 120 | 448 | 952 |
 | [pqcp-tsc](pqcp-tsc_1233337574668501033.md) | 2025-11-19 | 0 | 0 | 2 | 249 |
 | [pqcp-general](pqcp-general_1203396039977996359.md) | 2026-09-23 | 1 | 24 | 44 | 171 |
 | [hackathon](hackathon_1217120054618095746.md) | 2026-02-07 | 0 | 0 | 1 | 11 |

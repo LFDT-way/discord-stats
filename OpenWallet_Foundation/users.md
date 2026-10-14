@@ -5,12 +5,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 128
-- **Messages (365d):** 1,958
+- **Messages (365d):** 1,960
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 384 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 157 | Linux Foundation Staff |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 156 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 144 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
 | 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 115 | Lab Maintainer |
@@ -30,10 +30,10 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 19 | [VishnuSanal](https://github.com/VishnuSanal) | 20 | multipaz maintainer, Project Maintainer |
 | 20 | Graham | 19 | — |
 | 21 | kukgini | 18 | — |
-| 22 | [firegod](https://github.com/wenjing) | 16 | — |
-| 23 | diegoz (OpenMobileHub, Multipaz) | 14 | Lab Maintainer, multipaz maintainer |
-| 24 | [esune](https://github.com/esune) | 14 | Project Maintainer |
-| 25 | [jamshale](https://github.com/jamshale) | 13 | Project Maintainer |
+| 22 | [esune](https://github.com/esune) | 16 | Project Maintainer |
+| 23 | [firegod](https://github.com/wenjing) | 16 | — |
+| 24 | [jamshale](https://github.com/jamshale) | 15 | Project Maintainer |
+| 25 | diegoz (OpenMobileHub, Multipaz) | 14 | Lab Maintainer, multipaz maintainer |
 | 26 | Samuel | 13 | SIG member |
 | 27 | MostafaGamal | 12 | — |
 | 28 | Amine | 11 | — |
@@ -70,37 +70,37 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 59 | [Patrik Stas](https://github.com/Patrik-Stas) | 3 | — |
 | 60 | Iancu Fofiu | 3 | — |
 | 61 | mashukur.rahman | 3 | — |
-| 62 | [cjhowland](https://github.com/cjhowland) | 3 | — |
-| 63 | [JSyro](https://github.com/Jsyro) | 3 | Lab Maintainer, Project Maintainer |
-| 64 | LukeBC | 3 | — |
-| 65 | sencond1800 | 3 | — |
-| 66 | ζατch bell | 3 | — |
-| 67 | ai-Igor | 3 | — |
-| 68 | Ever | 3 | multipaz maintainer |
-| 69 | Muhammad Ahmer Khan | 3 | — |
-| 70 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 3 | Lab Maintainer |
-| 71 | Alisson-Dev-Zolvency | 3 | — |
-| 72 | marnix | 3 | — |
-| 73 | darrello | 3 | — |
-| 74 | [Sai Ranjit](https://github.com/sairanjit) | 3 | — |
-| 75 | [cvarjao](https://github.com/cvarjao) | 3 | bifold maintainers, Project Maintainer |
-| 76 | Alan poon | 3 | — |
-| 77 | Thomas T | 3 | — |
-| 78 | André Engelhorn | 3 | — |
-| 79 | Maticus | 2 | — |
-| 80 | Micah Peltier | 2 | — |
-| 81 | mobappdev | 2 | — |
-| 82 | Pratik | 2 | — |
-| 83 | Soloshade | 2 | — |
-| 84 | Gordito Ancestral | 2 | — |
-| 85 | friendlyfire137 | 2 | Project Maintainer |
-| 86 | Akshay Kurhekar | 2 | — |
-| 87 | nerio | 2 | — |
-| 88 | Thilina Senarath | 2 | — |
-| 89 | kevinaboos | 2 | — |
-| 90 | Harsh | 2 | — |
-| 91 | BrunoM | 2 | — |
-| 92 | José Puma | 2 | — |
+| 62 | [JSyro](https://github.com/Jsyro) | 3 | Lab Maintainer, Project Maintainer |
+| 63 | LukeBC | 3 | — |
+| 64 | sencond1800 | 3 | — |
+| 65 | ζατch bell | 3 | — |
+| 66 | ai-Igor | 3 | — |
+| 67 | Ever | 3 | multipaz maintainer |
+| 68 | Muhammad Ahmer Khan | 3 | — |
+| 69 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 3 | Lab Maintainer |
+| 70 | Alisson-Dev-Zolvency | 3 | — |
+| 71 | marnix | 3 | — |
+| 72 | darrello | 3 | — |
+| 73 | [Sai Ranjit](https://github.com/sairanjit) | 3 | — |
+| 74 | [cvarjao](https://github.com/cvarjao) | 3 | bifold maintainers, Project Maintainer |
+| 75 | Alan poon | 3 | — |
+| 76 | Thomas T | 3 | — |
+| 77 | André Engelhorn | 3 | — |
+| 78 | Maticus | 2 | — |
+| 79 | Micah Peltier | 2 | — |
+| 80 | mobappdev | 2 | — |
+| 81 | Pratik | 2 | — |
+| 82 | Soloshade | 2 | — |
+| 83 | Gordito Ancestral | 2 | — |
+| 84 | friendlyfire137 | 2 | Project Maintainer |
+| 85 | Akshay Kurhekar | 2 | — |
+| 86 | nerio | 2 | — |
+| 87 | Thilina Senarath | 2 | — |
+| 88 | kevinaboos | 2 | — |
+| 89 | Harsh | 2 | — |
+| 90 | BrunoM | 2 | — |
+| 91 | José Puma | 2 | — |
+| 92 | [cjhowland](https://github.com/cjhowland) | 2 | — |
 | 93 | Jim Ezesinachi | 2 | — |
 | 94 | Thierry (Talao) | 2 | — |
 | 95 | KrishNa | 2 | — |

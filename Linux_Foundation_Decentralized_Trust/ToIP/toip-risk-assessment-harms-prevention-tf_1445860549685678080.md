@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1445860549685678080
-- **Total Messages:** 135
-- **Last 30 Days:** 30
-- **Last 90 Days:** 37
-- **Last 365 Days:** 135
+- **Total Messages:** 137
+- **Last 30 Days:** 32
+- **Last 90 Days:** 39
+- **Last 365 Days:** 137
 - **First Message:** 2025-12-03
-- **Last Message:** 2026-10-13
+- **Last Message:** 2026-10-14
 
 ## Most Active Users
 
@@ -16,27 +16,27 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 15 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 16 | Lab Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 9 | lfdt-ca, LFDT Staff |
-| 3 | Nicky H | 3 | Project Maintainer, ToIP |
-| 4 | stevevitka | 2 | ToIP |
+| 3 | stevevitka | 3 | ToIP |
+| 4 | Nicky H | 3 | Project Maintainer, ToIP |
 | 5 | [drummondreed](https://github.com/talltree) | 1 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 19 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 20 | Lab Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 9 | lfdt-ca, LFDT Staff |
 | 3 | Nicky H | 6 | Project Maintainer, ToIP |
-| 4 | stevevitka | 2 | ToIP |
+| 4 | stevevitka | 3 | ToIP |
 | 5 | [drummondreed](https://github.com/talltree) | 1 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 56 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 57 | Lab Leader |
 | 2 | Nicky H | 24 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 14 | Project Maintainer, ToIP |
 | 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
@@ -46,7 +46,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 56 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 57 | Lab Leader |
 | 2 | Nicky H | 24 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 14 | Project Maintainer, ToIP |
 | 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
@@ -56,14 +56,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 121 |
+| 2026 | 123 |
 | 2025 | 14 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 23 |
+| 2026-10 | 25 |
 | 2026-09 | 7 |
 | 2026-08 | 7 |
 | 2026-05 | 3 |
@@ -77,7 +77,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-13 | 1 |
+| 2026-10-14 | 1 |
+| 2026-10-13 | 2 |
 | 2026-10-12 | 2 |
 | 2026-10-09 | 1 |
 | 2026-10-08 | 1 |

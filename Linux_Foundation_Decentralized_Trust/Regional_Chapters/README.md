@@ -4,7 +4,7 @@
 - **Category ID:** 942821993391202394
 - **Total Messages in Category:** 886
 - **Last 30 Days:** 1
-- **Last 90 Days:** 11
+- **Last 90 Days:** 10
 - **Last 365 Days:** 67
 - **First Message:** 2022-02-15
 - **Last Message:** 2026-10-07
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [india-chapter](india-chapter_942822085917556777.md) | 2026-10-07 | 1 | 8 | 30 | 456 |
+| [india-chapter](india-chapter_942822085917556777.md) | 2026-10-07 | 1 | 7 | 30 | 456 |
 | [brasil-chapter](brasil-chapter_943207619508723723.md) | 2026-07-22 | 0 | 1 | 14 | 277 |
 | [european-chapter](european-chapter_1289237830081581158.md) | 2026-08-19 | 0 | 2 | 22 | 132 |
 | [japan-chapter-🇯🇵](japan-chapter-🇯🇵_956727657884692550.md) | 2026-06-17 | 0 | 0 | 1 | 21 |
@@ -31,7 +31,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Ankita | 6 | Credebl maintainer, Project Maintainer |
-| 2 | amitthosare | 3 | Credebl maintainer, Project Maintainer |
+| 2 | amitthosare | 2 | Credebl maintainer, Project Maintainer |
 | 3 | Zapperombie | 1 | — |
 | 4 | Prince Yarjack | 1 | — |
 

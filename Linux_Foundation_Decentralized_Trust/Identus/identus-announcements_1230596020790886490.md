@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Identus
 - **Channel ID:** 1230596020790886490
-- **Total Messages:** 27
-- **Last 30 Days:** 4
-- **Last 90 Days:** 6
-- **Last 365 Days:** 11
+- **Total Messages:** 28
+- **Last 30 Days:** 5
+- **Last 90 Days:** 7
+- **Last 365 Days:** 12
 - **First Message:** 2024-06-18
-- **Last Message:** 2026-09-30
+- **Last Message:** 2026-10-13
 
 ## Most Active Users
 
@@ -16,16 +16,16 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | havy | 1 | Identus Maintainer, Project Maintainer |
-| 2 | jonbauer | 1 | Identus Maintainer, Project Maintainer |
-| 3 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
+| 1 | Yurii Shynbuiev | 2 | Identus Maintainer, Project Maintainer |
+| 2 | havy | 1 | Identus Maintainer, Project Maintainer |
+| 3 | jonbauer | 1 | Identus Maintainer, Project Maintainer |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Yurii Shynbuiev | 2 | Identus Maintainer, Project Maintainer |
+| 1 | Yurii Shynbuiev | 3 | Identus Maintainer, Project Maintainer |
 | 2 | havy | 1 | Identus Maintainer, Project Maintainer |
 | 3 | jonbauer | 1 | Identus Maintainer, Project Maintainer |
 | 4 | pat_pat | 1 | Identus Maintainer, Project Maintainer |
@@ -35,7 +35,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Yurii Shynbuiev | 4 | Identus Maintainer, Project Maintainer |
+| 1 | Yurii Shynbuiev | 5 | Identus Maintainer, Project Maintainer |
 | 2 | havy | 3 | Identus Maintainer, Project Maintainer |
 | 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
 | 4 | jonbauer | 1 | Identus Maintainer, Project Maintainer |
@@ -46,7 +46,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Fay | 9 | Lab Leader |
-| 2 | Yurii Shynbuiev | 6 | Identus Maintainer, Project Maintainer |
+| 2 | Yurii Shynbuiev | 7 | Identus Maintainer, Project Maintainer |
 | 3 | havy | 4 | Identus Maintainer, Project Maintainer |
 | 4 | essbante | 3 | — |
 | 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
@@ -55,7 +55,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 10 |
+| 2026 | 11 |
 | 2025 | 3 |
 | 2024 | 14 |
 
@@ -63,6 +63,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-10 | 1 |
 | 2026-09 | 4 |
 | 2026-08 | 1 |
 | 2026-07 | 2 |
@@ -81,6 +82,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-13 | 1 |
 | 2026-09-30 | 1 |
 | 2026-09-29 | 2 |
 | 2026-09-15 | 1 |

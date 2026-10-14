@@ -4,7 +4,7 @@
 - **Category ID:** 1518924075123081246
 - **Total Messages in Category:** 683
 - **Last 30 Days:** 6
-- **Last 90 Days:** 84
+- **Last 90 Days:** 83
 - **Last 365 Days:** 153
 - **First Message:** 2022-03-02
 - **Last Message:** 2026-10-06
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [panurus](panurus_945691840110272522.md) | 2026-10-06 | 6 | 84 | 153 | 683 |
+| [panurus](panurus_945691840110272522.md) | 2026-10-06 | 6 | 83 | 153 | 683 |
 
 ## Most Active Users
 
@@ -29,7 +29,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | arunabha003 | 35 | — |
+| 1 | arunabha003 | 34 | — |
 | 2 | [Angelo De Caro](https://github.com/adecaro) | 33 | Lab Leader, Fabric Maintainer, Project Maintainer |
 | 3 | Atharva Borade | 8 | — |
 | 4 | EliMbadi | 4 | — |
