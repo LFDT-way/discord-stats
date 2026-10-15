@@ -10,7 +10,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 384 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 156 | Linux Foundation Staff |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 155 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 144 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
 | 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 115 | Lab Maintainer |
@@ -36,14 +36,14 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 25 | diegoz (OpenMobileHub, Multipaz) | 14 | Lab Maintainer, multipaz maintainer |
 | 26 | Samuel | 13 | SIG member |
 | 27 | MostafaGamal | 12 | — |
-| 28 | Amine | 11 | — |
-| 29 | [gmulhearn](https://github.com/gmulhearn) | 11 | vcx maintainer, Project Maintainer |
+| 28 | Sodium | 12 | — |
+| 29 | Amine | 11 | — |
 | 30 | albertoleon_7794 | 11 | — |
-| 31 | Anshulip | 10 | — |
-| 32 | [GenAris](https://github.com/genaris) | 10 | credo maintainers, Project Maintainer |
-| 33 | sirawt | 10 | — |
-| 34 | [drummondreed](https://github.com/talltree) | 10 | — |
-| 35 | Sodium | 10 | — |
+| 31 | [gmulhearn](https://github.com/gmulhearn) | 10 | vcx maintainer, Project Maintainer |
+| 32 | Anshulip | 10 | — |
+| 33 | [GenAris](https://github.com/genaris) | 10 | credo maintainers, Project Maintainer |
+| 34 | sirawt | 10 | — |
+| 35 | [drummondreed](https://github.com/talltree) | 10 | — |
 | 36 | Manthan | 9 | — |
 | 37 | Abhi | 9 | — |
 | 38 | Jim St.Clair | 8 | SIG member |

@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205464046915585
-- **Total Messages in Category:** 20,061
-- **Last 30 Days:** 49
-- **Last 90 Days:** 131
+- **Total Messages in Category:** 20,062
+- **Last 30 Days:** 47
+- **Last 90 Days:** 132
 - **Last 365 Days:** 828
 - **First Message:** 2021-11-07
-- **Last Message:** 2026-10-13
+- **Last Message:** 2026-10-14
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric](fabric_905205541326975046.md) | 2026-10-13 | 8 | 22 | 233 | 10,160 |
+| [fabric](fabric_905205541326975046.md) | 2026-10-14 | 9 | 23 | 234 | 10,161 |
 | [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-09-25 | 1 | 2 | 13 | 1,631 |
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-08 | 0 | 0 | 0 | 1,527 |
 | [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 0 | 46 | 1,300 |
@@ -22,7 +22,7 @@
 | [fabric-orderer](fabric-orderer_945037581500940298.md) | 2026-04-12 | 0 | 0 | 23 | 817 |
 | [fabric-code-contributors](fabric-code-contributors_941396957635682314.md) | 2026-05-09 | 0 | 0 | 8 | 602 |
 | [fabric-contract-apis](fabric-contract-apis_943090527920877598.md) | 2026-09-13 | 0 | 1 | 12 | 549 |
-| [fabric-x](fabric-x_1427642480504999976.md) | 2026-09-22 | 8 | 63 | 369 | 369 |
+| [fabric-x](fabric-x_1427642480504999976.md) | 2026-09-22 | 5 | 63 | 368 | 369 |
 | [fabric-documentation](fabric-documentation_945038395825070141.md) | 2026-06-19 | 0 | 0 | 21 | 272 |
 | [fabric-japanese](fabric-japanese_942950198836092958.md) | 2026-09-16 | 3 | 3 | 19 | 241 |
 | [fabric-dublin-workshop](fabric-dublin-workshop_1005123918740332604.md) | 2024-09-27 | 0 | 0 | 0 | 119 |
@@ -43,8 +43,8 @@
 | 1 | Storm1289 | 11 | — |
 | 2 | [arner](https://github.com/arner) | 10 | Project Maintainer, Fabric Maintainer |
 | 3 | Siddhartha | 7 | — |
-| 4 | [Yoav Tock](https://github.com/tock-ibm) | 4 | TAC member, Project Maintainer, Fabric Maintainer |
-| 5 | Frank_The_Fish | 3 | Lab Leader |
+| 4 | Frank_The_Fish | 3 | Lab Leader |
+| 5 | Pereowei | 2 | Lab Leader |
 
 ### Last 90 Days
 
@@ -80,7 +80,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 522 |
+| 2026 | 523 |
 | 2025 | 1,596 |
 | 2024 | 3,365 |
 | 2023 | 7,203 |
@@ -91,7 +91,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 19 |
+| 2026-10 | 20 |
 | 2026-09 | 54 |
 | 2026-08 | 34 |
 | 2026-07 | 39 |
@@ -154,6 +154,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-14 | 1 |
 | 2026-10-13 | 5 |
 | 2026-10-11 | 2 |
 | 2026-10-08 | 5 |

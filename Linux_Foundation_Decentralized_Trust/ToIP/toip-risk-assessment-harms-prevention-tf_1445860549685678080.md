@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1445860549685678080
-- **Total Messages:** 137
-- **Last 30 Days:** 32
-- **Last 90 Days:** 39
-- **Last 365 Days:** 137
+- **Total Messages:** 139
+- **Last 30 Days:** 34
+- **Last 90 Days:** 41
+- **Last 365 Days:** 139
 - **First Message:** 2025-12-03
-- **Last Message:** 2026-10-14
+- **Last Message:** 2026-10-15
 
 ## Most Active Users
 
@@ -16,7 +16,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 16 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 18 | Lab Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 9 | lfdt-ca, LFDT Staff |
 | 3 | stevevitka | 3 | ToIP |
 | 4 | Nicky H | 3 | Project Maintainer, ToIP |
@@ -26,7 +26,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 20 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 22 | Lab Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 9 | lfdt-ca, LFDT Staff |
 | 3 | Nicky H | 6 | Project Maintainer, ToIP |
 | 4 | stevevitka | 3 | ToIP |
@@ -36,7 +36,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 57 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 59 | Lab Leader |
 | 2 | Nicky H | 24 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 14 | Project Maintainer, ToIP |
 | 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
@@ -46,7 +46,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 57 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 59 | Lab Leader |
 | 2 | Nicky H | 24 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 14 | Project Maintainer, ToIP |
 | 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
@@ -56,14 +56,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 123 |
+| 2026 | 125 |
 | 2025 | 14 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 25 |
+| 2026-10 | 27 |
 | 2026-09 | 7 |
 | 2026-08 | 7 |
 | 2026-05 | 3 |
@@ -77,6 +77,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-15 | 2 |
 | 2026-10-14 | 1 |
 | 2026-10-13 | 2 |
 | 2026-10-12 | 2 |

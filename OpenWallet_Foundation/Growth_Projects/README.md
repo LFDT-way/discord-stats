@@ -2,25 +2,25 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
-- **Total Messages in Category:** 3,852
-- **Last 30 Days:** 153
-- **Last 90 Days:** 275
-- **Last 365 Days:** 1,261
+- **Total Messages in Category:** 3,854
+- **Last 30 Days:** 148
+- **Last 90 Days:** 277
+- **Last 365 Days:** 1,262
 - **First Message:** 2023-11-08
-- **Last Message:** 2026-10-13
+- **Last Message:** 2026-10-15
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [credo](credo_1179453305856991263.md) | 2026-10-09 | 10 | 14 | 159 | 1,096 |
-| [bifold](bifold_1209891839071756419.md) | 2026-10-06 | 3 | 18 | 144 | 912 |
-| [multipaz](multipaz_1179828955717574707.md) | 2026-10-09 | 16 | 26 | 219 | 648 |
+| [bifold](bifold_1209891839071756419.md) | 2026-10-15 | 5 | 20 | 146 | 914 |
+| [multipaz](multipaz_1179828955717574707.md) | 2026-10-09 | 9 | 26 | 219 | 648 |
 | [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-09 | 115 | 202 | 607 | 619 |
 | [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 0 | 88 | 268 |
 | [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 4 | 105 |
 | [owl](owl_1214965981470924911.md) | 2026-05-07 | 0 | 0 | 10 | 85 |
-| [vcx](vcx_1344319756324311123.md) | 2026-03-31 | 0 | 0 | 7 | 69 |
+| [vcx](vcx_1344319756324311123.md) | 2026-03-31 | 0 | 0 | 6 | 69 |
 | [didcomm-mediator-service](didcomm-mediator-service_1286300013365952583.md) | 2026-10-13 | 9 | 12 | 16 | 43 |
 | [diip](diip_1493643118078201856.md) | 2026-07-27 | 0 | 1 | 5 | 5 |
 | [thunderid](thunderid_1530170675493339227.md) | 2026-08-20 | 0 | 2 | 2 | 2 |
@@ -34,8 +34,8 @@
 | 1 | birte_lr | 50 | — |
 | 2 | [Mirko](https://github.com/cre8) | 37 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | Cyril | 15 | — |
-| 4 | [davidz25](https://github.com/davidz25) | 10 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 5 | espuni | 8 | — |
+| 4 | espuni | 8 | — |
+| 5 | [esune](https://github.com/esune) | 7 | Project Maintainer |
 
 ### Last 90 Days
 
@@ -71,7 +71,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,057 |
+| 2026 | 1,059 |
 | 2025 | 1,412 |
 | 2024 | 1,309 |
 | 2023 | 74 |
@@ -80,7 +80,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 55 |
+| 2026-10 | 57 |
 | 2026-09 | 129 |
 | 2026-08 | 47 |
 | 2026-07 | 90 |
@@ -121,6 +121,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-15 | 2 |
 | 2026-10-13 | 4 |
 | 2026-10-12 | 2 |
 | 2026-10-09 | 10 |

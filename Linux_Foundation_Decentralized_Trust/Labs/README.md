@@ -2,10 +2,10 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
-- **Total Messages in Category:** 21,390
-- **Last 30 Days:** 55
+- **Total Messages in Category:** 21,393
+- **Last 30 Days:** 57
 - **Last 90 Days:** 219
-- **Last 365 Days:** 839
+- **Last 365 Days:** 842
 - **First Message:** 2021-11-05
 - **Last Message:** 2026-10-14
 
@@ -23,23 +23,23 @@
 | [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-01 | 3 | 11 | 63 | 153 |
 | [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 8 | 142 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-09-21 | 8 | 8 | 11 | 108 |
-| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-10-10 | 11 | 93 | 93 | 93 |
+| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-10-14 | 11 | 94 | 94 | 94 |
 | [fablo](fablo_1109190949394989127.md) | 2026-09-15 | 1 | 2 | 13 | 87 |
 | [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-09-22 | 3 | 27 | 81 | 81 |
 | [general](general_988569914266775662.md) | 2026-07-30 | 0 | 3 | 11 | 72 |
 | [cello](cello_941475454378991646.md) | 2026-08-28 | 0 | 1 | 10 | 54 |
 | [cc-tools](cc-tools_1156653969133809715.md) | 2025-05-07 | 0 | 0 | 0 | 45 |
-| [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-10-07 | 1 | 6 | 38 | 44 |
+| [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-10-07 | 1 | 3 | 38 | 44 |
 | [learning-tokens](learning-tokens_1120853856360878271.md) | 2026-08-25 | 0 | 4 | 6 | 36 |
 | [hypernate](hypernate_1417903966464770159.md) | 2026-07-23 | 0 | 3 | 15 | 32 |
 | [cbweb3](cbweb3_1400427588287074364.md) | 2026-05-29 | 0 | 0 | 30 | 31 |
 | [composable-evidence-criteria](composable-evidence-criteria_1554888185958502581.md) | 2026-10-03 | 9 | 9 | 9 | 9 |
 | [fabricops](fabricops_1537506138008981524.md) | 2026-10-04 | 1 | 7 | 7 | 7 |
+| [clpr](clpr_1559643143559717006.md) | 2026-10-14 | 6 | 6 | 6 | 6 |
 | [fabric-sdk-rust](fabric-sdk-rust_1419694192921153669.md) | 2026-02-02 | 0 | 0 | 1 | 5 |
 | [caliper-announcements](caliper-announcements_941417775275065364.md) | 2025-10-03 | 0 | 0 | 0 | 5 |
 | [caliper-github](caliper-github_943549642824638544.md) | 2024-04-12 | 0 | 0 | 0 | 4 |
 | [accountable-impact-commons](accountable-impact-commons_1540006318125879346.md) | 2026-09-03 | 0 | 4 | 4 | 4 |
-| [clpr](clpr_1559643143559717006.md) | 2026-10-14 | 4 | 4 | 4 | 4 |
 | [agent-authority-conformance](agent-authority-conformance_1542096589961699369.md) | 2026-08-26 | 0 | 3 | 3 | 3 |
 | [veltoracore](veltoracore_1504169634910310410.md) | 2026-09-22 | 1 | 2 | 2 | 2 |
 | [os_frontiers](os_frontiers_1498334265769726123.md) | 2026-10-09 | 2 | 2 | 2 | 2 |
@@ -90,7 +90,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 688 |
+| 2026 | 691 |
 | 2025 | 993 |
 | 2024 | 2,099 |
 | 2023 | 7,409 |
@@ -101,7 +101,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 22 |
+| 2026-10 | 25 |
 | 2026-09 | 42 |
 | 2026-08 | 53 |
 | 2026-07 | 124 |
@@ -164,7 +164,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-14 | 1 |
+| 2026-10-14 | 4 |
 | 2026-10-13 | 3 |
 | 2026-10-10 | 1 |
 | 2026-10-09 | 1 |

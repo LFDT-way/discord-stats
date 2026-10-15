@@ -22,7 +22,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Alfonso Govela](https://github.com/AlfonsoGovela) | 7 | Lab Leader |
-| 2 | [hendrik.ebbers](https://github.com/hendrikebbers) | 5 | TAC member, Project Maintainer, SIG leader, Hiero maintainer |
+| 2 | [hendrik.ebbers](https://github.com/hendrikebbers) | 5 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
 | 3 | Amit Rajan | 1 | — |
 | 4 | vetefe | 1 | Lab Leader |
 
@@ -31,7 +31,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Alfonso Govela](https://github.com/AlfonsoGovela) | 7 | Lab Leader |
-| 2 | [hendrik.ebbers](https://github.com/hendrikebbers) | 5 | TAC member, Project Maintainer, SIG leader, Hiero maintainer |
+| 2 | [hendrik.ebbers](https://github.com/hendrikebbers) | 5 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
 | 3 | Amit Rajan | 1 | — |
 | 4 | vetefe | 1 | Lab Leader |
 
@@ -40,7 +40,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Alfonso Govela](https://github.com/AlfonsoGovela) | 7 | Lab Leader |
-| 2 | [hendrik.ebbers](https://github.com/hendrikebbers) | 5 | TAC member, Project Maintainer, SIG leader, Hiero maintainer |
+| 2 | [hendrik.ebbers](https://github.com/hendrikebbers) | 5 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
 | 3 | Amit Rajan | 1 | — |
 | 4 | vetefe | 1 | Lab Leader |
 
@@ -49,7 +49,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Alfonso Govela](https://github.com/AlfonsoGovela) | 7 | Lab Leader |
-| 2 | [hendrik.ebbers](https://github.com/hendrikebbers) | 5 | TAC member, Project Maintainer, SIG leader, Hiero maintainer |
+| 2 | [hendrik.ebbers](https://github.com/hendrikebbers) | 5 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
 | 3 | Amit Rajan | 1 | — |
 | 4 | vetefe | 1 | Lab Leader |
 

@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205929920856137
 - **Total Messages in Category:** 1,581
-- **Last 30 Days:** 10
+- **Last 30 Days:** 5
 - **Last 90 Days:** 18
 - **Last 365 Days:** 36
 - **First Message:** 2021-11-03
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [community-architects](community-architects_905205991073804308.md) | 2026-10-12 | 10 | 18 | 36 | 1,581 |
+| [community-architects](community-architects_905205991073804308.md) | 2026-10-12 | 5 | 18 | 36 | 1,581 |
 
 ## Most Active Users
 
@@ -21,9 +21,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
-| 2 | vetefe | 3 | Lab Leader |
-| 3 | akupemulaygbaik | 3 | — |
+| 1 | vetefe | 3 | Lab Leader |
+| 2 | [Ry Jones](https://github.com/ryjones) | 2 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 

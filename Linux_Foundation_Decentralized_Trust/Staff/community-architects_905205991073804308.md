@@ -4,7 +4,7 @@
 - **Category:** Staff
 - **Channel ID:** 905205991073804308
 - **Total Messages:** 1,581
-- **Last 30 Days:** 10
+- **Last 30 Days:** 5
 - **Last 90 Days:** 18
 - **Last 365 Days:** 36
 - **First Message:** 2021-11-03
@@ -16,9 +16,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
-| 2 | vetefe | 3 | Lab Leader |
-| 3 | akupemulaygbaik | 3 | — |
+| 1 | vetefe | 3 | Lab Leader |
+| 2 | [Ry Jones](https://github.com/ryjones) | 2 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 
