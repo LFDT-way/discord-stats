@@ -3,8 +3,8 @@
 - **Guild ID:** 1202723482224295936
 - **Total Messages:** 4,530
 - **Last 30 Days:** 66
-- **Last 90 Days:** 289
-- **Last 365 Days:** 1,471 — [active users](users.md)
+- **Last 90 Days:** 283
+- **Last 365 Days:** 1,470 — [active users](users.md)
 - **First Message:** 2024-02-01
 - **Last Message:** 2026-10-12
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -13,7 +13,7 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PQ Code Package](PQ_Code_Package/README.md) | 3,593 | 27 | 210 | 1,194 | 2024-02-03 | 2026-10-09 |
+| [PQ Code Package](PQ_Code_Package/README.md) | 3,593 | 27 | 204 | 1,193 | 2024-02-03 | 2026-10-09 |
 | [Welcome](Welcome/README.md) | 510 | 26 | 49 | 157 | 2024-02-01 | 2026-10-12 |
 | [Open Quantum Safe](Open_Quantum_Safe/README.md) | 282 | 10 | 27 | 79 | 2024-02-03 | 2026-10-06 |
 | [Governance](Governance/README.md) | 81 | 0 | 0 | 6 | 2024-02-05 | 2026-02-10 |
@@ -38,8 +38,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 96 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 66 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 15 | PQ Code Package Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 63 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 14 | PQ Code Package Maintainer |
 | 4 | θρπχι | 12 | — |
 | 5 | Ishan | 10 | — |
 
@@ -48,7 +48,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 501 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 413 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 412 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 102 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 86 | LF Staff |
 | 5 | Jake | 42 | PQ Code Package Maintainer, Project Maintainer |

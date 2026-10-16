@@ -5,8 +5,8 @@
 - **Channel ID:** 1339067141269229652
 - **Total Messages:** 2,195
 - **Last 30 Days:** 1
-- **Last 90 Days:** 66
-- **Last 365 Days:** 701
+- **Last 90 Days:** 60
+- **Last 365 Days:** 700
 - **First Message:** 2025-02-12
 - **Last Message:** 2026-10-09
 
@@ -22,17 +22,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 28 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | Rod | 27 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 3 | PQ Code Package Maintainer |
-| 4 | Jake | 3 | PQ Code Package Maintainer, Project Maintainer |
-| 5 | isolinear | 3 | — |
+| 1 | Rod | 27 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 25 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | isolinear | 3 | — |
+| 4 | Hanno | 2 | PQ Code Package Maintainer |
+| 5 | Ben Knill | 1 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 285 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 284 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | Rod | 258 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 56 | PQ Code Package Maintainer |
 | 4 | Jake | 42 | PQ Code Package Maintainer, Project Maintainer |

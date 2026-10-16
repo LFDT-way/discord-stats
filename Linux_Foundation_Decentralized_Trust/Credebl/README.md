@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 418
 - **Last 30 Days:** 4
 - **Last 90 Days:** 17
-- **Last 365 Days:** 172
+- **Last 365 Days:** 171
 - **First Message:** 2025-01-23
 - **Last Message:** 2026-10-14
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credebl](credebl_1331657363161219082.md) | 2026-10-14 | 4 | 17 | 113 | 285 |
+| [credebl](credebl_1331657363161219082.md) | 2026-10-14 | 4 | 17 | 112 | 285 |
 | [credebl-platform](credebl-platform_1354090545043210362.md) | 2025-09-30 | 0 | 0 | 0 | 61 |
 | [credebl-maintainers](credebl-maintainers_1354091009813905488.md) | 2026-07-07 | 0 | 0 | 50 | 58 |
 | [credebl-announcement](credebl-announcement_1354090474654404660.md) | 2026-04-09 | 0 | 0 | 9 | 14 |
@@ -41,7 +41,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | amitthosare | 30 | Credebl maintainer, Project Maintainer |
-| 2 | Ankita | 24 | Credebl maintainer, Project Maintainer |
+| 2 | Ankita | 23 | Credebl maintainer, Project Maintainer |
 | 3 | PriyanshuZone | 19 | — |
 | 4 | [Sai Ranjit](https://github.com/sairanjit) | 16 | Credebl maintainer, Project Maintainer |
 | 5 | [Ry Jones](https://github.com/ryjones) | 15 | lfdt-ca, LFDT Staff |

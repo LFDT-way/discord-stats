@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515688758751282
 - **Total Messages in Category:** 26,653
-- **Last 30 Days:** 14
+- **Last 30 Days:** 2
 - **Last 90 Days:** 51
 - **Last 365 Days:** 666
 - **First Message:** 2022-01-05
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [firefly](firefly_928377875827154984.md) | 2026-10-14 | 2 | 13 | 139 | 25,510 |
-| [firefly-maintainers](firefly-maintainers_1151539141826322482.md) | 2026-09-15 | 12 | 38 | 527 | 973 |
+| [firefly-maintainers](firefly-maintainers_1151539141826322482.md) | 2026-09-15 | 0 | 38 | 527 | 973 |
 | [firefly-workshop](firefly-workshop_1063562168064282685.md) | 2025-08-28 | 0 | 0 | 0 | 169 |
 | [firefly-announcements](firefly-announcements_928380528422432769.md) | 2022-04-13 | 0 | 0 | 0 | 1 |
 
@@ -24,9 +24,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
-| 2 | [Enrique Lacal](https://github.com/EnriqueL8) | 6 | TAC member, Project Maintainer, Firefly Maintainer |
-| 3 | [SonicSwordcane](https://github.com/SupernaviX) | 1 | Project Maintainer, Firefly Maintainer |
+| 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 1 | TAC member, Project Maintainer, Firefly Maintainer |
+| 2 | [SonicSwordcane](https://github.com/SupernaviX) | 1 | Project Maintainer, Firefly Maintainer |
 
 ### Last 90 Days
 

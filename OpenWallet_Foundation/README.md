@@ -1,10 +1,10 @@
 # Guild Report: OpenWallet Foundation
 
 - **Guild ID:** 1022962884864643214
-- **Total Messages:** 9,700
-- **Last 30 Days:** 184
-- **Last 90 Days:** 348
-- **Last 365 Days:** 1,960 — [active users](users.md)
+- **Total Messages:** 9,717
+- **Last 30 Days:** 198
+- **Last 90 Days:** 355
+- **Last 365 Days:** 1,977 — [active users](users.md)
 - **First Message:** 2022-09-23
 - **Last Message:** 2026-10-15
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -13,11 +13,11 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,854 | 148 | 277 | 1,262 | 2023-11-08 | 2026-10-15 |
+| [Growth Projects](Growth_Projects/README.md) | 3,871 | 163 | 285 | 1,279 | 2023-11-08 | 2026-10-15 |
 | [General](General/README.md) | 1,864 | 5 | 7 | 71 | 2022-09-23 | 2026-10-05 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 12 | 14 | 114 | 2022-09-28 | 2026-09-24 |
-| [Impact Projects](Impact_Projects/README.md) | 876 | 9 | 25 | 169 | 2024-09-26 | 2026-10-13 |
-| [Labs](Labs/README.md) | 856 | 9 | 24 | 336 | 2023-06-02 | 2026-10-10 |
+| [Impact Projects](Impact_Projects/README.md) | 876 | 8 | 25 | 169 | 2024-09-26 | 2026-10-13 |
+| [Labs](Labs/README.md) | 856 | 9 | 23 | 336 | 2023-06-02 | 2026-10-10 |
 | [Archive](Archive/README.md) | 345 | 0 | 0 | 1 | 2022-09-23 | 2025-10-23 |
 | [Information](Information/README.md) | 69 | 1 | 1 | 7 | 2022-09-28 | 2026-09-24 |
 
@@ -27,8 +27,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | birte_lr | 50 | — |
-| 2 | [Mirko](https://github.com/cre8) | 45 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | birte_lr | 61 | — |
+| 2 | [Mirko](https://github.com/cre8) | 47 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | Cyril | 15 | — |
 | 4 | espuni | 8 | — |
 | 5 | [esune](https://github.com/esune) | 8 | Project Maintainer |
@@ -37,19 +37,19 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 93 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | birte_lr | 50 | — |
+| 1 | [Mirko](https://github.com/cre8) | 90 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | birte_lr | 61 | — |
 | 3 | Cyril | 26 | — |
-| 4 | espuni | 22 | — |
+| 4 | espuni | 20 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 14 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 384 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 386 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 155 | Linux Foundation Staff |
-| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 144 | Linux Foundation Staff |
+| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 145 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
 | 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 115 | Lab Maintainer |
 
@@ -57,9 +57,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 631 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 633 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 497 | Linux Foundation Staff |
-| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 400 | Linux Foundation Staff |
+| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 401 | Linux Foundation Staff |
 | 4 | Tracy | 399 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 302 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,493 |
+| 2026 | 1,510 |
 | 2025 | 2,830 |
 | 2024 | 2,596 |
 | 2023 | 1,595 |
@@ -77,7 +77,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 67 |
+| 2026-10 | 84 |
 | 2026-09 | 166 |
 | 2026-08 | 53 |
 | 2026-07 | 130 |
@@ -132,7 +132,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-15 | 2 |
+| 2026-10-15 | 19 |
 | 2026-10-13 | 8 |
 | 2026-10-12 | 3 |
 | 2026-10-10 | 1 |

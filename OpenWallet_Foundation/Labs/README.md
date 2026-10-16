@@ -4,7 +4,7 @@
 - **Category ID:** 1108449719212048556
 - **Total Messages in Category:** 856
 - **Last 30 Days:** 9
-- **Last 90 Days:** 24
+- **Last 90 Days:** 23
 - **Last 365 Days:** 336
 - **First Message:** 2023-06-02
 - **Last Message:** 2026-10-10
@@ -22,7 +22,7 @@
 | [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-08-18 | 0 | 2 | 21 | 28 |
 | [wallet-framework-dotnet](wallet-framework-dotnet_1159552665940938842.md) | 2024-10-11 | 0 | 0 | 0 | 26 |
 | [pydentity-wallet](pydentity-wallet_1352199414956953630.md) | 2026-02-11 | 0 | 0 | 3 | 20 |
-| [axle](axle_1404761591710355506.md) | 2026-07-17 | 0 | 1 | 14 | 17 |
+| [axle](axle_1404761591710355506.md) | 2026-07-17 | 0 | 0 | 14 | 17 |
 | [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-10-10 | 9 | 14 | 16 | 16 |
 | [farmworker-wallet-os](farmworker-wallet-os_1138937641123987466.md) | 2024-10-09 | 0 | 0 | 0 | 10 |
 | [sd-jwt-vc-dm](sd-jwt-vc-dm_1331889781570932849.md) | 2025-04-20 | 0 | 0 | 0 | 10 |
@@ -53,8 +53,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Manthan | 5 | — |
 | 2 | [Mirko](https://github.com/cre8) | 4 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | [Lukas.J.Han](https://github.com/lukasjhan) | 4 | Lab Maintainer |
-| 4 | [firegod](https://github.com/wenjing) | 3 | — |
+| 3 | [firegod](https://github.com/wenjing) | 3 | — |
+| 4 | [Lukas.J.Han](https://github.com/lukasjhan) | 3 | Lab Maintainer |
 | 5 | kukgini | 2 | — |
 
 ### Last 365 Days

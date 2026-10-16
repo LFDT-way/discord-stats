@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1226983696306012181
 - **Total Messages in Category:** 1,558
-- **Last 30 Days:** 11
+- **Last 30 Days:** 10
 - **Last 90 Days:** 33
 - **Last 365 Days:** 256
 - **First Message:** 2024-04-10
@@ -19,7 +19,7 @@
 | [general](general_1252630735269925057.md) | 2026-10-01 | 3 | 22 | 91 | 193 |
 | [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 0 | 65 |
 | [identus-faq](identus-faq_1252622748073853083.md) | 2025-11-29 | 0 | 0 | 15 | 46 |
-| [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-10-13 | 5 | 7 | 12 | 28 |
+| [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-10-13 | 4 | 7 | 12 | 28 |
 | [mediator](mediator_1252629675943919679.md) | 2026-07-07 | 0 | 0 | 3 | 22 |
 | [meeting-minutes](meeting-minutes_1252982706212438016.md) | 2025-06-18 | 0 | 0 | 0 | 12 |
 | [sdk-kmp](sdk-kmp_1252629800372408330.md) | 2026-09-28 | 3 | 3 | 3 | 9 |
@@ -32,9 +32,9 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | jonbauer | 6 | Identus Maintainer, Project Maintainer |
-| 2 | Yurii Shynbuiev | 2 | Identus Maintainer, Project Maintainer |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
-| 4 | havy | 1 | Identus Maintainer, Project Maintainer |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
+| 3 | havy | 1 | Identus Maintainer, Project Maintainer |
+| 4 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
 
 ### Last 90 Days
 
