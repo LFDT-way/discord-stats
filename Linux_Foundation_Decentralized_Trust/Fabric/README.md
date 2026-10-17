@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205464046915585
 - **Total Messages in Category:** 20,062
-- **Last 30 Days:** 46
+- **Last 30 Days:** 43
 - **Last 90 Days:** 129
-- **Last 365 Days:** 826
+- **Last 365 Days:** 821
 - **First Message:** 2021-11-07
 - **Last Message:** 2026-10-14
 
@@ -19,12 +19,12 @@
 | [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 0 | 46 | 1,300 |
 | [fabric-peer](fabric-peer_945037339170836501.md) | 2026-04-10 | 0 | 0 | 6 | 1,084 |
 | [fabric-private-chaincode](fabric-private-chaincode_943059293765267497.md) | 2026-08-14 | 0 | 3 | 28 | 1,075 |
-| [fabric-orderer](fabric-orderer_945037581500940298.md) | 2026-04-12 | 0 | 0 | 21 | 817 |
+| [fabric-orderer](fabric-orderer_945037581500940298.md) | 2026-04-12 | 0 | 0 | 18 | 817 |
 | [fabric-code-contributors](fabric-code-contributors_941396957635682314.md) | 2026-05-09 | 0 | 0 | 8 | 602 |
 | [fabric-contract-apis](fabric-contract-apis_943090527920877598.md) | 2026-09-13 | 0 | 1 | 12 | 549 |
-| [fabric-x](fabric-x_1427642480504999976.md) | 2026-09-22 | 4 | 61 | 368 | 369 |
+| [fabric-x](fabric-x_1427642480504999976.md) | 2026-09-22 | 4 | 61 | 366 | 369 |
 | [fabric-documentation](fabric-documentation_945038395825070141.md) | 2026-06-19 | 0 | 0 | 21 | 272 |
-| [fabric-japanese](fabric-japanese_942950198836092958.md) | 2026-09-16 | 3 | 3 | 19 | 241 |
+| [fabric-japanese](fabric-japanese_942950198836092958.md) | 2026-09-16 | 0 | 3 | 19 | 241 |
 | [fabric-dublin-workshop](fabric-dublin-workshop_1005123918740332604.md) | 2024-09-27 | 0 | 0 | 0 | 119 |
 | [fabric-admin-sdk](fabric-admin-sdk_1063507202607956018.md) | 2026-04-24 | 0 | 0 | 1 | 110 |
 | [fabric-certified-practitioner](fabric-certified-practitioner_1158754773026222130.md) | 2026-08-04 | 0 | 7 | 16 | 70 |

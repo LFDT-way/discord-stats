@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1155727691216076911
 - **Total Messages in Category:** 2,382
-- **Last 30 Days:** 5
+- **Last 30 Days:** 0
 - **Last 90 Days:** 25
 - **Last 365 Days:** 149
 - **First Message:** 2023-09-10
@@ -14,16 +14,13 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [fabric-newbies](fabric-newbies_1150488600975245412.md) | 2026-07-20 | 0 | 2 | 111 | 1,957 |
-| [firefly-newbies](firefly-newbies_1154921177207275520.md) | 2026-09-16 | 5 | 23 | 38 | 425 |
+| [firefly-newbies](firefly-newbies_1154921177207275520.md) | 2026-09-16 | 0 | 23 | 38 | 425 |
 
 ## Most Active Users
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | 0xTemi Hardhek 🦀 | 3 | — |
-| 2 | [Enrique Lacal](https://github.com/EnriqueL8) | 2 | TAC member, Project Maintainer, Firefly Maintainer |
+_No activity in this period._
 
 ### Last 90 Days
 

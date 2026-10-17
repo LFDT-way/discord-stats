@@ -5,7 +5,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 129
-- **Messages (365d):** 1,977
+- **Messages (365d):** 1,978
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -48,7 +48,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 37 | Abhi | 9 | — |
 | 38 | Jim St.Clair | 8 | SIG member |
 | 39 | Jason | 8 | bifold maintainers, Project Maintainer |
-| 40 | Thiago Romano | 7 | — |
+| 40 | Thiago Romano | 8 | — |
 | 41 | Pragya Jain | 7 | — |
 | 42 | jarosss_ | 6 | — |
 | 43 | vivek | 6 | — |

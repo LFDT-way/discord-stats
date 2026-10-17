@@ -3,8 +3,8 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
 - **Total Messages in Category:** 3,871
-- **Last 30 Days:** 163
-- **Last 90 Days:** 285
+- **Last 30 Days:** 156
+- **Last 90 Days:** 280
 - **Last 365 Days:** 1,279
 - **First Message:** 2023-11-08
 - **Last Message:** 2026-10-15
@@ -16,7 +16,7 @@
 | [credo](credo_1179453305856991263.md) | 2026-10-15 | 13 | 17 | 162 | 1,099 |
 | [bifold](bifold_1209891839071756419.md) | 2026-10-15 | 5 | 20 | 146 | 914 |
 | [multipaz](multipaz_1179828955717574707.md) | 2026-10-09 | 7 | 26 | 219 | 648 |
-| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-15 | 129 | 207 | 621 | 633 |
+| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-15 | 122 | 202 | 621 | 633 |
 | [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 0 | 88 | 268 |
 | [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 4 | 105 |
 | [owl](owl_1214965981470924911.md) | 2026-05-07 | 0 | 0 | 10 | 85 |
@@ -32,8 +32,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | birte_lr | 61 | — |
-| 2 | [Mirko](https://github.com/cre8) | 39 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | Cyril | 15 | — |
+| 2 | [Mirko](https://github.com/cre8) | 37 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 3 | Cyril | 10 | — |
 | 4 | espuni | 8 | — |
 | 5 | [esune](https://github.com/esune) | 7 | Project Maintainer |
 
@@ -41,7 +41,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 80 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 77 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | birte_lr | 61 | — |
 | 3 | Cyril | 26 | — |
 | 4 | espuni | 20 | — |

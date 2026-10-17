@@ -2,18 +2,18 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1285999377751736443
-- **Total Messages in Category:** 876
-- **Last 30 Days:** 8
-- **Last 90 Days:** 25
-- **Last 365 Days:** 169
+- **Total Messages in Category:** 877
+- **Last 30 Days:** 9
+- **Last 90 Days:** 26
+- **Last 365 Days:** 170
 - **First Message:** 2024-09-26
-- **Last Message:** 2026-10-13
+- **Last Message:** 2026-10-16
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aca-py](aca-py_1286299858994462842.md) | 2026-10-13 | 8 | 25 | 168 | 815 |
+| [aca-py](aca-py_1286299858994462842.md) | 2026-10-16 | 9 | 26 | 169 | 816 |
 | [acapy-did-registration](acapy-did-registration_1303470616581509130.md) | 2025-10-25 | 0 | 0 | 1 | 61 |
 
 ## Most Active Users
@@ -25,7 +25,8 @@
 | 1 | Pragya Jain | 3 | — |
 | 2 | RMLearney | 3 | — |
 | 3 | [swcurran](https://github.com/swcurran) | 1 | Lab Maintainer, TAC members, Project Maintainer |
-| 4 | [esune](https://github.com/esune) | 1 | Project Maintainer |
+| 4 | Thiago Romano | 1 | — |
+| 5 | [esune](https://github.com/esune) | 1 | Project Maintainer |
 
 ### Last 90 Days
 
@@ -61,7 +62,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 101 |
+| 2026 | 102 |
 | 2025 | 531 |
 | 2024 | 244 |
 
@@ -69,7 +70,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 8 |
+| 2026-10 | 9 |
 | 2026-09 | 1 |
 | 2026-08 | 2 |
 | 2026-07 | 15 |
@@ -100,6 +101,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-16 | 1 |
 | 2026-10-13 | 4 |
 | 2026-10-12 | 1 |
 | 2026-10-07 | 1 |

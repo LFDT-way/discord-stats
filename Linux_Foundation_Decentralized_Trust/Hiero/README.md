@@ -2,12 +2,12 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1283486767546237040
-- **Total Messages in Category:** 2,126
-- **Last 30 Days:** 73
-- **Last 90 Days:** 240
-- **Last 365 Days:** 1,452
+- **Total Messages in Category:** 2,127
+- **Last 30 Days:** 74
+- **Last 90 Days:** 241
+- **Last 365 Days:** 1,453
 - **First Message:** 2024-09-11
-- **Last Message:** 2026-10-15
+- **Last Message:** 2026-10-16
 
 ## Channels in Category
 
@@ -23,7 +23,7 @@
 | [hiero-did-sdk-js](hiero-did-sdk-js_1403132892007366806.md) | 2026-05-06 | 0 | 0 | 23 | 75 |
 | [hiero-sdk-community](hiero-sdk-community_1460295344620572907.md) | 2026-10-02 | 4 | 6 | 74 | 74 |
 | [hiero-sdk-cpp](hiero-sdk-cpp_1337424839761465364.md) | 2026-10-06 | 4 | 5 | 60 | 65 |
-| [hiero-hackers](hiero-hackers_1471877661856104649.md) | 2026-10-15 | 8 | 24 | 41 | 41 |
+| [hiero-hackers](hiero-hackers_1471877661856104649.md) | 2026-10-16 | 9 | 25 | 42 | 42 |
 | [hiero-enterprise-java](hiero-enterprise-java_1370373361942663178.md) | 2026-08-10 | 0 | 14 | 32 | 34 |
 | [hiero-sdk-js](hiero-sdk-js_1337424656138899537.md) | 2026-09-07 | 0 | 2 | 29 | 32 |
 | [hiero-sdk-rust](hiero-sdk-rust_1400196736244518982.md) | 2026-09-07 | 0 | 3 | 32 | 32 |
@@ -87,7 +87,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,393 |
+| 2026 | 1,394 |
 | 2025 | 709 |
 | 2024 | 24 |
 
@@ -95,7 +95,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 44 |
+| 2026-10 | 45 |
 | 2026-09 | 53 |
 | 2026-08 | 132 |
 | 2026-07 | 53 |
@@ -125,6 +125,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-16 | 1 |
 | 2026-10-15 | 1 |
 | 2026-10-14 | 11 |
 | 2026-10-13 | 4 |

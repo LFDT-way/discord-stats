@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 7,188
 - **Last 30 Days:** 1
 - **Last 90 Days:** 4
-- **Last 365 Days:** 101
+- **Last 365 Days:** 100
 - **First Message:** 2022-02-12
 - **Last Message:** 2026-09-24
 
@@ -40,7 +40,7 @@
 | [badging-lifecycle-tf](badging-lifecycle-tf_1139220569531875389.md) | 2024-08-16 | 0 | 0 | 0 | 66 |
 | [francophone](francophone_973545038128762941.md) | 2024-07-24 | 0 | 0 | 0 | 58 |
 | [contribution-ladder-task-force](contribution-ladder-task-force_1395138176624103534.md) | 2025-11-20 | 0 | 0 | 10 | 52 |
-| [africa-chapter](africa-chapter_1042889475782623262.md) | 2026-06-17 | 0 | 0 | 6 | 52 |
+| [africa-chapter](africa-chapter_1042889475782623262.md) | 2026-06-17 | 0 | 0 | 5 | 52 |
 | [fabric-operator](fabric-operator_1044651861799620638.md) | 2025-11-05 | 0 | 0 | 1 | 51 |
 | [hyperledger-challenge](hyperledger-challenge_946373162008985640.md) | 2024-08-06 | 0 | 0 | 0 | 48 |
 | [capital-markets-sig](capital-markets-sig_943951056252063744.md) | 2026-06-08 | 0 | 0 | 2 | 47 |

@@ -2,10 +2,10 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
-- **Total Messages in Category:** 21,395
+- **Total Messages in Category:** 21,415
 - **Last 30 Days:** 58
-- **Last 90 Days:** 185
-- **Last 365 Days:** 837
+- **Last 90 Days:** 188
+- **Last 365 Days:** 841
 - **First Message:** 2021-11-05
 - **Last Message:** 2026-10-16
 
@@ -19,7 +19,7 @@
 | [caliper](caliper_941417677778473031.md) | 2026-03-23 | 0 | 0 | 20 | 1,439 |
 | [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-04-15 | 0 | 0 | 12 | 1,185 |
 | [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 4 | 859 |
-| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-16 | 12 | 19 | 170 | 348 |
+| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-16 | 12 | 20 | 171 | 349 |
 | [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-01 | 3 | 11 | 63 | 153 |
 | [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 8 | 135 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-09-21 | 8 | 8 | 11 | 108 |
@@ -31,8 +31,9 @@
 | [cc-tools](cc-tools_1156653969133809715.md) | 2025-05-07 | 0 | 0 | 0 | 45 |
 | [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-10-07 | 1 | 3 | 38 | 44 |
 | [learning-tokens](learning-tokens_1120853856360878271.md) | 2026-08-25 | 0 | 4 | 6 | 36 |
-| [hypernate](hypernate_1417903966464770159.md) | 2026-07-23 | 0 | 3 | 15 | 32 |
+| [hypernate](hypernate_1417903966464770159.md) | 2026-07-23 | 0 | 3 | 14 | 32 |
 | [cbweb3](cbweb3_1400427588287074364.md) | 2026-05-29 | 0 | 0 | 30 | 31 |
+| [smoot-general](smoot-general_1369405582422835272.md) | 2026-08-19 | 0 | 2 | 4 | 19 |
 | [composable-evidence-criteria](composable-evidence-criteria_1554888185958502581.md) | 2026-10-03 | 9 | 9 | 9 | 9 |
 | [fabricops](fabricops_1537506138008981524.md) | 2026-10-04 | 1 | 7 | 7 | 7 |
 | [clpr](clpr_1559643143559717006.md) | 2026-10-15 | 7 | 7 | 7 | 7 |
@@ -50,18 +51,18 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 7 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 6 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 2 | vetefe | 6 | Lab Leader |
-| 3 | Vipin Bharathan | 5 | lab stewards |
-| 4 | [Ry Jones](https://github.com/ryjones) | 5 | lfdt-ca, LFDT Staff |
+| 3 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
+| 4 | Vipin Bharathan | 5 | lab stewards |
 | 5 | Oofers | 4 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 29 | lfdt-ca, LFDT Staff |
-| 2 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 15 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 1 | [Ry Jones](https://github.com/ryjones) | 30 | lfdt-ca, LFDT Staff |
+| 2 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 17 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 3 | Dondo | 14 | Lab Leader |
 | 4 | kadalkidal | 13 | Lab Leader |
 | 5 | [DanielSzego](https://github.com/Daniel-Szego) | 11 | Meetup Organizer |
@@ -71,8 +72,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [RAWx18](https://github.com/RAWx18) | 84 | Lab Leader |
-| 2 | [Ry Jones](https://github.com/ryjones) | 80 | lfdt-ca, LFDT Staff |
-| 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 75 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 81 | lfdt-ca, LFDT Staff |
+| 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 78 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 4 | [DanielSzego](https://github.com/Daniel-Szego) | 55 | Meetup Organizer |
 | 5 | [Angelo De Caro](https://github.com/adecaro) | 49 | Lab Leader, Fabric Maintainer, Project Maintainer |
 
@@ -90,8 +91,8 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 693 |
-| 2025 | 993 |
+| 2026 | 698 |
+| 2025 | 1,008 |
 | 2024 | 2,099 |
 | 2023 | 7,409 |
 | 2022 | 10,199 |
@@ -101,24 +102,24 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 27 |
+| 2026-10 | 28 |
 | 2026-09 | 42 |
-| 2026-08 | 53 |
-| 2026-07 | 124 |
+| 2026-08 | 54 |
+| 2026-07 | 125 |
 | 2026-06 | 64 |
-| 2026-05 | 86 |
-| 2026-04 | 133 |
+| 2026-05 | 87 |
+| 2026-04 | 134 |
 | 2026-03 | 71 |
 | 2026-02 | 27 |
 | 2026-01 | 66 |
 | 2025-12 | 49 |
 | 2025-11 | 57 |
-| 2025-10 | 222 |
+| 2025-10 | 223 |
 | 2025-09 | 94 |
 | 2025-08 | 27 |
-| 2025-07 | 36 |
-| 2025-06 | 66 |
-| 2025-05 | 73 |
+| 2025-07 | 41 |
+| 2025-06 | 72 |
+| 2025-05 | 76 |
 | 2025-04 | 158 |
 | 2025-03 | 70 |
 | 2025-02 | 55 |
@@ -164,7 +165,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-16 | 1 |
+| 2026-10-16 | 2 |
 | 2026-10-15 | 1 |
 | 2026-10-14 | 4 |
 | 2026-10-13 | 3 |
@@ -202,6 +203,7 @@
 | 2026-08-24 | 4 |
 | 2026-08-21 | 3 |
 | 2026-08-20 | 2 |
+| 2026-08-19 | 1 |
 | 2026-08-18 | 1 |
 | 2026-08-14 | 4 |
 | 2026-08-13 | 7 |
@@ -214,7 +216,7 @@
 | 2026-07-31 | 1 |
 | 2026-07-30 | 7 |
 | 2026-07-28 | 6 |
-| 2026-07-27 | 5 |
+| 2026-07-27 | 6 |
 | 2026-07-24 | 12 |
 | 2026-07-23 | 4 |
 | 2026-07-22 | 5 |
@@ -260,6 +262,7 @@
 | 2026-05-25 | 6 |
 | 2026-05-24 | 1 |
 | 2026-05-22 | 2 |
+| 2026-05-21 | 1 |
 | 2026-05-20 | 3 |
 | 2026-05-19 | 8 |
 | 2026-05-18 | 10 |
@@ -295,7 +298,7 @@
 | 2026-04-12 | 1 |
 | 2026-04-11 | 2 |
 | 2026-04-10 | 7 |
-| 2026-04-09 | 5 |
+| 2026-04-09 | 6 |
 | 2026-04-08 | 5 |
 | 2026-04-07 | 5 |
 | 2026-04-06 | 3 |
@@ -398,7 +401,7 @@
 | 2025-10-12 | 1 |
 | 2025-10-11 | 7 |
 | 2025-10-10 | 7 |
-| 2025-10-09 | 2 |
+| 2025-10-09 | 3 |
 | 2025-10-08 | 4 |
 | 2025-10-07 | 32 |
 | 2025-10-06 | 10 |
@@ -436,9 +439,11 @@
 | 2025-07-22 | 5 |
 | 2025-07-21 | 6 |
 | 2025-07-20 | 4 |
-| 2025-07-16 | 1 |
+| 2025-07-16 | 3 |
 | 2025-07-14 | 2 |
 | 2025-07-04 | 2 |
+| 2025-07-03 | 1 |
+| 2025-07-02 | 2 |
 | 2025-06-30 | 3 |
 | 2025-06-29 | 1 |
 | 2025-06-27 | 1 |
@@ -448,9 +453,11 @@
 | 2025-06-21 | 2 |
 | 2025-06-20 | 2 |
 | 2025-06-19 | 3 |
-| 2025-06-18 | 2 |
+| 2025-06-18 | 5 |
+| 2025-06-17 | 2 |
 | 2025-06-15 | 1 |
 | 2025-06-13 | 3 |
+| 2025-06-10 | 1 |
 | 2025-06-08 | 1 |
 | 2025-06-07 | 3 |
 | 2025-06-06 | 3 |
@@ -464,8 +471,8 @@
 | 2025-05-16 | 2 |
 | 2025-05-15 | 7 |
 | 2025-05-13 | 3 |
-| 2025-05-09 | 5 |
-| 2025-05-08 | 3 |
+| 2025-05-09 | 7 |
+| 2025-05-08 | 4 |
 | 2025-05-07 | 7 |
 | 2025-05-06 | 15 |
 | 2025-05-05 | 18 |

@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414672107836539070
-- **Total Messages:** 32
-- **Last 30 Days:** 6
-- **Last 90 Days:** 20
-- **Last 365 Days:** 31
+- **Total Messages:** 36
+- **Last 30 Days:** 10
+- **Last 90 Days:** 24
+- **Last 365 Days:** 35
 - **First Message:** 2025-10-01
-- **Last Message:** 2026-10-04
+- **Last Message:** 2026-10-16
 
 ## Most Active Users
 
@@ -16,18 +16,18 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [firegod](https://github.com/wenjing) | 4 | Project Maintainer, ToIP |
-| 2 | [drummondreed](https://github.com/talltree) | 1 | Project Maintainer, ToIP |
-| 3 | microbiocarly | 1 | Project Maintainer, ToIP |
+| 1 | microbiocarly | 5 | Project Maintainer, ToIP |
+| 2 | [firegod](https://github.com/wenjing) | 4 | Project Maintainer, ToIP |
+| 3 | [drummondreed](https://github.com/talltree) | 1 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [firegod](https://github.com/wenjing) | 12 | Project Maintainer, ToIP |
-| 2 | [drummondreed](https://github.com/talltree) | 4 | Project Maintainer, ToIP |
-| 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 3 | Lab Leader |
-| 4 | microbiocarly | 1 | Project Maintainer, ToIP |
+| 2 | microbiocarly | 5 | Project Maintainer, ToIP |
+| 3 | [drummondreed](https://github.com/talltree) | 4 | Project Maintainer, ToIP |
+| 4 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 3 | Lab Leader |
 
 ### Last 365 Days
 
@@ -36,8 +36,8 @@
 | 1 | [firegod](https://github.com/wenjing) | 17 | Project Maintainer, ToIP |
 | 2 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 5 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 5 | Project Maintainer, ToIP |
-| 4 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 3 | Lab Leader |
-| 5 | microbiocarly | 1 | Project Maintainer, ToIP |
+| 4 | microbiocarly | 5 | Project Maintainer, ToIP |
+| 5 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 3 | Lab Leader |
 
 ### All Time
 
@@ -46,21 +46,21 @@
 | 1 | [firegod](https://github.com/wenjing) | 17 | Project Maintainer, ToIP |
 | 2 | [drummondreed](https://github.com/talltree) | 6 | Project Maintainer, ToIP |
 | 3 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 5 | Project Maintainer, ToIP |
-| 4 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 3 | Lab Leader |
-| 5 | microbiocarly | 1 | Project Maintainer, ToIP |
+| 4 | microbiocarly | 5 | Project Maintainer, ToIP |
+| 5 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 3 | Lab Leader |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 22 |
+| 2026 | 26 |
 | 2025 | 10 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 2 |
+| 2026-10 | 6 |
 | 2026-09 | 10 |
 | 2026-08 | 7 |
 | 2026-07 | 1 |
@@ -73,6 +73,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-16 | 4 |
 | 2026-10-04 | 1 |
 | 2026-10-01 | 1 |
 | 2026-09-23 | 1 |

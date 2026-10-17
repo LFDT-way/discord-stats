@@ -5,7 +5,7 @@
 - **Channel ID:** 1339067141269229652
 - **Total Messages:** 2,195
 - **Last 30 Days:** 1
-- **Last 90 Days:** 60
+- **Last 90 Days:** 59
 - **Last 365 Days:** 700
 - **First Message:** 2025-02-12
 - **Last Message:** 2026-10-09
@@ -23,7 +23,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 27 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 25 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 24 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | isolinear | 3 | — |
 | 4 | Hanno | 2 | PQ Code Package Maintainer |
 | 5 | Ben Knill | 1 | — |

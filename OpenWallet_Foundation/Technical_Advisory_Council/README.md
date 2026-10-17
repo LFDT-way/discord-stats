@@ -3,7 +3,7 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1111041471768961044
 - **Total Messages in Category:** 1,836
-- **Last 30 Days:** 12
+- **Last 30 Days:** 6
 - **Last 90 Days:** 14
 - **Last 365 Days:** 114
 - **First Message:** 2022-09-28
@@ -16,7 +16,7 @@
 | [architecture-sig](architecture-sig_1024688298389688360.md) | 2026-08-10 | 0 | 2 | 44 | 898 |
 | [safe-wallet-sig](safe-wallet-sig_1154410858991067247.md) | 2025-05-12 | 0 | 0 | 0 | 393 |
 | [wallet-interoperability-sig](wallet-interoperability-sig_1291067233967149150.md) | 2026-06-01 | 0 | 0 | 34 | 204 |
-| [tac](tac_1080192375621685288.md) | 2026-09-24 | 12 | 12 | 26 | 203 |
+| [tac](tac_1080192375621685288.md) | 2026-09-24 | 6 | 12 | 26 | 203 |
 | [digital-wallet-and-agent-overviews-sig](digital-wallet-and-agent-overviews-sig_1154111877077532814.md) | 2025-11-17 | 0 | 0 | 10 | 138 |
 
 ## Most Active Users
@@ -25,10 +25,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 6 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 3 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | Manthan | 3 | — |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
-| 4 | RMLearney | 1 | — |
 
 ### Last 90 Days
 
