@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 877
 - **Last 30 Days:** 9
 - **Last 90 Days:** 26
-- **Last 365 Days:** 170
+- **Last 365 Days:** 169
 - **First Message:** 2024-09-26
 - **Last Message:** 2026-10-16
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aca-py](aca-py_1286299858994462842.md) | 2026-10-16 | 9 | 26 | 169 | 816 |
+| [aca-py](aca-py_1286299858994462842.md) | 2026-10-16 | 9 | 26 | 168 | 816 |
 | [acapy-did-registration](acapy-did-registration_1303470616581509130.md) | 2025-10-25 | 0 | 0 | 1 | 61 |
 
 ## Most Active Users
@@ -44,7 +44,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | PStLouis | 30 | Lab Maintainer, Project Maintainer |
 | 2 | [swcurran](https://github.com/swcurran) | 22 | Lab Maintainer, TAC members, Project Maintainer |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 21 | Linux Foundation Staff |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 20 | Linux Foundation Staff |
 | 4 | [jamshale](https://github.com/jamshale) | 9 | Project Maintainer |
 | 5 | RMLearney | 8 | — |
 

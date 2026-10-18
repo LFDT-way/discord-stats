@@ -6,7 +6,7 @@
 - **Total Messages:** 44
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 27
+- **Last 365 Days:** 25
 - **First Message:** 2025-06-27
 - **Last Message:** 2025-11-14
 
@@ -24,9 +24,8 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 15 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 14 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 11 | lfdt-ca, LFDT Staff |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
 
 ### All Time
 

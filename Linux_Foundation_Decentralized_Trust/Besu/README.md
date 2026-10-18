@@ -2,23 +2,23 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205381872095283
-- **Total Messages in Category:** 47,797
-- **Last 30 Days:** 142
-- **Last 90 Days:** 566
-- **Last 365 Days:** 1,839
+- **Total Messages in Category:** 47,798
+- **Last 30 Days:** 140
+- **Last 90 Days:** 567
+- **Last 365 Days:** 1,833
 - **First Message:** 2021-11-09
-- **Last Message:** 2026-10-16
+- **Last Message:** 2026-10-18
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [besu](besu_938504958909747250.md) | 2026-10-16 | 42 | 219 | 756 | 33,816 |
-| [besu-contributors](besu-contributors_905205502940696607.md) | 2026-10-12 | 48 | 169 | 493 | 6,693 |
+| [besu](besu_938504958909747250.md) | 2026-10-18 | 42 | 220 | 757 | 33,817 |
+| [besu-contributors](besu-contributors_905205502940696607.md) | 2026-10-12 | 46 | 169 | 493 | 6,693 |
 | [besu-reviews](besu-reviews_938505506123812865.md) | 2026-10-16 | 11 | 39 | 246 | 2,372 |
-| [besu-enterprise](besu-enterprise_1172617318845657199.md) | 2026-10-06 | 12 | 87 | 169 | 1,812 |
+| [besu-enterprise](besu-enterprise_1172617318845657199.md) | 2026-10-06 | 12 | 87 | 163 | 1,812 |
 | [besu-release](besu-release_943252457063075880.md) | 2026-08-28 | 0 | 8 | 65 | 1,790 |
-| [besu-performance](besu-performance_1129455688255553717.md) | 2026-10-12 | 12 | 12 | 44 | 457 |
+| [besu-performance](besu-performance_1129455688255553717.md) | 2026-10-12 | 12 | 12 | 43 | 457 |
 | [besu-workshop](besu-workshop_974732102450970654.md) | 2026-09-18 | 8 | 8 | 11 | 218 |
 | [besu-announce](besu-announce_906266945614135356.md) | 2026-10-16 | 2 | 6 | 17 | 148 |
 | [besu-verkle](besu-verkle_1207729310534737920.md) | 2025-05-25 | 0 | 0 | 0 | 107 |
@@ -39,8 +39,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Matthew Whitehead](https://github.com/matthew1001) | 25 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 24 | lfdt-ca, LFDT Staff |
-| 3 | [Uzi](https://github.com/usmansaleem) | 10 | Project Maintainer, Besu Maintainer |
-| 4 | [macfarla \| Besu](https://github.com/macfarla) | 10 | Project Maintainer, Besu Maintainer |
+| 3 | [macfarla \| Besu](https://github.com/macfarla) | 10 | Project Maintainer, Besu Maintainer |
+| 4 | [Uzi](https://github.com/usmansaleem) | 9 | Project Maintainer, Besu Maintainer |
 | 5 | gets | 8 | — |
 
 ### Last 90 Days
@@ -57,8 +57,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 235 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 2 | [Simon Dudley](https://github.com/siladu) | 234 | Project Maintainer, Besu Maintainer |
+| 1 | [Simon Dudley](https://github.com/siladu) | 233 | Project Maintainer, Besu Maintainer |
+| 2 | [Matthew Whitehead](https://github.com/matthew1001) | 231 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 3 | [macfarla \| Besu](https://github.com/macfarla) | 195 | Project Maintainer, Besu Maintainer |
 | 4 | yorick | 73 | — |
 | 5 | [Jason Frame](https://github.com/jframe) | 64 | Project Maintainer, Besu Maintainer |
@@ -77,7 +77,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,411 |
+| 2026 | 1,412 |
 | 2025 | 3,508 |
 | 2024 | 10,409 |
 | 2023 | 11,741 |
@@ -88,7 +88,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 85 |
+| 2026-10 | 86 |
 | 2026-09 | 146 |
 | 2026-08 | 173 |
 | 2026-07 | 225 |
@@ -151,6 +151,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-18 | 1 |
 | 2026-10-16 | 3 |
 | 2026-10-15 | 2 |
 | 2026-10-13 | 1 |

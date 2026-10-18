@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 21,415
 - **Last 30 Days:** 58
 - **Last 90 Days:** 188
-- **Last 365 Days:** 841
+- **Last 365 Days:** 838
 - **First Message:** 2021-11-05
 - **Last Message:** 2026-10-16
 
@@ -21,12 +21,12 @@
 | [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 4 | 859 |
 | [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-16 | 12 | 20 | 171 | 349 |
 | [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-01 | 3 | 11 | 63 | 153 |
-| [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 8 | 135 | 148 |
+| [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 8 | 133 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-09-21 | 8 | 8 | 11 | 108 |
 | [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-10-14 | 11 | 65 | 94 | 94 |
 | [fablo](fablo_1109190949394989127.md) | 2026-09-15 | 0 | 2 | 13 | 87 |
 | [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-09-22 | 3 | 23 | 81 | 81 |
-| [general](general_988569914266775662.md) | 2026-07-30 | 0 | 3 | 11 | 72 |
+| [general](general_988569914266775662.md) | 2026-07-30 | 0 | 3 | 10 | 72 |
 | [cello](cello_941475454378991646.md) | 2026-08-28 | 0 | 1 | 10 | 54 |
 | [cc-tools](cc-tools_1156653969133809715.md) | 2025-05-07 | 0 | 0 | 0 | 45 |
 | [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-10-07 | 1 | 3 | 38 | 44 |
@@ -71,7 +71,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [RAWx18](https://github.com/RAWx18) | 84 | Lab Leader |
+| 1 | [RAWx18](https://github.com/RAWx18) | 82 | Lab Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 81 | lfdt-ca, LFDT Staff |
 | 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 78 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 4 | [DanielSzego](https://github.com/Daniel-Szego) | 55 | Meetup Organizer |

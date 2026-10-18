@@ -2,18 +2,18 @@
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1203395822390083676
-- **Total Messages in Category:** 282
-- **Last 30 Days:** 10
-- **Last 90 Days:** 27
+- **Total Messages in Category:** 283
+- **Last 30 Days:** 7
+- **Last 90 Days:** 28
 - **Last 365 Days:** 79
 - **First Message:** 2024-02-03
-- **Last Message:** 2026-10-06
+- **Last Message:** 2026-10-17
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [oqs-general](oqs-general_1203395992003678238.md) | 2026-10-06 | 10 | 27 | 72 | 267 |
+| [oqs-general](oqs-general_1203395992003678238.md) | 2026-10-17 | 7 | 28 | 72 | 268 |
 | [oqs-call](oqs-call_1214590815695933470.md) | 2026-06-13 | 0 | 0 | 7 | 13 |
 | [oqs-github](oqs-github_1214605403527184394.md) | 2024-12-23 | 0 | 0 | 0 | 2 |
 
@@ -23,10 +23,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | θρπχι | 6 | — |
+| 1 | θρπχι | 2 | — |
 | 2 | Meerkatdev | 2 | — |
-| 3 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 1 | — |
-| 4 | brent | 1 | — |
+| 3 | RGM-Core | 1 | — |
+| 4 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 1 | — |
+| 5 | brent | 1 | — |
 
 ### Last 90 Days
 
@@ -62,7 +63,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 64 |
+| 2026 | 65 |
 | 2025 | 46 |
 | 2024 | 172 |
 
@@ -70,7 +71,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 1 |
+| 2026-10 | 2 |
 | 2026-09 | 9 |
 | 2026-08 | 15 |
 | 2026-07 | 2 |
@@ -104,6 +105,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-17 | 1 |
 | 2026-10-06 | 1 |
 | 2026-09-23 | 3 |
 | 2026-09-20 | 2 |

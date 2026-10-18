@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 1,864
 - **Last 30 Days:** 5
 - **Last 90 Days:** 7
-- **Last 365 Days:** 71
+- **Last 365 Days:** 69
 - **First Message:** 2022-09-23
 - **Last Message:** 2026-10-05
 
@@ -17,7 +17,7 @@
 | [general](general_1023188132042133574.md) | 2026-10-05 | 5 | 5 | 56 | 378 |
 | [introductions](introductions_1023219299902570589.md) | 2026-05-20 | 0 | 0 | 2 | 99 |
 | [community-connect](community-connect_1022965117362634855.md) | 2025-10-25 | 0 | 0 | 1 | 90 |
-| [ideas-and-feedback](ideas-and-feedback_1022962884864643221.md) | 2025-11-11 | 0 | 0 | 4 | 54 |
+| [ideas-and-feedback](ideas-and-feedback_1022962884864643221.md) | 2025-11-11 | 0 | 0 | 2 | 54 |
 | [eudi-wallet-multistakeholder](eudi-wallet-multistakeholder_1128703082289692702.md) | 2024-10-09 | 0 | 0 | 0 | 50 |
 | [business-use-cases](business-use-cases_1024844107656478760.md) | 2023-12-01 | 0 | 0 | 0 | 43 |
 | [events](events_1022962884864643220.md) | 2026-02-16 | 0 | 0 | 4 | 29 |
@@ -55,8 +55,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 16 | Linux Foundation Staff |
 | 2 | [Mirko](https://github.com/cre8) | 11 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | [drummondreed](https://github.com/talltree) | 9 | — |
-| 4 | sirawt | 8 | — |
+| 3 | sirawt | 8 | — |
+| 4 | [drummondreed](https://github.com/talltree) | 7 | — |
 | 5 | Iancu Fofiu | 3 | — |
 
 ### All Time

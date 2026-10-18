@@ -4,16 +4,16 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
-- **Active Users (365d):** 129
-- **Messages (365d):** 1,978
+- **Active Users (365d):** 127
+- **Messages (365d):** 1,966
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 386 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 155 | Linux Foundation Staff |
-| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 145 | Linux Foundation Staff |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 153 | Linux Foundation Staff |
+| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 143 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
-| 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 115 | Lab Maintainer |
+| 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 112 | Lab Maintainer |
 | 6 | [davidz25](https://github.com/davidz25) | 96 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 7 | [Timo Glastra](https://github.com/TimoGlastra) | 95 | credo maintainers, Project Maintainer |
 | 8 | birte_lr | 61 | — |
@@ -26,7 +26,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 15 | Thomas Tran | 28 | Lab Maintainer |
 | 16 | RMLearney | 27 | — |
 | 17 | ai Igor | 24 | — |
-| 18 | [bryce-mcmath](https://github.com/bryce-mcmath) | 24 | bifold maintainers, Project Maintainer |
+| 18 | [bryce-mcmath](https://github.com/bryce-mcmath) | 23 | bifold maintainers, Project Maintainer |
 | 19 | [VishnuSanal](https://github.com/VishnuSanal) | 20 | multipaz maintainer, Project Maintainer |
 | 20 | Graham | 19 | — |
 | 21 | kukgini | 18 | — |
@@ -43,12 +43,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 32 | Anshulip | 10 | — |
 | 33 | [GenAris](https://github.com/genaris) | 10 | credo maintainers, Project Maintainer |
 | 34 | sirawt | 10 | — |
-| 35 | [drummondreed](https://github.com/talltree) | 10 | — |
-| 36 | Manthan | 9 | — |
-| 37 | Abhi | 9 | — |
-| 38 | Jim St.Clair | 8 | SIG member |
-| 39 | Jason | 8 | bifold maintainers, Project Maintainer |
-| 40 | Thiago Romano | 8 | — |
+| 35 | Manthan | 9 | — |
+| 36 | Abhi | 9 | — |
+| 37 | Jim St.Clair | 8 | SIG member |
+| 38 | Jason | 8 | bifold maintainers, Project Maintainer |
+| 39 | Thiago Romano | 8 | — |
+| 40 | [drummondreed](https://github.com/talltree) | 8 | — |
 | 41 | Pragya Jain | 7 | — |
 | 42 | jarosss_ | 6 | — |
 | 43 | vivek | 6 | — |
@@ -120,21 +120,19 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 109 | Siva | 1 | — |
 | 110 | Pankti | 1 | — |
 | 111 | Nahuel_NP | 1 | — |
-| 112 | Cseh. Rafin | 1 | — |
-| 113 | [Daniel Marvin](https://github.com/danielmarv) | 1 | — |
-| 114 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
-| 115 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
-| 116 | anil.helvaci \| GMT +3 | 1 | — |
-| 117 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
-| 118 | rosterbyte | 1 | — |
-| 119 | skamy | 1 | — |
-| 120 | Daev Mithran | 1 | — |
-| 121 | SRellihan.Phinxlab | 1 | — |
-| 122 | Arsalan Shahzad | 1 | — |
-| 123 | sherri58 | 1 | — |
-| 124 | latika_04_17594 | 1 | — |
-| 125 | michkauf | 1 | — |
-| 126 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
-| 127 | Aaron | 1 | — |
-| 128 | JohnH | 1 | — |
-| 129 | arifthehappy | 1 | — |
+| 112 | [Daniel Marvin](https://github.com/danielmarv) | 1 | — |
+| 113 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
+| 114 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
+| 115 | anil.helvaci \| GMT +3 | 1 | — |
+| 116 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
+| 117 | rosterbyte | 1 | — |
+| 118 | Daev Mithran | 1 | — |
+| 119 | SRellihan.Phinxlab | 1 | — |
+| 120 | Arsalan Shahzad | 1 | — |
+| 121 | sherri58 | 1 | — |
+| 122 | latika_04_17594 | 1 | — |
+| 123 | michkauf | 1 | — |
+| 124 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
+| 125 | Aaron | 1 | — |
+| 126 | JohnH | 1 | — |
+| 127 | arifthehappy | 1 | — |

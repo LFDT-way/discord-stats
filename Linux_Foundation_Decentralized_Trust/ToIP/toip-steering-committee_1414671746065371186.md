@@ -4,7 +4,7 @@
 - **Category:** ToIP
 - **Channel ID:** 1414671746065371186
 - **Total Messages:** 159
-- **Last 30 Days:** 3
+- **Last 30 Days:** 0
 - **Last 90 Days:** 14
 - **Last 365 Days:** 146
 - **First Message:** 2025-09-24
@@ -14,10 +14,7 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | John Phillips | 2 | Project Maintainer, ToIP |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 1 | Lab Leader |
+_No activity in this period._
 
 ### Last 90 Days
 

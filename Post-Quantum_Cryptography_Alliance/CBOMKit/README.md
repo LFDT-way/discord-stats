@@ -3,7 +3,7 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1440054211453779999
 - **Total Messages in Category:** 51
-- **Last 30 Days:** 2
+- **Last 30 Days:** 1
 - **Last 90 Days:** 3
 - **Last 365 Days:** 28
 - **First Message:** 2025-05-06
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [wg-tooling](wg-tooling_1323700037099847782.md) | 2025-11-17 | 0 | 0 | 9 | 32 |
-| [cbomkit-general](cbomkit-general_1440054266571133053.md) | 2026-09-24 | 2 | 3 | 19 | 19 |
+| [cbomkit-general](cbomkit-general_1440054266571133053.md) | 2026-09-24 | 1 | 3 | 19 | 19 |
 
 ## Most Active Users
 
@@ -22,8 +22,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | shubham17 | 1 | — |
-| 2 | Severus Snape | 1 | — |
+| 1 | Severus Snape | 1 | — |
 
 ### Last 90 Days
 

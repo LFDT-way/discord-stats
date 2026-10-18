@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 856
 - **Last 30 Days:** 9
 - **Last 90 Days:** 23
-- **Last 365 Days:** 336
+- **Last 365 Days:** 335
 - **First Message:** 2023-06-02
 - **Last Message:** 2026-10-10
 
@@ -31,7 +31,7 @@
 | [sd-jwt-kotlin](sd-jwt-kotlin_1108449794831159397.md) | 2024-06-24 | 0 | 0 | 0 | 7 |
 | [sd-jwt-python](sd-jwt-python_1108449835176169513.md) | 2025-03-10 | 0 | 0 | 0 | 5 |
 | [multiformat-vc-ios](multiformat-vc-ios_1199766370880069762.md) | 2024-02-05 | 0 | 0 | 0 | 3 |
-| [build-wallet-core](build-wallet-core_1268222388982775879.md) | 2025-12-10 | 0 | 0 | 2 | 2 |
+| [build-wallet-core](build-wallet-core_1268222388982775879.md) | 2025-12-10 | 0 | 0 | 1 | 2 |
 | [trs](trs_1379838543823900773.md) | 2025-06-04 | 0 | 0 | 0 | 2 |
 | [openid-federation-ts](openid-federation-ts_1326618196245221426.md) | 2025-10-23 | 0 | 0 | 1 | 2 |
 

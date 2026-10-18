@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 941383941217222708
 - **Total Messages in Category:** 2,612
-- **Last 30 Days:** 51
+- **Last 30 Days:** 46
 - **Last 90 Days:** 119
 - **Last 365 Days:** 367
 - **First Message:** 2022-02-10
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-10-14 | 51 | 119 | 349 | 2,559 |
+| [tac](tac_941384040316018790.md) | 2026-10-14 | 46 | 119 | 349 | 2,559 |
 | [automated-pipelines](automated-pipelines_1156961689971998782.md) | 2026-04-15 | 0 | 0 | 18 | 52 |
 | [tac-announcements](tac-announcements_941399554731966564.md) | 2022-02-17 | 0 | 0 | 0 | 1 |
 
@@ -25,9 +25,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Arun S M](https://github.com/arsulegai) | 24 | TAC member, Chapter Leader |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
-| 3 | [Ry Jones](https://github.com/ryjones) | 3 | lfdt-ca, LFDT Staff |
-| 4 | [Enrique Lacal](https://github.com/EnriqueL8) | 3 | TAC member, Project Maintainer, Firefly Maintainer |
-| 5 | [hendrik.ebbers](https://github.com/hendrikebbers) | 3 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
+| 3 | [hendrik.ebbers](https://github.com/hendrikebbers) | 3 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
+| 4 | [Matthew Whitehead](https://github.com/matthew1001) | 2 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 5 | [vramaiitkgp](https://github.com/VRamakrishna) | 2 | TAC member, Cacti Maintainer |
 
 ### Last 90 Days
 
