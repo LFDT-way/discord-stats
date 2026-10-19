@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1357322461947101405
 - **Total Messages in Category:** 3,426
-- **Last 30 Days:** 319
-- **Last 90 Days:** 701
-- **Last 365 Days:** 2,874
+- **Last 30 Days:** 313
+- **Last 90 Days:** 692
+- **Last 365 Days:** 2,873
 - **First Message:** 2025-04-03
 - **Last Message:** 2026-10-16
 
@@ -13,9 +13,9 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [toip-aim-wg](toip-aim-wg_1379651804790264018.md) | 2026-10-15 | 42 | 98 | 651 | 835 |
-| [toip-decen-trust-graph-wg](toip-decen-trust-graph-wg_1414670897037443205.md) | 2026-10-15 | 38 | 129 | 406 | 454 |
-| [toip-bite-size-trust-tf](toip-bite-size-trust-tf_1414670208085528607.md) | 2026-10-07 | 2 | 16 | 241 | 307 |
+| [toip-aim-wg](toip-aim-wg_1379651804790264018.md) | 2026-10-15 | 42 | 98 | 650 | 835 |
+| [toip-decen-trust-graph-wg](toip-decen-trust-graph-wg_1414670897037443205.md) | 2026-10-15 | 33 | 128 | 406 | 454 |
+| [toip-bite-size-trust-tf](toip-bite-size-trust-tf_1414670208085528607.md) | 2026-10-07 | 1 | 8 | 241 | 307 |
 | [toip-trust-registry-tf](toip-trust-registry-tf_1414671976831910049.md) | 2026-10-15 | 51 | 66 | 279 | 302 |
 | [toip-general](toip-general_1357323158935572581.md) | 2026-10-16 | 17 | 39 | 218 | 279 |
 | [toip-ecosystem-governance-wg](toip-ecosystem-governance-wg_1414671336697233499.md) | 2026-10-16 | 79 | 114 | 200 | 202 |
@@ -43,20 +43,20 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 102 | Lab Leader |
-| 2 | microbiocarly | 51 | Project Maintainer, ToIP |
+| 2 | microbiocarly | 46 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 37 | Project Maintainer, ToIP |
-| 4 | [firegod](https://github.com/wenjing) | 23 | Project Maintainer, ToIP |
+| 4 | [firegod](https://github.com/wenjing) | 22 | Project Maintainer, ToIP |
 | 5 | [Ry Jones](https://github.com/ryjones) | 17 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 227 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 224 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 91 | Project Maintainer, ToIP |
-| 3 | microbiocarly | 89 | Project Maintainer, ToIP |
+| 3 | microbiocarly | 84 | Project Maintainer, ToIP |
 | 4 | [firegod](https://github.com/wenjing) | 78 | Project Maintainer, ToIP |
-| 5 | Nicky H | 38 | Project Maintainer, ToIP |
+| 5 | Nicky H | 37 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 

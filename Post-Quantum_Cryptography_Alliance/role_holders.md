@@ -9,7 +9,7 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 - **Role holders:** 20
 - **Inactive (no msgs in 365d):** 10
 - **Never posted (0 all-time):** 4
-- **Report generated:** 2026-10-18
+- **Report generated:** 2026-10-19
 
 | User | Roles | Last Msg | 30d | 90d | 365d | All-Time | All Guilds 365d |
 | :--- | :--- | :--- | ---: | ---: | ---: | ---: | ---: |
@@ -29,8 +29,8 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | [hartm](https://github.com/hartm) | LF Staff | 2026-04-02 | 0 | 0 | 5 | 21 | 17 |
 | Chrissy Harter | LF Staff | 2026-05-18 | 0 | 0 | 5 | 5 | 5 |
 | Jake | PQ Code Package Maintainer, Project Maintainer | 2026-08-10 | 0 | 1 | 42 | 169 | 42 |
-| [RyJones](https://github.com/ryjones) | LF Staff | 2026-08-28 | 0 | 4 | 89 | 325 | 1,057 |
-| Hanno | PQ Code Package Maintainer | 2026-09-29 | 1 | 14 | 99 | 406 | 99 |
-| [Matthias Kannwischer](https://github.com/mkannwischer) | PQ Code Package Maintainer, Project Maintainer | 2026-10-06 | 8 | 62 | 411 | 1,147 | 411 |
+| [RyJones](https://github.com/ryjones) | LF Staff | 2026-08-28 | 0 | 4 | 89 | 325 | 1,056 |
+| Hanno | PQ Code Package Maintainer | 2026-09-29 | 1 | 14 | 98 | 406 | 98 |
+| [Matthias Kannwischer](https://github.com/mkannwischer) | PQ Code Package Maintainer, Project Maintainer | 2026-10-06 | 8 | 62 | 410 | 1,147 | 410 |
 | Rod | PQ Code Package Maintainer, Project Maintainer | 2026-10-08 | 15 | 96 | 497 | 1,286 | 497 |
 

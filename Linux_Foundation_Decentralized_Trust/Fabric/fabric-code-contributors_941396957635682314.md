@@ -6,7 +6,7 @@
 - **Total Messages:** 602
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 8
+- **Last 365 Days:** 7
 - **First Message:** 2022-02-12
 - **Last Message:** 2026-05-09
 
@@ -27,8 +27,7 @@ _No activity in this period._
 | 1 | Somesh | 4 | — |
 | 2 | [bestbeforetoday](https://github.com/bestbeforetoday) | 1 | Project Maintainer, Fabric Maintainer |
 | 3 | [jtonline](https://github.com/jt-nti) | 1 | Project Maintainer, Fabric Maintainer |
-| 4 | [yacovm](https://github.com/yacovm) | 1 | Project Maintainer, Fabric Maintainer |
-| 5 | Shaurya Mishra | 1 | — |
+| 4 | Shaurya Mishra | 1 | — |
 
 ### All Time
 

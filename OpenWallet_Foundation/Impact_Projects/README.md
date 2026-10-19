@@ -4,7 +4,7 @@
 - **Category ID:** 1285999377751736443
 - **Total Messages in Category:** 877
 - **Last 30 Days:** 9
-- **Last 90 Days:** 26
+- **Last 90 Days:** 21
 - **Last 365 Days:** 169
 - **First Message:** 2024-09-26
 - **Last Message:** 2026-10-16
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aca-py](aca-py_1286299858994462842.md) | 2026-10-16 | 9 | 26 | 168 | 816 |
+| [aca-py](aca-py_1286299858994462842.md) | 2026-10-16 | 9 | 21 | 168 | 816 |
 | [acapy-did-registration](acapy-did-registration_1303470616581509130.md) | 2025-10-25 | 0 | 0 | 1 | 61 |
 
 ## Most Active Users
@@ -33,10 +33,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [swcurran](https://github.com/swcurran) | 5 | Lab Maintainer, TAC members, Project Maintainer |
-| 2 | vivek | 5 | — |
-| 3 | [jamshale](https://github.com/jamshale) | 4 | Project Maintainer |
-| 4 | Pragya Jain | 3 | — |
-| 5 | RMLearney | 3 | — |
+| 2 | Pragya Jain | 3 | — |
+| 3 | RMLearney | 3 | — |
+| 4 | vivek | 3 | — |
+| 5 | PStLouis | 3 | Lab Maintainer, Project Maintainer |
 
 ### Last 365 Days
 

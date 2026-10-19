@@ -2,12 +2,12 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1108449719212048556
-- **Total Messages in Category:** 856
-- **Last 30 Days:** 9
-- **Last 90 Days:** 23
-- **Last 365 Days:** 335
+- **Total Messages in Category:** 858
+- **Last 30 Days:** 11
+- **Last 90 Days:** 25
+- **Last 365 Days:** 337
 - **First Message:** 2023-06-02
-- **Last Message:** 2026-10-10
+- **Last Message:** 2026-10-19
 
 ## Channels in Category
 
@@ -22,8 +22,8 @@
 | [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-08-18 | 0 | 2 | 21 | 28 |
 | [wallet-framework-dotnet](wallet-framework-dotnet_1159552665940938842.md) | 2024-10-11 | 0 | 0 | 0 | 26 |
 | [pydentity-wallet](pydentity-wallet_1352199414956953630.md) | 2026-02-11 | 0 | 0 | 3 | 20 |
+| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-10-19 | 11 | 16 | 18 | 18 |
 | [axle](axle_1404761591710355506.md) | 2026-07-17 | 0 | 0 | 14 | 17 |
-| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-10-10 | 9 | 14 | 16 | 16 |
 | [farmworker-wallet-os](farmworker-wallet-os_1138937641123987466.md) | 2024-10-09 | 0 | 0 | 0 | 10 |
 | [sd-jwt-vc-dm](sd-jwt-vc-dm_1331889781570932849.md) | 2025-04-20 | 0 | 0 | 0 | 10 |
 | [dcql-ts](dcql-ts_1326615136865095731.md) | 2025-11-12 | 0 | 0 | 3 | 9 |
@@ -41,7 +41,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 3 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
 | 3 | Manthan | 2 | — |
 | 4 | [Ry Jones, OWF](https://github.com/ryjones) | 2 | Linux Foundation Staff |
@@ -51,8 +51,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Manthan | 5 | — |
-| 2 | [Mirko](https://github.com/cre8) | 4 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 5 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | Manthan | 5 | — |
 | 3 | [firegod](https://github.com/wenjing) | 3 | — |
 | 4 | [Lukas.J.Han](https://github.com/lukasjhan) | 3 | Lab Maintainer |
 | 5 | kukgini | 2 | — |
@@ -63,8 +63,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones, OWF](https://github.com/ryjones) | 76 | Linux Foundation Staff |
 | 2 | [Lukas.J.Han](https://github.com/lukasjhan) | 72 | Lab Maintainer |
-| 3 | [Timo Glastra](https://github.com/TimoGlastra) | 58 | credo maintainers, Project Maintainer |
-| 4 | [Mirko](https://github.com/cre8) | 29 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 3 | [Timo Glastra](https://github.com/TimoGlastra) | 59 | credo maintainers, Project Maintainer |
+| 4 | [Mirko](https://github.com/cre8) | 30 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 5 | Thomas Tran | 28 | Lab Maintainer |
 
 ### All Time
@@ -73,7 +73,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Lukas.J.Han](https://github.com/lukasjhan) | 143 | Lab Maintainer |
 | 2 | [Ry Jones, OWF](https://github.com/ryjones) | 107 | Linux Foundation Staff |
-| 3 | [Timo Glastra](https://github.com/TimoGlastra) | 84 | credo maintainers, Project Maintainer |
+| 3 | [Timo Glastra](https://github.com/TimoGlastra) | 85 | credo maintainers, Project Maintainer |
 | 4 | [firegod](https://github.com/wenjing) | 67 | — |
 | 5 | ayu | 59 | — |
 
@@ -81,7 +81,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 212 |
+| 2026 | 214 |
 | 2025 | 449 |
 | 2024 | 96 |
 | 2023 | 99 |
@@ -90,7 +90,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 1 |
+| 2026-10 | 3 |
 | 2026-09 | 19 |
 | 2026-08 | 3 |
 | 2026-07 | 18 |
@@ -133,6 +133,8 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-19 | 1 |
+| 2026-10-18 | 1 |
 | 2026-10-10 | 1 |
 | 2026-09-26 | 1 |
 | 2026-09-25 | 4 |
