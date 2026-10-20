@@ -5,13 +5,13 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 127
-- **Messages (365d):** 1,968
+- **Messages (365d):** 1,970
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 388 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 153 | Linux Foundation Staff |
-| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 143 | Linux Foundation Staff |
+| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 144 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
 | 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 112 | Lab Maintainer |
 | 6 | [davidz25](https://github.com/davidz25) | 96 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
@@ -23,8 +23,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 12 | davidejalexander | 35 | SIG member |
 | 13 | thidalgo | 35 | — |
 | 14 | [swcurran](https://github.com/swcurran) | 32 | Lab Maintainer, TAC members, Project Maintainer |
-| 15 | Thomas Tran | 28 | Lab Maintainer |
-| 16 | RMLearney | 27 | — |
+| 15 | RMLearney | 28 | — |
+| 16 | Thomas Tran | 28 | Lab Maintainer |
 | 17 | ai Igor | 24 | — |
 | 18 | [bryce-mcmath](https://github.com/bryce-mcmath) | 22 | bifold maintainers, Project Maintainer |
 | 19 | [VishnuSanal](https://github.com/VishnuSanal) | 20 | multipaz maintainer, Project Maintainer |

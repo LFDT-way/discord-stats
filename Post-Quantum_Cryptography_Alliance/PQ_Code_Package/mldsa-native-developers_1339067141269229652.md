@@ -3,12 +3,12 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category:** PQ Code Package
 - **Channel ID:** 1339067141269229652
-- **Total Messages:** 2,195
-- **Last 30 Days:** 1
-- **Last 90 Days:** 59
-- **Last 365 Days:** 700
+- **Total Messages:** 2,196
+- **Last 30 Days:** 2
+- **Last 90 Days:** 60
+- **Last 365 Days:** 701
 - **First Message:** 2025-02-12
-- **Last Message:** 2026-10-09
+- **Last Message:** 2026-10-19
 
 ## Most Active Users
 
@@ -17,13 +17,14 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Brendan | 1 | — |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 1 | PQ Code Package Maintainer, Project Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 27 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 24 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 25 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | isolinear | 3 | — |
 | 4 | Hanno | 2 | PQ Code Package Maintainer |
 | 5 | Ben Knill | 1 | — |
@@ -32,7 +33,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 284 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 285 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | Rod | 258 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 56 | PQ Code Package Maintainer |
 | 4 | Jake | 42 | PQ Code Package Maintainer, Project Maintainer |
@@ -43,7 +44,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 856 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 849 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 850 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Jake | 168 | PQ Code Package Maintainer, Project Maintainer |
 | 4 | Hanno | 167 | PQ Code Package Maintainer |
 | 5 | Brendan | 56 | — |
@@ -52,14 +53,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 287 |
+| 2026 | 288 |
 | 2025 | 1,908 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 1 |
+| 2026-10 | 2 |
 | 2026-08 | 52 |
 | 2026-07 | 31 |
 | 2026-06 | 42 |
@@ -84,6 +85,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-19 | 1 |
 | 2026-10-09 | 1 |
 | 2026-08-24 | 6 |
 | 2026-08-23 | 1 |

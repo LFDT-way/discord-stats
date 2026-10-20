@@ -1,21 +1,21 @@
 # Guild Report: Post-Quantum Cryptography Alliance
 
 - **Guild ID:** 1202723482224295936
-- **Total Messages:** 4,533
-- **Last 30 Days:** 62
-- **Last 90 Days:** 280
-- **Last 365 Days:** 1,454 — [active users](users.md)
+- **Total Messages:** 4,553
+- **Last 30 Days:** 81
+- **Last 90 Days:** 299
+- **Last 365 Days:** 1,467 — [active users](users.md)
 - **First Message:** 2024-02-01
-- **Last Message:** 2026-10-19
+- **Last Message:** 2026-10-20
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PQ Code Package](PQ_Code_Package/README.md) | 3,595 | 29 | 205 | 1,185 | 2024-02-03 | 2026-10-19 |
-| [Welcome](Welcome/README.md) | 510 | 25 | 45 | 154 | 2024-02-01 | 2026-10-12 |
-| [Open Quantum Safe](Open_Quantum_Safe/README.md) | 283 | 7 | 27 | 74 | 2024-02-03 | 2026-10-17 |
+| [PQ Code Package](PQ_Code_Package/README.md) | 3,615 | 49 | 225 | 1,205 | 2024-02-03 | 2026-10-20 |
+| [Welcome](Welcome/README.md) | 510 | 24 | 44 | 151 | 2024-02-01 | 2026-10-12 |
+| [Open Quantum Safe](Open_Quantum_Safe/README.md) | 283 | 7 | 27 | 70 | 2024-02-03 | 2026-10-17 |
 | [Governance](Governance/README.md) | 81 | 0 | 0 | 6 | 2024-02-05 | 2026-02-10 |
 | [CBOMKit](CBOMKit/README.md) | 51 | 1 | 3 | 28 | 2025-05-06 | 2026-09-24 |
 | [Uncategorized](Uncategorized/README.md) | 11 | 0 | 0 | 7 | 2024-02-03 | 2026-05-18 |
@@ -27,19 +27,19 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 15 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 8 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Severus Snape | 6 | — |
-| 4 | Jarek Duda | 5 | — |
+| 1 | Rod | 28 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 9 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 7 | PQ Code Package Maintainer |
+| 4 | Severus Snape | 6 | — |
 | 5 | θρπχι | 4 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 96 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 62 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 14 | PQ Code Package Maintainer |
+| 1 | Rod | 109 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 63 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 20 | PQ Code Package Maintainer |
 | 4 | θρπχι | 12 | — |
 | 5 | Ishan | 10 | — |
 
@@ -47,9 +47,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 497 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 410 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 98 | PQ Code Package Maintainer |
+| 1 | Rod | 510 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 411 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 104 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 85 | LF Staff |
 | 5 | Jake | 42 | PQ Code Package Maintainer, Project Maintainer |
 
@@ -57,9 +57,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 1,286 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 1,147 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 406 | PQ Code Package Maintainer |
+| 1 | Rod | 1,299 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 1,148 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 412 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 321 | LF Staff |
 | 5 | [Nigel Jones](https://github.com/planetf1) | 182 | PQ Code Package Maintainer, Project Maintainer |
 
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 907 |
+| 2026 | 927 |
 | 2025 | 2,683 |
 | 2024 | 944 |
 | 2023 | 3 |
@@ -78,7 +78,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 25 |
+| 2026-10 | 45 |
 | 2026-09 | 109 |
 | 2026-08 | 130 |
 | 2026-07 | 71 |
@@ -122,7 +122,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-19 | 1 |
+| 2026-10-20 | 2 |
+| 2026-10-19 | 19 |
 | 2026-10-17 | 2 |
 | 2026-10-12 | 1 |
 | 2026-10-10 | 2 |

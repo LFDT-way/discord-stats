@@ -2,21 +2,21 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
-- **Total Messages in Category:** 3,872
-- **Last 30 Days:** 137
-- **Last 90 Days:** 269
-- **Last 365 Days:** 1,275
+- **Total Messages in Category:** 3,874
+- **Last 30 Days:** 132
+- **Last 90 Days:** 262
+- **Last 365 Days:** 1,277
 - **First Message:** 2023-11-08
-- **Last Message:** 2026-10-18
+- **Last Message:** 2026-10-20
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credo](credo_1179453305856991263.md) | 2026-10-15 | 13 | 17 | 161 | 1,099 |
-| [bifold](bifold_1209891839071756419.md) | 2026-10-15 | 5 | 19 | 142 | 914 |
+| [credo](credo_1179453305856991263.md) | 2026-10-20 | 14 | 18 | 162 | 1,100 |
+| [bifold](bifold_1209891839071756419.md) | 2026-10-20 | 6 | 20 | 143 | 915 |
 | [multipaz](multipaz_1179828955717574707.md) | 2026-10-09 | 2 | 26 | 219 | 648 |
-| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-18 | 108 | 194 | 622 | 634 |
+| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-18 | 101 | 185 | 622 | 634 |
 | [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 0 | 88 | 268 |
 | [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 4 | 105 |
 | [owl](owl_1214965981470924911.md) | 2026-05-07 | 0 | 0 | 10 | 85 |
@@ -32,19 +32,19 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | birte_lr | 56 | — |
-| 2 | [Mirko](https://github.com/cre8) | 29 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [Mirko](https://github.com/cre8) | 28 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | Cyril | 9 | — |
-| 4 | espuni | 8 | — |
-| 5 | [esune](https://github.com/esune) | 7 | Project Maintainer |
+| 4 | [esune](https://github.com/esune) | 7 | Project Maintainer |
+| 5 | [Ry Jones, OWF](https://github.com/ryjones) | 6 | Linux Foundation Staff |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 73 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 69 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | birte_lr | 61 | — |
 | 3 | Cyril | 26 | — |
-| 4 | espuni | 19 | — |
+| 4 | espuni | 15 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 14 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 
 ### Last 365 Days
@@ -63,7 +63,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 386 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [davidz25](https://github.com/davidz25) | 299 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 205 | Linux Foundation Staff |
+| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 206 | Linux Foundation Staff |
 | 4 | [Timo Glastra](https://github.com/TimoGlastra) | 176 | credo maintainers, Project Maintainer |
 | 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 175 | Linux Foundation Staff |
 
@@ -71,7 +71,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,077 |
+| 2026 | 1,079 |
 | 2025 | 1,412 |
 | 2024 | 1,309 |
 | 2023 | 74 |
@@ -80,7 +80,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 75 |
+| 2026-10 | 77 |
 | 2026-09 | 129 |
 | 2026-08 | 47 |
 | 2026-07 | 90 |
@@ -121,6 +121,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-20 | 2 |
 | 2026-10-18 | 1 |
 | 2026-10-15 | 19 |
 | 2026-10-13 | 4 |

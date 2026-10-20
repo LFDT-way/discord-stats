@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Labs
 - **Channel ID:** 1502324614204752155
-- **Total Messages:** 81
-- **Last 30 Days:** 3
-- **Last 90 Days:** 23
-- **Last 365 Days:** 81
+- **Total Messages:** 82
+- **Last 30 Days:** 4
+- **Last 90 Days:** 24
+- **Last 365 Days:** 82
 - **First Message:** 2026-05-08
-- **Last Message:** 2026-09-22
+- **Last Message:** 2026-10-19
 
 ## Most Active Users
 
@@ -18,6 +18,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
 | 2 | Mukul | 1 | — |
+| 3 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 
@@ -53,12 +54,13 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 81 |
+| 2026 | 82 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-10 | 1 |
 | 2026-09 | 5 |
 | 2026-08 | 8 |
 | 2026-07 | 17 |
@@ -69,6 +71,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-19 | 1 |
 | 2026-09-22 | 3 |
 | 2026-09-08 | 2 |
 | 2026-08-25 | 1 |

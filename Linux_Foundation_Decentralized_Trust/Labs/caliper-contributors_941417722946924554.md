@@ -3,22 +3,26 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Labs
 - **Channel ID:** 941417722946924554
-- **Total Messages:** 1,185
-- **Last 30 Days:** 0
-- **Last 90 Days:** 0
-- **Last 365 Days:** 12
+- **Total Messages:** 1,186
+- **Last 30 Days:** 1
+- **Last 90 Days:** 1
+- **Last 365 Days:** 13
 - **First Message:** 2022-02-16
-- **Last Message:** 2026-04-15
+- **Last Message:** 2026-10-19
 
 ## Most Active Users
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
 
@@ -28,6 +32,7 @@ _No activity in this period._
 | 2 | [Arun S M](https://github.com/arsulegai) | 4 | TAC member, Chapter Leader |
 | 3 | tunedev | 2 | — |
 | 4 | NorfolkAndChance | 1 | Project Maintainer |
+| 5 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
 
 ### All Time
 
@@ -43,7 +48,7 @@ _No activity in this period._
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 3 |
+| 2026 | 4 |
 | 2025 | 267 |
 | 2024 | 414 |
 | 2023 | 84 |
@@ -53,6 +58,7 @@ _No activity in this period._
 
 | Month | Messages |
 | --- | --- |
+| 2026-10 | 1 |
 | 2026-04 | 3 |
 | 2025-12 | 8 |
 | 2025-11 | 1 |
@@ -97,6 +103,7 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-19 | 1 |
 | 2026-04-15 | 1 |
 | 2026-04-09 | 2 |
 | 2025-12-17 | 3 |

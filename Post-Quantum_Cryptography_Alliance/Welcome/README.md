@@ -3,9 +3,9 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1202723483289780234
 - **Total Messages in Category:** 510
-- **Last 30 Days:** 25
-- **Last 90 Days:** 45
-- **Last 365 Days:** 154
+- **Last 30 Days:** 24
+- **Last 90 Days:** 44
+- **Last 365 Days:** 151
 - **First Message:** 2024-02-01
 - **Last Message:** 2026-10-12
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [general](general_1202723483289780236.md) | 2026-10-12 | 25 | 45 | 152 | 472 |
+| [general](general_1202723483289780236.md) | 2026-10-12 | 24 | 44 | 149 | 472 |
 | [linkedin](linkedin_1205645746192261220.md) | 2026-05-24 | 0 | 0 | 2 | 33 |
 | [links](links_1205170239436754974.md) | 2024-02-13 | 0 | 0 | 0 | 4 |
 | [events](events_1214569223012089878.md) | 2025-03-11 | 0 | 0 | 0 | 1 |
@@ -25,7 +25,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Severus Snape | 5 | — |
-| 2 | Jarek Duda | 5 | — |
+| 2 | Jarek Duda | 4 | — |
 | 3 | Umk.Jr | 3 | — |
 | 4 | Tim | 2 | — |
 | 5 | θρπχι | 2 | — |
@@ -44,7 +44,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | chozorho | 18 | — |
+| 1 | chozorho | 15 | — |
 | 2 | Severus Snape | 15 | — |
 | 3 | Dadofpips | 7 | — |
 | 4 | Jarek Duda | 6 | — |
