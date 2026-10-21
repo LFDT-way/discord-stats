@@ -5,7 +5,7 @@
 - **Channel ID:** 1158754773026222130
 - **Total Messages:** 70
 - **Last 30 Days:** 0
-- **Last 90 Days:** 7
+- **Last 90 Days:** 4
 - **Last 365 Days:** 16
 - **First Message:** 2023-10-03
 - **Last Message:** 2026-08-04
@@ -20,9 +20,8 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | EliMbadi | 3 | — |
+| 1 | EliMbadi | 2 | — |
 | 2 | rout-chaitanya | 2 | — |
-| 3 | [bestbeforetoday](https://github.com/bestbeforetoday) | 2 | Project Maintainer, Fabric Maintainer |
 
 ### Last 365 Days
 

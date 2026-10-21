@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414670897037443205
-- **Total Messages:** 454
-- **Last 30 Days:** 32
-- **Last 90 Days:** 126
-- **Last 365 Days:** 406
+- **Total Messages:** 455
+- **Last 30 Days:** 33
+- **Last 90 Days:** 127
+- **Last 365 Days:** 405
 - **First Message:** 2025-09-24
-- **Last Message:** 2026-10-15
+- **Last Message:** 2026-10-21
 
 ## Most Active Users
 
@@ -17,8 +17,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 10 | Lab Leader |
-| 2 | Nicky H | 7 | Project Maintainer, ToIP |
-| 3 | [drummondreed](https://github.com/talltree) | 7 | Project Maintainer, ToIP |
+| 2 | [drummondreed](https://github.com/talltree) | 8 | Project Maintainer, ToIP |
+| 3 | Nicky H | 7 | Project Maintainer, ToIP |
 | 4 | stevevitka | 3 | ToIP |
 | 5 | [firegod](https://github.com/wenjing) | 2 | Project Maintainer, ToIP |
 
@@ -27,7 +27,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 49 | Lab Leader |
-| 2 | [drummondreed](https://github.com/talltree) | 26 | Project Maintainer, ToIP |
+| 2 | [drummondreed](https://github.com/talltree) | 27 | Project Maintainer, ToIP |
 | 3 | Nicky H | 20 | Project Maintainer, ToIP |
 | 4 | microbiocarly | 10 | Project Maintainer, ToIP |
 | 5 | lyn brooks | 7 | Project Maintainer, ToIP |
@@ -46,7 +46,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 150 | Project Maintainer, ToIP |
+| 1 | [drummondreed](https://github.com/talltree) | 151 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 130 | Lab Leader |
 | 3 | Nicky H | 37 | Project Maintainer, ToIP |
 | 4 | Jonathan Bellack | 16 | Project Maintainer, ToIP |
@@ -56,14 +56,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 312 |
+| 2026 | 313 |
 | 2025 | 142 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 23 |
+| 2026-10 | 24 |
 | 2026-09 | 33 |
 | 2026-08 | 54 |
 | 2026-07 | 51 |
@@ -82,6 +82,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-21 | 1 |
 | 2026-10-15 | 2 |
 | 2026-10-14 | 1 |
 | 2026-10-13 | 1 |

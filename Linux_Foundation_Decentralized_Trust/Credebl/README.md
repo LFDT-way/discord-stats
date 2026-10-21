@@ -4,7 +4,7 @@
 - **Category ID:** 1331657844193231030
 - **Total Messages in Category:** 418
 - **Last 30 Days:** 3
-- **Last 90 Days:** 17
+- **Last 90 Days:** 11
 - **Last 365 Days:** 170
 - **First Message:** 2025-01-23
 - **Last Message:** 2026-10-14
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credebl](credebl_1331657363161219082.md) | 2026-10-14 | 3 | 17 | 112 | 285 |
+| [credebl](credebl_1331657363161219082.md) | 2026-10-14 | 3 | 11 | 112 | 285 |
 | [credebl-platform](credebl-platform_1354090545043210362.md) | 2025-09-30 | 0 | 0 | 0 | 61 |
 | [credebl-maintainers](credebl-maintainers_1354091009813905488.md) | 2026-07-07 | 0 | 0 | 49 | 58 |
 | [credebl-announcement](credebl-announcement_1354090474654404660.md) | 2026-04-09 | 0 | 0 | 9 | 14 |
@@ -31,10 +31,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | amitthosare | 8 | Credebl maintainer, Project Maintainer |
-| 2 | Ankita | 3 | Credebl maintainer, Project Maintainer |
-| 3 | [Ry Jones](https://github.com/ryjones) | 3 | lfdt-ca, LFDT Staff |
-| 4 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 2 | Credebl maintainer |
-| 5 | AmitPadmani | 1 | — |
+| 2 | Ankita | 2 | Credebl maintainer, Project Maintainer |
+| 3 | AmitPadmani | 1 | — |
 
 ### Last 365 Days
 

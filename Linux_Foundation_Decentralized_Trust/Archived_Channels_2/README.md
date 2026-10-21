@@ -4,8 +4,8 @@
 - **Category ID:** 1536466428700655647
 - **Total Messages in Category:** 7,188
 - **Last 30 Days:** 1
-- **Last 90 Days:** 4
-- **Last 365 Days:** 93
+- **Last 90 Days:** 3
+- **Last 365 Days:** 91
 - **First Message:** 2022-02-12
 - **Last Message:** 2026-09-24
 
@@ -23,7 +23,7 @@
 | [anoncreds-spec](anoncreds-spec_1037471404586709042.md) | 2024-05-27 | 0 | 0 | 0 | 173 |
 | [supply-chain-and-trade-finance-sig](supply-chain-and-trade-finance-sig_943951252360925264.md) | 2025-04-28 | 0 | 0 | 0 | 163 |
 | [media-and-entertainment-sig](media-and-entertainment-sig_944591071969685524.md) | 2025-03-03 | 0 | 0 | 0 | 143 |
-| [fabric-operations-console](fabric-operations-console_951489306143363093.md) | 2025-11-05 | 0 | 0 | 3 | 127 |
+| [fabric-operations-console](fabric-operations-console_951489306143363093.md) | 2025-11-05 | 0 | 0 | 1 | 127 |
 | [anoncreds-v20](anoncreds-v20_1077618938256576593.md) | 2025-03-21 | 0 | 0 | 0 | 118 |
 | [documentation-task-force](documentation-task-force_1070733392020246620.md) | 2025-06-11 | 0 | 0 | 0 | 117 |
 | [business-partner-agent](business-partner-agent_948240184124788736.md) | 2025-11-07 | 0 | 0 | 1 | 114 |
@@ -59,7 +59,7 @@
 | [agora](agora_1158477016102862962.md) | 2026-08-11 | 0 | 1 | 4 | 10 |
 | [mirbft](mirbft_954377029262909510.md) | 2023-09-19 | 0 | 0 | 0 | 9 |
 | [anoncreds-revocation](anoncreds-revocation_1037472953383800893.md) | 2023-01-09 | 0 | 0 | 0 | 9 |
-| [decentralized-directory-protocol](decentralized-directory-protocol_1412482928814063706.md) | 2026-07-22 | 0 | 1 | 4 | 9 |
+| [decentralized-directory-protocol](decentralized-directory-protocol_1412482928814063706.md) | 2026-07-22 | 0 | 0 | 4 | 9 |
 | [secure-software-delivery-tf](secure-software-delivery-tf_1219722283703210135.md) | 2025-10-17 | 0 | 0 | 0 | 8 |
 | [arabian-chapter](arabian-chapter_1303790784625119263.md) | 2026-06-17 | 0 | 0 | 4 | 7 |
 | [anoncreds-workshop](anoncreds-workshop_1113474862846054420.md) | 2023-06-05 | 0 | 0 | 0 | 5 |
@@ -80,8 +80,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
-| 3 | Eduardo Chongkan | 1 | — |
-| 4 | EliMbadi | 1 | — |
+| 3 | EliMbadi | 1 | — |
 
 ### Last 365 Days
 

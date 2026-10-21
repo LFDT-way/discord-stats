@@ -2,18 +2,18 @@
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1202723483289780234
-- **Total Messages in Category:** 510
-- **Last 30 Days:** 24
-- **Last 90 Days:** 44
-- **Last 365 Days:** 151
+- **Total Messages in Category:** 511
+- **Last 30 Days:** 22
+- **Last 90 Days:** 45
+- **Last 365 Days:** 152
 - **First Message:** 2024-02-01
-- **Last Message:** 2026-10-12
+- **Last Message:** 2026-10-20
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [general](general_1202723483289780236.md) | 2026-10-12 | 24 | 44 | 149 | 472 |
+| [general](general_1202723483289780236.md) | 2026-10-20 | 22 | 45 | 150 | 473 |
 | [linkedin](linkedin_1205645746192261220.md) | 2026-05-24 | 0 | 0 | 2 | 33 |
 | [links](links_1205170239436754974.md) | 2024-02-13 | 0 | 0 | 0 | 4 |
 | [events](events_1214569223012089878.md) | 2025-03-11 | 0 | 0 | 0 | 1 |
@@ -25,10 +25,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Severus Snape | 5 | — |
-| 2 | Jarek Duda | 4 | — |
-| 3 | Umk.Jr | 3 | — |
+| 2 | Umk.Jr | 3 | — |
+| 3 | Jarek Duda | 3 | — |
 | 4 | Tim | 2 | — |
-| 5 | θρπχι | 2 | — |
+| 5 | Maarl | 2 | — |
 
 ### Last 90 Days
 
@@ -64,7 +64,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 120 |
+| 2026 | 121 |
 | 2025 | 144 |
 | 2024 | 246 |
 
@@ -72,7 +72,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 10 |
+| 2026-10 | 11 |
 | 2026-09 | 24 |
 | 2026-08 | 7 |
 | 2026-07 | 10 |
@@ -109,6 +109,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-20 | 1 |
 | 2026-10-12 | 1 |
 | 2026-10-10 | 2 |
 | 2026-10-07 | 2 |

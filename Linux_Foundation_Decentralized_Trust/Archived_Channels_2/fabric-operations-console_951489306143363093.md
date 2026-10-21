@@ -6,7 +6,7 @@
 - **Total Messages:** 127
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 3
+- **Last 365 Days:** 1
 - **First Message:** 2022-03-10
 - **Last Message:** 2025-11-05
 
@@ -24,8 +24,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Amin.Chegeni | 2 | — |
-| 2 | TsvetanG | 1 | — |
+| 1 | Amin.Chegeni | 1 | — |
 
 ### All Time
 

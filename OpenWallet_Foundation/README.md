@@ -1,23 +1,23 @@
 # Guild Report: OpenWallet Foundation
 
 - **Guild ID:** 1022962884864643214
-- **Total Messages:** 9,723
-- **Last 30 Days:** 159
-- **Last 90 Days:** 325
-- **Last 365 Days:** 1,970 — [active users](users.md)
+- **Total Messages:** 9,733
+- **Last 30 Days:** 167
+- **Last 90 Days:** 326
+- **Last 365 Days:** 1,977 — [active users](users.md)
 - **First Message:** 2022-09-23
-- **Last Message:** 2026-10-20
+- **Last Message:** 2026-10-21
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,874 | 132 | 262 | 1,277 | 2023-11-08 | 2026-10-20 |
+| [Growth Projects](Growth_Projects/README.md) | 3,883 | 139 | 265 | 1,286 | 2023-11-08 | 2026-10-21 |
 | [General](General/README.md) | 1,864 | 5 | 7 | 69 | 2022-09-23 | 2026-10-05 |
-| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 1 | 14 | 114 | 2022-09-28 | 2026-09-24 |
-| [Impact Projects](Impact_Projects/README.md) | 877 | 9 | 16 | 169 | 2024-09-26 | 2026-10-16 |
-| [Labs](Labs/README.md) | 858 | 11 | 25 | 337 | 2023-06-02 | 2026-10-19 |
+| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 1 | 14 | 111 | 2022-09-28 | 2026-09-24 |
+| [Impact Projects](Impact_Projects/README.md) | 877 | 9 | 13 | 169 | 2024-09-26 | 2026-10-16 |
+| [Labs](Labs/README.md) | 859 | 12 | 26 | 338 | 2023-06-02 | 2026-10-20 |
 | [Archive](Archive/README.md) | 345 | 0 | 0 | 1 | 2022-09-23 | 2025-10-23 |
 | [Information](Information/README.md) | 69 | 1 | 1 | 3 | 2022-09-28 | 2026-09-24 |
 
@@ -28,10 +28,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | birte_lr | 56 | — |
-| 2 | [Mirko](https://github.com/cre8) | 31 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | Cyril | 9 | — |
-| 4 | [esune](https://github.com/esune) | 8 | Project Maintainer |
-| 5 | RMLearney | 8 | — |
+| 2 | [Mirko](https://github.com/cre8) | 33 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 3 | RMLearney | 9 | — |
+| 4 | Cyril | 9 | — |
+| 5 | [esune](https://github.com/esune) | 8 | Project Maintainer |
 
 ### Last 90 Days
 
@@ -41,14 +41,14 @@
 | 2 | birte_lr | 61 | — |
 | 3 | Cyril | 26 | — |
 | 4 | espuni | 15 | — |
-| 5 | [davidz25](https://github.com/davidz25) | 14 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 5 | [davidz25](https://github.com/davidz25) | 15 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 388 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 153 | Linux Foundation Staff |
+| 1 | [Mirko](https://github.com/cre8) | 390 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 151 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 144 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
 | 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 112 | Lab Maintainer |
@@ -57,17 +57,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 635 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 637 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 497 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 402 | Linux Foundation Staff |
 | 4 | Tracy | 399 | — |
-| 5 | [davidz25](https://github.com/davidz25) | 302 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 5 | [davidz25](https://github.com/davidz25) | 303 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,516 |
+| 2026 | 1,526 |
 | 2025 | 2,830 |
 | 2024 | 2,596 |
 | 2023 | 1,595 |
@@ -77,7 +77,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 90 |
+| 2026-10 | 100 |
 | 2026-09 | 166 |
 | 2026-08 | 53 |
 | 2026-07 | 130 |
@@ -132,7 +132,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-20 | 2 |
+| 2026-10-21 | 2 |
+| 2026-10-20 | 10 |
 | 2026-10-19 | 1 |
 | 2026-10-18 | 2 |
 | 2026-10-16 | 1 |

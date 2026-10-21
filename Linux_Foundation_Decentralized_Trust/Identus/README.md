@@ -2,12 +2,12 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1226983696306012181
-- **Total Messages in Category:** 1,558
-- **Last 30 Days:** 10
-- **Last 90 Days:** 32
-- **Last 365 Days:** 256
+- **Total Messages in Category:** 1,560
+- **Last 30 Days:** 12
+- **Last 90 Days:** 34
+- **Last 365 Days:** 258
 - **First Message:** 2024-04-10
-- **Last Message:** 2026-10-13
+- **Last Message:** 2026-10-20
 
 ## Channels in Category
 
@@ -19,7 +19,7 @@
 | [general](general_1252630735269925057.md) | 2026-10-01 | 3 | 22 | 91 | 193 |
 | [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 0 | 65 |
 | [identus-faq](identus-faq_1252622748073853083.md) | 2025-11-29 | 0 | 0 | 15 | 46 |
-| [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-10-13 | 4 | 6 | 12 | 28 |
+| [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-10-20 | 6 | 8 | 14 | 30 |
 | [mediator](mediator_1252629675943919679.md) | 2026-07-07 | 0 | 0 | 3 | 22 |
 | [meeting-minutes](meeting-minutes_1252982706212438016.md) | 2025-06-18 | 0 | 0 | 0 | 12 |
 | [sdk-kmp](sdk-kmp_1252629800372408330.md) | 2026-09-28 | 3 | 3 | 3 | 9 |
@@ -32,9 +32,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | jonbauer | 6 | Identus Maintainer, Project Maintainer |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
 | 3 | havy | 1 | Identus Maintainer, Project Maintainer |
 | 4 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
+| 5 | pat_pat | 1 | Identus Maintainer, Project Maintainer |
 
 ### Last 90 Days
 
@@ -44,7 +45,7 @@
 | 2 | jonbauer | 6 | Identus Maintainer, Project Maintainer |
 | 3 | [FabioPinheiro](https://github.com/FabioPinheiro) | 4 | Identus Maintainer, Project Maintainer |
 | 4 | Yurii Shynbuiev | 3 | Identus Maintainer, Project Maintainer |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
 
@@ -70,7 +71,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 188 |
+| 2026 | 190 |
 | 2025 | 943 |
 | 2024 | 427 |
 
@@ -78,7 +79,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 2 |
+| 2026-10 | 4 |
 | 2026-09 | 9 |
 | 2026-08 | 19 |
 | 2026-07 | 15 |
@@ -114,6 +115,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-20 | 2 |
 | 2026-10-13 | 1 |
 | 2026-10-01 | 1 |
 | 2026-09-30 | 1 |

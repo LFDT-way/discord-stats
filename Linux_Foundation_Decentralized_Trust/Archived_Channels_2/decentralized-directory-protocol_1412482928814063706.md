@@ -5,7 +5,7 @@
 - **Channel ID:** 1412482928814063706
 - **Total Messages:** 9
 - **Last 30 Days:** 0
-- **Last 90 Days:** 1
+- **Last 90 Days:** 0
 - **Last 365 Days:** 4
 - **First Message:** 2025-09-08
 - **Last Message:** 2026-07-22
@@ -18,9 +18,7 @@ _No activity in this period._
 
 ### Last 90 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | Eduardo Chongkan | 1 | — |
+_No activity in this period._
 
 ### Last 365 Days
 
