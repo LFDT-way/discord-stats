@@ -1,10 +1,10 @@
 # Guild Report: OpenWallet Foundation
 
 - **Guild ID:** 1022962884864643214
-- **Total Messages:** 9,733
-- **Last 30 Days:** 167
-- **Last 90 Days:** 326
-- **Last 365 Days:** 1,977 — [active users](users.md)
+- **Total Messages:** 9,740
+- **Last 30 Days:** 174
+- **Last 90 Days:** 333
+- **Last 365 Days:** 1,984 — [active users](users.md)
 - **First Message:** 2022-09-23
 - **Last Message:** 2026-10-21
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -13,7 +13,7 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,883 | 139 | 265 | 1,286 | 2023-11-08 | 2026-10-21 |
+| [Growth Projects](Growth_Projects/README.md) | 3,890 | 146 | 272 | 1,293 | 2023-11-08 | 2026-10-21 |
 | [General](General/README.md) | 1,864 | 5 | 7 | 69 | 2022-09-23 | 2026-10-05 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 1 | 14 | 111 | 2022-09-28 | 2026-09-24 |
 | [Impact Projects](Impact_Projects/README.md) | 877 | 9 | 13 | 169 | 2024-09-26 | 2026-10-16 |
@@ -40,8 +40,8 @@
 | 1 | [Mirko](https://github.com/cre8) | 80 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | birte_lr | 61 | — |
 | 3 | Cyril | 26 | — |
-| 4 | espuni | 15 | — |
-| 5 | [davidz25](https://github.com/davidz25) | 15 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 4 | [davidz25](https://github.com/davidz25) | 19 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 5 | espuni | 15 | — |
 
 ### Last 365 Days
 
@@ -61,13 +61,13 @@
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 497 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 402 | Linux Foundation Staff |
 | 4 | Tracy | 399 | — |
-| 5 | [davidz25](https://github.com/davidz25) | 303 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 5 | [davidz25](https://github.com/davidz25) | 307 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,526 |
+| 2026 | 1,533 |
 | 2025 | 2,830 |
 | 2024 | 2,596 |
 | 2023 | 1,595 |
@@ -77,7 +77,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 100 |
+| 2026-10 | 107 |
 | 2026-09 | 166 |
 | 2026-08 | 53 |
 | 2026-07 | 130 |
@@ -132,7 +132,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-21 | 2 |
+| 2026-10-21 | 9 |
 | 2026-10-20 | 10 |
 | 2026-10-19 | 1 |
 | 2026-10-18 | 2 |

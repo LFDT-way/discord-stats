@@ -2,10 +2,10 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1195061874950144120
-- **Total Messages in Category:** 1,426
-- **Last 30 Days:** 47
-- **Last 90 Days:** 79
-- **Last 365 Days:** 204
+- **Total Messages in Category:** 1,427
+- **Last 30 Days:** 48
+- **Last 90 Days:** 80
+- **Last 365 Days:** 205
 - **First Message:** 2024-01-11
 - **Last Message:** 2026-10-21
 
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-10-21 | 46 | 77 | 142 | 883 |
-| [web3j-general](web3j-general_1195062053682032700.md) | 2026-10-13 | 1 | 2 | 62 | 543 |
+| [web3j-general](web3j-general_1195062053682032700.md) | 2026-10-21 | 2 | 3 | 63 | 544 |
 
 ## Most Active Users
 
@@ -62,7 +62,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 182 |
+| 2026 | 183 |
 | 2025 | 341 |
 | 2024 | 903 |
 
@@ -70,7 +70,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 31 |
+| 2026-10 | 32 |
 | 2026-09 | 27 |
 | 2026-08 | 12 |
 | 2026-07 | 27 |
@@ -107,7 +107,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-21 | 1 |
+| 2026-10-21 | 2 |
 | 2026-10-20 | 6 |
 | 2026-10-15 | 1 |
 | 2026-10-14 | 1 |

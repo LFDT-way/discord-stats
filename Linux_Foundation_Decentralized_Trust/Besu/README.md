@@ -2,10 +2,10 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205381872095283
-- **Total Messages in Category:** 47,813
-- **Last 30 Days:** 145
-- **Last 90 Days:** 518
-- **Last 365 Days:** 1,842
+- **Total Messages in Category:** 47,816
+- **Last 30 Days:** 148
+- **Last 90 Days:** 521
+- **Last 365 Days:** 1,845
 - **First Message:** 2021-11-09
 - **Last Message:** 2026-10-21
 
@@ -14,8 +14,8 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [besu](besu_938504958909747250.md) | 2026-10-19 | 46 | 186 | 757 | 33,821 |
-| [besu-contributors](besu-contributors_905205502940696607.md) | 2026-10-21 | 53 | 175 | 502 | 6,702 |
-| [besu-reviews](besu-reviews_938505506123812865.md) | 2026-10-20 | 13 | 40 | 247 | 2,374 |
+| [besu-contributors](besu-contributors_905205502940696607.md) | 2026-10-21 | 55 | 177 | 504 | 6,704 |
+| [besu-reviews](besu-reviews_938505506123812865.md) | 2026-10-21 | 14 | 41 | 248 | 2,375 |
 | [besu-enterprise](besu-enterprise_1172617318845657199.md) | 2026-10-06 | 12 | 71 | 162 | 1,812 |
 | [besu-release](besu-release_943252457063075880.md) | 2026-08-28 | 0 | 4 | 65 | 1,790 |
 | [besu-performance](besu-performance_1129455688255553717.md) | 2026-10-12 | 12 | 12 | 43 | 457 |
@@ -77,7 +77,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,427 |
+| 2026 | 1,430 |
 | 2025 | 3,508 |
 | 2024 | 10,409 |
 | 2023 | 11,741 |
@@ -88,7 +88,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 101 |
+| 2026-10 | 104 |
 | 2026-09 | 146 |
 | 2026-08 | 173 |
 | 2026-07 | 225 |
@@ -151,7 +151,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-21 | 2 |
+| 2026-10-21 | 5 |
 | 2026-10-20 | 9 |
 | 2026-10-19 | 4 |
 | 2026-10-18 | 1 |

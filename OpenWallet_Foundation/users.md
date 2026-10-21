@@ -5,7 +5,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 128
-- **Messages (365d):** 1,977
+- **Messages (365d):** 1,984
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -14,7 +14,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 144 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
 | 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 112 | Lab Maintainer |
-| 6 | [davidz25](https://github.com/davidz25) | 97 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 6 | [davidz25](https://github.com/davidz25) | 101 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 7 | [Timo Glastra](https://github.com/TimoGlastra) | 96 | credo maintainers, Project Maintainer |
 | 8 | birte_lr | 61 | — |
 | 9 | espuni | 45 | — |
@@ -26,8 +26,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 15 | RMLearney | 29 | — |
 | 16 | Thomas Tran | 28 | Lab Maintainer |
 | 17 | ai Igor | 24 | — |
-| 18 | [bryce-mcmath](https://github.com/bryce-mcmath) | 22 | bifold maintainers, Project Maintainer |
-| 19 | [VishnuSanal](https://github.com/VishnuSanal) | 20 | multipaz maintainer, Project Maintainer |
+| 18 | [VishnuSanal](https://github.com/VishnuSanal) | 23 | multipaz maintainer, Project Maintainer |
+| 19 | [bryce-mcmath](https://github.com/bryce-mcmath) | 22 | bifold maintainers, Project Maintainer |
 | 20 | Graham | 19 | — |
 | 21 | kukgini | 18 | — |
 | 22 | [esune](https://github.com/esune) | 16 | Project Maintainer |

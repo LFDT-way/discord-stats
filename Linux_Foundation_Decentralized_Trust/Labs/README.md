@@ -51,7 +51,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Edward Wertz | 11 | Lab Leader |
+| 1 | Edward Wertz (Hashgraph) | 11 | Lab Leader |
 | 2 | vetefe | 7 | Lab Leader |
 | 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 6 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 4 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
@@ -65,7 +65,7 @@
 | 2 | [Ry Jones](https://github.com/ryjones) | 13 | lfdt-ca, LFDT Staff |
 | 3 | kadalkidal | 13 | Lab Leader |
 | 4 | [DanielSzego](https://github.com/Daniel-Szego) | 11 | Meetup Organizer |
-| 5 | Edward Wertz | 11 | Lab Leader |
+| 5 | Edward Wertz (Hashgraph) | 11 | Lab Leader |
 
 ### Last 365 Days
 
