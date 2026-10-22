@@ -4,7 +4,7 @@
 - **Category ID:** 1195061874950144120
 - **Total Messages in Category:** 1,427
 - **Last 30 Days:** 48
-- **Last 90 Days:** 80
+- **Last 90 Days:** 76
 - **Last 365 Days:** 205
 - **First Message:** 2024-01-11
 - **Last Message:** 2026-10-21
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-10-21 | 46 | 77 | 142 | 883 |
+| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-10-21 | 46 | 73 | 142 | 883 |
 | [web3j-general](web3j-general_1195062053682032700.md) | 2026-10-21 | 2 | 3 | 63 | 544 |
 
 ## Most Active Users
@@ -32,10 +32,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | George Tebrean | 24 | Project Maintainer, Web3j Maintainer |
+| 1 | George Tebrean | 23 | Project Maintainer, Web3j Maintainer |
 | 2 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 18 | Project Maintainer, Web3j Maintainer |
-| 3 | Dev | 14 | — |
-| 4 | Saurav | 13 | — |
+| 3 | Saurav | 13 | — |
+| 4 | Dev | 11 | — |
 | 5 | toji | 6 | — |
 
 ### Last 365 Days

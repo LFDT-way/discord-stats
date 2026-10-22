@@ -5,7 +5,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 128
-- **Messages (365d):** 1,984
+- **Messages (365d):** 1,982
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -46,9 +46,9 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 35 | sirawt | 10 | — |
 | 36 | Abhi | 9 | — |
 | 37 | Jim St.Clair | 8 | SIG member |
-| 38 | Jason | 8 | bifold maintainers, Project Maintainer |
-| 39 | Thiago Romano | 8 | — |
-| 40 | [drummondreed](https://github.com/talltree) | 8 | — |
+| 38 | Thiago Romano | 8 | — |
+| 39 | [drummondreed](https://github.com/talltree) | 8 | — |
+| 40 | Jason | 7 | bifold maintainers, Project Maintainer |
 | 41 | Pragya Jain | 7 | — |
 | 42 | jarosss_ | 6 | — |
 | 43 | vivek | 6 | — |
@@ -58,12 +58,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 47 | senu | 5 | — |
 | 48 | gr0 | 5 | — |
 | 49 | Ginga | 5 | — |
-| 50 | aaron | 5 | — |
-| 51 | geertdoornbos | 4 | — |
-| 52 | Bilal | 4 | — |
-| 53 | Pragya Jain | 4 | — |
-| 54 | Harshitha | 4 | — |
-| 55 | Damignos | 4 | — |
+| 50 | geertdoornbos | 4 | — |
+| 51 | Bilal | 4 | — |
+| 52 | Pragya Jain | 4 | — |
+| 53 | Harshitha | 4 | — |
+| 54 | Damignos | 4 | — |
+| 55 | aaron | 4 | — |
 | 56 | akishiseki | 3 | — |
 | 57 | Hassan | 3 | — |
 | 58 | [Gavinok](https://github.com/Gavinok) | 3 | — |

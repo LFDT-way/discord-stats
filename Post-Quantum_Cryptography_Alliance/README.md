@@ -1,20 +1,20 @@
 # Guild Report: Post-Quantum Cryptography Alliance
 
 - **Guild ID:** 1202723482224295936
-- **Total Messages:** 4,554
-- **Last 30 Days:** 77
-- **Last 90 Days:** 300
-- **Last 365 Days:** 1,459 — [active users](users.md)
+- **Total Messages:** 4,555
+- **Last 30 Days:** 78
+- **Last 90 Days:** 301
+- **Last 365 Days:** 1,448 — [active users](users.md)
 - **First Message:** 2024-02-01
-- **Last Message:** 2026-10-20
+- **Last Message:** 2026-10-22
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PQ Code Package](PQ_Code_Package/README.md) | 3,615 | 49 | 225 | 1,196 | 2024-02-03 | 2026-10-20 |
-| [Welcome](Welcome/README.md) | 511 | 22 | 45 | 152 | 2024-02-01 | 2026-10-20 |
+| [PQ Code Package](PQ_Code_Package/README.md) | 3,616 | 50 | 226 | 1,188 | 2024-02-03 | 2026-10-22 |
+| [Welcome](Welcome/README.md) | 511 | 22 | 45 | 149 | 2024-02-01 | 2026-10-20 |
 | [Open Quantum Safe](Open_Quantum_Safe/README.md) | 283 | 5 | 27 | 70 | 2024-02-03 | 2026-10-17 |
 | [Governance](Governance/README.md) | 81 | 0 | 0 | 6 | 2024-02-05 | 2026-02-10 |
 | [CBOMKit](CBOMKit/README.md) | 51 | 1 | 3 | 28 | 2025-05-06 | 2026-09-24 |
@@ -48,7 +48,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 505 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 407 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 398 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 104 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 85 | LF Staff |
 | 5 | Jake | 42 | PQ Code Package Maintainer, Project Maintainer |
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 928 |
+| 2026 | 929 |
 | 2025 | 2,683 |
 | 2024 | 944 |
 | 2023 | 3 |
@@ -78,7 +78,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 46 |
+| 2026-10 | 47 |
 | 2026-09 | 109 |
 | 2026-08 | 130 |
 | 2026-07 | 71 |
@@ -122,6 +122,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-22 | 1 |
 | 2026-10-20 | 3 |
 | 2026-10-19 | 19 |
 | 2026-10-17 | 2 |

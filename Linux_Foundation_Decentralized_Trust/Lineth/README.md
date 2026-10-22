@@ -4,7 +4,7 @@
 - **Category ID:** 1498775901532454942
 - **Total Messages in Category:** 41
 - **Last 30 Days:** 3
-- **Last 90 Days:** 22
+- **Last 90 Days:** 21
 - **Last 365 Days:** 41
 - **First Message:** 2026-05-11
 - **Last Message:** 2026-09-30
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [lineth-general](lineth-general_1498775958080065746.md) | 2026-09-30 | 3 | 22 | 37 | 37 |
+| [lineth-general](lineth-general_1498775958080065746.md) | 2026-09-30 | 3 | 21 | 37 | 37 |
 | [lineth-announcements](lineth-announcements_1499425506439729262.md) | 2026-06-26 | 0 | 0 | 2 | 2 |
 | [lineth-dev](lineth-dev_1509343096457134142.md) | 2026-06-25 | 0 | 0 | 2 | 2 |
 
@@ -30,7 +30,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Coenie | 8 | — |
-| 2 | Le Chiffre | 6 | — |
+| 2 | Le Chiffre | 5 | — |
 | 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
 | 4 | TiteWare | 2 | — |
 | 5 | Jimmy Lineth | 1 | — |

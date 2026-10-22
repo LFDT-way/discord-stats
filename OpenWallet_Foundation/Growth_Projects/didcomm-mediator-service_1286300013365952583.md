@@ -5,7 +5,7 @@
 - **Channel ID:** 1286300013365952583
 - **Total Messages:** 43
 - **Last 30 Days:** 9
-- **Last 90 Days:** 10
+- **Last 90 Days:** 9
 - **Last 365 Days:** 16
 - **First Message:** 2024-09-24
 - **Last Message:** 2026-10-13
@@ -29,7 +29,6 @@
 | 2 | [jamshale](https://github.com/jamshale) | 2 | Project Maintainer |
 | 3 | Pragya Jain | 1 | — |
 | 4 | RMLearney | 1 | — |
-| 5 | José Puma | 1 | — |
 
 ### Last 365 Days
 

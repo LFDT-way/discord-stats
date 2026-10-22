@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 26,655
 - **Last 30 Days:** 4
 - **Last 90 Days:** 50
-- **Last 365 Days:** 662
+- **Last 365 Days:** 661
 - **First Message:** 2022-01-05
 - **Last Message:** 2026-10-21
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [firefly](firefly_928377875827154984.md) | 2026-10-21 | 4 | 15 | 135 | 25,512 |
+| [firefly](firefly_928377875827154984.md) | 2026-10-21 | 4 | 15 | 134 | 25,512 |
 | [firefly-maintainers](firefly-maintainers_1151539141826322482.md) | 2026-09-15 | 0 | 35 | 527 | 973 |
 | [firefly-workshop](firefly-workshop_1063562168064282685.md) | 2025-08-28 | 0 | 0 | 0 | 169 |
 | [firefly-announcements](firefly-announcements_928380528422432769.md) | 2022-04-13 | 0 | 0 | 0 | 1 |

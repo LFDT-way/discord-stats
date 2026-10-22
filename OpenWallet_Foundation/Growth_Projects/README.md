@@ -3,9 +3,9 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
 - **Total Messages in Category:** 3,890
-- **Last 30 Days:** 146
-- **Last 90 Days:** 272
-- **Last 365 Days:** 1,293
+- **Last 30 Days:** 141
+- **Last 90 Days:** 270
+- **Last 365 Days:** 1,290
 - **First Message:** 2023-11-08
 - **Last Message:** 2026-10-21
 
@@ -14,14 +14,14 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [credo](credo_1179453305856991263.md) | 2026-10-21 | 17 | 17 | 165 | 1,103 |
-| [bifold](bifold_1209891839071756419.md) | 2026-10-20 | 6 | 20 | 143 | 915 |
-| [multipaz](multipaz_1179828955717574707.md) | 2026-10-21 | 10 | 34 | 227 | 656 |
-| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-21 | 104 | 188 | 627 | 639 |
+| [bifold](bifold_1209891839071756419.md) | 2026-10-20 | 6 | 20 | 141 | 915 |
+| [multipaz](multipaz_1179828955717574707.md) | 2026-10-21 | 10 | 34 | 226 | 656 |
+| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-21 | 99 | 187 | 627 | 639 |
 | [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 0 | 88 | 268 |
 | [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 4 | 105 |
 | [owl](owl_1214965981470924911.md) | 2026-05-07 | 0 | 0 | 10 | 85 |
 | [vcx](vcx_1344319756324311123.md) | 2026-03-31 | 0 | 0 | 6 | 69 |
-| [didcomm-mediator-service](didcomm-mediator-service_1286300013365952583.md) | 2026-10-13 | 9 | 10 | 16 | 43 |
+| [didcomm-mediator-service](didcomm-mediator-service_1286300013365952583.md) | 2026-10-13 | 9 | 9 | 16 | 43 |
 | [diip](diip_1493643118078201856.md) | 2026-07-27 | 0 | 1 | 5 | 5 |
 | [thunderid](thunderid_1530170675493339227.md) | 2026-08-20 | 0 | 2 | 2 | 2 |
 
@@ -31,10 +31,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | birte_lr | 56 | — |
-| 2 | [Mirko](https://github.com/cre8) | 29 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | Cyril | 9 | — |
-| 4 | [esune](https://github.com/esune) | 7 | Project Maintainer |
+| 1 | birte_lr | 54 | — |
+| 2 | [Mirko](https://github.com/cre8) | 28 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 3 | [esune](https://github.com/esune) | 7 | Project Maintainer |
+| 4 | Cyril | 7 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 6 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 
 ### Last 90 Days
@@ -54,7 +54,7 @@
 | 1 | [Mirko](https://github.com/cre8) | 331 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | Cyril | 116 | — |
 | 3 | [davidz25](https://github.com/davidz25) | 101 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 73 | Linux Foundation Staff |
+| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 72 | Linux Foundation Staff |
 | 5 | birte_lr | 61 | — |
 
 ### All Time

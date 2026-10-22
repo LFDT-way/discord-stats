@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 511
 - **Last 30 Days:** 22
 - **Last 90 Days:** 45
-- **Last 365 Days:** 152
+- **Last 365 Days:** 149
 - **First Message:** 2024-02-01
 - **Last Message:** 2026-10-20
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [general](general_1202723483289780236.md) | 2026-10-20 | 22 | 45 | 150 | 473 |
+| [general](general_1202723483289780236.md) | 2026-10-20 | 22 | 45 | 147 | 473 |
 | [linkedin](linkedin_1205645746192261220.md) | 2026-05-24 | 0 | 0 | 2 | 33 |
 | [links](links_1205170239436754974.md) | 2024-02-13 | 0 | 0 | 0 | 4 |
 | [events](events_1214569223012089878.md) | 2025-03-11 | 0 | 0 | 0 | 1 |
