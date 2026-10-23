@@ -3,25 +3,28 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414671746065371186
-- **Total Messages:** 159
-- **Last 30 Days:** 0
-- **Last 90 Days:** 14
-- **Last 365 Days:** 146
+- **Total Messages:** 161
+- **Last 30 Days:** 2
+- **Last 90 Days:** 16
+- **Last 365 Days:** 147
 - **First Message:** 2025-09-24
-- **Last Message:** 2026-09-17
+- **Last Message:** 2026-10-22
 
 ## Most Active Users
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | [danielabarbosa](https://github.com/daniela-barbosa) | 1 | LFDT Staff |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 1 | Lab Leader |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | John Phillips | 3 | Project Maintainer, ToIP |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 3 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
+| 2 | John Phillips | 3 | Project Maintainer, ToIP |
 | 3 | microbiocarly | 2 | Project Maintainer, ToIP |
 | 4 | [drummondreed](https://github.com/talltree) | 2 | Project Maintainer, ToIP |
 | 5 | [geoffturk](https://github.com/geoffturk) | 2 | Project Maintainer, ToIP |
@@ -32,7 +35,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | microbiocarly | 43 | Project Maintainer, ToIP |
 | 2 | [drummondreed](https://github.com/talltree) | 22 | Project Maintainer, ToIP |
-| 3 | [firegod](https://github.com/wenjing) | 17 | Project Maintainer, ToIP |
+| 3 | [firegod](https://github.com/wenjing) | 16 | Project Maintainer, ToIP |
 | 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 10 | Project Maintainer, ToIP |
 | 5 | [Ry Jones](https://github.com/ryjones) | 8 | lfdt-ca, LFDT Staff |
 
@@ -50,13 +53,14 @@ _No activity in this period._
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 118 |
+| 2026 | 120 |
 | 2025 | 41 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-10 | 2 |
 | 2026-09 | 3 |
 | 2026-08 | 11 |
 | 2026-07 | 3 |
@@ -74,6 +78,7 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-22 | 2 |
 | 2026-09-17 | 3 |
 | 2026-08-30 | 2 |
 | 2026-08-29 | 3 |

@@ -6,7 +6,7 @@
 - **Total Messages:** 971
 - **Last 30 Days:** 44
 - **Last 90 Days:** 139
-- **Last 365 Days:** 453
+- **Last 365 Days:** 444
 - **First Message:** 2024-06-10
 - **Last Message:** 2026-10-20
 
@@ -36,9 +36,9 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 252 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 115 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 112 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 40 | PQ Code Package Maintainer |
-| 4 | [RyJones](https://github.com/ryjones) | 27 | LF Staff |
+| 4 | [RyJones](https://github.com/ryjones) | 21 | LF Staff |
 | 5 | Ben | 4 | — |
 
 ### All Time

@@ -3,12 +3,12 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category:** PQ Code Package
 - **Channel ID:** 1339067141269229652
-- **Total Messages:** 2,196
-- **Last 30 Days:** 2
-- **Last 90 Days:** 60
-- **Last 365 Days:** 683
+- **Total Messages:** 2,198
+- **Last 30 Days:** 4
+- **Last 90 Days:** 62
+- **Last 365 Days:** 682
 - **First Message:** 2025-02-12
-- **Last Message:** 2026-10-19
+- **Last Message:** 2026-10-22
 
 ## Most Active Users
 
@@ -16,8 +16,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Brendan | 1 | — |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 1 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | [RyJones](https://github.com/ryjones) | 2 | LF Staff |
+| 2 | Brendan | 1 | — |
+| 3 | [Matthias Kannwischer](https://github.com/mkannwischer) | 1 | PQ Code Package Maintainer, Project Maintainer |
 
 ### Last 90 Days
 
@@ -26,18 +27,18 @@
 | 1 | Rod | 27 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 25 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | isolinear | 3 | — |
-| 4 | Hanno | 2 | PQ Code Package Maintainer |
-| 5 | Ben Knill | 1 | — |
+| 4 | [RyJones](https://github.com/ryjones) | 2 | LF Staff |
+| 5 | Hanno | 2 | PQ Code Package Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 272 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 269 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | Rod | 253 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 56 | PQ Code Package Maintainer |
 | 4 | Jake | 42 | PQ Code Package Maintainer, Project Maintainer |
-| 5 | [RyJones](https://github.com/ryjones) | 40 | LF Staff |
+| 5 | [RyJones](https://github.com/ryjones) | 42 | LF Staff |
 
 ### All Time
 
@@ -53,14 +54,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 288 |
+| 2026 | 290 |
 | 2025 | 1,908 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 2 |
+| 2026-10 | 4 |
 | 2026-08 | 52 |
 | 2026-07 | 31 |
 | 2026-06 | 42 |
@@ -85,6 +86,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-22 | 2 |
 | 2026-10-19 | 1 |
 | 2026-10-09 | 1 |
 | 2026-08-24 | 6 |

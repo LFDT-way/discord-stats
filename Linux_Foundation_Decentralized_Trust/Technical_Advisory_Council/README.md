@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 941383941217222708
-- **Total Messages in Category:** 2,618
-- **Last 30 Days:** 49
-- **Last 90 Days:** 116
-- **Last 365 Days:** 371
+- **Total Messages in Category:** 2,623
+- **Last 30 Days:** 45
+- **Last 90 Days:** 121
+- **Last 365 Days:** 376
 - **First Message:** 2022-02-10
-- **Last Message:** 2026-10-22
+- **Last Message:** 2026-10-23
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-10-22 | 49 | 116 | 353 | 2,565 |
+| [tac](tac_941384040316018790.md) | 2026-10-23 | 45 | 121 | 358 | 2,570 |
 | [automated-pipelines](automated-pipelines_1156961689971998782.md) | 2026-04-15 | 0 | 0 | 18 | 52 |
 | [tac-announcements](tac-announcements_941399554731966564.md) | 2022-02-17 | 0 | 0 | 0 | 1 |
 
@@ -23,39 +23,39 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 26 | TAC member, Chapter Leader |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | lfdt-ca, LFDT Staff |
+| 1 | [Arun S M](https://github.com/arsulegai) | 19 | TAC member, Chapter Leader |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 7 | lfdt-ca, LFDT Staff |
 | 3 | [hendrik.ebbers](https://github.com/hendrikebbers) | 5 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
 | 4 | [Matthew Whitehead](https://github.com/matthew1001) | 2 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 5 | [vramaiitkgp](https://github.com/VRamakrishna) | 2 | TAC member, Cacti Maintainer |
+| 5 | [Ry Jones](https://github.com/ryjones) | 2 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 54 | TAC member, Chapter Leader |
-| 2 | [davidwboswell](https://github.com/davidwboswell) | 10 | lfdt-ca, LFDT Staff |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 8 | lfdt-ca, LFDT Staff |
-| 4 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
+| 1 | [Arun S M](https://github.com/arsulegai) | 55 | TAC member, Chapter Leader |
+| 2 | [davidwboswell](https://github.com/davidwboswell) | 11 | lfdt-ca, LFDT Staff |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 10 | lfdt-ca, LFDT Staff |
+| 4 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
 | 5 | [hendrik.ebbers](https://github.com/hendrikebbers) | 6 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 141 | TAC member, Chapter Leader |
-| 2 | [Ry Jones](https://github.com/ryjones) | 38 | lfdt-ca, LFDT Staff |
-| 3 | [davidwboswell](https://github.com/davidwboswell) | 36 | lfdt-ca, LFDT Staff |
+| 1 | [Arun S M](https://github.com/arsulegai) | 142 | TAC member, Chapter Leader |
+| 2 | [Ry Jones](https://github.com/ryjones) | 39 | lfdt-ca, LFDT Staff |
+| 3 | [davidwboswell](https://github.com/davidwboswell) | 37 | lfdt-ca, LFDT Staff |
 | 4 | [vramaiitkgp](https://github.com/VRamakrishna) | 17 | TAC member, Cacti Maintainer |
-| 5 | [Enrique Lacal](https://github.com/EnriqueL8) | 15 | TAC member, Project Maintainer, Firefly Maintainer |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 15 | lfdt-ca, LFDT Staff |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Tracy | 690 | — |
-| 2 | [Ry Jones](https://github.com/ryjones) | 359 | lfdt-ca, LFDT Staff |
-| 3 | [Arun S M](https://github.com/arsulegai) | 359 | TAC member, Chapter Leader |
+| 2 | [Ry Jones](https://github.com/ryjones) | 360 | lfdt-ca, LFDT Staff |
+| 3 | [Arun S M](https://github.com/arsulegai) | 360 | TAC member, Chapter Leader |
 | 4 | Peter Metz | 130 | — |
 | 5 | [Hart Montgomery](https://github.com/hartm) | 108 | LFDT Staff |
 
@@ -63,7 +63,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 313 |
+| 2026 | 318 |
 | 2025 | 400 |
 | 2024 | 501 |
 | 2023 | 816 |
@@ -73,7 +73,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 28 |
+| 2026-10 | 33 |
 | 2026-09 | 54 |
 | 2026-08 | 33 |
 | 2026-07 | 17 |
@@ -135,7 +135,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-22 | 5 |
+| 2026-10-23 | 1 |
+| 2026-10-22 | 9 |
 | 2026-10-21 | 1 |
 | 2026-10-14 | 1 |
 | 2026-10-13 | 3 |

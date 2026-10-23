@@ -5,7 +5,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 128
-- **Messages (365d):** 1,982
+- **Messages (365d):** 1,976
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -13,13 +13,13 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 151 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 144 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
-| 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 112 | Lab Maintainer |
-| 6 | [davidz25](https://github.com/davidz25) | 101 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 107 | Lab Maintainer |
+| 6 | [davidz25](https://github.com/davidz25) | 102 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 7 | [Timo Glastra](https://github.com/TimoGlastra) | 96 | credo maintainers, Project Maintainer |
 | 8 | birte_lr | 61 | — |
 | 9 | espuni | 45 | — |
-| 10 | Timbl | 39 | — |
-| 11 | PStLouis | 36 | Lab Maintainer, Project Maintainer |
+| 10 | PStLouis | 36 | Lab Maintainer, Project Maintainer |
+| 11 | Timbl | 36 | — |
 | 12 | davidejalexander | 35 | SIG member |
 | 13 | thidalgo | 35 | — |
 | 14 | [swcurran](https://github.com/swcurran) | 32 | Lab Maintainer, TAC members, Project Maintainer |
@@ -61,22 +61,22 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 50 | geertdoornbos | 4 | — |
 | 51 | Bilal | 4 | — |
 | 52 | Pragya Jain | 4 | — |
-| 53 | Harshitha | 4 | — |
-| 54 | Damignos | 4 | — |
-| 55 | aaron | 4 | — |
-| 56 | akishiseki | 3 | — |
-| 57 | Hassan | 3 | — |
-| 58 | [Gavinok](https://github.com/Gavinok) | 3 | — |
-| 59 | [Patrik Stas](https://github.com/Patrik-Stas) | 3 | — |
-| 60 | Aftab Saraz | 3 | — |
-| 61 | Iancu Fofiu | 3 | — |
-| 62 | mashukur.rahman | 3 | — |
-| 63 | [JSyro](https://github.com/Jsyro) | 3 | Lab Maintainer, Project Maintainer |
-| 64 | LukeBC | 3 | — |
-| 65 | sencond1800 | 3 | — |
-| 66 | ζατch bell | 3 | — |
-| 67 | ai-Igor | 3 | — |
-| 68 | Ever | 3 | multipaz maintainer |
+| 53 | Ever | 4 | multipaz maintainer |
+| 54 | Harshitha | 4 | — |
+| 55 | Damignos | 4 | — |
+| 56 | aaron | 4 | — |
+| 57 | akishiseki | 3 | — |
+| 58 | Hassan | 3 | — |
+| 59 | [Gavinok](https://github.com/Gavinok) | 3 | — |
+| 60 | [Patrik Stas](https://github.com/Patrik-Stas) | 3 | — |
+| 61 | Aftab Saraz | 3 | — |
+| 62 | Iancu Fofiu | 3 | — |
+| 63 | mashukur.rahman | 3 | — |
+| 64 | [JSyro](https://github.com/Jsyro) | 3 | Lab Maintainer, Project Maintainer |
+| 65 | LukeBC | 3 | — |
+| 66 | sencond1800 | 3 | — |
+| 67 | ζατch bell | 3 | — |
+| 68 | ai-Igor | 3 | — |
 | 69 | Muhammad Ahmer Khan | 3 | — |
 | 70 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 3 | Lab Maintainer |
 | 71 | Alisson-Dev-Zolvency | 3 | — |

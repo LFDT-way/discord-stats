@@ -5,7 +5,7 @@
 - **Channel ID:** 943059293765267497
 - **Total Messages:** 1,075
 - **Last 30 Days:** 0
-- **Last 90 Days:** 2
+- **Last 90 Days:** 1
 - **Last 365 Days:** 28
 - **First Message:** 2022-02-15
 - **Last Message:** 2026-08-14
@@ -21,7 +21,6 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Maria Munaro](https://github.com/munapower) | 1 | — |
-| 2 | ygt3488 | 1 | — |
 
 ### Last 365 Days
 

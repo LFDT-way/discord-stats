@@ -2,12 +2,12 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
-- **Total Messages in Category:** 21,441
-- **Last 30 Days:** 75
-- **Last 90 Days:** 182
-- **Last 365 Days:** 860
+- **Total Messages in Category:** 21,442
+- **Last 30 Days:** 72
+- **Last 90 Days:** 171
+- **Last 365 Days:** 859
 - **First Message:** 2021-11-05
-- **Last Message:** 2026-10-21
+- **Last Message:** 2026-10-23
 
 ## Channels in Category
 
@@ -21,11 +21,11 @@
 | [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 4 | 859 |
 | [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-16 | 12 | 18 | 171 | 349 |
 | [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-01 | 3 | 11 | 63 | 153 |
-| [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 8 | 129 | 148 |
+| [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 3 | 127 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-09-21 | 0 | 8 | 11 | 108 |
 | [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-10-21 | 12 | 41 | 95 | 95 |
 | [fablo](fablo_1109190949394989127.md) | 2026-10-20 | 1 | 3 | 14 | 88 |
-| [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-10-20 | 5 | 24 | 83 | 83 |
+| [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-10-23 | 3 | 18 | 84 | 84 |
 | [general](general_988569914266775662.md) | 2026-07-30 | 0 | 3 | 10 | 72 |
 | [cello](cello_941475454378991646.md) | 2026-10-20 | 5 | 6 | 15 | 59 |
 | [cc-tools](cc-tools_1156653969133809715.md) | 2025-05-07 | 0 | 0 | 0 | 45 |
@@ -42,7 +42,7 @@
 | [caliper-github](caliper-github_943549642824638544.md) | 2024-04-12 | 0 | 0 | 0 | 4 |
 | [accountable-impact-commons](accountable-impact-commons_1540006318125879346.md) | 2026-09-03 | 0 | 4 | 4 | 4 |
 | [agent-authority-conformance](agent-authority-conformance_1542096589961699369.md) | 2026-08-26 | 0 | 3 | 3 | 3 |
-| [veltoracore](veltoracore_1504169634910310410.md) | 2026-09-22 | 1 | 2 | 2 | 2 |
+| [veltoracore](veltoracore_1504169634910310410.md) | 2026-09-22 | 0 | 2 | 2 | 2 |
 | [os_frontiers](os_frontiers_1498334265769726123.md) | 2026-10-09 | 1 | 2 | 2 | 2 |
 
 ## Most Active Users
@@ -73,7 +73,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 81 | lfdt-ca, LFDT Staff |
 | 2 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 78 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
-| 3 | [RAWx18](https://github.com/RAWx18) | 78 | Lab Leader |
+| 3 | [RAWx18](https://github.com/RAWx18) | 76 | Lab Leader |
 | 4 | [DanielSzego](https://github.com/Daniel-Szego) | 55 | Meetup Organizer |
 | 5 | [Angelo De Caro](https://github.com/adecaro) | 49 | Lab Leader, Fabric Maintainer, Project Maintainer |
 
@@ -91,7 +91,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 724 |
+| 2026 | 725 |
 | 2025 | 1,008 |
 | 2024 | 2,099 |
 | 2023 | 7,409 |
@@ -102,7 +102,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 54 |
+| 2026-10 | 55 |
 | 2026-09 | 42 |
 | 2026-08 | 54 |
 | 2026-07 | 125 |
@@ -165,6 +165,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-23 | 1 |
 | 2026-10-21 | 1 |
 | 2026-10-20 | 19 |
 | 2026-10-19 | 5 |

@@ -3,7 +3,7 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1022962884864643218
 - **Total Messages in Category:** 1,865
-- **Last 30 Days:** 6
+- **Last 30 Days:** 4
 - **Last 90 Days:** 8
 - **Last 365 Days:** 70
 - **First Message:** 2022-09-23
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [welcome-landing](welcome-landing_1022962884864643219.md) | 2026-07-30 | 0 | 1 | 1 | 1,077 |
-| [general](general_1023188132042133574.md) | 2026-10-22 | 6 | 6 | 57 | 379 |
+| [general](general_1023188132042133574.md) | 2026-10-22 | 4 | 6 | 57 | 379 |
 | [introductions](introductions_1023219299902570589.md) | 2026-05-20 | 0 | 0 | 2 | 99 |
 | [community-connect](community-connect_1022965117362634855.md) | 2025-10-25 | 0 | 0 | 1 | 90 |
 | [ideas-and-feedback](ideas-and-feedback_1022962884864643221.md) | 2025-11-11 | 0 | 0 | 2 | 54 |
@@ -35,10 +35,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Ginga | 2 | — |
-| 2 | Thilina Senarath | 1 | — |
-| 3 | [drummondreed](https://github.com/talltree) | 1 | — |
-| 4 | RMLearney | 1 | — |
-| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
+| 2 | [drummondreed](https://github.com/talltree) | 1 | — |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
 
 ### Last 90 Days
 

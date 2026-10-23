@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Labs
 - **Channel ID:** 1502324614204752155
-- **Total Messages:** 83
-- **Last 30 Days:** 5
-- **Last 90 Days:** 24
-- **Last 365 Days:** 83
+- **Total Messages:** 84
+- **Last 30 Days:** 3
+- **Last 90 Days:** 18
+- **Last 365 Days:** 84
 - **First Message:** 2026-05-08
-- **Last Message:** 2026-10-20
+- **Last Message:** 2026-10-23
 
 ## Most Active Users
 
@@ -16,19 +16,19 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
-| 2 | Mukul | 1 | — |
-| 3 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
+| 2 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
+| 3 | Zapperombie | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 8 | lfdt-ca, LFDT Staff |
-| 2 | Mukul | 7 | — |
-| 3 | Zapperombie | 6 | — |
-| 4 | Isabela from OpenAssets | 1 | Lab Leader |
-| 5 | [OA](https://github.com/pv-sarvesh) | 1 | Lab Leader |
+| 1 | Mukul | 7 | — |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | lfdt-ca, LFDT Staff |
+| 3 | Zapperombie | 4 | — |
+| 4 | [OA](https://github.com/pv-sarvesh) | 1 | Lab Leader |
+| 5 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
 
@@ -37,7 +37,7 @@
 | 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 25 | lfdt-ca, LFDT Staff |
 | 2 | Shrov Jain | 13 | — |
 | 3 | [OA](https://github.com/pv-sarvesh) | 11 | Lab Leader |
-| 4 | Zapperombie | 10 | — |
+| 4 | Zapperombie | 11 | — |
 | 5 | Mukul | 8 | — |
 
 ### All Time
@@ -47,20 +47,20 @@
 | 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 25 | lfdt-ca, LFDT Staff |
 | 2 | Shrov Jain | 13 | — |
 | 3 | [OA](https://github.com/pv-sarvesh) | 11 | Lab Leader |
-| 4 | Zapperombie | 10 | — |
+| 4 | Zapperombie | 11 | — |
 | 5 | Mukul | 8 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 83 |
+| 2026 | 84 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 2 |
+| 2026-10 | 3 |
 | 2026-09 | 5 |
 | 2026-08 | 8 |
 | 2026-07 | 17 |
@@ -71,6 +71,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-23 | 1 |
 | 2026-10-20 | 1 |
 | 2026-10-19 | 1 |
 | 2026-09-22 | 3 |
