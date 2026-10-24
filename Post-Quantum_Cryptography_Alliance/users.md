@@ -5,13 +5,13 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
 - **Active Users (365d):** 98
-- **Messages (365d):** 1,438
+- **Messages (365d):** 1,435
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 505 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 392 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 104 | PQ Code Package Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 391 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 103 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 81 | LF Staff |
 | 5 | Jake | 42 | PQ Code Package Maintainer, Project Maintainer |
 | 6 | chozorho | 30 | — |
@@ -46,25 +46,25 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 35 | Mila Anastasova | 3 | — |
 | 36 | LoneRam | 3 | — |
 | 37 | willieyz | 3 | — |
-| 38 | Chun-Ming Chiu | 3 | — |
-| 39 | Dhananjay | 3 | — |
-| 40 | isolinear | 3 | — |
-| 41 | Ahmed Mohammed Umar | 2 | — |
-| 42 | Daniella | 2 | — |
-| 43 | Ben Knill | 2 | — |
-| 44 | Marc1 | 2 | — |
-| 45 | shubham17 | 2 | — |
-| 46 | mjmalone | 2 | — |
-| 47 | Vishnu Ajith | 2 | — |
-| 48 | [Andreas Schade](https://github.com/san-zrl) | 2 | CBOM maintainer, Project Maintainer |
-| 49 | [mikelodder](https://github.com/mikelodder) | 2 | — |
-| 50 | Tim | 2 | — |
-| 51 | SAM | 2 | — |
-| 52 | Deepak Chauhan | 2 | — |
-| 53 | amaury | 2 | — |
-| 54 | Spartan | 2 | — |
-| 55 | motohiro suzuki | 2 | — |
-| 56 | Snake | 2 | — |
+| 38 | Dhananjay | 3 | — |
+| 39 | isolinear | 3 | — |
+| 40 | Ahmed Mohammed Umar | 2 | — |
+| 41 | Daniella | 2 | — |
+| 42 | Ben Knill | 2 | — |
+| 43 | Marc1 | 2 | — |
+| 44 | shubham17 | 2 | — |
+| 45 | mjmalone | 2 | — |
+| 46 | Vishnu Ajith | 2 | — |
+| 47 | [Andreas Schade](https://github.com/san-zrl) | 2 | CBOM maintainer, Project Maintainer |
+| 48 | [mikelodder](https://github.com/mikelodder) | 2 | — |
+| 49 | Tim | 2 | — |
+| 50 | SAM | 2 | — |
+| 51 | Deepak Chauhan | 2 | — |
+| 52 | amaury | 2 | — |
+| 53 | Spartan | 2 | — |
+| 54 | motohiro suzuki | 2 | — |
+| 55 | Snake | 2 | — |
+| 56 | Chun-Ming Chiu | 2 | — |
 | 57 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 2 | — |
 | 58 | DJ. XYZ | 2 | — |
 | 59 | Maarl | 2 | — |

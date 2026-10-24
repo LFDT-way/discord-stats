@@ -3,7 +3,7 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1203395822390083676
 - **Total Messages in Category:** 283
-- **Last 30 Days:** 5
+- **Last 30 Days:** 2
 - **Last 90 Days:** 27
 - **Last 365 Days:** 70
 - **First Message:** 2024-02-03
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [oqs-general](oqs-general_1203395992003678238.md) | 2026-10-17 | 5 | 27 | 63 | 268 |
+| [oqs-general](oqs-general_1203395992003678238.md) | 2026-10-17 | 2 | 27 | 63 | 268 |
 | [oqs-call](oqs-call_1214590815695933470.md) | 2026-06-13 | 0 | 0 | 7 | 13 |
 | [oqs-github](oqs-github_1214605403527184394.md) | 2024-12-23 | 0 | 0 | 0 | 2 |
 
@@ -23,10 +23,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Meerkatdev | 2 | — |
-| 2 | RGM-Core | 1 | — |
-| 3 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 1 | — |
-| 4 | brent | 1 | — |
+| 1 | RGM-Core | 1 | — |
+| 2 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 1 | — |
 
 ### Last 90 Days
 

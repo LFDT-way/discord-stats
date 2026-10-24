@@ -2,10 +2,10 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
-- **Total Messages in Category:** 3,892
-- **Last 30 Days:** 136
-- **Last 90 Days:** 272
-- **Last 365 Days:** 1,284
+- **Total Messages in Category:** 3,894
+- **Last 30 Days:** 121
+- **Last 90 Days:** 274
+- **Last 365 Days:** 1,273
 - **First Message:** 2023-11-08
 - **Last Message:** 2026-10-23
 
@@ -13,12 +13,12 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credo](credo_1179453305856991263.md) | 2026-10-21 | 17 | 17 | 165 | 1,103 |
-| [bifold](bifold_1209891839071756419.md) | 2026-10-20 | 5 | 20 | 141 | 915 |
-| [multipaz](multipaz_1179828955717574707.md) | 2026-10-23 | 12 | 36 | 228 | 658 |
-| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-21 | 93 | 187 | 627 | 639 |
-| [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 0 | 80 | 268 |
-| [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 4 | 105 |
+| [credo](credo_1179453305856991263.md) | 2026-10-21 | 13 | 17 | 161 | 1,103 |
+| [bifold](bifold_1209891839071756419.md) | 2026-10-20 | 5 | 20 | 140 | 915 |
+| [multipaz](multipaz_1179828955717574707.md) | 2026-10-23 | 14 | 38 | 230 | 660 |
+| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-21 | 80 | 187 | 627 | 639 |
+| [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 0 | 73 | 268 |
+| [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 3 | 105 |
 | [owl](owl_1214965981470924911.md) | 2026-05-07 | 0 | 0 | 10 | 85 |
 | [vcx](vcx_1344319756324311123.md) | 2026-03-31 | 0 | 0 | 6 | 69 |
 | [didcomm-mediator-service](didcomm-mediator-service_1286300013365952583.md) | 2026-10-13 | 9 | 9 | 16 | 43 |
@@ -31,9 +31,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | birte_lr | 53 | — |
-| 2 | [Mirko](https://github.com/cre8) | 26 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | [davidz25](https://github.com/davidz25) | 7 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 1 | birte_lr | 44 | — |
+| 2 | [Mirko](https://github.com/cre8) | 23 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 3 | [davidz25](https://github.com/davidz25) | 8 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 4 | [esune](https://github.com/esune) | 7 | Project Maintainer |
 | 5 | [Ry Jones, OWF](https://github.com/ryjones) | 6 | Linux Foundation Staff |
 
@@ -44,17 +44,17 @@
 | 1 | [Mirko](https://github.com/cre8) | 68 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | birte_lr | 61 | — |
 | 3 | Cyril | 26 | — |
-| 4 | [davidz25](https://github.com/davidz25) | 20 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 4 | [davidz25](https://github.com/davidz25) | 21 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 5 | espuni | 15 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 331 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 330 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | Cyril | 116 | — |
-| 3 | [davidz25](https://github.com/davidz25) | 102 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 72 | Linux Foundation Staff |
+| 3 | [davidz25](https://github.com/davidz25) | 103 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 67 | Linux Foundation Staff |
 | 5 | birte_lr | 61 | — |
 
 ### All Time
@@ -62,7 +62,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 387 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [davidz25](https://github.com/davidz25) | 305 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 2 | [davidz25](https://github.com/davidz25) | 306 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 206 | Linux Foundation Staff |
 | 4 | [Timo Glastra](https://github.com/TimoGlastra) | 176 | credo maintainers, Project Maintainer |
 | 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 175 | Linux Foundation Staff |
@@ -71,7 +71,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,097 |
+| 2026 | 1,099 |
 | 2025 | 1,412 |
 | 2024 | 1,309 |
 | 2023 | 74 |
@@ -80,7 +80,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 95 |
+| 2026-10 | 97 |
 | 2026-09 | 129 |
 | 2026-08 | 47 |
 | 2026-07 | 90 |
@@ -121,7 +121,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-23 | 1 |
+| 2026-10-23 | 3 |
 | 2026-10-22 | 1 |
 | 2026-10-21 | 9 |
 | 2026-10-20 | 9 |

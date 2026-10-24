@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 859
 - **Last 30 Days:** 12
 - **Last 90 Days:** 26
-- **Last 365 Days:** 338
+- **Last 365 Days:** 335
 - **First Message:** 2023-06-02
 - **Last Message:** 2026-10-20
 
@@ -17,7 +17,7 @@
 | [mdoc-ts](mdoc-ts_1251180041124053052.md) | 2026-04-01 | 0 | 0 | 128 | 172 |
 | [sd-jwt-dotnet](sd-jwt-dotnet_1179453047169110056.md) | 2026-04-30 | 0 | 0 | 64 | 80 |
 | [sd-jwt-general](sd-jwt-general_1180161138030284910.md) | 2025-09-24 | 0 | 0 | 0 | 70 |
-| [oid4vc-ts](oid4vc-ts_1326616895453007933.md) | 2026-08-12 | 0 | 1 | 45 | 62 |
+| [oid4vc-ts](oid4vc-ts_1326616895453007933.md) | 2026-08-12 | 0 | 1 | 44 | 62 |
 | [vc-api](vc-api_1157008901020073994.md) | 2025-10-24 | 0 | 0 | 2 | 39 |
 | [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-08-18 | 0 | 2 | 21 | 28 |
 | [wallet-framework-dotnet](wallet-framework-dotnet_1159552665940938842.md) | 2024-10-11 | 0 | 0 | 0 | 26 |
@@ -26,14 +26,14 @@
 | [axle](axle_1404761591710355506.md) | 2026-07-17 | 0 | 0 | 14 | 17 |
 | [farmworker-wallet-os](farmworker-wallet-os_1138937641123987466.md) | 2024-10-09 | 0 | 0 | 0 | 10 |
 | [sd-jwt-vc-dm](sd-jwt-vc-dm_1331889781570932849.md) | 2025-04-20 | 0 | 0 | 0 | 10 |
-| [dcql-ts](dcql-ts_1326615136865095731.md) | 2025-11-12 | 0 | 0 | 3 | 9 |
+| [dcql-ts](dcql-ts_1326615136865095731.md) | 2025-11-12 | 0 | 0 | 2 | 9 |
 | [tuvali](tuvali_1240339442011476008.md) | 2025-04-17 | 0 | 0 | 0 | 8 |
 | [sd-jwt-kotlin](sd-jwt-kotlin_1108449794831159397.md) | 2024-06-24 | 0 | 0 | 0 | 7 |
 | [sd-jwt-python](sd-jwt-python_1108449835176169513.md) | 2025-03-10 | 0 | 0 | 0 | 5 |
 | [multiformat-vc-ios](multiformat-vc-ios_1199766370880069762.md) | 2024-02-05 | 0 | 0 | 0 | 3 |
 | [build-wallet-core](build-wallet-core_1268222388982775879.md) | 2025-12-10 | 0 | 0 | 1 | 2 |
 | [trs](trs_1379838543823900773.md) | 2025-06-04 | 0 | 0 | 0 | 2 |
-| [openid-federation-ts](openid-federation-ts_1326618196245221426.md) | 2025-10-23 | 0 | 0 | 1 | 2 |
+| [openid-federation-ts](openid-federation-ts_1326618196245221426.md) | 2025-10-23 | 0 | 0 | 0 | 2 |
 
 ## Most Active Users
 

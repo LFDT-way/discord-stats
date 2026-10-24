@@ -6,7 +6,7 @@
 - **Total Messages:** 21
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 1
+- **Last 365 Days:** 0
 - **First Message:** 2024-04-17
 - **Last Message:** 2025-10-23
 
@@ -22,9 +22,7 @@ _No activity in this period._
 
 ### Last 365 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
+_No activity in this period._
 
 ### All Time
 

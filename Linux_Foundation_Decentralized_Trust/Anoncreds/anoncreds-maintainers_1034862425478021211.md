@@ -6,7 +6,7 @@
 - **Total Messages:** 63
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 5
+- **Last 365 Days:** 4
 - **First Message:** 2022-10-26
 - **Last Message:** 2026-04-25
 
@@ -27,7 +27,6 @@ _No activity in this period._
 | 1 | SophiaUgo | 2 | — |
 | 2 | [swcurran](https://github.com/swcurran) | 1 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
 | 3 | tsheringgyeltshen | 1 | — |
-| 4 | [Arun S M](https://github.com/arsulegai) | 1 | TAC member, Chapter Leader |
 
 ### All Time
 

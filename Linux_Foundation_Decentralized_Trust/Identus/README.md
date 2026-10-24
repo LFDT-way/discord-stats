@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 1,560
 - **Last 30 Days:** 10
 - **Last 90 Days:** 34
-- **Last 365 Days:** 243
+- **Last 365 Days:** 242
 - **First Message:** 2024-04-10
 - **Last Message:** 2026-10-20
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-08-28 | 0 | 1 | 100 | 747 |
+| [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-08-28 | 0 | 1 | 99 | 747 |
 | [sdk-ts](sdk-ts_1252629747389829152.md) | 2026-06-16 | 0 | 0 | 20 | 219 |
 | [cloud-agent](cloud-agent_1252629630763012116.md) | 2025-12-03 | 0 | 0 | 12 | 213 |
 | [general](general_1252630735269925057.md) | 2026-10-01 | 1 | 22 | 76 | 193 |

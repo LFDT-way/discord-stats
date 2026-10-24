@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 345
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 1
+- **Last 365 Days:** 0
 - **First Message:** 2022-09-23
 - **Last Message:** 2025-10-23
 
@@ -16,7 +16,7 @@
 | [oid4vc-due-diligence-tf](oid4vc-due-diligence-tf_1113475091435634708.md) | 2024-06-21 | 0 | 0 | 0 | 194 |
 | [credential-format-comparison-sig](credential-format-comparison-sig_1113500130419671080.md) | 2024-11-17 | 0 | 0 | 0 | 65 |
 | [wg-payment-tokenisation](wg-payment-tokenisation_1034841444810240001.md) | 2023-12-28 | 0 | 0 | 0 | 37 |
-| [eudi-wallet-kit-react-native](eudi-wallet-kit-react-native_1230175333303717889.md) | 2025-10-23 | 0 | 0 | 1 | 21 |
+| [eudi-wallet-kit-react-native](eudi-wallet-kit-react-native_1230175333303717889.md) | 2025-10-23 | 0 | 0 | 0 | 21 |
 | [credhub](credhub_1245393681901686913.md) | 2025-08-08 | 0 | 0 | 0 | 15 |
 | [wg-verifiable-credentials](wg-verifiable-credentials_1034841506919497768.md) | 2023-02-07 | 0 | 0 | 0 | 5 |
 | [official-links](official-links_1022964314644164608.md) | 2023-03-01 | 0 | 0 | 0 | 4 |
@@ -35,9 +35,7 @@ _No activity in this period._
 
 ### Last 365 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
+_No activity in this period._
 
 ### All Time
 

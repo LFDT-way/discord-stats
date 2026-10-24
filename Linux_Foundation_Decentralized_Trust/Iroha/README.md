@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 1,684
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 3
+- **Last 365 Days:** 2
 - **First Message:** 2022-02-10
 - **Last Message:** 2026-04-12
 
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [iroha](iroha_905205848547155968.md) | 2026-04-12 | 0 | 0 | 2 | 1,251 |
-| [iroha-2-contributors](iroha-2-contributors_968576696154476575.md) | 2025-10-23 | 0 | 0 | 1 | 433 |
+| [iroha-2-contributors](iroha-2-contributors_968576696154476575.md) | 2025-10-23 | 0 | 0 | 0 | 433 |
 
 ## Most Active Users
 
@@ -31,8 +31,7 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Raj | 1 | — |
-| 2 | [Arun S M](https://github.com/arsulegai) | 1 | TAC member, Chapter Leader |
-| 3 | The Equalizer | 1 | — |
+| 2 | The Equalizer | 1 | — |
 
 ### All Time
 

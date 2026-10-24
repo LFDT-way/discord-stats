@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1430941644034670794
 - **Total Messages in Category:** 1,702
-- **Last 30 Days:** 45
+- **Last 30 Days:** 43
 - **Last 90 Days:** 138
-- **Last 365 Days:** 597
+- **Last 365 Days:** 594
 - **First Message:** 2024-07-08
 - **Last Message:** 2026-10-22
 
@@ -13,11 +13,11 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [paladin](paladin_1303371167020879903.md) | 2026-09-28 | 2 | 11 | 101 | 633 |
+| [paladin](paladin_1303371167020879903.md) | 2026-09-28 | 1 | 11 | 99 | 633 |
 | [paladin-maintainers](paladin-maintainers_1332404027052392488.md) | 2026-10-13 | 2 | 16 | 238 | 507 |
 | [zeto](zeto_1259800071185367040.md) | 2026-09-04 | 0 | 4 | 22 | 326 |
-| [paladin-java-sdk](paladin-java-sdk_1513571876708810834.md) | 2026-10-22 | 41 | 106 | 173 | 173 |
-| [paladin-general](paladin-general_1430941784610963538.md) | 2026-08-11 | 0 | 1 | 45 | 45 |
+| [paladin-java-sdk](paladin-java-sdk_1513571876708810834.md) | 2026-10-22 | 40 | 106 | 173 | 173 |
+| [paladin-general](paladin-general_1430941784610963538.md) | 2026-08-11 | 0 | 1 | 44 | 45 |
 | [paladin-release](paladin-release_1435984838388875284.md) | 2026-06-25 | 0 | 0 | 17 | 17 |
 | [paladin-announce](paladin-announce_1430941736460484638.md) | 2026-06-25 | 0 | 0 | 1 | 1 |
 
@@ -27,7 +27,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 23 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 21 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 2 | divyam-jha | 18 | — |
 | 3 | [Anna McAllister](https://github.com/annamcallister) | 3 | Paladin Maintainer, Project Maintainer, Lab Leader |
 | 4 | gurbaj08 | 1 | — |
@@ -49,8 +49,8 @@
 | 1 | [Matthew Whitehead](https://github.com/matthew1001) | 213 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 2 | divyam-jha | 100 | — |
 | 3 | [Anna McAllister](https://github.com/annamcallister) | 92 | Paladin Maintainer, Project Maintainer, Lab Leader |
-| 4 | [Ry Jones](https://github.com/ryjones) | 78 | lfdt-ca, LFDT Staff |
-| 5 | [jimthematrix](https://github.com/jimthematrix) | 15 | Lab Leader, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 4 | [Ry Jones](https://github.com/ryjones) | 77 | lfdt-ca, LFDT Staff |
+| 5 | [jimthematrix](https://github.com/jimthematrix) | 14 | Lab Leader, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 
 ### All Time
 
