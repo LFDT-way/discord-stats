@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1195061874950144120
 - **Total Messages in Category:** 1,429
-- **Last 30 Days:** 47
+- **Last 30 Days:** 44
 - **Last 90 Days:** 78
 - **Last 365 Days:** 203
 - **First Message:** 2024-01-11
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-10-22 | 45 | 75 | 140 | 885 |
+| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-10-22 | 42 | 75 | 140 | 885 |
 | [web3j-general](web3j-general_1195062053682032700.md) | 2026-10-21 | 2 | 3 | 63 | 544 |
 
 ## Most Active Users
@@ -23,8 +23,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | George Tebrean | 15 | Project Maintainer, Web3j Maintainer |
-| 2 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 13 | Project Maintainer, Web3j Maintainer |
-| 3 | Saurav | 9 | — |
+| 2 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 11 | Project Maintainer, Web3j Maintainer |
+| 3 | Saurav | 8 | — |
 | 4 | toji | 5 | — |
 | 5 | Dev | 3 | — |
 

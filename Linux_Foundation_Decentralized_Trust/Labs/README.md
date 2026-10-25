@@ -2,12 +2,12 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
-- **Total Messages in Category:** 21,448
-- **Last 30 Days:** 77
-- **Last 90 Days:** 177
-- **Last 365 Days:** 856
+- **Total Messages in Category:** 21,449
+- **Last 30 Days:** 78
+- **Last 90 Days:** 178
+- **Last 365 Days:** 850
 - **First Message:** 2021-11-05
-- **Last Message:** 2026-10-24
+- **Last Message:** 2026-10-25
 
 ## Channels in Category
 
@@ -20,14 +20,14 @@
 | [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-10-19 | 1 | 1 | 13 | 1,186 |
 | [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 4 | 859 |
 | [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-23 | 16 | 22 | 175 | 353 |
-| [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-01 | 3 | 11 | 60 | 153 |
-| [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 3 | 123 | 148 |
+| [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-01 | 3 | 11 | 59 | 153 |
+| [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 3 | 117 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-09-21 | 0 | 8 | 11 | 108 |
 | [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-10-21 | 11 | 41 | 95 | 95 |
 | [fablo](fablo_1109190949394989127.md) | 2026-10-20 | 1 | 3 | 14 | 88 |
 | [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-10-23 | 3 | 18 | 84 | 84 |
 | [general](general_988569914266775662.md) | 2026-07-30 | 0 | 3 | 10 | 72 |
-| [cello](cello_941475454378991646.md) | 2026-10-20 | 5 | 6 | 15 | 59 |
+| [cello](cello_941475454378991646.md) | 2026-10-25 | 6 | 7 | 16 | 60 |
 | [cc-tools](cc-tools_1156653969133809715.md) | 2025-05-07 | 0 | 0 | 0 | 45 |
 | [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-10-07 | 1 | 2 | 38 | 44 |
 | [learning-tokens](learning-tokens_1120853856360878271.md) | 2026-08-25 | 0 | 4 | 6 | 36 |
@@ -55,7 +55,7 @@
 | 2 | [Ry Jones](https://github.com/ryjones) | 8 | lfdt-ca, LFDT Staff |
 | 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 8 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 4 | vetefe | 7 | Lab Leader |
-| 5 | SecrizzMagician | 5 | — |
+| 5 | SecrizzMagician | 6 | — |
 
 ### Last 90 Days
 
@@ -73,8 +73,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 82 | lfdt-ca, LFDT Staff |
 | 2 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 80 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
-| 3 | [RAWx18](https://github.com/RAWx18) | 73 | Lab Leader |
-| 4 | [DanielSzego](https://github.com/Daniel-Szego) | 52 | Meetup Organizer |
+| 3 | [RAWx18](https://github.com/RAWx18) | 68 | Lab Leader |
+| 4 | [DanielSzego](https://github.com/Daniel-Szego) | 51 | Meetup Organizer |
 | 5 | [Angelo De Caro](https://github.com/adecaro) | 49 | Lab Leader, Fabric Maintainer, Project Maintainer |
 
 ### All Time
@@ -91,7 +91,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 731 |
+| 2026 | 732 |
 | 2025 | 1,008 |
 | 2024 | 2,099 |
 | 2023 | 7,409 |
@@ -102,7 +102,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 61 |
+| 2026-10 | 62 |
 | 2026-09 | 42 |
 | 2026-08 | 54 |
 | 2026-07 | 125 |
@@ -165,6 +165,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-25 | 1 |
 | 2026-10-24 | 2 |
 | 2026-10-23 | 5 |
 | 2026-10-21 | 1 |

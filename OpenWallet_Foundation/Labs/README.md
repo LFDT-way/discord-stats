@@ -3,9 +3,9 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1108449719212048556
 - **Total Messages in Category:** 859
-- **Last 30 Days:** 12
+- **Last 30 Days:** 9
 - **Last 90 Days:** 26
-- **Last 365 Days:** 335
+- **Last 365 Days:** 333
 - **First Message:** 2023-06-02
 - **Last Message:** 2026-10-20
 
@@ -18,11 +18,11 @@
 | [sd-jwt-dotnet](sd-jwt-dotnet_1179453047169110056.md) | 2026-04-30 | 0 | 0 | 64 | 80 |
 | [sd-jwt-general](sd-jwt-general_1180161138030284910.md) | 2025-09-24 | 0 | 0 | 0 | 70 |
 | [oid4vc-ts](oid4vc-ts_1326616895453007933.md) | 2026-08-12 | 0 | 1 | 44 | 62 |
-| [vc-api](vc-api_1157008901020073994.md) | 2025-10-24 | 0 | 0 | 2 | 39 |
+| [vc-api](vc-api_1157008901020073994.md) | 2025-10-24 | 0 | 0 | 0 | 39 |
 | [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-08-18 | 0 | 2 | 21 | 28 |
 | [wallet-framework-dotnet](wallet-framework-dotnet_1159552665940938842.md) | 2024-10-11 | 0 | 0 | 0 | 26 |
 | [pydentity-wallet](pydentity-wallet_1352199414956953630.md) | 2026-02-11 | 0 | 0 | 3 | 20 |
-| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-10-20 | 12 | 17 | 19 | 19 |
+| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-10-20 | 9 | 17 | 19 | 19 |
 | [axle](axle_1404761591710355506.md) | 2026-07-17 | 0 | 0 | 14 | 17 |
 | [farmworker-wallet-os](farmworker-wallet-os_1138937641123987466.md) | 2024-10-09 | 0 | 0 | 0 | 10 |
 | [sd-jwt-vc-dm](sd-jwt-vc-dm_1331889781570932849.md) | 2025-04-20 | 0 | 0 | 0 | 10 |
@@ -41,11 +41,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 4 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
-| 3 | Manthan | 2 | — |
-| 4 | [Ry Jones, OWF](https://github.com/ryjones) | 2 | Linux Foundation Staff |
-| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
+| 1 | [Mirko](https://github.com/cre8) | 3 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | Manthan | 2 | — |
+| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 2 | Linux Foundation Staff |
+| 4 | [swcurran](https://github.com/swcurran) | 1 | Lab Maintainer, TAC members, Project Maintainer |
+| 5 | [Timo Glastra](https://github.com/TimoGlastra) | 1 | credo maintainers, Project Maintainer |
 
 ### Last 90 Days
 

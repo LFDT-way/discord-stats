@@ -3,7 +3,7 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1022962884864643215
 - **Total Messages in Category:** 69
-- **Last 30 Days:** 1
+- **Last 30 Days:** 0
 - **Last 90 Days:** 1
 - **Last 365 Days:** 3
 - **First Message:** 2022-09-28
@@ -13,16 +13,14 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [announcements](announcements_1022962884864643217.md) | 2026-09-24 | 1 | 1 | 3 | 66 |
+| [announcements](announcements_1022962884864643217.md) | 2026-09-24 | 0 | 1 | 3 | 66 |
 | [welcome-and-rules](welcome-and-rules_1022962884864643216.md) | 2023-03-02 | 0 | 0 | 0 | 3 |
 
 ## Most Active Users
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
+_No activity in this period._
 
 ### Last 90 Days
 

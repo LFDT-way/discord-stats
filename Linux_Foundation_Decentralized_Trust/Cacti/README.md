@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515538766254102
 - **Total Messages in Category:** 2,361
-- **Last 30 Days:** 17
+- **Last 30 Days:** 15
 - **Last 90 Days:** 23
 - **Last 365 Days:** 273
 - **First Message:** 2021-11-11
@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-10-20 | 14 | 19 | 202 | 1,802 |
-| [cacti-users](cacti-users_908379366650703943.md) | 2026-10-02 | 2 | 2 | 58 | 510 |
+| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-10-20 | 13 | 19 | 202 | 1,802 |
+| [cacti-users](cacti-users_908379366650703943.md) | 2026-10-02 | 1 | 2 | 58 | 510 |
 | [cacti-resources](cacti-resources_908349711537299497.md) | 2026-04-03 | 0 | 0 | 2 | 26 |
 | [cacti-announcements](cacti-announcements_908380513310498847.md) | 2026-10-01 | 1 | 2 | 8 | 17 |
 | [cacti-pull-requests](cacti-pull-requests_1430250991206400040.md) | 2025-11-14 | 0 | 0 | 3 | 6 |
@@ -28,7 +28,6 @@
 | 1 | AgrimTawani \| Cryptobazaar | 8 | — |
 | 2 | [rafaelapb](https://github.com/RafaelAPB) | 5 | Project Maintainer, Cacti Maintainer |
 | 3 | Humayun | 2 | — |
-| 4 | Sarbojit Rana | 2 | — |
 
 ### Last 90 Days
 

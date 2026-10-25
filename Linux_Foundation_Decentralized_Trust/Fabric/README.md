@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205464046915585
 - **Total Messages in Category:** 20,069
-- **Last 30 Days:** 45
+- **Last 30 Days:** 38
 - **Last 90 Days:** 120
-- **Last 365 Days:** 816
+- **Last 365 Days:** 807
 - **First Message:** 2021-11-07
 - **Last Message:** 2026-10-23
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric](fabric_905205541326975046.md) | 2026-10-22 | 13 | 19 | 236 | 10,166 |
+| [fabric](fabric_905205541326975046.md) | 2026-10-22 | 13 | 19 | 227 | 10,166 |
 | [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-10-23 | 2 | 3 | 14 | 1,632 |
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-08 | 0 | 0 | 0 | 1,527 |
 | [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 0 | 46 | 1,300 |
@@ -28,9 +28,9 @@
 | [fabric-dublin-workshop](fabric-dublin-workshop_1005123918740332604.md) | 2024-09-27 | 0 | 0 | 0 | 119 |
 | [fabric-admin-sdk](fabric-admin-sdk_1063507202607956018.md) | 2026-04-24 | 0 | 0 | 1 | 110 |
 | [fabric-certified-practitioner](fabric-certified-practitioner_1158754773026222130.md) | 2026-08-04 | 0 | 4 | 16 | 70 |
-| [fabric-code-reviews](fabric-code-reviews_960583805708664882.md) | 2026-09-24 | 1 | 1 | 3 | 41 |
+| [fabric-code-reviews](fabric-code-reviews_960583805708664882.md) | 2026-09-24 | 0 | 1 | 3 | 41 |
 | [fabric-docs-i18n](fabric-docs-i18n_963703552352587786.md) | 2023-08-11 | 0 | 0 | 0 | 41 |
-| [fabric-x-evm](fabric-x-evm_1550488625576415232.md) | 2026-10-11 | 28 | 28 | 28 | 28 |
+| [fabric-x-evm](fabric-x-evm_1550488625576415232.md) | 2026-10-11 | 22 | 28 | 28 | 28 |
 | [fabric-announcements](fabric-announcements_941415351474880532.md) | 2026-02-25 | 0 | 0 | 2 | 15 |
 | [fabric-hacktoberfest](fabric-hacktoberfest_1024609249927634997.md) | 2022-10-13 | 0 | 0 | 0 | 10 |
 
@@ -40,11 +40,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Storm1289 | 11 | — |
-| 2 | [arner](https://github.com/arner) | 8 | Project Maintainer, Fabric Maintainer |
-| 3 | Siddhartha | 7 | — |
+| 1 | Storm1289 | 9 | — |
+| 2 | Siddhartha | 6 | — |
+| 3 | [arner](https://github.com/arner) | 5 | Project Maintainer, Fabric Maintainer |
 | 4 | Frank_The_Fish | 3 | Lab Leader |
-| 5 | Pereowei | 2 | Lab Leader |
+| 5 | shinchan | 2 | — |
 
 ### Last 90 Days
 
@@ -60,7 +60,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 89 | Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 80 | Project Maintainer, Fabric Maintainer |
 | 2 | Frank_The_Fish | 55 | Lab Leader |
 | 3 | [Yoav Tock](https://github.com/tock-ibm) | 46 | TAC member, Project Maintainer, Fabric Maintainer |
 | 4 | EliMbadi | 45 | — |

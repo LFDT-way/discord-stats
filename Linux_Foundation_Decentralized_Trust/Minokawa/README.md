@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1426221261826293800
 - **Total Messages in Category:** 32
-- **Last 30 Days:** 4
+- **Last 30 Days:** 3
 - **Last 90 Days:** 22
 - **Last 365 Days:** 32
 - **First Message:** 2025-11-05
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [minokawa](minokawa_1426221491833409536.md) | 2026-10-07 | 4 | 22 | 32 | 32 |
+| [minokawa](minokawa_1426221491833409536.md) | 2026-10-07 | 3 | 22 | 32 | 32 |
 
 ## Most Active Users
 
@@ -22,7 +22,6 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Parisa Ataei](https://github.com/pataei) | 3 | Project Maintainer, Minokawa Maintainer |
-| 2 | Rodrigo Quelhas | 1 | — |
 
 ### Last 90 Days
 

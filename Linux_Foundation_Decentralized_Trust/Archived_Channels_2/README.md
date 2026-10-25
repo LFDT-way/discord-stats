@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536466428700655647
 - **Total Messages in Category:** 7,188
-- **Last 30 Days:** 1
+- **Last 30 Days:** 0
 - **Last 90 Days:** 3
-- **Last 365 Days:** 91
+- **Last 365 Days:** 90
 - **First Message:** 2022-02-12
 - **Last Message:** 2026-09-24
 
@@ -18,7 +18,7 @@
 | [solang-solana](solang-solana_1133399591610482779.md) | 2025-04-30 | 0 | 0 | 0 | 439 |
 | [blockchain-explorer](blockchain-explorer_1039606111654920255.md) | 2025-07-12 | 0 | 0 | 0 | 338 |
 | [aries-framework-swift](aries-framework-swift_1036463258791583814.md) | 2026-01-05 | 0 | 0 | 4 | 304 |
-| [identity](identity_943951480954712064.md) | 2026-09-24 | 1 | 1 | 5 | 233 |
+| [identity](identity_943951480954712064.md) | 2026-09-24 | 0 | 1 | 5 | 233 |
 | [anoncreds-rs](anoncreds-rs_1037471454775746580.md) | 2025-04-18 | 0 | 0 | 0 | 208 |
 | [anoncreds-spec](anoncreds-spec_1037471404586709042.md) | 2024-05-27 | 0 | 0 | 0 | 173 |
 | [supply-chain-and-trade-finance-sig](supply-chain-and-trade-finance-sig_943951252360925264.md) | 2025-04-28 | 0 | 0 | 0 | 163 |
@@ -39,7 +39,7 @@
 | [open-enterprise-agent](open-enterprise-agent_1156985986174165032.md) | 2024-04-18 | 0 | 0 | 0 | 68 |
 | [badging-lifecycle-tf](badging-lifecycle-tf_1139220569531875389.md) | 2024-08-16 | 0 | 0 | 0 | 66 |
 | [francophone](francophone_973545038128762941.md) | 2024-07-24 | 0 | 0 | 0 | 58 |
-| [contribution-ladder-task-force](contribution-ladder-task-force_1395138176624103534.md) | 2025-11-20 | 0 | 0 | 8 | 52 |
+| [contribution-ladder-task-force](contribution-ladder-task-force_1395138176624103534.md) | 2025-11-20 | 0 | 0 | 7 | 52 |
 | [africa-chapter](africa-chapter_1042889475782623262.md) | 2026-06-17 | 0 | 0 | 5 | 52 |
 | [fabric-operator](fabric-operator_1044651861799620638.md) | 2025-11-05 | 0 | 0 | 1 | 51 |
 | [hyperledger-challenge](hyperledger-challenge_946373162008985640.md) | 2024-08-06 | 0 | 0 | 0 | 48 |
@@ -70,9 +70,7 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
+_No activity in this period._
 
 ### Last 90 Days
 

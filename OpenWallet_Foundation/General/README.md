@@ -2,19 +2,19 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1022962884864643218
-- **Total Messages in Category:** 1,865
-- **Last 30 Days:** 2
-- **Last 90 Days:** 8
-- **Last 365 Days:** 70
+- **Total Messages in Category:** 1,866
+- **Last 30 Days:** 3
+- **Last 90 Days:** 9
+- **Last 365 Days:** 71
 - **First Message:** 2022-09-23
-- **Last Message:** 2026-10-22
+- **Last Message:** 2026-10-24
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [welcome-landing](welcome-landing_1022962884864643219.md) | 2026-07-30 | 0 | 1 | 1 | 1,077 |
-| [general](general_1023188132042133574.md) | 2026-10-22 | 2 | 6 | 57 | 379 |
+| [general](general_1023188132042133574.md) | 2026-10-24 | 3 | 7 | 58 | 380 |
 | [introductions](introductions_1023219299902570589.md) | 2026-05-20 | 0 | 0 | 2 | 99 |
 | [community-connect](community-connect_1022965117362634855.md) | 2025-10-25 | 0 | 0 | 1 | 90 |
 | [ideas-and-feedback](ideas-and-feedback_1022962884864643221.md) | 2025-11-11 | 0 | 0 | 2 | 54 |
@@ -35,7 +35,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Ginga | 1 | — |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
+| 2 | [drummondreed](https://github.com/talltree) | 1 | — |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
 
 ### Last 90 Days
 
@@ -43,8 +44,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | mobappdev | 2 | — |
 | 2 | Ginga | 2 | — |
-| 3 | Thilina Senarath | 1 | — |
-| 4 | [drummondreed](https://github.com/talltree) | 1 | — |
+| 3 | [drummondreed](https://github.com/talltree) | 2 | — |
+| 4 | Thilina Senarath | 1 | — |
 | 5 | RMLearney | 1 | — |
 
 ### Last 365 Days
@@ -54,7 +55,7 @@
 | 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 17 | Linux Foundation Staff |
 | 2 | [Mirko](https://github.com/cre8) | 11 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | sirawt | 8 | — |
-| 4 | [drummondreed](https://github.com/talltree) | 7 | — |
+| 4 | [drummondreed](https://github.com/talltree) | 8 | — |
 | 5 | Iancu Fofiu | 3 | — |
 
 ### All Time
@@ -62,7 +63,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Deleted User | 138 | — |
-| 2 | [drummondreed](https://github.com/talltree) | 82 | — |
+| 2 | [drummondreed](https://github.com/talltree) | 83 | — |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 73 | Linux Foundation Staff |
 | 4 | OR13 | 50 | — |
 | 5 | [Mirko](https://github.com/cre8) | 46 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
@@ -71,7 +72,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 41 |
+| 2026 | 42 |
 | 2025 | 150 |
 | 2024 | 226 |
 | 2023 | 842 |
@@ -81,7 +82,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 2 |
+| 2026-10 | 3 |
 | 2026-09 | 4 |
 | 2026-07 | 3 |
 | 2026-06 | 1 |
@@ -135,6 +136,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-24 | 1 |
 | 2026-10-22 | 1 |
 | 2026-10-05 | 1 |
 | 2026-09-23 | 2 |

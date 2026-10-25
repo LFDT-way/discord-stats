@@ -4,16 +4,16 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
-- **Active Users (365d):** 128
-- **Messages (365d):** 1,961
+- **Active Users (365d):** 127
+- **Messages (365d):** 1,960
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 389 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 388 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Ry Jones, OWF](https://github.com/ryjones) | 144 | Linux Foundation Staff |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 142 | Linux Foundation Staff |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 140 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
-| 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 104 | Lab Maintainer |
+| 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 103 | Lab Maintainer |
 | 6 | [davidz25](https://github.com/davidz25) | 103 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 7 | [Timo Glastra](https://github.com/TimoGlastra) | 96 | credo maintainers, Project Maintainer |
 | 8 | birte_lr | 61 | — |
@@ -23,7 +23,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 12 | thidalgo | 35 | — |
 | 13 | Timbl | 34 | — |
 | 14 | [swcurran](https://github.com/swcurran) | 32 | Lab Maintainer, TAC members, Project Maintainer |
-| 15 | RMLearney | 29 | — |
+| 15 | RMLearney | 30 | — |
 | 16 | Thomas Tran | 28 | Lab Maintainer |
 | 17 | ai Igor | 24 | — |
 | 18 | [VishnuSanal](https://github.com/VishnuSanal) | 23 | multipaz maintainer, Project Maintainer |
@@ -45,9 +45,9 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 34 | [GenAris](https://github.com/genaris) | 10 | credo maintainers, Project Maintainer |
 | 35 | sirawt | 10 | — |
 | 36 | Abhi | 9 | — |
-| 37 | Jim St.Clair | 8 | SIG member |
-| 38 | Thiago Romano | 8 | — |
-| 39 | [drummondreed](https://github.com/talltree) | 8 | — |
+| 37 | [drummondreed](https://github.com/talltree) | 9 | — |
+| 38 | Jim St.Clair | 8 | SIG member |
+| 39 | Thiago Romano | 8 | — |
 | 40 | Jason | 7 | bifold maintainers, Project Maintainer |
 | 41 | Pragya Jain | 7 | — |
 | 42 | jarosss_ | 6 | — |
@@ -59,16 +59,16 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 48 | gr0 | 5 | — |
 | 49 | Ever | 5 | multipaz maintainer |
 | 50 | Ginga | 5 | — |
-| 51 | geertdoornbos | 4 | — |
-| 52 | Bilal | 4 | — |
-| 53 | Pragya Jain | 4 | — |
-| 54 | Harshitha | 4 | — |
-| 55 | Damignos | 4 | — |
-| 56 | aaron | 4 | — |
-| 57 | akishiseki | 3 | — |
-| 58 | Hassan | 3 | — |
-| 59 | [Gavinok](https://github.com/Gavinok) | 3 | — |
-| 60 | Aftab Saraz | 3 | — |
+| 51 | Aftab Saraz | 5 | — |
+| 52 | geertdoornbos | 4 | — |
+| 53 | Bilal | 4 | — |
+| 54 | Pragya Jain | 4 | — |
+| 55 | Harshitha | 4 | — |
+| 56 | Damignos | 4 | — |
+| 57 | aaron | 4 | — |
+| 58 | akishiseki | 3 | — |
+| 59 | Hassan | 3 | — |
+| 60 | [Gavinok](https://github.com/Gavinok) | 3 | — |
 | 61 | Iancu Fofiu | 3 | — |
 | 62 | mashukur.rahman | 3 | — |
 | 63 | [JSyro](https://github.com/Jsyro) | 3 | Lab Maintainer, Project Maintainer |
@@ -135,5 +135,4 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 124 | michkauf | 1 | — |
 | 125 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
 | 126 | Aaron | 1 | — |
-| 127 | JohnH | 1 | — |
-| 128 | arifthehappy | 1 | — |
+| 127 | arifthehappy | 1 | — |

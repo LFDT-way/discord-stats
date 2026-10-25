@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 538
 - **Last 30 Days:** 0
 - **Last 90 Days:** 1
-- **Last 365 Days:** 13
+- **Last 365 Days:** 12
 - **First Message:** 2022-10-26
 - **Last Message:** 2026-08-24
 
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [anoncreds](anoncreds_1035263835449331793.md) | 2026-08-24 | 0 | 1 | 9 | 475 |
-| [anoncreds-maintainers](anoncreds-maintainers_1034862425478021211.md) | 2026-04-25 | 0 | 0 | 4 | 63 |
+| [anoncreds-maintainers](anoncreds-maintainers_1034862425478021211.md) | 2026-04-25 | 0 | 0 | 3 | 63 |
 
 ## Most Active Users
 
@@ -32,7 +32,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [swcurran](https://github.com/swcurran) | 5 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
+| 1 | [swcurran](https://github.com/swcurran) | 4 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
 | 3 | SophiaUgo | 2 | — |
 | 4 | tsheringgyeltshen | 1 | — |

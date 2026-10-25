@@ -6,7 +6,7 @@
 - **Total Messages:** 63
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 4
+- **Last 365 Days:** 3
 - **First Message:** 2022-10-26
 - **Last Message:** 2026-04-25
 
@@ -25,8 +25,7 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | SophiaUgo | 2 | — |
-| 2 | [swcurran](https://github.com/swcurran) | 1 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
-| 3 | tsheringgyeltshen | 1 | — |
+| 2 | tsheringgyeltshen | 1 | — |
 
 ### All Time
 
