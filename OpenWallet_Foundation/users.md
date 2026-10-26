@@ -9,7 +9,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 388 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 387 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Ry Jones, OWF](https://github.com/ryjones) | 144 | Linux Foundation Staff |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 140 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
@@ -19,9 +19,9 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 8 | birte_lr | 61 | — |
 | 9 | espuni | 45 | — |
 | 10 | PStLouis | 36 | Lab Maintainer, Project Maintainer |
-| 11 | davidejalexander | 35 | SIG member |
-| 12 | thidalgo | 35 | — |
-| 13 | Timbl | 34 | — |
+| 11 | Timbl | 35 | — |
+| 12 | davidejalexander | 35 | SIG member |
+| 13 | thidalgo | 35 | — |
 | 14 | [swcurran](https://github.com/swcurran) | 32 | Lab Maintainer, TAC members, Project Maintainer |
 | 15 | RMLearney | 30 | — |
 | 16 | Thomas Tran | 28 | Lab Maintainer |
@@ -41,13 +41,13 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 30 | Amine | 11 | — |
 | 31 | albertoleon_7794 | 11 | — |
 | 32 | [gmulhearn](https://github.com/gmulhearn) | 10 | vcx maintainer, Project Maintainer |
-| 33 | Anshulip | 10 | — |
-| 34 | [GenAris](https://github.com/genaris) | 10 | credo maintainers, Project Maintainer |
-| 35 | sirawt | 10 | — |
-| 36 | Abhi | 9 | — |
-| 37 | [drummondreed](https://github.com/talltree) | 9 | — |
-| 38 | Jim St.Clair | 8 | SIG member |
-| 39 | Thiago Romano | 8 | — |
+| 33 | [GenAris](https://github.com/genaris) | 10 | credo maintainers, Project Maintainer |
+| 34 | sirawt | 10 | — |
+| 35 | Anshulip | 9 | — |
+| 36 | Thiago Romano | 9 | — |
+| 37 | Abhi | 9 | — |
+| 38 | [drummondreed](https://github.com/talltree) | 9 | — |
+| 39 | Jim St.Clair | 8 | SIG member |
 | 40 | Jason | 7 | bifold maintainers, Project Maintainer |
 | 41 | Pragya Jain | 7 | — |
 | 42 | jarosss_ | 6 | — |

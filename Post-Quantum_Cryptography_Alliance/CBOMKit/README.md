@@ -35,7 +35,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | [RyJones](https://github.com/ryjones) | 8 | LF Staff |
 | 2 | Scott Corzine | 5 | — |
-| 3 | Sachin Kumar | 4 | — |
+| 3 | Lucifer | 4 | — |
 | 4 | Severus Snape | 3 | — |
 | 5 | shubham17 | 2 | — |
 
@@ -46,7 +46,7 @@ _No activity in this period._
 | 1 | [RyJones](https://github.com/ryjones) | 20 | LF Staff |
 | 2 | [Nicklas Körtge](https://github.com/n1ckl0sk0rtge) | 11 | CBOM maintainer, Project Maintainer |
 | 3 | Scott Corzine | 6 | — |
-| 4 | Sachin Kumar | 4 | — |
+| 4 | Lucifer | 4 | — |
 | 5 | Severus Snape | 3 | — |
 
 ## Yearly Traffic

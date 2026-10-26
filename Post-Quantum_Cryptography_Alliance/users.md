@@ -25,7 +25,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 14 | Loganaden | 8 | — |
 | 15 | Jarek Duda | 6 | — |
 | 16 | f15hr | 6 | — |
-| 17 | Sachin Kumar | 5 | — |
+| 17 | Lucifer | 5 | — |
 | 18 | Chrissy Harter | 5 | LF Staff |
 | 19 | Brunoee | 5 | — |
 | 20 | [hartm](https://github.com/hartm) | 5 | LF Staff |

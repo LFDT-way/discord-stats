@@ -4,7 +4,7 @@
 - **Category ID:** 1430941644034670794
 - **Total Messages in Category:** 1,702
 - **Last 30 Days:** 42
-- **Last 90 Days:** 138
+- **Last 90 Days:** 136
 - **Last 365 Days:** 594
 - **First Message:** 2024-07-08
 - **Last Message:** 2026-10-22
@@ -16,7 +16,7 @@
 | [paladin](paladin_1303371167020879903.md) | 2026-09-28 | 1 | 11 | 99 | 633 |
 | [paladin-maintainers](paladin-maintainers_1332404027052392488.md) | 2026-10-13 | 2 | 16 | 238 | 507 |
 | [zeto](zeto_1259800071185367040.md) | 2026-09-04 | 0 | 4 | 22 | 326 |
-| [paladin-java-sdk](paladin-java-sdk_1513571876708810834.md) | 2026-10-22 | 39 | 106 | 173 | 173 |
+| [paladin-java-sdk](paladin-java-sdk_1513571876708810834.md) | 2026-10-22 | 39 | 104 | 173 | 173 |
 | [paladin-general](paladin-general_1430941784610963538.md) | 2026-08-11 | 0 | 1 | 44 | 45 |
 | [paladin-release](paladin-release_1435984838388875284.md) | 2026-06-25 | 0 | 0 | 17 | 17 |
 | [paladin-announce](paladin-announce_1430941736460484638.md) | 2026-06-25 | 0 | 0 | 1 | 1 |
@@ -36,8 +36,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 62 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 2 | divyam-jha | 55 | — |
+| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 61 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 2 | divyam-jha | 54 | — |
 | 3 | [Anna McAllister](https://github.com/annamcallister) | 6 | Paladin Maintainer, Project Maintainer, Lab Leader |
 | 4 | Aseem | 4 | — |
 | 5 | gurbaj08 | 3 | — |

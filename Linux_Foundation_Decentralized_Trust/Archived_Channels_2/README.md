@@ -4,7 +4,7 @@
 - **Category ID:** 1536466428700655647
 - **Total Messages in Category:** 7,188
 - **Last 30 Days:** 0
-- **Last 90 Days:** 3
+- **Last 90 Days:** 2
 - **Last 365 Days:** 90
 - **First Message:** 2022-02-12
 - **Last Message:** 2026-09-24
@@ -49,7 +49,7 @@
 | [bdls](bdls_1035218321051746344.md) | 2026-03-24 | 0 | 0 | 2 | 37 |
 | [meetups](meetups_966023754016759849.md) | 2026-02-18 | 0 | 0 | 1 | 35 |
 | [splice](splice_1210332028281688135.md) | 2026-04-22 | 0 | 0 | 2 | 34 |
-| [chaindeploy](chaindeploy_1351886901988163635.md) | 2026-07-27 | 0 | 1 | 1 | 24 |
+| [chaindeploy](chaindeploy_1351886901988163635.md) | 2026-07-27 | 0 | 0 | 1 | 24 |
 | [australasia-chapter](australasia-chapter_979467446081691709.md) | 2025-09-12 | 0 | 0 | 0 | 21 |
 | [performance-scale](performance-scale_943951597212414013.md) | 2025-07-17 | 0 | 0 | 0 | 19 |
 | [climate-action-accounting-sig](climate-action-accounting-sig_943951132680654898.md) | 2025-01-22 | 0 | 0 | 0 | 18 |
@@ -78,7 +78,6 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
-| 3 | EliMbadi | 1 | — |
 
 ### Last 365 Days
 

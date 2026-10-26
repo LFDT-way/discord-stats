@@ -2,8 +2,8 @@
 
 - **Guild ID:** 1202723482224295936
 - **Total Messages:** 4,559
-- **Last 30 Days:** 69
-- **Last 90 Days:** 304
+- **Last 30 Days:** 67
+- **Last 90 Days:** 300
 - **Last 365 Days:** 1,437 — [active users](users.md)
 - **First Message:** 2024-02-01
 - **Last Message:** 2026-10-25
@@ -13,8 +13,8 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PQ Code Package](PQ_Code_Package/README.md) | 3,618 | 51 | 228 | 1,175 | 2024-02-03 | 2026-10-22 |
-| [Welcome](Welcome/README.md) | 513 | 16 | 46 | 151 | 2024-02-01 | 2026-10-25 |
+| [PQ Code Package](PQ_Code_Package/README.md) | 3,618 | 51 | 225 | 1,175 | 2024-02-03 | 2026-10-22 |
+| [Welcome](Welcome/README.md) | 513 | 14 | 45 | 151 | 2024-02-01 | 2026-10-25 |
 | [Open Quantum Safe](Open_Quantum_Safe/README.md) | 283 | 2 | 27 | 70 | 2024-02-03 | 2026-10-17 |
 | [Governance](Governance/README.md) | 81 | 0 | 0 | 6 | 2024-02-05 | 2026-02-10 |
 | [CBOMKit](CBOMKit/README.md) | 51 | 0 | 3 | 28 | 2025-05-06 | 2026-09-24 |
@@ -31,14 +31,14 @@
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 9 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 7 | PQ Code Package Maintainer |
 | 4 | Jarek Duda | 3 | — |
-| 5 | Umk.Jr | 2 | — |
+| 5 | Tim | 2 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 109 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 63 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 108 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 62 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 20 | PQ Code Package Maintainer |
 | 4 | θρπχι | 12 | — |
 | 5 | Ben | 11 | — |

@@ -3,8 +3,8 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
 - **Total Messages in Category:** 3,897
-- **Last 30 Days:** 116
-- **Last 90 Days:** 277
+- **Last 30 Days:** 106
+- **Last 90 Days:** 276
 - **Last 365 Days:** 1,274
 - **First Message:** 2023-11-08
 - **Last Message:** 2026-10-25
@@ -16,13 +16,13 @@
 | [credo](credo_1179453305856991263.md) | 2026-10-25 | 16 | 20 | 164 | 1,106 |
 | [bifold](bifold_1209891839071756419.md) | 2026-10-20 | 5 | 20 | 140 | 915 |
 | [multipaz](multipaz_1179828955717574707.md) | 2026-10-23 | 14 | 38 | 230 | 660 |
-| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-21 | 72 | 187 | 627 | 639 |
+| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-21 | 62 | 187 | 627 | 639 |
 | [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 0 | 71 | 268 |
 | [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 3 | 105 |
 | [owl](owl_1214965981470924911.md) | 2026-05-07 | 0 | 0 | 10 | 85 |
 | [vcx](vcx_1344319756324311123.md) | 2026-03-31 | 0 | 0 | 6 | 69 |
 | [didcomm-mediator-service](didcomm-mediator-service_1286300013365952583.md) | 2026-10-13 | 9 | 9 | 16 | 43 |
-| [diip](diip_1493643118078201856.md) | 2026-07-27 | 0 | 1 | 5 | 5 |
+| [diip](diip_1493643118078201856.md) | 2026-07-27 | 0 | 0 | 5 | 5 |
 | [thunderid](thunderid_1530170675493339227.md) | 2026-08-20 | 0 | 2 | 2 | 2 |
 
 ## Most Active Users
@@ -31,8 +31,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | birte_lr | 41 | — |
-| 2 | [Mirko](https://github.com/cre8) | 18 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | birte_lr | 35 | — |
+| 2 | [Mirko](https://github.com/cre8) | 15 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | [davidz25](https://github.com/davidz25) | 8 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 4 | [esune](https://github.com/esune) | 7 | Project Maintainer |
 | 5 | [Ry Jones, OWF](https://github.com/ryjones) | 6 | Linux Foundation Staff |

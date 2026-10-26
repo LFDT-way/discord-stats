@@ -3,8 +3,8 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1202723483289780234
 - **Total Messages in Category:** 513
-- **Last 30 Days:** 16
-- **Last 90 Days:** 46
+- **Last 30 Days:** 14
+- **Last 90 Days:** 45
 - **Last 365 Days:** 151
 - **First Message:** 2024-02-01
 - **Last Message:** 2026-10-25
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [general](general_1202723483289780236.md) | 2026-10-25 | 16 | 46 | 149 | 475 |
+| [general](general_1202723483289780236.md) | 2026-10-25 | 14 | 45 | 149 | 475 |
 | [linkedin](linkedin_1205645746192261220.md) | 2026-05-24 | 0 | 0 | 2 | 33 |
 | [links](links_1205170239436754974.md) | 2024-02-13 | 0 | 0 | 0 | 4 |
 | [events](events_1214569223012089878.md) | 2025-03-11 | 0 | 0 | 0 | 1 |
@@ -25,9 +25,9 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Jarek Duda | 3 | — |
-| 2 | Umk.Jr | 2 | — |
-| 3 | Tim | 2 | — |
-| 4 | Maarl | 2 | — |
+| 2 | Tim | 2 | — |
+| 3 | Maarl | 2 | — |
+| 4 | Umk.Jr | 1 | — |
 | 5 | brent | 1 | — |
 
 ### Last 90 Days

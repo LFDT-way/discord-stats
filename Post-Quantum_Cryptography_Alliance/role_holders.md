@@ -9,7 +9,7 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 - **Role holders:** 20
 - **Inactive (no msgs in 365d):** 10
 - **Never posted (0 all-time):** 4
-- **Report generated:** 2026-10-25
+- **Report generated:** 2026-10-26
 
 | User | Roles | Last Msg | 30d | 90d | 365d | All-Time | All Guilds 365d |
 | :--- | :--- | :--- | ---: | ---: | ---: | ---: | ---: |
@@ -31,6 +31,6 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | Jake | PQ Code Package Maintainer, Project Maintainer | 2026-08-10 | 0 | 1 | 42 | 169 | 42 |
 | [RyJones](https://github.com/ryjones) | LF Staff | 2026-10-22 | 2 | 6 | 85 | 327 | 1,065 |
 | Hanno | PQ Code Package Maintainer | 2026-10-20 | 7 | 20 | 103 | 412 | 103 |
-| [Matthias Kannwischer](https://github.com/mkannwischer) | PQ Code Package Maintainer, Project Maintainer | 2026-10-19 | 9 | 63 | 391 | 1,148 | 391 |
-| Rod | PQ Code Package Maintainer, Project Maintainer | 2026-10-20 | 28 | 109 | 505 | 1,299 | 505 |
+| [Matthias Kannwischer](https://github.com/mkannwischer) | PQ Code Package Maintainer, Project Maintainer | 2026-10-19 | 9 | 62 | 391 | 1,148 | 391 |
+| Rod | PQ Code Package Maintainer, Project Maintainer | 2026-10-20 | 28 | 108 | 505 | 1,299 | 505 |
 

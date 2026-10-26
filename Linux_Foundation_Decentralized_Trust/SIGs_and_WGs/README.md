@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1552008839623352370
 - **Total Messages in Category:** 14
-- **Last 30 Days:** 14
+- **Last 30 Days:** 13
 - **Last 90 Days:** 14
 - **Last 365 Days:** 14
 - **First Message:** 2026-09-25
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [ai-×-lfdt](ai-×-lfdt_1552013901846155407.md) | 2026-10-13 | 14 | 14 | 14 | 14 |
+| [ai-×-lfdt](ai-×-lfdt_1552013901846155407.md) | 2026-10-13 | 13 | 14 | 14 | 14 |
 
 ## Most Active Users
 
@@ -23,8 +23,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Alfonso Govela](https://github.com/AlfonsoGovela) | 7 | Lab Leader |
 | 2 | [hendrik.ebbers](https://github.com/hendrikebbers) | 5 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
-| 3 | Amit Rajan | 1 | — |
-| 4 | vetefe | 1 | Lab Leader |
+| 3 | vetefe | 1 | Lab Leader |
 
 ### Last 90 Days
 

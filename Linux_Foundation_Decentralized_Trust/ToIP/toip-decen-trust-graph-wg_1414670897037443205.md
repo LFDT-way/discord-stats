@@ -4,9 +4,9 @@
 - **Category:** ToIP
 - **Channel ID:** 1414670897037443205
 - **Total Messages:** 459
-- **Last 30 Days:** 31
-- **Last 90 Days:** 123
-- **Last 365 Days:** 396
+- **Last 30 Days:** 30
+- **Last 90 Days:** 122
+- **Last 365 Days:** 395
 - **First Message:** 2025-09-24
 - **Last Message:** 2026-10-25
 
@@ -18,7 +18,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 12 | Lab Leader |
 | 2 | Nicky H | 7 | Project Maintainer, ToIP |
-| 3 | [drummondreed](https://github.com/talltree) | 7 | Project Maintainer, ToIP |
+| 3 | [drummondreed](https://github.com/talltree) | 6 | Project Maintainer, ToIP |
 | 4 | stevevitka | 3 | ToIP |
 | 5 | [firegod](https://github.com/wenjing) | 1 | Project Maintainer, ToIP |
 
@@ -28,7 +28,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 48 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 27 | Project Maintainer, ToIP |
-| 3 | Nicky H | 18 | Project Maintainer, ToIP |
+| 3 | Nicky H | 17 | Project Maintainer, ToIP |
 | 4 | microbiocarly | 10 | Project Maintainer, ToIP |
 | 5 | lyn brooks | 7 | Project Maintainer, ToIP |
 

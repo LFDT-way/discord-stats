@@ -4,7 +4,7 @@
 - **Category ID:** 1111041471768961044
 - **Total Messages in Category:** 1,836
 - **Last 30 Days:** 0
-- **Last 90 Days:** 14
+- **Last 90 Days:** 13
 - **Last 365 Days:** 111
 - **First Message:** 2022-09-28
 - **Last Message:** 2026-09-24
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [architecture-sig](architecture-sig_1024688298389688360.md) | 2026-08-10 | 0 | 2 | 44 | 898 |
+| [architecture-sig](architecture-sig_1024688298389688360.md) | 2026-08-10 | 0 | 1 | 44 | 898 |
 | [safe-wallet-sig](safe-wallet-sig_1154410858991067247.md) | 2025-05-12 | 0 | 0 | 0 | 393 |
 | [wallet-interoperability-sig](wallet-interoperability-sig_1291067233967149150.md) | 2026-06-01 | 0 | 0 | 31 | 204 |
 | [tac](tac_1080192375621685288.md) | 2026-09-24 | 0 | 12 | 26 | 203 |
@@ -32,8 +32,8 @@ _No activity in this period._
 | 1 | [Mirko](https://github.com/cre8) | 6 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | Manthan | 3 | — |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
-| 4 | davidejalexander | 2 | SIG member |
-| 5 | RMLearney | 1 | — |
+| 4 | RMLearney | 1 | — |
+| 5 | davidejalexander | 1 | SIG member |
 
 ### Last 365 Days
 

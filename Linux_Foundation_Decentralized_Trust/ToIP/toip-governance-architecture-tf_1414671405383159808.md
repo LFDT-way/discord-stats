@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414671405383159808
-- **Total Messages:** 183
-- **Last 30 Days:** 9
-- **Last 90 Days:** 21
-- **Last 365 Days:** 156
+- **Total Messages:** 184
+- **Last 30 Days:** 10
+- **Last 90 Days:** 22
+- **Last 365 Days:** 157
 - **First Message:** 2025-09-24
-- **Last Message:** 2026-10-21
+- **Last Message:** 2026-10-26
 
 ## Most Active Users
 
@@ -16,7 +16,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 5 | Lab Leader |
 | 2 | NeilJT | 2 | ToIP |
 | 3 | John Phillips | 2 | Project Maintainer, ToIP |
 | 4 | [drummondreed](https://github.com/talltree) | 1 | Project Maintainer, ToIP |
@@ -25,7 +25,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 11 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 12 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 4 | Project Maintainer, ToIP |
 | 3 | John Phillips | 3 | Project Maintainer, ToIP |
 | 4 | NeilJT | 3 | ToIP |
@@ -34,7 +34,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 69 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 70 | Lab Leader |
 | 2 | John Phillips | 35 | Project Maintainer, ToIP |
 | 3 | NeilJT | 20 | ToIP |
 | 4 | [drummondreed](https://github.com/talltree) | 18 | Project Maintainer, ToIP |
@@ -44,7 +44,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 74 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 75 | Lab Leader |
 | 2 | John Phillips | 48 | Project Maintainer, ToIP |
 | 3 | NeilJT | 23 | ToIP |
 | 4 | [drummondreed](https://github.com/talltree) | 22 | Project Maintainer, ToIP |
@@ -54,14 +54,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 130 |
+| 2026 | 131 |
 | 2025 | 53 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 9 |
+| 2026-10 | 10 |
 | 2026-09 | 8 |
 | 2026-08 | 4 |
 | 2026-07 | 30 |
@@ -80,6 +80,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-26 | 1 |
 | 2026-10-21 | 1 |
 | 2026-10-15 | 3 |
 | 2026-10-05 | 2 |

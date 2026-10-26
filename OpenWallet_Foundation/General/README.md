@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 1,866
 - **Last 30 Days:** 3
 - **Last 90 Days:** 9
-- **Last 365 Days:** 71
+- **Last 365 Days:** 70
 - **First Message:** 2022-09-23
 - **Last Message:** 2026-10-24
 
@@ -16,7 +16,7 @@
 | [welcome-landing](welcome-landing_1022962884864643219.md) | 2026-07-30 | 0 | 1 | 1 | 1,077 |
 | [general](general_1023188132042133574.md) | 2026-10-24 | 3 | 7 | 58 | 380 |
 | [introductions](introductions_1023219299902570589.md) | 2026-05-20 | 0 | 0 | 2 | 99 |
-| [community-connect](community-connect_1022965117362634855.md) | 2025-10-25 | 0 | 0 | 1 | 90 |
+| [community-connect](community-connect_1022965117362634855.md) | 2025-10-25 | 0 | 0 | 0 | 90 |
 | [ideas-and-feedback](ideas-and-feedback_1022962884864643221.md) | 2025-11-11 | 0 | 0 | 2 | 54 |
 | [eudi-wallet-multistakeholder](eudi-wallet-multistakeholder_1128703082289692702.md) | 2024-10-09 | 0 | 0 | 0 | 50 |
 | [business-use-cases](business-use-cases_1024844107656478760.md) | 2023-12-01 | 0 | 0 | 0 | 43 |
