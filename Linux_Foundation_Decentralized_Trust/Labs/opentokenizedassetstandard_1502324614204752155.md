@@ -5,7 +5,7 @@
 - **Channel ID:** 1502324614204752155
 - **Total Messages:** 84
 - **Last 30 Days:** 3
-- **Last 90 Days:** 17
+- **Last 90 Days:** 16
 - **Last 365 Days:** 84
 - **First Message:** 2026-05-08
 - **Last Message:** 2026-10-23
@@ -25,7 +25,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Mukul | 7 | — |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | lfdt-ca, LFDT Staff |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
 | 3 | Zapperombie | 4 | — |
 | 4 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
 

@@ -2,8 +2,8 @@
 
 - **Guild ID:** 1202723482224295936
 - **Total Messages:** 4,559
-- **Last 30 Days:** 67
-- **Last 90 Days:** 300
+- **Last 30 Days:** 66
+- **Last 90 Days:** 298
 - **Last 365 Days:** 1,437 — [active users](users.md)
 - **First Message:** 2024-02-01
 - **Last Message:** 2026-10-25
@@ -13,8 +13,8 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PQ Code Package](PQ_Code_Package/README.md) | 3,618 | 51 | 225 | 1,175 | 2024-02-03 | 2026-10-22 |
-| [Welcome](Welcome/README.md) | 513 | 14 | 45 | 151 | 2024-02-01 | 2026-10-25 |
+| [PQ Code Package](PQ_Code_Package/README.md) | 3,618 | 51 | 223 | 1,175 | 2024-02-03 | 2026-10-22 |
+| [Welcome](Welcome/README.md) | 513 | 13 | 45 | 151 | 2024-02-01 | 2026-10-25 |
 | [Open Quantum Safe](Open_Quantum_Safe/README.md) | 283 | 2 | 27 | 70 | 2024-02-03 | 2026-10-17 |
 | [Governance](Governance/README.md) | 81 | 0 | 0 | 6 | 2024-02-05 | 2026-02-10 |
 | [CBOMKit](CBOMKit/README.md) | 51 | 0 | 3 | 28 | 2025-05-06 | 2026-09-24 |

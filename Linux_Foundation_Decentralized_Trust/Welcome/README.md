@@ -2,23 +2,23 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 948958931512873030
-- **Total Messages in Category:** 14,163
-- **Last 30 Days:** 43
-- **Last 90 Days:** 82
-- **Last 365 Days:** 404
+- **Total Messages in Category:** 14,165
+- **Last 30 Days:** 45
+- **Last 90 Days:** 84
+- **Last 365 Days:** 385
 - **First Message:** 2022-03-03
-- **Last Message:** 2026-10-25
+- **Last Message:** 2026-10-27
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [welcome](welcome_948959099842883654.md) | 2026-08-12 | 0 | 2 | 42 | 10,733 |
-| [general](general_1021077182501621830.md) | 2026-10-25 | 36 | 55 | 221 | 1,924 |
-| [job-postings](job-postings_1050607623566802984.md) | 2026-10-07 | 3 | 12 | 74 | 450 |
+| [general](general_1021077182501621830.md) | 2026-10-27 | 37 | 56 | 203 | 1,925 |
+| [job-postings](job-postings_1050607623566802984.md) | 2026-10-07 | 3 | 12 | 72 | 450 |
 | [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-10-07 | 1 | 1 | 11 | 418 |
 | [connections](connections_948959243095130142.md) | 2026-10-22 | 2 | 6 | 17 | 374 |
-| [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-07-30 | 0 | 5 | 28 | 191 |
+| [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-10-27 | 1 | 6 | 29 | 192 |
 | [announcements](announcements_953133039372877844.md) | 2026-06-30 | 0 | 0 | 8 | 39 |
 | [git-help](git-help_1098621099681513492.md) | 2026-10-19 | 1 | 1 | 3 | 34 |
 
@@ -49,10 +49,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 38 | lfdt-ca, LFDT Staff |
-| 2 | [Ry Jones](https://github.com/ryjones) | 33 | lfdt-ca, LFDT Staff |
+| 2 | [Ry Jones](https://github.com/ryjones) | 26 | lfdt-ca, LFDT Staff |
 | 3 | varun | 15 | — |
 | 4 | Zion'sEarthlyPrince | 13 | — |
-| 5 | Tsafaras | 12 | — |
+| 5 | today | 9 | — |
 
 ### All Time
 
@@ -68,7 +68,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 291 |
+| 2026 | 293 |
 | 2025 | 523 |
 | 2024 | 1,379 |
 | 2023 | 7,571 |
@@ -78,7 +78,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 31 |
+| 2026-10 | 33 |
 | 2026-09 | 28 |
 | 2026-08 | 15 |
 | 2026-07 | 33 |
@@ -139,6 +139,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-27 | 2 |
 | 2026-10-25 | 1 |
 | 2026-10-22 | 2 |
 | 2026-10-21 | 11 |

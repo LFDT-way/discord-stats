@@ -10,11 +10,11 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 387 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Ry Jones, OWF](https://github.com/ryjones) | 144 | Linux Foundation Staff |
+| 2 | [Ry Jones, OWF](https://github.com/ryjones) | 143 | Linux Foundation Staff |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 140 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
-| 5 | [Lukas.J.Han](https://github.com/lukasjhan) | 103 | Lab Maintainer |
-| 6 | [davidz25](https://github.com/davidz25) | 103 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 5 | [davidz25](https://github.com/davidz25) | 104 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 6 | [Lukas.J.Han](https://github.com/lukasjhan) | 102 | Lab Maintainer |
 | 7 | [Timo Glastra](https://github.com/TimoGlastra) | 96 | credo maintainers, Project Maintainer |
 | 8 | birte_lr | 61 | — |
 | 9 | espuni | 45 | — |
@@ -22,7 +22,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 11 | Timbl | 35 | — |
 | 12 | davidejalexander | 35 | SIG member |
 | 13 | thidalgo | 35 | — |
-| 14 | [swcurran](https://github.com/swcurran) | 32 | Lab Maintainer, TAC members, Project Maintainer |
+| 14 | [swcurran](https://github.com/swcurran) | 33 | Lab Maintainer, TAC members, Project Maintainer |
 | 15 | RMLearney | 30 | — |
 | 16 | Thomas Tran | 28 | Lab Maintainer |
 | 17 | ai Igor | 24 | — |

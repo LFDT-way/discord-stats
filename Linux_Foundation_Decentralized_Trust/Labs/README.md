@@ -2,12 +2,12 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
-- **Total Messages in Category:** 21,449
-- **Last 30 Days:** 74
-- **Last 90 Days:** 172
-- **Last 365 Days:** 845
+- **Total Messages in Category:** 21,461
+- **Last 30 Days:** 86
+- **Last 90 Days:** 178
+- **Last 365 Days:** 857
 - **First Message:** 2021-11-05
-- **Last Message:** 2026-10-25
+- **Last Message:** 2026-10-27
 
 ## Channels in Category
 
@@ -23,17 +23,17 @@
 | [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-01 | 3 | 11 | 58 | 153 |
 | [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 3 | 113 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-09-21 | 0 | 8 | 11 | 108 |
-| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-10-21 | 11 | 38 | 95 | 95 |
+| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-10-21 | 11 | 35 | 95 | 95 |
 | [fablo](fablo_1109190949394989127.md) | 2026-10-20 | 1 | 3 | 14 | 88 |
-| [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-10-23 | 3 | 17 | 84 | 84 |
-| [general](general_988569914266775662.md) | 2026-07-30 | 0 | 3 | 10 | 72 |
+| [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-10-23 | 3 | 16 | 84 | 84 |
+| [general](general_988569914266775662.md) | 2026-07-30 | 0 | 1 | 10 | 72 |
 | [cello](cello_941475454378991646.md) | 2026-10-25 | 6 | 7 | 16 | 60 |
 | [cc-tools](cc-tools_1156653969133809715.md) | 2025-05-07 | 0 | 0 | 0 | 45 |
 | [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-10-07 | 1 | 1 | 38 | 44 |
 | [learning-tokens](learning-tokens_1120853856360878271.md) | 2026-08-25 | 0 | 4 | 6 | 36 |
+| [clpr](clpr_1559643143559717006.md) | 2026-10-27 | 34 | 34 | 34 | 34 |
 | [hypernate](hypernate_1417903966464770159.md) | 2026-07-23 | 0 | 0 | 14 | 32 |
 | [cbweb3](cbweb3_1400427588287074364.md) | 2026-05-29 | 0 | 0 | 30 | 31 |
-| [clpr](clpr_1559643143559717006.md) | 2026-10-20 | 22 | 22 | 22 | 22 |
 | [smoot-general](smoot-general_1369405582422835272.md) | 2026-08-19 | 0 | 1 | 4 | 19 |
 | [composable-evidence-criteria](composable-evidence-criteria_1554888185958502581.md) | 2026-10-18 | 10 | 10 | 10 | 10 |
 | [fabricops](fabricops_1537506138008981524.md) | 2026-10-04 | 1 | 7 | 7 | 7 |
@@ -51,21 +51,21 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Edward Wertz (Hashgraph) | 11 | Lab Leader |
-| 2 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 7 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
-| 3 | vetefe | 7 | Lab Leader |
-| 4 | SecrizzMagician | 6 | — |
-| 5 | [Ry Jones](https://github.com/ryjones) | 5 | lfdt-ca, LFDT Staff |
+| 1 | Edward Wertz (Hashgraph) | 13 | Lab Leader |
+| 2 | [hendrik.ebbers](https://github.com/hendrikebbers) | 7 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
+| 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 7 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 4 | vetefe | 7 | Lab Leader |
+| 5 | SecrizzMagician | 6 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 17 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 14 | lfdt-ca, LFDT Staff |
-| 3 | kadalkidal | 13 | Lab Leader |
-| 4 | [DanielSzego](https://github.com/Daniel-Szego) | 11 | Meetup Organizer |
-| 5 | Edward Wertz (Hashgraph) | 11 | Lab Leader |
+| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 16 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 2 | kadalkidal | 13 | Lab Leader |
+| 3 | Edward Wertz (Hashgraph) | 13 | Lab Leader |
+| 4 | [Ry Jones](https://github.com/ryjones) | 11 | lfdt-ca, LFDT Staff |
+| 5 | [DanielSzego](https://github.com/Daniel-Szego) | 11 | Meetup Organizer |
 
 ### Last 365 Days
 
@@ -91,7 +91,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 732 |
+| 2026 | 744 |
 | 2025 | 1,008 |
 | 2024 | 2,099 |
 | 2023 | 7,409 |
@@ -102,7 +102,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 62 |
+| 2026-10 | 74 |
 | 2026-09 | 42 |
 | 2026-08 | 54 |
 | 2026-07 | 125 |
@@ -165,6 +165,8 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-27 | 3 |
+| 2026-10-26 | 9 |
 | 2026-10-25 | 1 |
 | 2026-10-24 | 2 |
 | 2026-10-23 | 5 |

@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414670897037443205
-- **Total Messages:** 459
-- **Last 30 Days:** 30
-- **Last 90 Days:** 122
+- **Total Messages:** 460
+- **Last 30 Days:** 31
+- **Last 90 Days:** 121
 - **Last 365 Days:** 395
 - **First Message:** 2025-09-24
-- **Last Message:** 2026-10-25
+- **Last Message:** 2026-10-27
 
 ## Most Active Users
 
@@ -26,10 +26,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 48 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 47 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 27 | Project Maintainer, ToIP |
 | 3 | Nicky H | 17 | Project Maintainer, ToIP |
-| 4 | microbiocarly | 10 | Project Maintainer, ToIP |
+| 4 | microbiocarly | 9 | Project Maintainer, ToIP |
 | 5 | lyn brooks | 7 | Project Maintainer, ToIP |
 
 ### Last 365 Days
@@ -56,14 +56,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 317 |
+| 2026 | 318 |
 | 2025 | 142 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 28 |
+| 2026-10 | 29 |
 | 2026-09 | 33 |
 | 2026-08 | 54 |
 | 2026-07 | 51 |
@@ -82,6 +82,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-27 | 1 |
 | 2026-10-25 | 1 |
 | 2026-10-24 | 1 |
 | 2026-10-21 | 3 |

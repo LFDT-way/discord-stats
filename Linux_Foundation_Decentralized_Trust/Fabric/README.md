@@ -2,27 +2,27 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205464046915585
-- **Total Messages in Category:** 20,069
-- **Last 30 Days:** 34
-- **Last 90 Days:** 119
-- **Last 365 Days:** 807
+- **Total Messages in Category:** 20,074
+- **Last 30 Days:** 38
+- **Last 90 Days:** 124
+- **Last 365 Days:** 808
 - **First Message:** 2021-11-07
-- **Last Message:** 2026-10-23
+- **Last Message:** 2026-10-26
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric](fabric_905205541326975046.md) | 2026-10-22 | 13 | 19 | 227 | 10,166 |
-| [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-10-23 | 1 | 3 | 14 | 1,632 |
+| [fabric](fabric_905205541326975046.md) | 2026-10-22 | 12 | 19 | 226 | 10,166 |
+| [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-10-26 | 6 | 8 | 19 | 1,637 |
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-08 | 0 | 0 | 0 | 1,527 |
-| [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 0 | 46 | 1,300 |
+| [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 0 | 45 | 1,300 |
 | [fabric-peer](fabric-peer_945037339170836501.md) | 2026-04-10 | 0 | 0 | 6 | 1,084 |
 | [fabric-private-chaincode](fabric-private-chaincode_943059293765267497.md) | 2026-08-14 | 0 | 1 | 28 | 1,075 |
 | [fabric-orderer](fabric-orderer_945037581500940298.md) | 2026-04-12 | 0 | 0 | 10 | 817 |
 | [fabric-code-contributors](fabric-code-contributors_941396957635682314.md) | 2026-05-09 | 0 | 0 | 7 | 602 |
 | [fabric-contract-apis](fabric-contract-apis_943090527920877598.md) | 2026-09-13 | 0 | 1 | 12 | 549 |
-| [fabric-x](fabric-x_1427642480504999976.md) | 2026-10-18 | 1 | 60 | 367 | 370 |
+| [fabric-x](fabric-x_1427642480504999976.md) | 2026-10-18 | 1 | 60 | 365 | 370 |
 | [fabric-documentation](fabric-documentation_945038395825070141.md) | 2026-06-19 | 0 | 0 | 21 | 272 |
 | [fabric-japanese](fabric-japanese_942950198836092958.md) | 2026-09-16 | 0 | 3 | 19 | 241 |
 | [fabric-dublin-workshop](fabric-dublin-workshop_1005123918740332604.md) | 2024-09-27 | 0 | 0 | 0 | 119 |
@@ -43,8 +43,8 @@
 | 1 | Storm1289 | 7 | — |
 | 2 | Siddhartha | 6 | — |
 | 3 | [arner](https://github.com/arner) | 4 | Project Maintainer, Fabric Maintainer |
-| 4 | Frank_The_Fish | 3 | Lab Leader |
-| 5 | shinchan | 2 | — |
+| 4 | [jtonline](https://github.com/jt-nti) | 3 | Project Maintainer, Fabric Maintainer |
+| 5 | Amin.Chegeni | 3 | — |
 
 ### Last 90 Days
 
@@ -80,7 +80,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 530 |
+| 2026 | 535 |
 | 2025 | 1,596 |
 | 2024 | 3,365 |
 | 2023 | 7,203 |
@@ -91,7 +91,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 27 |
+| 2026-10 | 32 |
 | 2026-09 | 54 |
 | 2026-08 | 34 |
 | 2026-07 | 39 |
@@ -154,6 +154,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-26 | 5 |
 | 2026-10-23 | 1 |
 | 2026-10-22 | 3 |
 | 2026-10-20 | 1 |
