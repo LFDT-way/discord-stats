@@ -2,17 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536684429756604447
-- **Total Messages in Category:** 124
-- **Last 30 Days:** 0
-- **Last 90 Days:** 0
-- **Last 365 Days:** 1
+- **Total Messages in Category:** 201
+- **Last 30 Days:** 1
+- **Last 90 Days:** 1
+- **Last 365 Days:** 5
 - **First Message:** 2022-02-23
-- **Last Message:** 2025-11-02
+- **Last Message:** 2026-10-26
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [besu-legacy-sunset](besu-legacy-sunset_1288187441211244598.md) | 2026-10-26 | 1 | 1 | 4 | 77 |
 | [vs-code-plugin](vs-code-plugin_1249243593475096647.md) | 2025-04-08 | 0 | 0 | 0 | 60 |
 | [weaver](weaver_986350461886033980.md) | 2024-09-05 | 0 | 0 | 0 | 29 |
 | [yui](yui_1036682184955809792.md) | 2023-09-29 | 0 | 0 | 0 | 15 |
@@ -23,34 +24,42 @@
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | [Justin Florentine](https://github.com/jflo) | 1 | Project Maintainer, Besu Maintainer |
 
 ### Last 90 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | [Justin Florentine](https://github.com/jflo) | 1 | Project Maintainer, Besu Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | zzj_666_40083 | 1 | — |
+| 1 | [macfarla \| Besu](https://github.com/macfarla) | 2 | Project Maintainer, Besu Maintainer |
+| 2 | [fab10](https://github.com/fab-10) | 1 | Project Maintainer, Besu Maintainer |
+| 3 | zzj_666_40083 | 1 | — |
+| 4 | [Justin Florentine](https://github.com/jflo) | 1 | Project Maintainer, Besu Maintainer |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 22 | TAC member, Chapter Leader |
-| 2 | claudia | 13 | — |
-| 3 | [davidkhala](https://github.com/davidkhala) | 7 | Working Group Leader |
-| 4 | dr_kent_lau_main_dev_july2023 | 7 | — |
-| 5 | Chinmayi D S | 5 | — |
+| 1 | [macfarla \| Besu](https://github.com/macfarla) | 30 | Project Maintainer, Besu Maintainer |
+| 2 | [Arun S M](https://github.com/arsulegai) | 22 | TAC member, Chapter Leader |
+| 3 | claudia | 13 | — |
+| 4 | Glads | 13 | — |
+| 5 | cris | 8 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2025 | 10 |
-| 2024 | 56 |
+| 2026 | 3 |
+| 2025 | 35 |
+| 2024 | 105 |
 | 2023 | 25 |
 | 2022 | 33 |
 
@@ -58,10 +67,19 @@ _No activity in this period._
 
 | Month | Messages |
 | --- | --- |
+| 2026-10 | 1 |
+| 2026-06 | 1 |
+| 2026-02 | 1 |
+| 2025-12 | 1 |
 | 2025-11 | 1 |
+| 2025-07 | 1 |
 | 2025-04 | 8 |
-| 2025-01 | 1 |
-| 2024-10 | 7 |
+| 2025-03 | 7 |
+| 2025-02 | 15 |
+| 2025-01 | 2 |
+| 2024-12 | 12 |
+| 2024-11 | 11 |
+| 2024-10 | 33 |
 | 2024-09 | 6 |
 | 2024-08 | 7 |
 | 2024-07 | 3 |
@@ -90,16 +108,50 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-26 | 1 |
+| 2026-06-25 | 1 |
+| 2026-02-18 | 1 |
+| 2025-12-02 | 1 |
 | 2025-11-02 | 1 |
+| 2025-07-09 | 1 |
 | 2025-04-08 | 1 |
 | 2025-04-04 | 3 |
 | 2025-04-02 | 3 |
 | 2025-04-01 | 1 |
-| 2025-01-02 | 1 |
-| 2024-10-31 | 1 |
-| 2024-10-29 | 1 |
-| 2024-10-28 | 2 |
+| 2025-03-19 | 3 |
+| 2025-03-05 | 3 |
+| 2025-03-04 | 1 |
+| 2025-02-28 | 2 |
+| 2025-02-26 | 2 |
+| 2025-02-24 | 1 |
+| 2025-02-20 | 4 |
+| 2025-02-19 | 2 |
+| 2025-02-14 | 1 |
+| 2025-02-13 | 2 |
+| 2025-02-11 | 1 |
+| 2025-01-02 | 2 |
+| 2024-12-30 | 1 |
+| 2024-12-17 | 1 |
+| 2024-12-16 | 3 |
+| 2024-12-12 | 1 |
+| 2024-12-11 | 2 |
+| 2024-12-10 | 1 |
+| 2024-12-09 | 1 |
+| 2024-12-05 | 2 |
+| 2024-11-22 | 2 |
+| 2024-11-21 | 7 |
+| 2024-11-20 | 1 |
+| 2024-11-05 | 1 |
+| 2024-10-31 | 2 |
+| 2024-10-29 | 3 |
+| 2024-10-28 | 8 |
 | 2024-10-27 | 3 |
+| 2024-10-25 | 3 |
+| 2024-10-24 | 4 |
+| 2024-10-23 | 7 |
+| 2024-10-21 | 1 |
+| 2024-10-14 | 1 |
+| 2024-10-12 | 1 |
 | 2024-09-21 | 4 |
 | 2024-09-20 | 1 |
 | 2024-09-05 | 1 |

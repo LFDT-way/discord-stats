@@ -2,33 +2,32 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205381872095283
-- **Total Messages in Category:** 47,853
-- **Last 30 Days:** 154
-- **Last 90 Days:** 513
-- **Last 365 Days:** 1,872
+- **Total Messages in Category:** 47,780
+- **Last 30 Days:** 153
+- **Last 90 Days:** 508
+- **Last 365 Days:** 1,866
 - **First Message:** 2021-11-09
-- **Last Message:** 2026-10-27
+- **Last Message:** 2026-10-28
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [besu](besu_938504958909747250.md) | 2026-10-26 | 55 | 195 | 775 | 33,845 |
-| [besu-contributors](besu-contributors_905205502940696607.md) | 2026-10-21 | 47 | 161 | 503 | 6,704 |
-| [besu-reviews](besu-reviews_938505506123812865.md) | 2026-10-27 | 12 | 41 | 247 | 2,377 |
-| [besu-enterprise](besu-enterprise_1172617318845657199.md) | 2026-10-26 | 14 | 63 | 164 | 1,814 |
-| [besu-release](besu-release_943252457063075880.md) | 2026-08-28 | 0 | 4 | 65 | 1,790 |
+| [besu](besu_938504958909747250.md) | 2026-10-26 | 53 | 194 | 774 | 33,845 |
+| [besu-contributors](besu-contributors_905205502940696607.md) | 2026-10-21 | 45 | 155 | 503 | 6,704 |
+| [besu-reviews](besu-reviews_938505506123812865.md) | 2026-10-28 | 14 | 42 | 248 | 2,379 |
+| [besu-enterprise](besu-enterprise_1172617318845657199.md) | 2026-10-26 | 14 | 63 | 161 | 1,814 |
+| [besu-release](besu-release_943252457063075880.md) | 2026-10-28 | 1 | 5 | 65 | 1,791 |
 | [besu-performance](besu-performance_1129455688255553717.md) | 2026-10-12 | 9 | 12 | 43 | 457 |
 | [besu-workshop](besu-workshop_974732102450970654.md) | 2026-09-18 | 0 | 8 | 11 | 218 |
 | [besu-announce](besu-announce_906266945614135356.md) | 2026-10-26 | 5 | 9 | 21 | 152 |
 | [besu-verkle](besu-verkle_1207729310534737920.md) | 2025-05-25 | 0 | 0 | 0 | 107 |
-| [besu-legacy-sunset](besu-legacy-sunset_1288187441211244598.md) | 2026-10-26 | 1 | 1 | 4 | 77 |
 | [besu-modularity](besu-modularity_1134521811388870676.md) | 2026-01-26 | 0 | 0 | 2 | 71 |
 | [besu-portal](besu-portal_1326322164118458452.md) | 2025-12-15 | 0 | 0 | 1 | 64 |
 | [besu-docs](besu-docs_1354548845438177432.md) | 2026-09-03 | 0 | 7 | 14 | 54 |
 | [besu-for-finance-wg](besu-for-finance-wg_1214946534962241618.md) | 2026-10-26 | 6 | 6 | 15 | 48 |
 | [besu-fusaka](besu-fusaka_1217892754949017701.md) | 2025-03-31 | 0 | 0 | 0 | 46 |
-| [besu-github](besu-github_943169992436887632.md) | 2026-09-15 | 0 | 1 | 2 | 24 |
+| [besu-github](besu-github_943169992436887632.md) | 2026-10-28 | 1 | 2 | 3 | 25 |
 | [besu-ci-alert](besu-ci-alert_1555194115828875374.md) | 2026-10-26 | 5 | 5 | 5 | 5 |
 
 ## Most Active Users
@@ -39,37 +38,37 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 24 | lfdt-ca, LFDT Staff |
 | 2 | [Matthew Whitehead](https://github.com/matthew1001) | 23 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 3 | [macfarla \| Besu](https://github.com/macfarla) | 20 | Project Maintainer, Besu Maintainer |
-| 4 | [Justin Florentine](https://github.com/jflo) | 12 | Project Maintainer, Besu Maintainer |
-| 5 | rout-chaitanya | 11 | — |
+| 3 | [macfarla \| Besu](https://github.com/macfarla) | 22 | Project Maintainer, Besu Maintainer |
+| 4 | rout-chaitanya | 11 | — |
+| 5 | [Justin Florentine](https://github.com/jflo) | 11 | Project Maintainer, Besu Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Matthew Whitehead](https://github.com/matthew1001) | 103 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 2 | [macfarla \| Besu](https://github.com/macfarla) | 48 | Project Maintainer, Besu Maintainer |
+| 2 | [macfarla \| Besu](https://github.com/macfarla) | 50 | Project Maintainer, Besu Maintainer |
 | 3 | yorick | 48 | — |
-| 4 | [Simon Dudley](https://github.com/siladu) | 34 | Project Maintainer, Besu Maintainer |
+| 4 | [Simon Dudley](https://github.com/siladu) | 32 | Project Maintainer, Besu Maintainer |
 | 5 | [Ry Jones](https://github.com/ryjones) | 29 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Simon Dudley](https://github.com/siladu) | 238 | Project Maintainer, Besu Maintainer |
-| 2 | [Matthew Whitehead](https://github.com/matthew1001) | 237 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 1 | [Simon Dudley](https://github.com/siladu) | 237 | Project Maintainer, Besu Maintainer |
+| 2 | [Matthew Whitehead](https://github.com/matthew1001) | 236 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 3 | [macfarla \| Besu](https://github.com/macfarla) | 203 | Project Maintainer, Besu Maintainer |
 | 4 | yorick | 75 | — |
-| 5 | [Justin Florentine](https://github.com/jflo) | 65 | Project Maintainer, Besu Maintainer |
+| 5 | [Jason Frame](https://github.com/jframe) | 64 | Project Maintainer, Besu Maintainer |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Simon Dudley](https://github.com/siladu) | 3,800 | Project Maintainer, Besu Maintainer |
-| 2 | [macfarla \| Besu](https://github.com/macfarla) | 2,160 | Project Maintainer, Besu Maintainer |
-| 3 | [Matthew Whitehead](https://github.com/matthew1001) | 1,859 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 2 | [macfarla \| Besu](https://github.com/macfarla) | 2,132 | Project Maintainer, Besu Maintainer |
+| 3 | [Matthew Whitehead](https://github.com/matthew1001) | 1,858 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 4 | [shemnon](https://github.com/shemnon) | 1,718 | — |
 | 5 | [a.hamlat](https://github.com/ahamlat) | 1,606 | Project Maintainer, Besu Maintainer |
 
@@ -77,9 +76,9 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,467 |
-| 2025 | 3,508 |
-| 2024 | 10,409 |
+| 2026 | 1,468 |
+| 2025 | 3,483 |
+| 2024 | 10,360 |
 | 2023 | 11,741 |
 | 2022 | 20,699 |
 | 2021 | 29 |
@@ -88,31 +87,31 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 141 |
+| 2026-10 | 144 |
 | 2026-09 | 146 |
 | 2026-08 | 173 |
 | 2026-07 | 225 |
-| 2026-06 | 160 |
+| 2026-06 | 159 |
 | 2026-05 | 116 |
 | 2026-04 | 161 |
 | 2026-03 | 133 |
-| 2026-02 | 98 |
+| 2026-02 | 97 |
 | 2026-01 | 114 |
-| 2025-12 | 196 |
+| 2025-12 | 195 |
 | 2025-11 | 149 |
 | 2025-10 | 202 |
 | 2025-09 | 294 |
 | 2025-08 | 216 |
-| 2025-07 | 232 |
+| 2025-07 | 231 |
 | 2025-06 | 261 |
 | 2025-05 | 387 |
 | 2025-04 | 301 |
-| 2025-03 | 398 |
-| 2025-02 | 325 |
-| 2025-01 | 547 |
-| 2024-12 | 386 |
-| 2024-11 | 512 |
-| 2024-10 | 666 |
+| 2025-03 | 391 |
+| 2025-02 | 310 |
+| 2025-01 | 546 |
+| 2024-12 | 374 |
+| 2024-11 | 501 |
+| 2024-10 | 640 |
 | 2024-09 | 671 |
 | 2024-08 | 615 |
 | 2024-07 | 624 |
@@ -151,8 +150,9 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-27 | 2 |
-| 2026-10-26 | 25 |
+| 2026-10-28 | 3 |
+| 2026-10-27 | 3 |
+| 2026-10-26 | 24 |
 | 2026-10-25 | 2 |
 | 2026-10-24 | 1 |
 | 2026-10-22 | 7 |
@@ -249,7 +249,7 @@
 | 2026-06-29 | 1 |
 | 2026-06-27 | 1 |
 | 2026-06-26 | 8 |
-| 2026-06-25 | 27 |
+| 2026-06-25 | 26 |
 | 2026-06-24 | 15 |
 | 2026-06-23 | 14 |
 | 2026-06-22 | 8 |
@@ -356,7 +356,7 @@
 | 2026-02-22 | 1 |
 | 2026-02-20 | 3 |
 | 2026-02-19 | 4 |
-| 2026-02-18 | 8 |
+| 2026-02-18 | 7 |
 | 2026-02-17 | 3 |
 | 2026-02-16 | 2 |
 | 2026-02-13 | 2 |
@@ -410,7 +410,7 @@
 | 2025-12-05 | 14 |
 | 2025-12-04 | 4 |
 | 2025-12-03 | 8 |
-| 2025-12-02 | 33 |
+| 2025-12-02 | 32 |
 | 2025-11-30 | 1 |
 | 2025-11-28 | 8 |
 | 2025-11-27 | 5 |
@@ -533,7 +533,7 @@
 | 2025-07-13 | 1 |
 | 2025-07-11 | 2 |
 | 2025-07-10 | 8 |
-| 2025-07-09 | 9 |
+| 2025-07-09 | 8 |
 | 2025-07-08 | 6 |
 | 2025-07-07 | 7 |
 | 2025-07-04 | 15 |
@@ -623,7 +623,7 @@
 | 2025-03-23 | 1 |
 | 2025-03-21 | 8 |
 | 2025-03-20 | 19 |
-| 2025-03-19 | 32 |
+| 2025-03-19 | 29 |
 | 2025-03-18 | 19 |
 | 2025-03-17 | 31 |
 | 2025-03-15 | 1 |
@@ -636,26 +636,26 @@
 | 2025-03-08 | 2 |
 | 2025-03-07 | 6 |
 | 2025-03-06 | 14 |
-| 2025-03-05 | 44 |
-| 2025-03-04 | 21 |
+| 2025-03-05 | 41 |
+| 2025-03-04 | 20 |
 | 2025-03-03 | 17 |
 | 2025-03-02 | 1 |
-| 2025-02-28 | 14 |
+| 2025-02-28 | 12 |
 | 2025-02-27 | 19 |
-| 2025-02-26 | 5 |
+| 2025-02-26 | 3 |
 | 2025-02-25 | 9 |
-| 2025-02-24 | 16 |
+| 2025-02-24 | 15 |
 | 2025-02-23 | 2 |
 | 2025-02-21 | 8 |
-| 2025-02-20 | 24 |
-| 2025-02-19 | 54 |
+| 2025-02-20 | 20 |
+| 2025-02-19 | 52 |
 | 2025-02-18 | 10 |
 | 2025-02-17 | 9 |
 | 2025-02-16 | 1 |
-| 2025-02-14 | 5 |
-| 2025-02-13 | 20 |
+| 2025-02-14 | 4 |
+| 2025-02-13 | 18 |
 | 2025-02-12 | 15 |
-| 2025-02-11 | 12 |
+| 2025-02-11 | 11 |
 | 2025-02-10 | 2 |
 | 2025-02-09 | 3 |
 | 2025-02-08 | 4 |
@@ -693,9 +693,9 @@
 | 2025-01-06 | 2 |
 | 2025-01-05 | 1 |
 | 2025-01-03 | 8 |
-| 2025-01-02 | 2 |
+| 2025-01-02 | 1 |
 | 2025-01-01 | 1 |
-| 2024-12-30 | 8 |
+| 2024-12-30 | 7 |
 | 2024-12-28 | 2 |
 | 2024-12-27 | 6 |
 | 2024-12-26 | 1 |
@@ -705,18 +705,18 @@
 | 2024-12-20 | 3 |
 | 2024-12-19 | 12 |
 | 2024-12-18 | 2 |
-| 2024-12-17 | 29 |
-| 2024-12-16 | 29 |
+| 2024-12-17 | 28 |
+| 2024-12-16 | 26 |
 | 2024-12-15 | 2 |
 | 2024-12-14 | 1 |
 | 2024-12-13 | 15 |
-| 2024-12-12 | 47 |
-| 2024-12-11 | 30 |
-| 2024-12-10 | 36 |
-| 2024-12-09 | 36 |
+| 2024-12-12 | 46 |
+| 2024-12-11 | 28 |
+| 2024-12-10 | 35 |
+| 2024-12-09 | 35 |
 | 2024-12-07 | 9 |
 | 2024-12-06 | 8 |
-| 2024-12-05 | 16 |
+| 2024-12-05 | 14 |
 | 2024-12-04 | 37 |
 | 2024-12-03 | 13 |
 | 2024-12-02 | 28 |
@@ -727,9 +727,9 @@
 | 2024-11-26 | 70 |
 | 2024-11-25 | 30 |
 | 2024-11-24 | 1 |
-| 2024-11-22 | 15 |
-| 2024-11-21 | 21 |
-| 2024-11-20 | 9 |
+| 2024-11-22 | 13 |
+| 2024-11-21 | 14 |
+| 2024-11-20 | 8 |
 | 2024-11-19 | 16 |
 | 2024-11-18 | 19 |
 | 2024-11-17 | 5 |
@@ -744,31 +744,31 @@
 | 2024-11-08 | 15 |
 | 2024-11-07 | 18 |
 | 2024-11-06 | 17 |
-| 2024-11-05 | 15 |
+| 2024-11-05 | 14 |
 | 2024-11-04 | 9 |
 | 2024-11-03 | 3 |
 | 2024-11-02 | 6 |
 | 2024-11-01 | 1 |
-| 2024-10-31 | 22 |
+| 2024-10-31 | 21 |
 | 2024-10-30 | 12 |
-| 2024-10-29 | 19 |
-| 2024-10-28 | 19 |
+| 2024-10-29 | 17 |
+| 2024-10-28 | 13 |
 | 2024-10-27 | 1 |
 | 2024-10-26 | 2 |
-| 2024-10-25 | 10 |
-| 2024-10-24 | 23 |
-| 2024-10-23 | 23 |
+| 2024-10-25 | 7 |
+| 2024-10-24 | 19 |
+| 2024-10-23 | 16 |
 | 2024-10-22 | 10 |
-| 2024-10-21 | 20 |
+| 2024-10-21 | 19 |
 | 2024-10-20 | 5 |
 | 2024-10-19 | 2 |
 | 2024-10-18 | 18 |
 | 2024-10-17 | 23 |
 | 2024-10-16 | 13 |
 | 2024-10-15 | 36 |
-| 2024-10-14 | 46 |
+| 2024-10-14 | 45 |
 | 2024-10-13 | 5 |
-| 2024-10-12 | 10 |
+| 2024-10-12 | 9 |
 | 2024-10-11 | 48 |
 | 2024-10-10 | 76 |
 | 2024-10-09 | 49 |

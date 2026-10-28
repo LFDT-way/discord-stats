@@ -9,7 +9,7 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 - **Role holders:** 48
 - **Inactive (no msgs in 365d):** 21
 - **Never posted (0 all-time):** 0
-- **Report generated:** 2026-10-27
+- **Report generated:** 2026-10-28
 
 | User | Roles | Last Msg | 30d | 90d | 365d | All-Time | All Guilds 365d |
 | :--- | :--- | :--- | ---: | ---: | ---: | ---: | ---: |
@@ -41,24 +41,24 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | [cvarjao](https://github.com/cvarjao) | bifold maintainers, Project Maintainer | 2026-01-08 | 0 | 0 | 3 | 81 | 3 |
 | [alexander.shenshin](https://github.com/AlexanderShenshin) | Lab Maintainer | 2026-07-15 | 0 | 0 | 3 | 12 | 28 |
 | Ever | multipaz maintainer | 2026-10-23 | 2 | 5 | 5 | 5 | 5 |
-| Jason | bifold maintainers, Project Maintainer | 2026-10-06 | 1 | 2 | 7 | 134 | 7 |
+| Jason | bifold maintainers, Project Maintainer | 2026-10-06 | 1 | 2 | 6 | 134 | 6 |
 | Jim St.Clair | SIG member | 2026-03-13 | 0 | 0 | 9 | 9 | 20 |
 | [gmulhearn](https://github.com/gmulhearn) | vcx maintainer, Project Maintainer | 2026-06-26 | 0 | 0 | 10 | 32 | 10 |
-| [GenAris](https://github.com/genaris) | credo maintainers, Project Maintainer | 2026-06-04 | 0 | 0 | 13 | 101 | 13 |
 | diegoz (OpenMobileHub, Multipaz) | Lab Maintainer, multipaz maintainer | 2026-06-30 | 0 | 0 | 14 | 58 | 14 |
 | Samuel | SIG member | 2026-07-27 | 0 | 0 | 15 | 37 | 15 |
 | [jamshale](https://github.com/jamshale) | Project Maintainer | 2026-10-13 | 2 | 2 | 15 | 117 | 15 |
-| [esune](https://github.com/esune) | Project Maintainer | 2026-10-13 | 8 | 8 | 16 | 27 | 16 |
-| [VishnuSanal](https://github.com/VishnuSanal) | multipaz maintainer, Project Maintainer | 2026-10-21 | 4 | 4 | 23 | 37 | 23 |
+| [GenAris](https://github.com/genaris) | credo maintainers, Project Maintainer | 2026-10-27 | 6 | 6 | 19 | 107 | 19 |
+| [esune](https://github.com/esune) | Project Maintainer | 2026-10-27 | 17 | 17 | 25 | 36 | 25 |
+| [VishnuSanal](https://github.com/VishnuSanal) | multipaz maintainer, Project Maintainer | 2026-10-27 | 7 | 7 | 26 | 40 | 26 |
 | Thomas Tran | Lab Maintainer | 2026-04-30 | 0 | 0 | 28 | 52 | 28 |
-| [swcurran](https://github.com/swcurran) | Lab Maintainer, TAC members, Project Maintainer | 2026-10-26 | 3 | 7 | 33 | 183 | 61 |
-| davidejalexander | SIG member | 2026-08-10 | 0 | 1 | 35 | 98 | 35 |
+| [swcurran](https://github.com/swcurran) | Lab Maintainer, TAC members, Project Maintainer | 2026-10-26 | 3 | 7 | 29 | 183 | 56 |
+| davidejalexander | SIG member | 2026-08-10 | 0 | 1 | 34 | 98 | 34 |
 | PStLouis | Lab Maintainer, Project Maintainer | 2026-08-06 | 0 | 1 | 36 | 213 | 36 |
 | [bryce-mcmath](https://github.com/bryce-mcmath) | bifold maintainers, Project Maintainer | 2026-09-10 | 0 | 1 | 43 | 185 | 43 |
 | [Lukas.J.Han](https://github.com/lukasjhan) | Lab Maintainer | 2026-09-11 | 0 | 6 | 102 | 305 | 102 |
-| [davidz25](https://github.com/davidz25) | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer | 2026-10-26 | 9 | 22 | 104 | 311 | 104 |
-| [Timo Glastra](https://github.com/TimoGlastra) | credo maintainers, Project Maintainer | 2026-10-19 | 1 | 5 | 116 | 289 | 116 |
+| [davidz25](https://github.com/davidz25) | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer | 2026-10-27 | 18 | 31 | 113 | 320 | 113 |
+| [Timo Glastra](https://github.com/TimoGlastra) | credo maintainers, Project Maintainer | 2026-10-19 | 1 | 5 | 114 | 289 | 114 |
 | [Sean Bohan, OWF](https://github.com/SeanBohan) | Linux Foundation Staff | 2026-10-22 | 1 | 6 | 141 | 501 | 357 |
-| [Ry Jones, OWF](https://github.com/ryjones) | Linux Foundation Staff | 2026-10-20 | 6 | 9 | 156 | 422 | 1,057 |
-| [Mirko](https://github.com/cre8) | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member | 2026-10-20 | 18 | 80 | 394 | 645 | 395 |
+| [Ry Jones, OWF](https://github.com/ryjones) | Linux Foundation Staff | 2026-10-20 | 6 | 9 | 155 | 422 | 1,059 |
+| [Mirko](https://github.com/cre8) | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member | 2026-10-28 | 20 | 82 | 396 | 647 | 397 |
 

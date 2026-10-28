@@ -5,12 +5,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
 - **Active Users (365d):** 98
-- **Messages (365d):** 1,437
+- **Messages (365d):** 1,432
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 505 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 391 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 387 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 103 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 81 | LF Staff |
 | 5 | Jake | 42 | PQ Code Package Maintainer, Project Maintainer |
@@ -40,14 +40,14 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 29 | Vëx | 4 | — |
 | 30 | OTO | 4 | — |
 | 31 | Abhi-95 | 4 | — |
-| 32 | pittma | 4 | — |
-| 33 | Mr.F | 3 | — |
-| 34 | Vijay G | 3 | — |
-| 35 | Mila Anastasova | 3 | — |
-| 36 | LoneRam | 3 | — |
-| 37 | willieyz | 3 | — |
-| 38 | Dhananjay | 3 | — |
-| 39 | isolinear | 3 | — |
+| 32 | Mr.F | 3 | — |
+| 33 | Vijay G | 3 | — |
+| 34 | Mila Anastasova | 3 | — |
+| 35 | LoneRam | 3 | — |
+| 36 | willieyz | 3 | — |
+| 37 | Dhananjay | 3 | — |
+| 38 | isolinear | 3 | — |
+| 39 | pittma | 3 | — |
 | 40 | Ahmed Mohammed Umar | 2 | — |
 | 41 | Daniella | 2 | — |
 | 42 | Ben Knill | 2 | — |

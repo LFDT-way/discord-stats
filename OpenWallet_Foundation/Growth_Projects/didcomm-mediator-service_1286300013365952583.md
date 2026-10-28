@@ -3,12 +3,12 @@
 - **Guild:** OpenWallet Foundation
 - **Category:** Growth Projects
 - **Channel ID:** 1286300013365952583
-- **Total Messages:** 43
-- **Last 30 Days:** 9
-- **Last 90 Days:** 9
-- **Last 365 Days:** 16
+- **Total Messages:** 60
+- **Last 30 Days:** 26
+- **Last 90 Days:** 26
+- **Last 365 Days:** 33
 - **First Message:** 2024-09-24
-- **Last Message:** 2026-10-13
+- **Last Message:** 2026-10-27
 
 ## Most Active Users
 
@@ -16,45 +16,47 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [esune](https://github.com/esune) | 5 | Project Maintainer |
-| 2 | [jamshale](https://github.com/jamshale) | 2 | Project Maintainer |
-| 3 | Pragya Jain | 1 | — |
-| 4 | RMLearney | 1 | — |
+| 1 | [esune](https://github.com/esune) | 14 | Project Maintainer |
+| 2 | [GenAris](https://github.com/genaris) | 6 | credo maintainers, Project Maintainer |
+| 3 | RMLearney | 3 | — |
+| 4 | [jamshale](https://github.com/jamshale) | 2 | Project Maintainer |
+| 5 | Pragya Jain | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [esune](https://github.com/esune) | 5 | Project Maintainer |
-| 2 | [jamshale](https://github.com/jamshale) | 2 | Project Maintainer |
-| 3 | Pragya Jain | 1 | — |
-| 4 | RMLearney | 1 | — |
+| 1 | [esune](https://github.com/esune) | 14 | Project Maintainer |
+| 2 | [GenAris](https://github.com/genaris) | 6 | credo maintainers, Project Maintainer |
+| 3 | RMLearney | 3 | — |
+| 4 | [jamshale](https://github.com/jamshale) | 2 | Project Maintainer |
+| 5 | Pragya Jain | 1 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [esune](https://github.com/esune) | 5 | Project Maintainer |
-| 2 | [jamshale](https://github.com/jamshale) | 4 | Project Maintainer |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
-| 4 | José Puma | 2 | — |
-| 5 | Pragya Jain | 1 | — |
+| 1 | [esune](https://github.com/esune) | 14 | Project Maintainer |
+| 2 | [GenAris](https://github.com/genaris) | 6 | credo maintainers, Project Maintainer |
+| 3 | [jamshale](https://github.com/jamshale) | 4 | Project Maintainer |
+| 4 | RMLearney | 3 | — |
+| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [jamshale](https://github.com/jamshale) | 11 | Project Maintainer |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 6 | Linux Foundation Staff |
-| 3 | [esune](https://github.com/esune) | 5 | Project Maintainer |
-| 4 | Akshay Kurhekar | 3 | — |
-| 5 | albertoleon_7794 | 3 | — |
+| 1 | [esune](https://github.com/esune) | 14 | Project Maintainer |
+| 2 | [jamshale](https://github.com/jamshale) | 11 | Project Maintainer |
+| 3 | [GenAris](https://github.com/genaris) | 8 | credo maintainers, Project Maintainer |
+| 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 6 | Linux Foundation Staff |
+| 5 | Akshay Kurhekar | 3 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 16 |
+| 2026 | 33 |
 | 2025 | 21 |
 | 2024 | 6 |
 
@@ -62,7 +64,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 9 |
+| 2026-10 | 26 |
 | 2026-07 | 3 |
 | 2026-06 | 1 |
 | 2026-05 | 1 |
@@ -81,6 +83,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-27 | 17 |
 | 2026-10-13 | 4 |
 | 2026-10-12 | 2 |
 | 2026-10-09 | 3 |

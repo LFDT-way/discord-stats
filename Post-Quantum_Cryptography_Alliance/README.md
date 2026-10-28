@@ -4,7 +4,7 @@
 - **Total Messages:** 4,559
 - **Last 30 Days:** 66
 - **Last 90 Days:** 298
-- **Last 365 Days:** 1,437 — [active users](users.md)
+- **Last 365 Days:** 1,432 — [active users](users.md)
 - **First Message:** 2024-02-01
 - **Last Message:** 2026-10-25
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -13,8 +13,8 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PQ Code Package](PQ_Code_Package/README.md) | 3,618 | 51 | 223 | 1,175 | 2024-02-03 | 2026-10-22 |
-| [Welcome](Welcome/README.md) | 513 | 13 | 45 | 151 | 2024-02-01 | 2026-10-25 |
+| [PQ Code Package](PQ_Code_Package/README.md) | 3,618 | 51 | 223 | 1,171 | 2024-02-03 | 2026-10-22 |
+| [Welcome](Welcome/README.md) | 513 | 13 | 45 | 150 | 2024-02-01 | 2026-10-25 |
 | [Open Quantum Safe](Open_Quantum_Safe/README.md) | 283 | 2 | 27 | 70 | 2024-02-03 | 2026-10-17 |
 | [Governance](Governance/README.md) | 81 | 0 | 0 | 6 | 2024-02-05 | 2026-02-10 |
 | [CBOMKit](CBOMKit/README.md) | 51 | 0 | 3 | 28 | 2025-05-06 | 2026-09-24 |
@@ -48,7 +48,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 505 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 391 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 387 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 103 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 81 | LF Staff |
 | 5 | Jake | 42 | PQ Code Package Maintainer, Project Maintainer |

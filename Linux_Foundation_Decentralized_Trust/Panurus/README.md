@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1518924075123081246
-- **Total Messages in Category:** 691
-- **Last 30 Days:** 9
-- **Last 90 Days:** 71
-- **Last 365 Days:** 161
+- **Total Messages in Category:** 693
+- **Last 30 Days:** 11
+- **Last 90 Days:** 73
+- **Last 365 Days:** 163
 - **First Message:** 2022-03-02
-- **Last Message:** 2026-10-25
+- **Last Message:** 2026-10-28
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [panurus](panurus_945691840110272522.md) | 2026-10-25 | 9 | 71 | 161 | 691 |
+| [panurus](panurus_945691840110272522.md) | 2026-10-28 | 11 | 73 | 163 | 693 |
 
 ## Most Active Users
 
@@ -22,7 +22,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Angelo De Caro](https://github.com/adecaro) | 7 | Lab Leader, Fabric Maintainer, Project Maintainer |
-| 2 | ⛅CloudEllie | 2 | — |
+| 2 | ⛅CloudEllie | 3 | — |
+| 3 | hstar | 1 | — |
 
 ### Last 90 Days
 
@@ -32,7 +33,7 @@
 | 2 | arunabha003 | 24 | — |
 | 3 | Atharva Borade | 5 | — |
 | 4 | EliMbadi | 4 | — |
-| 5 | ⛅CloudEllie | 2 | — |
+| 5 | ⛅CloudEllie | 3 | — |
 
 ### Last 365 Days
 
@@ -41,8 +42,8 @@
 | 1 | [Angelo De Caro](https://github.com/adecaro) | 77 | Lab Leader, Fabric Maintainer, Project Maintainer |
 | 2 | arunabha003 | 35 | — |
 | 3 | Atharva Borade | 12 | — |
-| 4 | Surbhi Agarwal | 5 | — |
-| 5 | soumyaranjan7847 | 5 | — |
+| 4 | hstar | 5 | — |
+| 5 | Surbhi Agarwal | 5 | — |
 
 ### All Time
 
@@ -58,7 +59,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 158 |
+| 2026 | 160 |
 | 2025 | 13 |
 | 2024 | 67 |
 | 2023 | 84 |
@@ -68,7 +69,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 9 |
+| 2026-10 | 11 |
 | 2026-09 | 10 |
 | 2026-08 | 49 |
 | 2026-07 | 30 |
@@ -114,6 +115,8 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-28 | 1 |
+| 2026-10-27 | 1 |
 | 2026-10-25 | 1 |
 | 2026-10-21 | 7 |
 | 2026-10-06 | 1 |

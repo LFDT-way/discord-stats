@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 3,618
 - **Last 30 Days:** 51
 - **Last 90 Days:** 223
-- **Last 365 Days:** 1,175
+- **Last 365 Days:** 1,171
 - **First Message:** 2024-02-03
 - **Last Message:** 2026-10-22
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [mldsa-native-developers](mldsa-native-developers_1339067141269229652.md) | 2026-10-22 | 4 | 60 | 679 | 2,198 |
+| [mldsa-native-developers](mldsa-native-developers_1339067141269229652.md) | 2026-10-22 | 4 | 60 | 675 | 2,198 |
 | [mlkem-native-developers](mlkem-native-developers_1249565286638682122.md) | 2026-10-20 | 44 | 139 | 444 | 971 |
 | [pqcp-tsc](pqcp-tsc_1233337574668501033.md) | 2025-11-19 | 0 | 0 | 2 | 249 |
 | [pqcp-general](pqcp-general_1203396039977996359.md) | 2026-10-22 | 3 | 24 | 47 | 174 |
@@ -48,7 +48,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 505 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 391 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 387 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 99 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 65 | LF Staff |
 | 5 | Jake | 42 | PQ Code Package Maintainer, Project Maintainer |
