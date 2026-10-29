@@ -3,8 +3,8 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 948958931512873030
 - **Total Messages in Category:** 14,165
-- **Last 30 Days:** 45
-- **Last 90 Days:** 84
+- **Last 30 Days:** 41
+- **Last 90 Days:** 76
 - **Last 365 Days:** 382
 - **First Message:** 2022-03-03
 - **Last Message:** 2026-10-27
@@ -14,11 +14,11 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [welcome](welcome_948959099842883654.md) | 2026-08-12 | 0 | 2 | 42 | 10,733 |
-| [general](general_1021077182501621830.md) | 2026-10-27 | 37 | 56 | 201 | 1,925 |
-| [job-postings](job-postings_1050607623566802984.md) | 2026-10-07 | 3 | 12 | 71 | 450 |
+| [general](general_1021077182501621830.md) | 2026-10-27 | 33 | 55 | 201 | 1,925 |
+| [job-postings](job-postings_1050607623566802984.md) | 2026-10-07 | 3 | 10 | 71 | 450 |
 | [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-10-07 | 1 | 1 | 11 | 418 |
 | [connections](connections_948959243095130142.md) | 2026-10-22 | 2 | 6 | 17 | 374 |
-| [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-10-27 | 1 | 6 | 29 | 192 |
+| [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-10-27 | 1 | 1 | 29 | 192 |
 | [announcements](announcements_953133039372877844.md) | 2026-06-30 | 0 | 0 | 8 | 39 |
 | [git-help](git-help_1098621099681513492.md) | 2026-10-19 | 1 | 1 | 3 | 34 |
 
@@ -30,7 +30,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 9 | lfdt-ca, LFDT Staff |
 | 2 | Duan | 6 | — |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | lfdt-ca, LFDT Staff |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
 | 4 | De Open Source Guy | 3 | — |
 | 5 | Yash | 3 | — |
 
@@ -41,8 +41,8 @@
 | 1 | [Ry Jones](https://github.com/ryjones) | 11 | lfdt-ca, LFDT Staff |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 7 | lfdt-ca, LFDT Staff |
 | 3 | Duan | 6 | — |
-| 4 | TechnocratOne | 6 | — |
-| 5 | Rowan | 5 | — |
+| 4 | Rowan | 5 | — |
+| 5 | De Open Source Guy | 3 | — |
 
 ### Last 365 Days
 

@@ -5,7 +5,7 @@
 - **Channel ID:** 1414671336697233499
 - **Total Messages:** 253
 - **Last 30 Days:** 130
-- **Last 90 Days:** 154
+- **Last 90 Days:** 153
 - **Last 365 Days:** 251
 - **First Message:** 2025-09-30
 - **Last Message:** 2026-10-27
@@ -27,7 +27,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | microbiocarly | 58 | Project Maintainer, ToIP |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 48 | Lab Leader |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 47 | Lab Leader |
 | 3 | [Ry Jones](https://github.com/ryjones) | 22 | lfdt-ca, LFDT Staff |
 | 4 | Manthan | 19 | — |
 | 5 | lyn brooks | 3 | Project Maintainer, ToIP |

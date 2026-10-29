@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 880
 - **Last 30 Days:** 12
 - **Last 90 Days:** 15
-- **Last 365 Days:** 162
+- **Last 365 Days:** 161
 - **First Message:** 2024-09-26
 - **Last Message:** 2026-10-26
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aca-py](aca-py_1286299858994462842.md) | 2026-10-26 | 12 | 15 | 162 | 819 |
+| [aca-py](aca-py_1286299858994462842.md) | 2026-10-26 | 12 | 15 | 161 | 819 |
 | [acapy-did-registration](acapy-did-registration_1303470616581509130.md) | 2025-10-25 | 0 | 0 | 0 | 61 |
 
 ## Most Active Users

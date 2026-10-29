@@ -4,7 +4,7 @@
 - **Category ID:** 1022962884864643218
 - **Total Messages in Category:** 1,866
 - **Last 30 Days:** 3
-- **Last 90 Days:** 9
+- **Last 90 Days:** 7
 - **Last 365 Days:** 70
 - **First Message:** 2022-09-23
 - **Last Message:** 2026-10-24
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [welcome-landing](welcome-landing_1022962884864643219.md) | 2026-07-30 | 0 | 1 | 1 | 1,077 |
+| [welcome-landing](welcome-landing_1022962884864643219.md) | 2026-07-30 | 0 | 0 | 1 | 1,077 |
 | [general](general_1023188132042133574.md) | 2026-10-24 | 3 | 7 | 58 | 380 |
 | [introductions](introductions_1023219299902570589.md) | 2026-05-20 | 0 | 0 | 2 | 99 |
 | [community-connect](community-connect_1022965117362634855.md) | 2025-10-25 | 0 | 0 | 0 | 90 |
@@ -24,7 +24,7 @@
 | [iiw-planning](iiw-planning_1222549866094395477.md) | 2025-04-02 | 0 | 0 | 0 | 17 |
 | [eic-planning](eic-planning_1224727458037764191.md) | 2024-06-03 | 0 | 0 | 0 | 13 |
 | [job-postings](job-postings_1357624384160006265.md) | 2025-07-28 | 0 | 0 | 0 | 5 |
-| [looking-for-work](looking-for-work_1357624350982930513.md) | 2026-07-30 | 0 | 1 | 2 | 4 |
+| [looking-for-work](looking-for-work_1357624350982930513.md) | 2026-07-30 | 0 | 0 | 2 | 4 |
 | [dice-planning](dice-planning_1338875468065275924.md) | 2026-04-23 | 0 | 0 | 1 | 3 |
 | [fosdem-planning](fosdem-planning_1292527497530970305.md) | 2024-10-06 | 0 | 0 | 0 | 2 |
 
@@ -42,11 +42,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | mobappdev | 2 | — |
-| 2 | Ginga | 2 | — |
-| 3 | [drummondreed](https://github.com/talltree) | 2 | — |
-| 4 | Thilina Senarath | 1 | — |
-| 5 | RMLearney | 1 | — |
+| 1 | Ginga | 2 | — |
+| 2 | [drummondreed](https://github.com/talltree) | 2 | — |
+| 3 | Thilina Senarath | 1 | — |
+| 4 | RMLearney | 1 | — |
+| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
 
 ### Last 365 Days
 

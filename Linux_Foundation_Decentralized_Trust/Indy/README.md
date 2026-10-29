@@ -2,19 +2,19 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205653801431081
-- **Total Messages in Category:** 6,278
-- **Last 30 Days:** 0
-- **Last 90 Days:** 0
-- **Last 365 Days:** 53
+- **Total Messages in Category:** 6,279
+- **Last 30 Days:** 1
+- **Last 90 Days:** 1
+- **Last 365 Days:** 54
 - **First Message:** 2022-01-20
-- **Last Message:** 2026-05-26
+- **Last Message:** 2026-10-28
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [indy-node](indy-node_941709259710808155.md) | 2026-05-25 | 0 | 0 | 4 | 2,386 |
-| [indy](indy_905205711850594336.md) | 2026-05-26 | 0 | 0 | 15 | 1,720 |
+| [indy](indy_905205711850594336.md) | 2026-10-28 | 1 | 1 | 16 | 1,721 |
 | [indy-ubuntu-2204-upgrade](indy-ubuntu-2204-upgrade_1333885568433524736.md) | 2026-01-06 | 0 | 0 | 1 | 690 |
 | [indy-sdk](indy-sdk_941709279289815070.md) | 2025-04-15 | 0 | 0 | 0 | 607 |
 | [indy-contributors](indy-contributors_933797403092475924.md) | 2026-05-05 | 0 | 0 | 30 | 375 |
@@ -27,18 +27,22 @@
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Wade Barnes](https://github.com/WadeBarnes) | 10 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 10 | lfdt-ca, LFDT Staff |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 11 | lfdt-ca, LFDT Staff |
+| 2 | [Wade Barnes](https://github.com/WadeBarnes) | 10 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
 | 3 | [swcurran](https://github.com/swcurran) | 6 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
 | 4 | Somesh | 5 | — |
 | 5 | [Kim Ebert](https://github.com/KimEbert42) | 5 | Indy Maintainer |
@@ -57,7 +61,7 @@ _No activity in this period._
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 41 |
+| 2026 | 42 |
 | 2025 | 1,234 |
 | 2024 | 974 |
 | 2023 | 1,859 |
@@ -67,6 +71,7 @@ _No activity in this period._
 
 | Month | Messages |
 | --- | --- |
+| 2026-10 | 1 |
 | 2026-05 | 7 |
 | 2026-04 | 14 |
 | 2026-03 | 9 |
@@ -125,6 +130,7 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-28 | 1 |
 | 2026-05-26 | 1 |
 | 2026-05-25 | 1 |
 | 2026-05-12 | 1 |

@@ -4,7 +4,7 @@
 - **Category:** ToIP
 - **Channel ID:** 1445860549685678080
 - **Total Messages:** 147
-- **Last 30 Days:** 41
+- **Last 30 Days:** 40
 - **Last 90 Days:** 49
 - **Last 365 Days:** 147
 - **First Message:** 2025-12-03
@@ -20,7 +20,7 @@
 | 2 | [Ry Jones](https://github.com/ryjones) | 9 | lfdt-ca, LFDT Staff |
 | 3 | stevevitka | 3 | ToIP |
 | 4 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
-| 5 | Nicky H | 3 | Project Maintainer, ToIP |
+| 5 | Nicky H | 2 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
