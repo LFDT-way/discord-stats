@@ -6,7 +6,7 @@
 - **Total Messages:** 161
 - **Last 30 Days:** 2
 - **Last 90 Days:** 16
-- **Last 365 Days:** 143
+- **Last 365 Days:** 131
 - **First Message:** 2025-09-24
 - **Last Message:** 2026-10-22
 
@@ -33,11 +33,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 41 | Project Maintainer, ToIP |
+| 1 | microbiocarly | 36 | Project Maintainer, ToIP |
 | 2 | [drummondreed](https://github.com/talltree) | 21 | Project Maintainer, ToIP |
-| 3 | [firegod](https://github.com/wenjing) | 15 | Project Maintainer, ToIP |
+| 3 | [firegod](https://github.com/wenjing) | 14 | Project Maintainer, ToIP |
 | 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 10 | Project Maintainer, ToIP |
-| 5 | [Ry Jones](https://github.com/ryjones) | 8 | lfdt-ca, LFDT Staff |
+| 5 | [danielabarbosa](https://github.com/daniela-barbosa) | 7 | LFDT Staff |
 
 ### All Time
 

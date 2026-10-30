@@ -2,12 +2,12 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
-- **Total Messages in Category:** 21,486
-- **Last 30 Days:** 103
-- **Last 90 Days:** 196
-- **Last 365 Days:** 880
+- **Total Messages in Category:** 21,489
+- **Last 30 Days:** 104
+- **Last 90 Days:** 198
+- **Last 365 Days:** 881
 - **First Message:** 2021-11-05
-- **Last Message:** 2026-10-28
+- **Last Message:** 2026-10-30
 
 ## Channels in Category
 
@@ -19,11 +19,11 @@
 | [caliper](caliper_941417677778473031.md) | 2026-03-23 | 0 | 0 | 20 | 1,439 |
 | [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-10-19 | 1 | 1 | 13 | 1,186 |
 | [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 4 | 859 |
-| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-23 | 8 | 22 | 175 | 353 |
-| [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-01 | 3 | 9 | 58 | 153 |
-| [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 3 | 111 | 148 |
+| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-23 | 7 | 21 | 175 | 353 |
+| [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-30 | 6 | 12 | 61 | 156 |
+| [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 3 | 109 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-09-21 | 0 | 8 | 11 | 108 |
-| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-10-27 | 8 | 32 | 96 | 96 |
+| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-10-27 | 7 | 32 | 96 | 96 |
 | [fablo](fablo_1109190949394989127.md) | 2026-10-20 | 1 | 3 | 14 | 88 |
 | [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-10-23 | 3 | 16 | 84 | 84 |
 | [general](general_988569914266775662.md) | 2026-07-30 | 0 | 0 | 10 | 72 |
@@ -63,8 +63,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Edward Wertz (Hashgraph) | 21 | Lab Leader |
 | 2 | [JessicaG](https://github.com/jwagantall) | 16 | lfdt-ca, LFDT Staff |
-| 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 16 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
-| 4 | [Ry Jones](https://github.com/ryjones) | 15 | lfdt-ca, LFDT Staff |
+| 3 | [Ry Jones](https://github.com/ryjones) | 15 | lfdt-ca, LFDT Staff |
+| 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 15 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 5 | kadalkidal | 13 | Lab Leader |
 
 ### Last 365 Days
@@ -73,8 +73,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 86 | lfdt-ca, LFDT Staff |
 | 2 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 80 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
-| 3 | [RAWx18](https://github.com/RAWx18) | 64 | Lab Leader |
-| 4 | [DanielSzego](https://github.com/Daniel-Szego) | 50 | Meetup Organizer |
+| 3 | [RAWx18](https://github.com/RAWx18) | 62 | Lab Leader |
+| 4 | [DanielSzego](https://github.com/Daniel-Szego) | 53 | Meetup Organizer |
 | 5 | [Angelo De Caro](https://github.com/adecaro) | 49 | Lab Leader, Fabric Maintainer, Project Maintainer |
 
 ### All Time
@@ -91,7 +91,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 769 |
+| 2026 | 772 |
 | 2025 | 1,008 |
 | 2024 | 2,099 |
 | 2023 | 7,409 |
@@ -102,7 +102,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 99 |
+| 2026-10 | 102 |
 | 2026-09 | 42 |
 | 2026-08 | 54 |
 | 2026-07 | 125 |
@@ -165,6 +165,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-30 | 3 |
 | 2026-10-28 | 19 |
 | 2026-10-27 | 9 |
 | 2026-10-26 | 9 |

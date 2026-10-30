@@ -5,12 +5,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
 - **Active Users (365d):** 98
-- **Messages (365d):** 1,433
+- **Messages (365d):** 1,435
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 507 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 389 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 391 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 103 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 81 | LF Staff |
 | 5 | Jake | 42 | PQ Code Package Maintainer, Project Maintainer |

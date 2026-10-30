@@ -5,7 +5,7 @@
 - **Channel ID:** 1414671863057223820
 - **Total Messages:** 65
 - **Last 30 Days:** 10
-- **Last 90 Days:** 30
+- **Last 90 Days:** 28
 - **Last 365 Days:** 64
 - **First Message:** 2025-10-05
 - **Last Message:** 2026-10-22
@@ -24,7 +24,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [firegod](https://github.com/wenjing) | 18 | Project Maintainer, ToIP |
+| 1 | [firegod](https://github.com/wenjing) | 16 | Project Maintainer, ToIP |
 | 2 | [drummondreed](https://github.com/talltree) | 11 | Project Maintainer, ToIP |
 | 3 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 1 | Lab Leader |
 

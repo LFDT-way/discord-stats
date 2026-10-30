@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1518924075123081246
-- **Total Messages in Category:** 693
-- **Last 30 Days:** 11
-- **Last 90 Days:** 71
-- **Last 365 Days:** 163
+- **Total Messages in Category:** 696
+- **Last 30 Days:** 14
+- **Last 90 Days:** 73
+- **Last 365 Days:** 166
 - **First Message:** 2022-03-02
-- **Last Message:** 2026-10-28
+- **Last Message:** 2026-10-30
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [panurus](panurus_945691840110272522.md) | 2026-10-28 | 11 | 71 | 163 | 693 |
+| [panurus](panurus_945691840110272522.md) | 2026-10-30 | 14 | 73 | 166 | 696 |
 
 ## Most Active Users
 
@@ -21,25 +21,25 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 7 | Lab Leader, Fabric Maintainer, Project Maintainer |
-| 2 | ⛅CloudEllie | 3 | — |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 9 | Lab Leader, Fabric Maintainer, Project Maintainer |
+| 2 | ⛅CloudEllie | 4 | — |
 | 3 | hstar | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 33 | Lab Leader, Fabric Maintainer, Project Maintainer |
-| 2 | arunabha003 | 23 | — |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 35 | Lab Leader, Fabric Maintainer, Project Maintainer |
+| 2 | arunabha003 | 22 | — |
 | 3 | Atharva Borade | 4 | — |
-| 4 | EliMbadi | 4 | — |
-| 5 | ⛅CloudEllie | 3 | — |
+| 4 | ⛅CloudEllie | 4 | — |
+| 5 | EliMbadi | 4 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 77 | Lab Leader, Fabric Maintainer, Project Maintainer |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 79 | Lab Leader, Fabric Maintainer, Project Maintainer |
 | 2 | arunabha003 | 35 | — |
 | 3 | Atharva Borade | 12 | — |
 | 4 | hstar | 5 | — |
@@ -49,7 +49,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 247 | Lab Leader, Fabric Maintainer, Project Maintainer |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 249 | Lab Leader, Fabric Maintainer, Project Maintainer |
 | 2 | masool baba irfan | 62 | — |
 | 3 | Rajat Sharma | 56 | — |
 | 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 45 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
@@ -59,7 +59,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 160 |
+| 2026 | 163 |
 | 2025 | 13 |
 | 2024 | 67 |
 | 2023 | 84 |
@@ -69,7 +69,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 11 |
+| 2026-10 | 14 |
 | 2026-09 | 10 |
 | 2026-08 | 49 |
 | 2026-07 | 30 |
@@ -115,6 +115,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-30 | 3 |
 | 2026-10-28 | 1 |
 | 2026-10-27 | 1 |
 | 2026-10-25 | 1 |

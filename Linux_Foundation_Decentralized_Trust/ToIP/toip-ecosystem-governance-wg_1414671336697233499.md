@@ -6,7 +6,7 @@
 - **Total Messages:** 253
 - **Last 30 Days:** 130
 - **Last 90 Days:** 153
-- **Last 365 Days:** 251
+- **Last 365 Days:** 249
 - **First Message:** 2025-09-30
 - **Last Message:** 2026-10-27
 
@@ -36,7 +36,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 89 | Project Maintainer, ToIP |
+| 1 | microbiocarly | 87 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 67 | Lab Leader |
 | 3 | [Ry Jones](https://github.com/ryjones) | 22 | lfdt-ca, LFDT Staff |
 | 4 | Manthan | 19 | — |

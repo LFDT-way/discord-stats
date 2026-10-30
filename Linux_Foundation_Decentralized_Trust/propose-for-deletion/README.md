@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 55
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 12
+- **Last 365 Days:** 10
 - **First Message:** 2022-07-28
 - **Last Message:** 2026-02-03
 
@@ -18,7 +18,7 @@
 | [maintainer-days](maintainer-days_1465743817906065478.md) | 2026-02-03 | 0 | 0 | 5 | 5 |
 | [artizyou](artizyou_1433779247734063174.md) | 2025-10-31 | 0 | 0 | 5 | 5 |
 | [benchmarking-bridge-aggregators](benchmarking-bridge-aggregators_1194291892339347466.md) | 2024-01-18 | 0 | 0 | 0 | 4 |
-| [identity-bot](identity-bot_1428856635849310308.md) | 2025-10-29 | 0 | 0 | 2 | 4 |
+| [identity-bot](identity-bot_1428856635849310308.md) | 2025-10-29 | 0 | 0 | 0 | 4 |
 | [hoprs](hoprs_1379514363454423191.md) | 2025-06-05 | 0 | 0 | 0 | 3 |
 | [one-attestation-api](one-attestation-api_1314367437814108222.md) | 2024-12-05 | 0 | 0 | 0 | 1 |
 | [orion](orion_973301192300040283.md) | 2023-11-30 | 0 | 0 | 0 | 1 |
@@ -37,10 +37,9 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
+| 1 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
-| 3 | AntiSpamGuy (Rob Andersen) | 1 | Lab Leader |
-| 4 | [Maria Munaro](https://github.com/munapower) | 1 | — |
+| 3 | [Maria Munaro](https://github.com/munapower) | 1 | — |
 
 ### All Time
 

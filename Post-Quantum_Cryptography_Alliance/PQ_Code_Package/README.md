@@ -2,10 +2,10 @@
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1203395867214745651
-- **Total Messages in Category:** 3,622
-- **Last 30 Days:** 55
-- **Last 90 Days:** 224
-- **Last 365 Days:** 1,175
+- **Total Messages in Category:** 3,626
+- **Last 30 Days:** 52
+- **Last 90 Days:** 225
+- **Last 365 Days:** 1,177
 - **First Message:** 2024-02-03
 - **Last Message:** 2026-10-29
 
@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [mldsa-native-developers](mldsa-native-developers_1339067141269229652.md) | 2026-10-22 | 4 | 58 | 675 | 2,198 |
-| [mlkem-native-developers](mlkem-native-developers_1249565286638682122.md) | 2026-10-29 | 48 | 143 | 448 | 975 |
+| [mldsa-native-developers](mldsa-native-developers_1339067141269229652.md) | 2026-10-22 | 4 | 56 | 673 | 2,198 |
+| [mlkem-native-developers](mlkem-native-developers_1249565286638682122.md) | 2026-10-29 | 45 | 146 | 452 | 979 |
 | [pqcp-tsc](pqcp-tsc_1233337574668501033.md) | 2025-11-19 | 0 | 0 | 2 | 249 |
 | [pqcp-general](pqcp-general_1203396039977996359.md) | 2026-10-22 | 3 | 23 | 47 | 174 |
 | [hackathon](hackathon_1217120054618095746.md) | 2026-02-07 | 0 | 0 | 1 | 11 |
@@ -27,9 +27,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 30 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 11 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 7 | PQ Code Package Maintainer |
+| 1 | Rod | 27 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 13 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 6 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 2 | LF Staff |
 | 5 | v1rtu3x | 1 | — |
 
@@ -37,8 +37,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 108 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 64 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 107 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 66 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 20 | PQ Code Package Maintainer |
 | 4 | Ishan | 8 | — |
 | 5 | [RyJones](https://github.com/ryjones) | 5 | LF Staff |
@@ -48,7 +48,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 507 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 389 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 391 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 99 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 65 | LF Staff |
 | 5 | Jake | 42 | PQ Code Package Maintainer, Project Maintainer |
@@ -57,8 +57,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 1,301 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 1,144 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 1,303 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 1,146 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 400 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 210 | LF Staff |
 | 5 | Jake | 169 | PQ Code Package Maintainer, Project Maintainer |
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 724 |
+| 2026 | 728 |
 | 2025 | 2,440 |
 | 2024 | 458 |
 
@@ -75,7 +75,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 40 |
+| 2026-10 | 44 |
 | 2026-09 | 73 |
 | 2026-08 | 108 |
 | 2026-07 | 59 |
@@ -113,7 +113,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-10-29 | 4 |
+| 2026-10-29 | 8 |
 | 2026-10-22 | 3 |
 | 2026-10-20 | 2 |
 | 2026-10-19 | 19 |

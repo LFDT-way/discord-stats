@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1195061874950144120
 - **Total Messages in Category:** 1,432
-- **Last 30 Days:** 46
+- **Last 30 Days:** 42
 - **Last 90 Days:** 76
-- **Last 365 Days:** 205
+- **Last 365 Days:** 201
 - **First Message:** 2024-01-11
 - **Last Message:** 2026-10-27
 
@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-10-27 | 44 | 73 | 142 | 888 |
-| [web3j-general](web3j-general_1195062053682032700.md) | 2026-10-21 | 2 | 3 | 63 | 544 |
+| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-10-27 | 40 | 73 | 142 | 888 |
+| [web3j-general](web3j-general_1195062053682032700.md) | 2026-10-21 | 2 | 3 | 59 | 544 |
 
 ## Most Active Users
 
@@ -22,10 +22,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | George Tebrean | 16 | Project Maintainer, Web3j Maintainer |
-| 2 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 11 | Project Maintainer, Web3j Maintainer |
+| 1 | George Tebrean | 15 | Project Maintainer, Web3j Maintainer |
+| 2 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 9 | Project Maintainer, Web3j Maintainer |
 | 3 | Saurav | 8 | — |
-| 4 | toji | 5 | — |
+| 4 | toji | 4 | — |
 | 5 | Dev | 3 | — |
 
 ### Last 90 Days
@@ -42,11 +42,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | George Tebrean | 55 | Project Maintainer, Web3j Maintainer |
+| 1 | George Tebrean | 53 | Project Maintainer, Web3j Maintainer |
 | 2 | Dev | 45 | — |
 | 3 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 41 | Project Maintainer, Web3j Maintainer |
 | 4 | Saurav | 18 | — |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 8 | lfdt-ca, LFDT Staff |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | lfdt-ca, LFDT Staff |
 
 ### All Time
 

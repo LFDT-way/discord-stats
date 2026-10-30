@@ -2,21 +2,21 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205464046915585
-- **Total Messages in Category:** 20,081
-- **Last 30 Days:** 41
-- **Last 90 Days:** 127
+- **Total Messages in Category:** 20,082
+- **Last 30 Days:** 40
+- **Last 90 Days:** 128
 - **Last 365 Days:** 805
 - **First Message:** 2021-11-07
-- **Last Message:** 2026-10-28
+- **Last Message:** 2026-10-29
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [fabric](fabric_905205541326975046.md) | 2026-10-22 | 12 | 19 | 222 | 10,166 |
-| [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-10-28 | 13 | 15 | 26 | 1,644 |
+| [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-10-29 | 14 | 16 | 27 | 1,645 |
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-08 | 0 | 0 | 0 | 1,527 |
-| [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 0 | 39 | 1,300 |
+| [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 0 | 38 | 1,300 |
 | [fabric-peer](fabric-peer_945037339170836501.md) | 2026-04-10 | 0 | 0 | 6 | 1,084 |
 | [fabric-private-chaincode](fabric-private-chaincode_943059293765267497.md) | 2026-08-14 | 0 | 1 | 28 | 1,075 |
 | [fabric-orderer](fabric-orderer_945037581500940298.md) | 2026-04-12 | 0 | 0 | 10 | 817 |
@@ -30,7 +30,7 @@
 | [fabric-certified-practitioner](fabric-certified-practitioner_1158754773026222130.md) | 2026-08-04 | 0 | 3 | 16 | 70 |
 | [fabric-code-reviews](fabric-code-reviews_960583805708664882.md) | 2026-09-24 | 0 | 1 | 3 | 41 |
 | [fabric-docs-i18n](fabric-docs-i18n_963703552352587786.md) | 2023-08-11 | 0 | 0 | 0 | 41 |
-| [fabric-x-evm](fabric-x-evm_1550488625576415232.md) | 2026-10-11 | 15 | 28 | 28 | 28 |
+| [fabric-x-evm](fabric-x-evm_1550488625576415232.md) | 2026-10-11 | 13 | 28 | 28 | 28 |
 | [fabric-announcements](fabric-announcements_941415351474880532.md) | 2026-02-25 | 0 | 0 | 2 | 15 |
 | [fabric-hacktoberfest](fabric-hacktoberfest_1024609249927634997.md) | 2022-10-13 | 0 | 0 | 0 | 10 |
 
@@ -40,10 +40,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Amin.Chegeni | 7 | — |
+| 1 | Amin.Chegeni | 8 | — |
 | 2 | [jtonline](https://github.com/jt-nti) | 6 | Project Maintainer, Fabric Maintainer |
 | 3 | Siddhartha | 6 | — |
-| 4 | Storm1289 | 5 | — |
+| 4 | Storm1289 | 4 | — |
 | 5 | Frank_The_Fish | 3 | Lab Leader |
 
 ### Last 90 Days
@@ -80,7 +80,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 542 |
+| 2026 | 543 |
 | 2025 | 1,596 |
 | 2024 | 3,365 |
 | 2023 | 7,203 |
@@ -91,7 +91,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 39 |
+| 2026-10 | 40 |
 | 2026-09 | 54 |
 | 2026-08 | 34 |
 | 2026-07 | 39 |
@@ -154,6 +154,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-29 | 1 |
 | 2026-10-28 | 5 |
 | 2026-10-27 | 2 |
 | 2026-10-26 | 5 |
