@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1498775901532454942
 - **Total Messages in Category:** 41
-- **Last 30 Days:** 1
+- **Last 30 Days:** 0
 - **Last 90 Days:** 21
 - **Last 365 Days:** 41
 - **First Message:** 2026-05-11
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [lineth-general](lineth-general_1498775958080065746.md) | 2026-09-30 | 1 | 21 | 37 | 37 |
+| [lineth-general](lineth-general_1498775958080065746.md) | 2026-09-30 | 0 | 21 | 37 | 37 |
 | [lineth-announcements](lineth-announcements_1499425506439729262.md) | 2026-06-26 | 0 | 0 | 2 | 2 |
 | [lineth-dev](lineth-dev_1509343096457134142.md) | 2026-06-25 | 0 | 0 | 2 | 2 |
 
@@ -21,9 +21,7 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
+_No activity in this period._
 
 ### Last 90 Days
 

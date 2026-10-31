@@ -4,7 +4,7 @@
 - **Category:** Labs
 - **Channel ID:** 1554888185958502581
 - **Total Messages:** 10
-- **Last 30 Days:** 10
+- **Last 30 Days:** 8
 - **Last 90 Days:** 10
 - **Last 365 Days:** 10
 - **First Message:** 2026-09-30
@@ -16,7 +16,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | vetefe | 7 | Lab Leader |
+| 1 | vetefe | 5 | Lab Leader |
 | 2 | æœss | 2 | Lab Leader |
 | 3 | ZGTLions | 1 | — |
 

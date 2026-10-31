@@ -3,9 +3,9 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
 - **Total Messages in Category:** 3,939
-- **Last 30 Days:** 144
-- **Last 90 Days:** 318
-- **Last 365 Days:** 1,305
+- **Last 30 Days:** 142
+- **Last 90 Days:** 317
+- **Last 365 Days:** 1,303
 - **First Message:** 2023-11-08
 - **Last Message:** 2026-10-29
 
@@ -15,10 +15,10 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [credo](credo_1179453305856991263.md) | 2026-10-25 | 16 | 20 | 157 | 1,106 |
 | [bifold](bifold_1209891839071756419.md) | 2026-10-20 | 5 | 20 | 136 | 915 |
-| [multipaz](multipaz_1179828955717574707.md) | 2026-10-29 | 31 | 55 | 247 | 677 |
-| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-28 | 65 | 194 | 634 | 646 |
+| [multipaz](multipaz_1179828955717574707.md) | 2026-10-29 | 31 | 54 | 247 | 677 |
+| [eudiplo](eudiplo_1399429216604258365.md) | 2026-10-28 | 63 | 194 | 634 | 646 |
 | [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 0 | 71 | 268 |
-| [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 3 | 105 |
+| [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 1 | 105 |
 | [owl](owl_1214965981470924911.md) | 2026-05-07 | 0 | 0 | 10 | 85 |
 | [vcx](vcx_1344319756324311123.md) | 2026-03-31 | 0 | 0 | 6 | 69 |
 | [didcomm-mediator-service](didcomm-mediator-service_1286300013365952583.md) | 2026-10-29 | 27 | 27 | 34 | 61 |
@@ -31,10 +31,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | birte_lr | 35 | — |
+| 1 | birte_lr | 34 | — |
 | 2 | [davidz25](https://github.com/davidz25) | 20 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 3 | [Mirko](https://github.com/cre8) | 16 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 4 | [esune](https://github.com/esune) | 16 | Project Maintainer |
+| 3 | [esune](https://github.com/esune) | 16 | Project Maintainer |
+| 4 | [Mirko](https://github.com/cre8) | 15 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 5 | [VishnuSanal](https://github.com/VishnuSanal) | 7 | multipaz maintainer, Project Maintainer |
 
 ### Last 90 Days

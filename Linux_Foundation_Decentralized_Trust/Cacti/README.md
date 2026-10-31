@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515538766254102
 - **Total Messages in Category:** 2,362
-- **Last 30 Days:** 16
+- **Last 30 Days:** 13
 - **Last 90 Days:** 21
-- **Last 365 Days:** 263
+- **Last 365 Days:** 261
 - **First Message:** 2021-11-11
 - **Last Message:** 2026-10-28
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-10-28 | 14 | 17 | 199 | 1,803 |
+| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-10-28 | 11 | 17 | 197 | 1,803 |
 | [cacti-users](cacti-users_908379366650703943.md) | 2026-10-02 | 1 | 2 | 51 | 510 |
 | [cacti-resources](cacti-resources_908349711537299497.md) | 2026-04-03 | 0 | 0 | 2 | 26 |
 | [cacti-announcements](cacti-announcements_908380513310498847.md) | 2026-10-01 | 1 | 2 | 8 | 17 |
@@ -25,8 +25,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | AgrimTawani \| Cryptobazaar | 8 | — |
-| 2 | [rafaelapb](https://github.com/RafaelAPB) | 6 | Project Maintainer, Cacti Maintainer |
+| 1 | AgrimTawani \| Cryptobazaar | 6 | — |
+| 2 | [rafaelapb](https://github.com/RafaelAPB) | 5 | Project Maintainer, Cacti Maintainer |
 | 3 | Humayun | 2 | — |
 
 ### Last 90 Days
@@ -47,7 +47,7 @@
 | 2 | Somesh | 27 | — |
 | 3 | [Carlos Amaro](https://github.com/LordKubaya) | 21 | Project Maintainer, Cacti Maintainer |
 | 4 | [vramaiitkgp](https://github.com/VRamakrishna) | 20 | TAC member, Cacti Maintainer |
-| 5 | [sandeepn](https://github.com/sandeepnRES) | 18 | Lab Leader, Cacti Maintainer |
+| 5 | [sandeepn](https://github.com/sandeepnRES) | 16 | Lab Leader, Cacti Maintainer |
 
 ### All Time
 

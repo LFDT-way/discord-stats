@@ -4,7 +4,7 @@
 - **Category:** Identus
 - **Channel ID:** 1230596020790886490
 - **Total Messages:** 30
-- **Last 30 Days:** 4
+- **Last 30 Days:** 3
 - **Last 90 Days:** 8
 - **Last 365 Days:** 14
 - **First Message:** 2024-06-18
@@ -17,9 +17,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
-| 2 | jonbauer | 1 | Identus Maintainer, Project Maintainer |
-| 3 | pat_pat | 1 | Identus Maintainer, Project Maintainer |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
+| 2 | pat_pat | 1 | Identus Maintainer, Project Maintainer |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 

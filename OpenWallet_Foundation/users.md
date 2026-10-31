@@ -4,14 +4,14 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
-- **Active Users (365d):** 126
-- **Messages (365d):** 1,977
+- **Active Users (365d):** 125
+- **Messages (365d):** 1,972
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 390 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Ry Jones, OWF](https://github.com/ryjones) | 142 | Linux Foundation Staff |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 140 | Linux Foundation Staff |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 139 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 115 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 6 | [Lukas.J.Han](https://github.com/lukasjhan) | 102 | Lab Maintainer |
@@ -23,7 +23,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 12 | davidejalexander | 34 | SIG member |
 | 13 | RMLearney | 32 | — |
 | 14 | Timbl | 31 | — |
-| 15 | [swcurran](https://github.com/swcurran) | 29 | Lab Maintainer, TAC members, Project Maintainer |
+| 15 | [swcurran](https://github.com/swcurran) | 28 | Lab Maintainer, TAC members, Project Maintainer |
 | 16 | Thomas Tran | 28 | Lab Maintainer |
 | 17 | [VishnuSanal](https://github.com/VishnuSanal) | 26 | multipaz maintainer, Project Maintainer |
 | 18 | [esune](https://github.com/esune) | 25 | Project Maintainer |
@@ -36,7 +36,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 25 | [GenAris](https://github.com/genaris) | 15 | credo maintainers, Project Maintainer |
 | 26 | diegoz (OpenMobileHub, Multipaz) | 15 | Lab Maintainer, multipaz maintainer |
 | 27 | Manthan | 14 | — |
-| 28 | Samuel | 13 | SIG member |
+| 28 | Samuel | 12 | SIG member |
 | 29 | MostafaGamal | 12 | — |
 | 30 | Sodium | 12 | — |
 | 31 | Amine | 11 | — |
@@ -97,41 +97,40 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 86 | Thilina Senarath | 2 | — |
 | 87 | kevinaboos | 2 | — |
 | 88 | Harsh | 2 | — |
-| 89 | Iancu Fofiu | 2 | — |
-| 90 | BrunoM | 2 | — |
-| 91 | José Puma | 2 | — |
-| 92 | Jim Ezesinachi | 2 | — |
-| 93 | Thierry (Talao) | 2 | — |
-| 94 | KrishNa | 2 | — |
-| 95 | ademait | 2 | — |
-| 96 | tume2104 | 1 | — |
-| 97 | Sagara | 1 | Project Maintainer |
-| 98 | feldim2425 | 1 | — |
-| 99 | Sagar Khole | 1 | — |
-| 100 | joaocruz | 1 | — |
-| 101 | FindingFilene | 1 | — |
-| 102 | ethanpunk_ | 1 | — |
-| 103 | Jazz | 1 | — |
-| 104 | Yunna | 1 | — |
-| 105 | Lunelle | 1 | — |
-| 106 | sencond1800 | 1 | — |
-| 107 | Ankita | 1 | — |
-| 108 | Siva | 1 | — |
-| 109 | Pankti | 1 | — |
-| 110 | Nahuel_NP | 1 | — |
-| 111 | [Daniel Marvin](https://github.com/danielmarv) | 1 | — |
-| 112 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
-| 113 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
-| 114 | anil.helvaci \| GMT +3 | 1 | — |
-| 115 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
-| 116 | rosterbyte | 1 | — |
-| 117 | [Patrik Stas](https://github.com/Patrik-Stas) | 1 | — |
-| 118 | Daev Mithran | 1 | — |
-| 119 | SRellihan.Phinxlab | 1 | — |
-| 120 | Arsalan Shahzad | 1 | — |
-| 121 | sherri58 | 1 | — |
-| 122 | latika_04_17594 | 1 | — |
-| 123 | michkauf | 1 | — |
-| 124 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
-| 125 | Aaron | 1 | — |
-| 126 | arifthehappy | 1 | — |
+| 89 | BrunoM | 2 | — |
+| 90 | José Puma | 2 | — |
+| 91 | Jim Ezesinachi | 2 | — |
+| 92 | Thierry (Talao) | 2 | — |
+| 93 | KrishNa | 2 | — |
+| 94 | ademait | 2 | — |
+| 95 | tume2104 | 1 | — |
+| 96 | Sagara | 1 | Project Maintainer |
+| 97 | feldim2425 | 1 | — |
+| 98 | Sagar Khole | 1 | — |
+| 99 | FindingFilene | 1 | — |
+| 100 | ethanpunk_ | 1 | — |
+| 101 | Jazz | 1 | — |
+| 102 | Yunna | 1 | — |
+| 103 | Lunelle | 1 | — |
+| 104 | sencond1800 | 1 | — |
+| 105 | Ankita | 1 | — |
+| 106 | Siva | 1 | — |
+| 107 | Pankti | 1 | — |
+| 108 | Nahuel_NP | 1 | — |
+| 109 | [Daniel Marvin](https://github.com/danielmarv) | 1 | — |
+| 110 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
+| 111 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
+| 112 | anil.helvaci \| GMT +3 | 1 | — |
+| 113 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
+| 114 | rosterbyte | 1 | — |
+| 115 | [Patrik Stas](https://github.com/Patrik-Stas) | 1 | — |
+| 116 | Daev Mithran | 1 | — |
+| 117 | SRellihan.Phinxlab | 1 | — |
+| 118 | Iancu Fofiu | 1 | — |
+| 119 | Arsalan Shahzad | 1 | — |
+| 120 | sherri58 | 1 | — |
+| 121 | latika_04_17594 | 1 | — |
+| 122 | michkauf | 1 | — |
+| 123 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
+| 124 | Aaron | 1 | — |
+| 125 | arifthehappy | 1 | — |

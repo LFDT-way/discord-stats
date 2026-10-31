@@ -4,7 +4,7 @@
 - **Category:** ToIP
 - **Channel ID:** 1414671233903235142
 - **Total Messages:** 34
-- **Last 30 Days:** 2
+- **Last 30 Days:** 0
 - **Last 90 Days:** 2
 - **Last 365 Days:** 15
 - **First Message:** 2025-09-29
@@ -14,9 +14,7 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | NeilJT | 2 | ToIP |
+_No activity in this period._
 
 ### Last 90 Days
 

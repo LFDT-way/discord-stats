@@ -6,7 +6,7 @@
 - **Total Messages:** 9
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 4
+- **Last 365 Days:** 3
 - **First Message:** 2025-09-08
 - **Last Message:** 2026-07-22
 
@@ -24,7 +24,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 2 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 1 | Lab Leader |
 | 2 | darrello | 1 | Project Maintainer |
 | 3 | Eduardo Chongkan | 1 | — |
 

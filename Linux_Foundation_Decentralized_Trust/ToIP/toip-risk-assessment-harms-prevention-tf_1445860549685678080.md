@@ -4,7 +4,7 @@
 - **Category:** ToIP
 - **Channel ID:** 1445860549685678080
 - **Total Messages:** 147
-- **Last 30 Days:** 40
+- **Last 30 Days:** 35
 - **Last 90 Days:** 49
 - **Last 365 Days:** 147
 - **First Message:** 2025-12-03
@@ -16,11 +16,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 23 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 20 | Lab Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 9 | lfdt-ca, LFDT Staff |
-| 3 | stevevitka | 3 | ToIP |
-| 4 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
-| 5 | Nicky H | 2 | Project Maintainer, ToIP |
+| 3 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
+| 4 | Nicky H | 2 | Project Maintainer, ToIP |
+| 5 | stevevitka | 1 | ToIP |
 
 ### Last 90 Days
 

@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 20,082
 - **Last 30 Days:** 40
 - **Last 90 Days:** 128
-- **Last 365 Days:** 805
+- **Last 365 Days:** 799
 - **First Message:** 2021-11-07
 - **Last Message:** 2026-10-29
 
@@ -13,10 +13,10 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric](fabric_905205541326975046.md) | 2026-10-22 | 12 | 19 | 222 | 10,166 |
+| [fabric](fabric_905205541326975046.md) | 2026-10-22 | 12 | 19 | 221 | 10,166 |
 | [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-10-29 | 14 | 16 | 27 | 1,645 |
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-08 | 0 | 0 | 0 | 1,527 |
-| [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 0 | 38 | 1,300 |
+| [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 0 | 33 | 1,300 |
 | [fabric-peer](fabric-peer_945037339170836501.md) | 2026-04-10 | 0 | 0 | 6 | 1,084 |
 | [fabric-private-chaincode](fabric-private-chaincode_943059293765267497.md) | 2026-08-14 | 0 | 1 | 28 | 1,075 |
 | [fabric-orderer](fabric-orderer_945037581500940298.md) | 2026-04-12 | 0 | 0 | 10 | 817 |
@@ -60,7 +60,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 73 | Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 68 | Project Maintainer, Fabric Maintainer |
 | 2 | Frank_The_Fish | 55 | Lab Leader |
 | 3 | [Yoav Tock](https://github.com/tock-ibm) | 46 | TAC member, Project Maintainer, Fabric Maintainer |
 | 4 | EliMbadi | 45 | — |

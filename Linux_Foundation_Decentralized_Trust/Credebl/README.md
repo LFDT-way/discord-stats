@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1331657844193231030
 - **Total Messages in Category:** 421
-- **Last 30 Days:** 6
+- **Last 30 Days:** 5
 - **Last 90 Days:** 13
 - **Last 365 Days:** 162
 - **First Message:** 2025-01-23
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credebl](credebl_1331657363161219082.md) | 2026-10-30 | 6 | 13 | 114 | 288 |
+| [credebl](credebl_1331657363161219082.md) | 2026-10-30 | 5 | 13 | 114 | 288 |
 | [credebl-platform](credebl-platform_1354090545043210362.md) | 2025-09-30 | 0 | 0 | 0 | 61 |
 | [credebl-maintainers](credebl-maintainers_1354091009813905488.md) | 2026-07-07 | 0 | 0 | 39 | 58 |
 | [credebl-announcement](credebl-announcement_1354090474654404660.md) | 2026-04-09 | 0 | 0 | 9 | 14 |
@@ -24,7 +24,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | amitthosare | 4 | Credebl maintainer, Project Maintainer |
+| 1 | amitthosare | 3 | Credebl maintainer, Project Maintainer |
 | 2 | Ankita | 1 | Credebl maintainer, Project Maintainer |
 | 3 | [Ajay Jadhav](https://github.com/ajile-in) | 1 | Credebl maintainer, Project Maintainer |
 
