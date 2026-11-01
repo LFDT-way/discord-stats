@@ -2,7 +2,7 @@
 
 - **Guild ID:** 1022962884864643214
 - **Total Messages:** 9,794
-- **Last 30 Days:** 161
+- **Last 30 Days:** 159
 - **Last 90 Days:** 379
 - **Last 365 Days:** 1,972 — [active users](users.md)
 - **First Message:** 2022-09-23
@@ -13,7 +13,7 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,939 | 142 | 317 | 1,303 | 2023-11-08 | 2026-10-29 |
+| [Growth Projects](Growth_Projects/README.md) | 3,939 | 140 | 317 | 1,303 | 2023-11-08 | 2026-10-29 |
 | [General](General/README.md) | 1,866 | 3 | 7 | 66 | 2022-09-23 | 2026-10-24 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 0 | 13 | 108 | 2022-09-28 | 2026-09-24 |
 | [Impact Projects](Impact_Projects/README.md) | 880 | 12 | 15 | 161 | 2024-09-26 | 2026-10-26 |
@@ -27,7 +27,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | birte_lr | 34 | — |
+| 1 | birte_lr | 33 | — |
 | 2 | [davidz25](https://github.com/davidz25) | 20 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 3 | [Mirko](https://github.com/cre8) | 18 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 4 | [esune](https://github.com/esune) | 17 | Project Maintainer |

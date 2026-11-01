@@ -2,23 +2,23 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205381872095283
-- **Total Messages in Category:** 47,784
-- **Last 30 Days:** 148
-- **Last 90 Days:** 466
-- **Last 365 Days:** 1,840
+- **Total Messages in Category:** 47,787
+- **Last 30 Days:** 139
+- **Last 90 Days:** 469
+- **Last 365 Days:** 1,819
 - **First Message:** 2021-11-09
-- **Last Message:** 2026-10-29
+- **Last Message:** 2026-11-01
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [besu](besu_938504958909747250.md) | 2026-10-29 | 53 | 187 | 757 | 33,848 |
-| [besu-contributors](besu-contributors_905205502940696607.md) | 2026-10-21 | 45 | 152 | 495 | 6,704 |
-| [besu-reviews](besu-reviews_938505506123812865.md) | 2026-10-28 | 13 | 42 | 248 | 2,379 |
+| [besu](besu_938504958909747250.md) | 2026-11-01 | 54 | 190 | 743 | 33,851 |
+| [besu-contributors](besu-contributors_905205502940696607.md) | 2026-10-21 | 39 | 152 | 493 | 6,704 |
+| [besu-reviews](besu-reviews_938505506123812865.md) | 2026-10-28 | 11 | 42 | 245 | 2,379 |
 | [besu-enterprise](besu-enterprise_1172617318845657199.md) | 2026-10-26 | 12 | 31 | 160 | 1,814 |
-| [besu-release](besu-release_943252457063075880.md) | 2026-10-29 | 2 | 5 | 65 | 1,792 |
-| [besu-performance](besu-performance_1129455688255553717.md) | 2026-10-12 | 9 | 12 | 43 | 457 |
+| [besu-release](besu-release_943252457063075880.md) | 2026-10-29 | 2 | 5 | 63 | 1,792 |
+| [besu-performance](besu-performance_1129455688255553717.md) | 2026-10-12 | 7 | 12 | 43 | 457 |
 | [besu-workshop](besu-workshop_974732102450970654.md) | 2026-09-18 | 0 | 8 | 11 | 218 |
 | [besu-announce](besu-announce_906266945614135356.md) | 2026-10-26 | 5 | 9 | 21 | 152 |
 | [besu-verkle](besu-verkle_1207729310534737920.md) | 2025-05-25 | 0 | 0 | 0 | 107 |
@@ -36,9 +36,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 24 | lfdt-ca, LFDT Staff |
-| 2 | [macfarla \| Besu](https://github.com/macfarla) | 23 | Project Maintainer, Besu Maintainer |
-| 3 | [Matthew Whitehead](https://github.com/matthew1001) | 22 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 22 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 21 | lfdt-ca, LFDT Staff |
+| 3 | [macfarla \| Besu](https://github.com/macfarla) | 18 | Project Maintainer, Besu Maintainer |
 | 4 | rout-chaitanya | 11 | — |
 | 5 | [Simon Dudley](https://github.com/siladu) | 11 | Project Maintainer, Besu Maintainer |
 
@@ -57,8 +57,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Matthew Whitehead](https://github.com/matthew1001) | 235 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 2 | [Simon Dudley](https://github.com/siladu) | 232 | Project Maintainer, Besu Maintainer |
-| 3 | [macfarla \| Besu](https://github.com/macfarla) | 204 | Project Maintainer, Besu Maintainer |
+| 2 | [Simon Dudley](https://github.com/siladu) | 225 | Project Maintainer, Besu Maintainer |
+| 3 | [macfarla \| Besu](https://github.com/macfarla) | 200 | Project Maintainer, Besu Maintainer |
 | 4 | yorick | 75 | — |
 | 5 | [Jason Frame](https://github.com/jframe) | 64 | Project Maintainer, Besu Maintainer |
 
@@ -70,13 +70,13 @@
 | 2 | [macfarla \| Besu](https://github.com/macfarla) | 2,133 | Project Maintainer, Besu Maintainer |
 | 3 | [Matthew Whitehead](https://github.com/matthew1001) | 1,858 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 4 | [shemnon](https://github.com/shemnon) | 1,718 | — |
-| 5 | [a.hamlat](https://github.com/ahamlat) | 1,606 | Project Maintainer, Besu Maintainer |
+| 5 | [a.hamlat](https://github.com/ahamlat) | 1,609 | Project Maintainer, Besu Maintainer |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,472 |
+| 2026 | 1,475 |
 | 2025 | 3,483 |
 | 2024 | 10,360 |
 | 2023 | 11,741 |
@@ -87,6 +87,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-11 | 3 |
 | 2026-10 | 148 |
 | 2026-09 | 146 |
 | 2026-08 | 173 |
@@ -150,6 +151,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-01 | 3 |
 | 2026-10-29 | 2 |
 | 2026-10-28 | 5 |
 | 2026-10-27 | 3 |

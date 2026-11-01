@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 55
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 10
+- **Last 365 Days:** 5
 - **First Message:** 2022-07-28
 - **Last Message:** 2026-02-03
 
@@ -16,7 +16,7 @@
 | [regional-marketing-leads](regional-marketing-leads_1367872330218602607.md) | 2025-09-25 | 0 | 0 | 0 | 22 |
 | [hlf-connector](hlf-connector_943223554709790771.md) | 2023-04-12 | 0 | 0 | 0 | 10 |
 | [maintainer-days](maintainer-days_1465743817906065478.md) | 2026-02-03 | 0 | 0 | 5 | 5 |
-| [artizyou](artizyou_1433779247734063174.md) | 2025-10-31 | 0 | 0 | 5 | 5 |
+| [artizyou](artizyou_1433779247734063174.md) | 2025-10-31 | 0 | 0 | 0 | 5 |
 | [benchmarking-bridge-aggregators](benchmarking-bridge-aggregators_1194291892339347466.md) | 2024-01-18 | 0 | 0 | 0 | 4 |
 | [identity-bot](identity-bot_1428856635849310308.md) | 2025-10-29 | 0 | 0 | 0 | 4 |
 | [hoprs](hoprs_1379514363454423191.md) | 2025-06-05 | 0 | 0 | 0 | 3 |
@@ -37,9 +37,9 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
-| 3 | [Maria Munaro](https://github.com/munapower) | 1 | — |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
+| 2 | [Maria Munaro](https://github.com/munapower) | 1 | — |
+| 3 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
 
 ### All Time
 

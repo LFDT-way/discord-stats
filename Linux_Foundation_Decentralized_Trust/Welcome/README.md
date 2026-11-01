@@ -2,22 +2,22 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 948958931512873030
-- **Total Messages in Category:** 14,165
-- **Last 30 Days:** 33
-- **Last 90 Days:** 76
-- **Last 365 Days:** 382
+- **Total Messages in Category:** 14,166
+- **Last 30 Days:** 34
+- **Last 90 Days:** 77
+- **Last 365 Days:** 379
 - **First Message:** 2022-03-03
-- **Last Message:** 2026-10-27
+- **Last Message:** 2026-10-31
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [welcome](welcome_948959099842883654.md) | 2026-08-12 | 0 | 2 | 42 | 10,733 |
-| [general](general_1021077182501621830.md) | 2026-10-27 | 25 | 55 | 201 | 1,925 |
+| [general](general_1021077182501621830.md) | 2026-10-27 | 25 | 55 | 197 | 1,925 |
 | [job-postings](job-postings_1050607623566802984.md) | 2026-10-07 | 3 | 10 | 71 | 450 |
 | [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-10-07 | 1 | 1 | 11 | 418 |
-| [connections](connections_948959243095130142.md) | 2026-10-22 | 2 | 6 | 17 | 374 |
+| [connections](connections_948959243095130142.md) | 2026-10-31 | 3 | 7 | 18 | 375 |
 | [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-10-27 | 1 | 1 | 29 | 192 |
 | [announcements](announcements_953133039372877844.md) | 2026-06-30 | 0 | 0 | 8 | 39 |
 | [git-help](git-help_1098621099681513492.md) | 2026-10-19 | 1 | 1 | 3 | 34 |
@@ -48,7 +48,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 38 | lfdt-ca, LFDT Staff |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 37 | lfdt-ca, LFDT Staff |
 | 2 | [Ry Jones](https://github.com/ryjones) | 26 | lfdt-ca, LFDT Staff |
 | 3 | varun | 15 | — |
 | 4 | Zion'sEarthlyPrince | 13 | — |
@@ -68,7 +68,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 293 |
+| 2026 | 294 |
 | 2025 | 523 |
 | 2024 | 1,379 |
 | 2023 | 7,571 |
@@ -78,7 +78,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 33 |
+| 2026-10 | 34 |
 | 2026-09 | 28 |
 | 2026-08 | 15 |
 | 2026-07 | 33 |
@@ -139,6 +139,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-10-31 | 1 |
 | 2026-10-27 | 2 |
 | 2026-10-25 | 1 |
 | 2026-10-22 | 2 |

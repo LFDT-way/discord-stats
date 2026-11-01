@@ -3,8 +3,8 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
 - **Total Messages in Category:** 21,491
-- **Last 30 Days:** 104
-- **Last 90 Days:** 200
+- **Last 30 Days:** 100
+- **Last 90 Days:** 198
 - **Last 365 Days:** 880
 - **First Message:** 2021-11-05
 - **Last Message:** 2026-10-30
@@ -20,7 +20,7 @@
 | [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-10-19 | 1 | 1 | 13 | 1,186 |
 | [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 4 | 859 |
 | [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-30 | 8 | 22 | 176 | 354 |
-| [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-30 | 6 | 12 | 59 | 156 |
+| [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-30 | 3 | 10 | 59 | 156 |
 | [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 3 | 108 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-10-30 | 1 | 9 | 12 | 109 |
 | [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-10-27 | 7 | 32 | 96 | 96 |
@@ -35,7 +35,7 @@
 | [hypernate](hypernate_1417903966464770159.md) | 2026-07-23 | 0 | 0 | 14 | 32 |
 | [cbweb3](cbweb3_1400427588287074364.md) | 2026-05-29 | 0 | 0 | 30 | 31 |
 | [smoot-general](smoot-general_1369405582422835272.md) | 2026-08-19 | 0 | 1 | 4 | 19 |
-| [composable-evidence-criteria](composable-evidence-criteria_1554888185958502581.md) | 2026-10-18 | 8 | 10 | 10 | 10 |
+| [composable-evidence-criteria](composable-evidence-criteria_1554888185958502581.md) | 2026-10-18 | 7 | 10 | 10 | 10 |
 | [fabricops](fabricops_1537506138008981524.md) | 2026-10-04 | 1 | 7 | 7 | 7 |
 | [fabric-sdk-rust](fabric-sdk-rust_1419694192921153669.md) | 2026-02-02 | 0 | 0 | 1 | 5 |
 | [caliper-announcements](caliper-announcements_941417775275065364.md) | 2025-10-03 | 0 | 0 | 0 | 5 |
@@ -55,7 +55,7 @@
 | 2 | [JessicaG](https://github.com/jwagantall) | 16 | lfdt-ca, LFDT Staff |
 | 3 | [hendrik.ebbers](https://github.com/hendrikebbers) | 8 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
 | 4 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
-| 5 | [DanielSzego](https://github.com/Daniel-Szego) | 6 | Meetup Organizer |
+| 5 | SecrizzMagician | 6 | — |
 
 ### Last 90 Days
 

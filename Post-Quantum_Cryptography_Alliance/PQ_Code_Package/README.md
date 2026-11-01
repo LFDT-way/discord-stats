@@ -3,9 +3,9 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1203395867214745651
 - **Total Messages in Category:** 3,626
-- **Last 30 Days:** 44
+- **Last 30 Days:** 38
 - **Last 90 Days:** 218
-- **Last 365 Days:** 1,160
+- **Last 365 Days:** 1,159
 - **First Message:** 2024-02-03
 - **Last Message:** 2026-10-29
 
@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [mldsa-native-developers](mldsa-native-developers_1339067141269229652.md) | 2026-10-22 | 4 | 52 | 656 | 2,198 |
-| [mlkem-native-developers](mlkem-native-developers_1249565286638682122.md) | 2026-10-29 | 37 | 144 | 452 | 979 |
+| [mldsa-native-developers](mldsa-native-developers_1339067141269229652.md) | 2026-10-22 | 4 | 52 | 655 | 2,198 |
+| [mlkem-native-developers](mlkem-native-developers_1249565286638682122.md) | 2026-10-29 | 31 | 144 | 452 | 979 |
 | [pqcp-tsc](pqcp-tsc_1233337574668501033.md) | 2025-11-19 | 0 | 0 | 2 | 249 |
 | [pqcp-general](pqcp-general_1203396039977996359.md) | 2026-10-22 | 3 | 22 | 47 | 174 |
 | [hackathon](hackathon_1217120054618095746.md) | 2026-02-07 | 0 | 0 | 1 | 11 |
@@ -27,9 +27,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 21 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 11 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 6 | PQ Code Package Maintainer |
+| 1 | Rod | 20 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | Hanno | 6 | PQ Code Package Maintainer |
+| 3 | [Matthias Kannwischer](https://github.com/mkannwischer) | 6 | PQ Code Package Maintainer, Project Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 2 | LF Staff |
 | 5 | v1rtu3x | 1 | — |
 
@@ -51,7 +51,7 @@
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 389 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 99 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 65 | LF Staff |
-| 5 | Jake | 42 | PQ Code Package Maintainer, Project Maintainer |
+| 5 | Jake | 41 | PQ Code Package Maintainer, Project Maintainer |
 
 ### All Time
 

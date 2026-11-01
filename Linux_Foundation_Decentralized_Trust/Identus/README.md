@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1226983696306012181
 - **Total Messages in Category:** 1,560
-- **Last 30 Days:** 4
+- **Last 30 Days:** 3
 - **Last 90 Days:** 32
-- **Last 365 Days:** 234
+- **Last 365 Days:** 233
 - **First Message:** 2024-04-10
 - **Last Message:** 2026-10-20
 
@@ -16,7 +16,7 @@
 | [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-08-28 | 0 | 1 | 93 | 747 |
 | [sdk-ts](sdk-ts_1252629747389829152.md) | 2026-06-16 | 0 | 0 | 19 | 219 |
 | [cloud-agent](cloud-agent_1252629630763012116.md) | 2025-12-03 | 0 | 0 | 12 | 213 |
-| [general](general_1252630735269925057.md) | 2026-10-01 | 1 | 20 | 75 | 193 |
+| [general](general_1252630735269925057.md) | 2026-10-01 | 0 | 20 | 74 | 193 |
 | [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 0 | 65 |
 | [identus-faq](identus-faq_1252622748073853083.md) | 2025-11-29 | 0 | 0 | 15 | 46 |
 | [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-10-20 | 3 | 8 | 14 | 30 |
@@ -31,9 +31,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
-| 2 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
-| 3 | pat_pat | 1 | Identus Maintainer, Project Maintainer |
+| 1 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
+| 2 | pat_pat | 1 | Identus Maintainer, Project Maintainer |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 
@@ -49,7 +49,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [FabioPinheiro](https://github.com/FabioPinheiro) | 59 | Identus Maintainer, Project Maintainer |
+| 1 | [FabioPinheiro](https://github.com/FabioPinheiro) | 58 | Identus Maintainer, Project Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 28 | lfdt-ca, LFDT Staff |
 | 3 | Vaclav.Janecek | 22 | — |
 | 4 | Yurii Shynbuiev | 19 | Identus Maintainer, Project Maintainer |

@@ -1,21 +1,21 @@
 # Guild Report: Post-Quantum Cryptography Alliance
 
 - **Guild ID:** 1202723482224295936
-- **Total Messages:** 4,569
-- **Last 30 Days:** 61
-- **Last 90 Days:** 292
-- **Last 365 Days:** 1,420 — [active users](users.md)
+- **Total Messages:** 4,572
+- **Last 30 Days:** 57
+- **Last 90 Days:** 293
+- **Last 365 Days:** 1,422 — [active users](users.md)
 - **First Message:** 2024-02-01
-- **Last Message:** 2026-10-30
+- **Last Message:** 2026-11-01
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PQ Code Package](PQ_Code_Package/README.md) | 3,626 | 44 | 218 | 1,160 | 2024-02-03 | 2026-10-29 |
-| [Welcome](Welcome/README.md) | 515 | 15 | 45 | 149 | 2024-02-01 | 2026-10-30 |
-| [Open Quantum Safe](Open_Quantum_Safe/README.md) | 283 | 2 | 26 | 70 | 2024-02-03 | 2026-10-17 |
+| [PQ Code Package](PQ_Code_Package/README.md) | 3,626 | 38 | 218 | 1,159 | 2024-02-03 | 2026-10-29 |
+| [Welcome](Welcome/README.md) | 515 | 14 | 45 | 149 | 2024-02-01 | 2026-10-30 |
+| [Open Quantum Safe](Open_Quantum_Safe/README.md) | 286 | 5 | 27 | 73 | 2024-02-03 | 2026-11-01 |
 | [Governance](Governance/README.md) | 81 | 0 | 0 | 6 | 2024-02-05 | 2026-02-10 |
 | [CBOMKit](CBOMKit/README.md) | 51 | 0 | 3 | 28 | 2025-05-06 | 2026-09-24 |
 | [Uncategorized](Uncategorized/README.md) | 11 | 0 | 0 | 7 | 2024-02-03 | 2026-05-18 |
@@ -27,11 +27,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 21 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 11 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 6 | PQ Code Package Maintainer |
+| 1 | Rod | 20 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | Hanno | 6 | PQ Code Package Maintainer |
+| 3 | [Matthias Kannwischer](https://github.com/mkannwischer) | 6 | PQ Code Package Maintainer, Project Maintainer |
 | 4 | Jarek Duda | 3 | — |
-| 5 | Tim | 2 | — |
+| 5 | RGM-Core | 3 | — |
 
 ### Last 90 Days
 
@@ -51,7 +51,7 @@
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 389 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 103 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 81 | LF Staff |
-| 5 | Jake | 42 | PQ Code Package Maintainer, Project Maintainer |
+| 5 | Jake | 41 | PQ Code Package Maintainer, Project Maintainer |
 
 ### All Time
 
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 943 |
+| 2026 | 946 |
 | 2025 | 2,683 |
 | 2024 | 944 |
 | 2023 | 3 |
@@ -78,7 +78,8 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 61 |
+| 2026-11 | 2 |
+| 2026-10 | 62 |
 | 2026-09 | 109 |
 | 2026-08 | 130 |
 | 2026-07 | 71 |
@@ -122,6 +123,8 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-01 | 2 |
+| 2026-10-31 | 1 |
 | 2026-10-30 | 2 |
 | 2026-10-29 | 8 |
 | 2026-10-25 | 1 |

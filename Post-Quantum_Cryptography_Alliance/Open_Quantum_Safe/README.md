@@ -2,18 +2,18 @@
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1203395822390083676
-- **Total Messages in Category:** 283
-- **Last 30 Days:** 2
-- **Last 90 Days:** 26
-- **Last 365 Days:** 70
+- **Total Messages in Category:** 286
+- **Last 30 Days:** 5
+- **Last 90 Days:** 27
+- **Last 365 Days:** 73
 - **First Message:** 2024-02-03
-- **Last Message:** 2026-10-17
+- **Last Message:** 2026-11-01
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [oqs-general](oqs-general_1203395992003678238.md) | 2026-10-17 | 2 | 26 | 63 | 268 |
+| [oqs-general](oqs-general_1203395992003678238.md) | 2026-11-01 | 5 | 27 | 66 | 271 |
 | [oqs-call](oqs-call_1214590815695933470.md) | 2026-06-13 | 0 | 0 | 7 | 13 |
 | [oqs-github](oqs-github_1214605403527184394.md) | 2024-12-23 | 0 | 0 | 0 | 2 |
 
@@ -23,8 +23,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | RGM-Core | 1 | — |
-| 2 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 1 | — |
+| 1 | RGM-Core | 3 | — |
+| 2 | Silent58 | 1 | — |
+| 3 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 1 | — |
 
 ### Last 90 Days
 
@@ -33,7 +34,7 @@
 | 1 | Ben | 6 | — |
 | 2 | θρπχι | 6 | — |
 | 3 | kstzv | 5 | — |
-| 4 | chozorho | 2 | — |
+| 4 | RGM-Core | 3 | — |
 | 5 | Meerkatdev | 2 | — |
 
 ### Last 365 Days
@@ -60,7 +61,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 65 |
+| 2026 | 68 |
 | 2025 | 46 |
 | 2024 | 172 |
 
@@ -68,7 +69,8 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-10 | 2 |
+| 2026-11 | 2 |
+| 2026-10 | 3 |
 | 2026-09 | 9 |
 | 2026-08 | 15 |
 | 2026-07 | 2 |
@@ -102,6 +104,8 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-01 | 2 |
+| 2026-10-31 | 1 |
 | 2026-10-17 | 1 |
 | 2026-10-06 | 1 |
 | 2026-09-23 | 3 |
