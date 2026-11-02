@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 942821993391202394
-- **Total Messages in Category:** 886
-- **Last 30 Days:** 1
-- **Last 90 Days:** 6
-- **Last 365 Days:** 59
+- **Total Messages in Category:** 887
+- **Last 30 Days:** 2
+- **Last 90 Days:** 7
+- **Last 365 Days:** 60
 - **First Message:** 2022-02-15
-- **Last Message:** 2026-10-07
+- **Last Message:** 2026-11-02
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [india-chapter](india-chapter_942822085917556777.md) | 2026-10-07 | 1 | 5 | 29 | 456 |
+| [india-chapter](india-chapter_942822085917556777.md) | 2026-11-02 | 2 | 6 | 30 | 457 |
 | [brasil-chapter](brasil-chapter_943207619508723723.md) | 2026-07-22 | 0 | 0 | 9 | 277 |
 | [european-chapter](european-chapter_1289237830081581158.md) | 2026-08-19 | 0 | 1 | 20 | 132 |
 | [japan-chapter-🇯🇵](japan-chapter-🇯🇵_956727657884692550.md) | 2026-06-17 | 0 | 0 | 1 | 21 |
@@ -25,6 +25,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | amitthosare | 1 | Credebl maintainer, Project Maintainer |
+| 2 | ITACHI | 1 | — |
 
 ### Last 90 Days
 
@@ -32,7 +33,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Ankita | 3 | Credebl maintainer, Project Maintainer |
 | 2 | amitthosare | 2 | Credebl maintainer, Project Maintainer |
-| 3 | Prince Yarjack | 1 | — |
+| 3 | ITACHI | 1 | — |
+| 4 | Prince Yarjack | 1 | — |
 
 ### Last 365 Days
 
@@ -58,7 +60,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 49 |
+| 2026 | 50 |
 | 2025 | 185 |
 | 2024 | 138 |
 | 2023 | 271 |
@@ -68,6 +70,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-11 | 1 |
 | 2026-10 | 1 |
 | 2026-08 | 5 |
 | 2026-07 | 5 |
@@ -129,6 +132,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-02 | 1 |
 | 2026-10-07 | 1 |
 | 2026-08-19 | 2 |
 | 2026-08-16 | 1 |

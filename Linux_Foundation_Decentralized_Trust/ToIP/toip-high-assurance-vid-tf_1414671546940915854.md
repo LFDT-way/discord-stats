@@ -5,7 +5,7 @@
 - **Channel ID:** 1414671546940915854
 - **Total Messages:** 37
 - **Last 30 Days:** 0
-- **Last 90 Days:** 1
+- **Last 90 Days:** 0
 - **Last 365 Days:** 26
 - **First Message:** 2025-10-02
 - **Last Message:** 2026-08-03
@@ -18,9 +18,7 @@ _No activity in this period._
 
 ### Last 90 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 1 | Lab Leader |
+_No activity in this period._
 
 ### Last 365 Days
 

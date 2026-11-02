@@ -1,19 +1,19 @@
 # Guild Report: OpenWallet Foundation
 
 - **Guild ID:** 1022962884864643214
-- **Total Messages:** 9,794
-- **Last 30 Days:** 159
-- **Last 90 Days:** 379
-- **Last 365 Days:** 1,972 — [active users](users.md)
+- **Total Messages:** 9,799
+- **Last 30 Days:** 157
+- **Last 90 Days:** 381
+- **Last 365 Days:** 1,976 — [active users](users.md)
 - **First Message:** 2022-09-23
-- **Last Message:** 2026-10-29
+- **Last Message:** 2026-11-02
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,939 | 140 | 317 | 1,303 | 2023-11-08 | 2026-10-29 |
+| [Growth Projects](Growth_Projects/README.md) | 3,944 | 138 | 319 | 1,307 | 2023-11-08 | 2026-11-02 |
 | [General](General/README.md) | 1,866 | 3 | 7 | 66 | 2022-09-23 | 2026-10-24 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 0 | 13 | 108 | 2022-09-28 | 2026-09-24 |
 | [Impact Projects](Impact_Projects/README.md) | 880 | 12 | 15 | 161 | 2024-09-26 | 2026-10-26 |
@@ -29,7 +29,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | birte_lr | 33 | — |
 | 2 | [davidz25](https://github.com/davidz25) | 20 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 3 | [Mirko](https://github.com/cre8) | 18 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 3 | [Mirko](https://github.com/cre8) | 17 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 4 | [esune](https://github.com/esune) | 17 | Project Maintainer |
 | 5 | RMLearney | 10 | — |
 
@@ -37,17 +37,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 83 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 85 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | birte_lr | 61 | — |
-| 3 | [davidz25](https://github.com/davidz25) | 33 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 4 | Cyril | 26 | — |
+| 3 | [davidz25](https://github.com/davidz25) | 32 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 4 | Cyril | 25 | — |
 | 5 | [esune](https://github.com/esune) | 17 | Project Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 390 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 393 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Ry Jones, OWF](https://github.com/ryjones) | 142 | Linux Foundation Staff |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 139 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
@@ -57,7 +57,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 640 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 643 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 499 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 402 | Linux Foundation Staff |
 | 4 | Tracy | 399 | — |
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,587 |
+| 2026 | 1,592 |
 | 2025 | 2,830 |
 | 2024 | 2,596 |
 | 2023 | 1,595 |
@@ -77,6 +77,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-11 | 5 |
 | 2026-10 | 161 |
 | 2026-09 | 166 |
 | 2026-08 | 53 |
@@ -132,6 +133,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-02 | 5 |
 | 2026-10-29 | 3 |
 | 2026-10-28 | 9 |
 | 2026-10-27 | 29 |

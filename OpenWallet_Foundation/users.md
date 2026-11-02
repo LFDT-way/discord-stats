@@ -5,11 +5,11 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 125
-- **Messages (365d):** 1,972
+- **Messages (365d):** 1,976
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 390 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 393 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Ry Jones, OWF](https://github.com/ryjones) | 142 | Linux Foundation Staff |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 139 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
@@ -43,10 +43,10 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 32 | albertoleon_7794 | 11 | — |
 | 33 | [gmulhearn](https://github.com/gmulhearn) | 10 | vcx maintainer, Project Maintainer |
 | 34 | sirawt | 10 | — |
-| 35 | Anshulip | 9 | — |
-| 36 | Thiago Romano | 9 | — |
-| 37 | [drummondreed](https://github.com/talltree) | 9 | — |
-| 38 | Jim St.Clair | 8 | SIG member |
+| 35 | Thiago Romano | 9 | — |
+| 36 | [drummondreed](https://github.com/talltree) | 9 | — |
+| 37 | Jim St.Clair | 8 | SIG member |
+| 38 | Anshulip | 8 | — |
 | 39 | Abhi | 7 | — |
 | 40 | Pragya Jain | 7 | — |
 | 41 | jarosss_ | 6 | — |
@@ -77,47 +77,47 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 66 | ai-Igor | 3 | — |
 | 67 | Muhammad Ahmer Khan | 3 | — |
 | 68 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 3 | Lab Maintainer |
-| 69 | Alisson-Dev-Zolvency | 3 | — |
-| 70 | marnix | 3 | — |
-| 71 | darrello | 3 | — |
-| 72 | [Sai Ranjit](https://github.com/sairanjit) | 3 | — |
-| 73 | [cvarjao](https://github.com/cvarjao) | 3 | bifold maintainers, Project Maintainer |
-| 74 | Alan poon | 3 | — |
-| 75 | Thomas T | 3 | — |
-| 76 | André Engelhorn | 3 | — |
-| 77 | Maticus | 2 | — |
-| 78 | Micah Peltier | 2 | — |
-| 79 | mobappdev | 2 | — |
-| 80 | Pratik | 2 | — |
-| 81 | Soloshade | 2 | — |
-| 82 | Gordito Ancestral | 2 | — |
-| 83 | friendlyfire137 | 2 | Project Maintainer |
-| 84 | Akshay Kurhekar | 2 | — |
-| 85 | nerio | 2 | — |
-| 86 | Thilina Senarath | 2 | — |
-| 87 | kevinaboos | 2 | — |
-| 88 | Harsh | 2 | — |
-| 89 | BrunoM | 2 | — |
-| 90 | José Puma | 2 | — |
-| 91 | Jim Ezesinachi | 2 | — |
-| 92 | Thierry (Talao) | 2 | — |
-| 93 | KrishNa | 2 | — |
-| 94 | ademait | 2 | — |
-| 95 | tume2104 | 1 | — |
-| 96 | Sagara | 1 | Project Maintainer |
-| 97 | feldim2425 | 1 | — |
-| 98 | Sagar Khole | 1 | — |
-| 99 | FindingFilene | 1 | — |
-| 100 | ethanpunk_ | 1 | — |
-| 101 | Jazz | 1 | — |
-| 102 | Yunna | 1 | — |
-| 103 | Lunelle | 1 | — |
-| 104 | sencond1800 | 1 | — |
-| 105 | Ankita | 1 | — |
-| 106 | Siva | 1 | — |
-| 107 | Pankti | 1 | — |
-| 108 | Nahuel_NP | 1 | — |
-| 109 | [Daniel Marvin](https://github.com/danielmarv) | 1 | — |
+| 69 | [Daniel Marvin](https://github.com/danielmarv) | 3 | — |
+| 70 | Alisson-Dev-Zolvency | 3 | — |
+| 71 | marnix | 3 | — |
+| 72 | darrello | 3 | — |
+| 73 | [Sai Ranjit](https://github.com/sairanjit) | 3 | — |
+| 74 | [cvarjao](https://github.com/cvarjao) | 3 | bifold maintainers, Project Maintainer |
+| 75 | Alan poon | 3 | — |
+| 76 | Thomas T | 3 | — |
+| 77 | André Engelhorn | 3 | — |
+| 78 | Maticus | 2 | — |
+| 79 | Micah Peltier | 2 | — |
+| 80 | mobappdev | 2 | — |
+| 81 | Pratik | 2 | — |
+| 82 | Soloshade | 2 | — |
+| 83 | Gordito Ancestral | 2 | — |
+| 84 | friendlyfire137 | 2 | Project Maintainer |
+| 85 | Akshay Kurhekar | 2 | — |
+| 86 | nerio | 2 | — |
+| 87 | Thilina Senarath | 2 | — |
+| 88 | kevinaboos | 2 | — |
+| 89 | Harsh | 2 | — |
+| 90 | BrunoM | 2 | — |
+| 91 | José Puma | 2 | — |
+| 92 | Jim Ezesinachi | 2 | — |
+| 93 | Thierry (Talao) | 2 | — |
+| 94 | KrishNa | 2 | — |
+| 95 | ademait | 2 | — |
+| 96 | tume2104 | 1 | — |
+| 97 | Sagara | 1 | Project Maintainer |
+| 98 | feldim2425 | 1 | — |
+| 99 | Sagar Khole | 1 | — |
+| 100 | FindingFilene | 1 | — |
+| 101 | ethanpunk_ | 1 | — |
+| 102 | Jazz | 1 | — |
+| 103 | Yunna | 1 | — |
+| 104 | Lunelle | 1 | — |
+| 105 | sencond1800 | 1 | — |
+| 106 | Ankita | 1 | — |
+| 107 | Siva | 1 | — |
+| 108 | Pankti | 1 | — |
+| 109 | Nahuel_NP | 1 | — |
 | 110 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
 | 111 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
 | 112 | anil.helvaci \| GMT +3 | 1 | — |

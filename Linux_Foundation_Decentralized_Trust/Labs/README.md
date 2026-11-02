@@ -2,12 +2,12 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
-- **Total Messages in Category:** 21,491
-- **Last 30 Days:** 100
+- **Total Messages in Category:** 21,492
+- **Last 30 Days:** 99
 - **Last 90 Days:** 198
-- **Last 365 Days:** 880
+- **Last 365 Days:** 881
 - **First Message:** 2021-11-05
-- **Last Message:** 2026-10-30
+- **Last Message:** 2026-11-01
 
 ## Channels in Category
 
@@ -19,9 +19,9 @@
 | [caliper](caliper_941417677778473031.md) | 2026-03-23 | 0 | 0 | 20 | 1,439 |
 | [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-10-19 | 1 | 1 | 13 | 1,186 |
 | [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 4 | 859 |
-| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-30 | 8 | 22 | 176 | 354 |
-| [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-10-30 | 3 | 10 | 59 | 156 |
-| [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 3 | 108 | 148 |
+| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-30 | 7 | 22 | 176 | 354 |
+| [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-11-01 | 4 | 11 | 60 | 157 |
+| [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 2 | 108 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-10-30 | 1 | 9 | 12 | 109 |
 | [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-10-27 | 7 | 32 | 96 | 96 |
 | [fablo](fablo_1109190949394989127.md) | 2026-10-20 | 1 | 3 | 14 | 88 |
@@ -35,7 +35,7 @@
 | [hypernate](hypernate_1417903966464770159.md) | 2026-07-23 | 0 | 0 | 14 | 32 |
 | [cbweb3](cbweb3_1400427588287074364.md) | 2026-05-29 | 0 | 0 | 30 | 31 |
 | [smoot-general](smoot-general_1369405582422835272.md) | 2026-08-19 | 0 | 1 | 4 | 19 |
-| [composable-evidence-criteria](composable-evidence-criteria_1554888185958502581.md) | 2026-10-18 | 7 | 10 | 10 | 10 |
+| [composable-evidence-criteria](composable-evidence-criteria_1554888185958502581.md) | 2026-10-18 | 6 | 10 | 10 | 10 |
 | [fabricops](fabricops_1537506138008981524.md) | 2026-10-04 | 1 | 7 | 7 | 7 |
 | [fabric-sdk-rust](fabric-sdk-rust_1419694192921153669.md) | 2026-02-02 | 0 | 0 | 1 | 5 |
 | [caliper-announcements](caliper-announcements_941417775275065364.md) | 2025-10-03 | 0 | 0 | 0 | 5 |
@@ -74,7 +74,7 @@
 | 1 | [Ry Jones](https://github.com/ryjones) | 86 | lfdt-ca, LFDT Staff |
 | 2 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 81 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 3 | [RAWx18](https://github.com/RAWx18) | 61 | Lab Leader |
-| 4 | [DanielSzego](https://github.com/Daniel-Szego) | 53 | Meetup Organizer |
+| 4 | [DanielSzego](https://github.com/Daniel-Szego) | 54 | Meetup Organizer |
 | 5 | [Angelo De Caro](https://github.com/adecaro) | 49 | Lab Leader, Fabric Maintainer, Project Maintainer |
 
 ### All Time
@@ -91,7 +91,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 774 |
+| 2026 | 775 |
 | 2025 | 1,008 |
 | 2024 | 2,099 |
 | 2023 | 7,409 |
@@ -102,6 +102,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-11 | 1 |
 | 2026-10 | 104 |
 | 2026-09 | 42 |
 | 2026-08 | 54 |
@@ -165,6 +166,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-01 | 1 |
 | 2026-10-30 | 5 |
 | 2026-10-28 | 19 |
 | 2026-10-27 | 9 |
