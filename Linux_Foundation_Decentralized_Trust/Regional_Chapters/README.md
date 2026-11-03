@@ -2,10 +2,10 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 942821993391202394
-- **Total Messages in Category:** 887
-- **Last 30 Days:** 2
-- **Last 90 Days:** 7
-- **Last 365 Days:** 60
+- **Total Messages in Category:** 888
+- **Last 30 Days:** 3
+- **Last 90 Days:** 8
+- **Last 365 Days:** 61
 - **First Message:** 2022-02-15
 - **Last Message:** 2026-11-02
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [india-chapter](india-chapter_942822085917556777.md) | 2026-11-02 | 2 | 6 | 30 | 457 |
+| [india-chapter](india-chapter_942822085917556777.md) | 2026-11-02 | 3 | 7 | 31 | 458 |
 | [brasil-chapter](brasil-chapter_943207619508723723.md) | 2026-07-22 | 0 | 0 | 9 | 277 |
 | [european-chapter](european-chapter_1289237830081581158.md) | 2026-08-19 | 0 | 1 | 20 | 132 |
 | [japan-chapter-🇯🇵](japan-chapter-🇯🇵_956727657884692550.md) | 2026-06-17 | 0 | 0 | 1 | 21 |
@@ -26,6 +26,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | amitthosare | 1 | Credebl maintainer, Project Maintainer |
 | 2 | ITACHI | 1 | — |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 
@@ -34,7 +35,8 @@
 | 1 | Ankita | 3 | Credebl maintainer, Project Maintainer |
 | 2 | amitthosare | 2 | Credebl maintainer, Project Maintainer |
 | 3 | ITACHI | 1 | — |
-| 4 | Prince Yarjack | 1 | — |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
+| 5 | Prince Yarjack | 1 | — |
 
 ### Last 365 Days
 
@@ -43,7 +45,7 @@
 | 1 | Ankita | 15 | Credebl maintainer, Project Maintainer |
 | 2 | amitthosare | 13 | Credebl maintainer, Project Maintainer |
 | 3 | MH | 7 | Chapter Leader |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | lfdt-ca, LFDT Staff |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | lfdt-ca, LFDT Staff |
 | 5 | joselio.teider | 4 | — |
 
 ### All Time
@@ -60,7 +62,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 50 |
+| 2026 | 51 |
 | 2025 | 185 |
 | 2024 | 138 |
 | 2023 | 271 |
@@ -70,7 +72,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 1 |
+| 2026-11 | 2 |
 | 2026-10 | 1 |
 | 2026-08 | 5 |
 | 2026-07 | 5 |
@@ -132,7 +134,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-11-02 | 1 |
+| 2026-11-02 | 2 |
 | 2026-10-07 | 1 |
 | 2026-08-19 | 2 |
 | 2026-08-16 | 1 |

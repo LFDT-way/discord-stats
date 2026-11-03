@@ -1,20 +1,20 @@
 # Guild Report: Post-Quantum Cryptography Alliance
 
 - **Guild ID:** 1202723482224295936
-- **Total Messages:** 4,575
-- **Last 30 Days:** 60
-- **Last 90 Days:** 289
-- **Last 365 Days:** 1,425 — [active users](users.md)
+- **Total Messages:** 4,591
+- **Last 30 Days:** 75
+- **Last 90 Days:** 294
+- **Last 365 Days:** 1,441 — [active users](users.md)
 - **First Message:** 2024-02-01
-- **Last Message:** 2026-11-02
+- **Last Message:** 2026-11-03
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PQ Code Package](PQ_Code_Package/README.md) | 3,626 | 38 | 211 | 1,159 | 2024-02-03 | 2026-10-29 |
-| [Welcome](Welcome/README.md) | 515 | 14 | 45 | 149 | 2024-02-01 | 2026-10-30 |
+| [PQ Code Package](PQ_Code_Package/README.md) | 3,641 | 53 | 215 | 1,174 | 2024-02-03 | 2026-11-03 |
+| [Welcome](Welcome/README.md) | 516 | 14 | 46 | 150 | 2024-02-01 | 2026-11-02 |
 | [Open Quantum Safe](Open_Quantum_Safe/README.md) | 289 | 8 | 30 | 76 | 2024-02-03 | 2026-11-02 |
 | [Governance](Governance/README.md) | 81 | 0 | 0 | 6 | 2024-02-05 | 2026-02-10 |
 | [CBOMKit](CBOMKit/README.md) | 51 | 0 | 3 | 28 | 2025-05-06 | 2026-09-24 |
@@ -27,18 +27,18 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 20 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | Hanno | 6 | PQ Code Package Maintainer |
-| 3 | [Matthias Kannwischer](https://github.com/mkannwischer) | 6 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 26 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 15 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 6 | PQ Code Package Maintainer |
 | 4 | RGM-Core | 4 | — |
-| 5 | Jarek Duda | 3 | — |
+| 5 | Silent58 | 3 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 98 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 61 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 101 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 63 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 20 | PQ Code Package Maintainer |
 | 4 | θρπχι | 12 | — |
 | 5 | Ben | 11 | — |
@@ -47,8 +47,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 492 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 389 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 498 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 398 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 103 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 81 | LF Staff |
 | 5 | Jake | 41 | PQ Code Package Maintainer, Project Maintainer |
@@ -57,8 +57,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 1,303 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 1,152 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 1,309 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 1,161 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 412 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 323 | LF Staff |
 | 5 | [Nigel Jones](https://github.com/planetf1) | 182 | PQ Code Package Maintainer, Project Maintainer |
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 949 |
+| 2026 | 965 |
 | 2025 | 2,683 |
 | 2024 | 944 |
 | 2023 | 3 |
@@ -78,7 +78,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 5 |
+| 2026-11 | 21 |
 | 2026-10 | 62 |
 | 2026-09 | 109 |
 | 2026-08 | 130 |
@@ -123,7 +123,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-11-02 | 1 |
+| 2026-11-03 | 15 |
+| 2026-11-02 | 2 |
 | 2026-11-01 | 4 |
 | 2026-10-31 | 1 |
 | 2026-10-30 | 2 |

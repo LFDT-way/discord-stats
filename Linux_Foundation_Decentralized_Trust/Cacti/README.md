@@ -2,10 +2,10 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515538766254102
-- **Total Messages in Category:** 2,363
-- **Last 30 Days:** 8
-- **Last 90 Days:** 22
-- **Last 365 Days:** 261
+- **Total Messages in Category:** 2,364
+- **Last 30 Days:** 9
+- **Last 90 Days:** 23
+- **Last 365 Days:** 262
 - **First Message:** 2021-11-11
 - **Last Message:** 2026-11-02
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-11-02 | 8 | 18 | 197 | 1,804 |
+| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-11-02 | 9 | 19 | 198 | 1,805 |
 | [cacti-users](cacti-users_908379366650703943.md) | 2026-10-02 | 0 | 2 | 51 | 510 |
 | [cacti-resources](cacti-resources_908349711537299497.md) | 2026-04-03 | 0 | 0 | 2 | 26 |
 | [cacti-announcements](cacti-announcements_908380513310498847.md) | 2026-10-01 | 0 | 2 | 8 | 17 |
@@ -26,14 +26,14 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | AgrimTawani \| Cryptobazaar | 5 | — |
-| 2 | [rafaelapb](https://github.com/RafaelAPB) | 3 | Project Maintainer, Cacti Maintainer |
+| 2 | [rafaelapb](https://github.com/RafaelAPB) | 4 | Project Maintainer, Cacti Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | AgrimTawani \| Cryptobazaar | 9 | — |
-| 2 | [rafaelapb](https://github.com/RafaelAPB) | 8 | Project Maintainer, Cacti Maintainer |
+| 1 | [rafaelapb](https://github.com/RafaelAPB) | 9 | Project Maintainer, Cacti Maintainer |
+| 2 | AgrimTawani \| Cryptobazaar | 9 | — |
 | 3 | Humayun | 2 | — |
 | 4 | Sarbojit Rana | 2 | — |
 | 5 | mskr | 1 | — |
@@ -42,7 +42,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [rafaelapb](https://github.com/RafaelAPB) | 69 | Project Maintainer, Cacti Maintainer |
+| 1 | [rafaelapb](https://github.com/RafaelAPB) | 70 | Project Maintainer, Cacti Maintainer |
 | 2 | Somesh | 27 | — |
 | 3 | [Carlos Amaro](https://github.com/LordKubaya) | 21 | Project Maintainer, Cacti Maintainer |
 | 4 | [vramaiitkgp](https://github.com/VRamakrishna) | 20 | TAC member, Cacti Maintainer |
@@ -53,7 +53,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Peter Metz | 422 | — |
-| 2 | [rafaelapb](https://github.com/RafaelAPB) | 290 | Project Maintainer, Cacti Maintainer |
+| 2 | [rafaelapb](https://github.com/RafaelAPB) | 291 | Project Maintainer, Cacti Maintainer |
 | 3 | [vramaiitkgp](https://github.com/VRamakrishna) | 158 | TAC member, Cacti Maintainer |
 | 4 | RajGM | 142 | — |
 | 5 | [Ry Jones](https://github.com/ryjones) | 116 | lfdt-ca, LFDT Staff |
@@ -62,7 +62,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 217 |
+| 2026 | 218 |
 | 2025 | 463 |
 | 2024 | 480 |
 | 2023 | 429 |
@@ -73,7 +73,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 1 |
+| 2026-11 | 2 |
 | 2026-10 | 13 |
 | 2026-09 | 7 |
 | 2026-08 | 1 |
@@ -137,7 +137,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-11-02 | 1 |
+| 2026-11-02 | 2 |
 | 2026-10-28 | 1 |
 | 2026-10-20 | 1 |
 | 2026-10-19 | 1 |

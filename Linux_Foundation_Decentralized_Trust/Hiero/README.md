@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1283486767546237040
 - **Total Messages in Category:** 2,165
-- **Last 30 Days:** 66
+- **Last 30 Days:** 65
 - **Last 90 Days:** 263
 - **Last 365 Days:** 1,474
 - **First Message:** 2024-09-11
@@ -22,7 +22,7 @@
 | [solo](solo_1364886813017247775.md) | 2026-09-14 | 0 | 6 | 40 | 108 |
 | [hiero-sdk-community](hiero-sdk-community_1460295344620572907.md) | 2026-10-29 | 3 | 9 | 77 | 77 |
 | [hiero-did-sdk-js](hiero-did-sdk-js_1403132892007366806.md) | 2026-05-06 | 0 | 0 | 23 | 75 |
-| [hiero-sdk-cpp](hiero-sdk-cpp_1337424839761465364.md) | 2026-10-06 | 4 | 5 | 60 | 65 |
+| [hiero-sdk-cpp](hiero-sdk-cpp_1337424839761465364.md) | 2026-10-06 | 3 | 5 | 60 | 65 |
 | [hiero-hackers](hiero-hackers_1471877661856104649.md) | 2026-10-24 | 20 | 35 | 53 | 53 |
 | [hiero-enterprise-java](hiero-enterprise-java_1370373361942663178.md) | 2026-08-10 | 0 | 14 | 32 | 34 |
 | [hiero-sdk-js](hiero-sdk-js_1337424656138899537.md) | 2026-09-07 | 0 | 2 | 29 | 32 |
@@ -49,7 +49,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [explorer3](https://github.com/exploreriii) | 14 | Project Maintainer, Hiero maintainer |
 | 2 | [JessicaG](https://github.com/jwagantall) | 14 | lfdt-ca, LFDT Staff |
-| 3 | [Daniel Marvin](https://github.com/danielmarv) | 8 | Project Maintainer, Hiero maintainer |
+| 3 | [Daniel Marvin](https://github.com/danielmarv) | 7 | Project Maintainer, Hiero maintainer |
 | 4 | [Roger](https://github.com/rbarker-dev) | 5 | Project Maintainer, Hiero maintainer |
 | 5 | [hendrik.ebbers](https://github.com/hendrikebbers) | 4 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
 

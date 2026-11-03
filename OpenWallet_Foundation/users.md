@@ -4,12 +4,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
-- **Active Users (365d):** 125
-- **Messages (365d):** 1,976
+- **Active Users (365d):** 126
+- **Messages (365d):** 1,979
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 393 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 394 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Ry Jones, OWF](https://github.com/ryjones) | 142 | Linux Foundation Staff |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 139 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
@@ -66,18 +66,18 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 55 | Harshitha | 4 | — |
 | 56 | Damignos | 4 | — |
 | 57 | senu | 4 | — |
-| 58 | aaron | 4 | — |
-| 59 | akishiseki | 3 | — |
-| 60 | Hassan | 3 | — |
-| 61 | [Gavinok](https://github.com/Gavinok) | 3 | — |
-| 62 | mashukur.rahman | 3 | — |
-| 63 | [JSyro](https://github.com/Jsyro) | 3 | Lab Maintainer, Project Maintainer |
-| 64 | LukeBC | 3 | — |
-| 65 | ζατch bell | 3 | — |
-| 66 | ai-Igor | 3 | — |
-| 67 | Muhammad Ahmer Khan | 3 | — |
-| 68 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 3 | Lab Maintainer |
-| 69 | [Daniel Marvin](https://github.com/danielmarv) | 3 | — |
+| 58 | [Daniel Marvin](https://github.com/danielmarv) | 4 | — |
+| 59 | aaron | 4 | — |
+| 60 | akishiseki | 3 | — |
+| 61 | Hassan | 3 | — |
+| 62 | [Gavinok](https://github.com/Gavinok) | 3 | — |
+| 63 | mashukur.rahman | 3 | — |
+| 64 | [JSyro](https://github.com/Jsyro) | 3 | Lab Maintainer, Project Maintainer |
+| 65 | LukeBC | 3 | — |
+| 66 | ζατch bell | 3 | — |
+| 67 | ai-Igor | 3 | — |
+| 68 | Muhammad Ahmer Khan | 3 | — |
+| 69 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 3 | Lab Maintainer |
 | 70 | Alisson-Dev-Zolvency | 3 | — |
 | 71 | marnix | 3 | — |
 | 72 | darrello | 3 | — |
@@ -108,29 +108,30 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 97 | Sagara | 1 | Project Maintainer |
 | 98 | feldim2425 | 1 | — |
 | 99 | Sagar Khole | 1 | — |
-| 100 | FindingFilene | 1 | — |
-| 101 | ethanpunk_ | 1 | — |
-| 102 | Jazz | 1 | — |
-| 103 | Yunna | 1 | — |
-| 104 | Lunelle | 1 | — |
-| 105 | sencond1800 | 1 | — |
-| 106 | Ankita | 1 | — |
-| 107 | Siva | 1 | — |
-| 108 | Pankti | 1 | — |
-| 109 | Nahuel_NP | 1 | — |
-| 110 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
-| 111 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
-| 112 | anil.helvaci \| GMT +3 | 1 | — |
-| 113 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
-| 114 | rosterbyte | 1 | — |
-| 115 | [Patrik Stas](https://github.com/Patrik-Stas) | 1 | — |
-| 116 | Daev Mithran | 1 | — |
-| 117 | SRellihan.Phinxlab | 1 | — |
-| 118 | Iancu Fofiu | 1 | — |
-| 119 | Arsalan Shahzad | 1 | — |
-| 120 | sherri58 | 1 | — |
-| 121 | latika_04_17594 | 1 | — |
-| 122 | michkauf | 1 | — |
-| 123 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
-| 124 | Aaron | 1 | — |
-| 125 | arifthehappy | 1 | — |
+| 100 | ZeroEpoch | 1 | — |
+| 101 | FindingFilene | 1 | — |
+| 102 | ethanpunk_ | 1 | — |
+| 103 | Jazz | 1 | — |
+| 104 | Yunna | 1 | — |
+| 105 | Lunelle | 1 | — |
+| 106 | sencond1800 | 1 | — |
+| 107 | Ankita | 1 | — |
+| 108 | Siva | 1 | — |
+| 109 | Pankti | 1 | — |
+| 110 | Nahuel_NP | 1 | — |
+| 111 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
+| 112 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
+| 113 | anil.helvaci \| GMT +3 | 1 | — |
+| 114 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
+| 115 | rosterbyte | 1 | — |
+| 116 | [Patrik Stas](https://github.com/Patrik-Stas) | 1 | — |
+| 117 | Daev Mithran | 1 | — |
+| 118 | SRellihan.Phinxlab | 1 | — |
+| 119 | Iancu Fofiu | 1 | — |
+| 120 | Arsalan Shahzad | 1 | — |
+| 121 | sherri58 | 1 | — |
+| 122 | latika_04_17594 | 1 | — |
+| 123 | michkauf | 1 | — |
+| 124 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
+| 125 | Aaron | 1 | — |
+| 126 | arifthehappy | 1 | — |

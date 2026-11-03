@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 201
 - **Last 30 Days:** 1
 - **Last 90 Days:** 1
-- **Last 365 Days:** 5
+- **Last 365 Days:** 4
 - **First Message:** 2022-02-23
 - **Last Message:** 2026-10-26
 
@@ -17,7 +17,7 @@
 | [vs-code-plugin](vs-code-plugin_1249243593475096647.md) | 2025-04-08 | 0 | 0 | 0 | 60 |
 | [weaver](weaver_986350461886033980.md) | 2024-09-05 | 0 | 0 | 0 | 29 |
 | [yui](yui_1036682184955809792.md) | 2023-09-29 | 0 | 0 | 0 | 15 |
-| [twg-china](twg-china_943951633228914719.md) | 2025-11-02 | 0 | 0 | 1 | 15 |
+| [twg-china](twg-china_943951633228914719.md) | 2025-11-02 | 0 | 0 | 0 | 15 |
 | [telecom-sig](telecom-sig_943951274624315462.md) | 2025-01-02 | 0 | 0 | 0 | 5 |
 
 ## Most Active Users
@@ -40,8 +40,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [macfarla \| Besu](https://github.com/macfarla) | 2 | Project Maintainer, Besu Maintainer |
 | 2 | [fab10](https://github.com/fab-10) | 1 | Project Maintainer, Besu Maintainer |
-| 3 | zzj_666_40083 | 1 | — |
-| 4 | [Justin Florentine](https://github.com/jflo) | 1 | Project Maintainer, Besu Maintainer |
+| 3 | [Justin Florentine](https://github.com/jflo) | 1 | Project Maintainer, Besu Maintainer |
 
 ### All Time
 

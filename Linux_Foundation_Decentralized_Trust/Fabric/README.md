@@ -4,8 +4,8 @@
 - **Category ID:** 905205464046915585
 - **Total Messages in Category:** 20,082
 - **Last 30 Days:** 39
-- **Last 90 Days:** 127
-- **Last 365 Days:** 793
+- **Last 90 Days:** 125
+- **Last 365 Days:** 792
 - **First Message:** 2021-11-07
 - **Last Message:** 2026-10-29
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric](fabric_905205541326975046.md) | 2026-10-22 | 12 | 19 | 221 | 10,166 |
+| [fabric](fabric_905205541326975046.md) | 2026-10-22 | 12 | 19 | 220 | 10,166 |
 | [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-10-29 | 14 | 16 | 27 | 1,645 |
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-08 | 0 | 0 | 0 | 1,527 |
 | [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 0 | 27 | 1,300 |
@@ -27,7 +27,7 @@
 | [fabric-japanese](fabric-japanese_942950198836092958.md) | 2026-09-16 | 0 | 3 | 19 | 241 |
 | [fabric-dublin-workshop](fabric-dublin-workshop_1005123918740332604.md) | 2024-09-27 | 0 | 0 | 0 | 119 |
 | [fabric-admin-sdk](fabric-admin-sdk_1063507202607956018.md) | 2026-04-24 | 0 | 0 | 1 | 110 |
-| [fabric-certified-practitioner](fabric-certified-practitioner_1158754773026222130.md) | 2026-08-04 | 0 | 2 | 16 | 70 |
+| [fabric-certified-practitioner](fabric-certified-practitioner_1158754773026222130.md) | 2026-08-04 | 0 | 0 | 16 | 70 |
 | [fabric-code-reviews](fabric-code-reviews_960583805708664882.md) | 2026-09-24 | 0 | 1 | 3 | 41 |
 | [fabric-docs-i18n](fabric-docs-i18n_963703552352587786.md) | 2023-08-11 | 0 | 0 | 0 | 41 |
 | [fabric-x-evm](fabric-x-evm_1550488625576415232.md) | 2026-10-11 | 12 | 28 | 28 | 28 |
@@ -51,7 +51,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Yoav Tock](https://github.com/tock-ibm) | 24 | TAC member, Project Maintainer, Fabric Maintainer |
-| 2 | EliMbadi | 21 | — |
+| 2 | EliMbadi | 19 | — |
 | 3 | Storm1289 | 11 | — |
 | 4 | [arner](https://github.com/arner) | 10 | Project Maintainer, Fabric Maintainer |
 | 5 | [jtonline](https://github.com/jt-nti) | 8 | Project Maintainer, Fabric Maintainer |
