@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 7,188
 - **Last 30 Days:** 0
 - **Last 90 Days:** 2
-- **Last 365 Days:** 86
+- **Last 365 Days:** 78
 - **First Message:** 2022-02-12
 - **Last Message:** 2026-09-24
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aries](aries_905206466410057728.md) | 2025-11-03 | 0 | 0 | 5 | 2,521 |
+| [aries](aries_905206466410057728.md) | 2025-11-03 | 0 | 0 | 0 | 2,521 |
 | [aifaq](aifaq_1182418263460819085.md) | 2025-09-14 | 0 | 0 | 0 | 588 |
 | [solang-solana](solang-solana_1133399591610482779.md) | 2025-04-30 | 0 | 0 | 0 | 439 |
 | [blockchain-explorer](blockchain-explorer_1039606111654920255.md) | 2025-07-12 | 0 | 0 | 0 | 338 |
@@ -56,7 +56,7 @@
 | [solang-polkadot](solang-polkadot_1133399534442123355.md) | 2023-12-28 | 0 | 0 | 0 | 15 |
 | [fabric-opssc](fabric-opssc_942805501681496094.md) | 2025-01-14 | 0 | 0 | 0 | 13 |
 | [open-enterprise-agent-security-notices](open-enterprise-agent-security-notices_1199354196944748614.md) | 2024-01-25 | 0 | 0 | 0 | 10 |
-| [agora](agora_1158477016102862962.md) | 2026-08-11 | 0 | 1 | 4 | 10 |
+| [agora](agora_1158477016102862962.md) | 2026-08-11 | 0 | 1 | 1 | 10 |
 | [mirbft](mirbft_954377029262909510.md) | 2023-09-19 | 0 | 0 | 0 | 9 |
 | [anoncreds-revocation](anoncreds-revocation_1037472953383800893.md) | 2023-01-09 | 0 | 0 | 0 | 9 |
 | [decentralized-directory-protocol](decentralized-directory-protocol_1412482928814063706.md) | 2026-07-22 | 0 | 0 | 3 | 9 |
@@ -83,11 +83,11 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 13 | lfdt-ca, LFDT Staff |
-| 2 | [Matthew Whitehead](https://github.com/matthew1001) | 13 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 13 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 12 | lfdt-ca, LFDT Staff |
 | 3 | amitthosare | 7 | Credebl maintainer, Project Maintainer |
 | 4 | Admiral OOM | 6 | — |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
+| 5 | Ankita | 3 | Credebl maintainer, Project Maintainer |
 
 ### All Time
 

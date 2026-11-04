@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 651
 - **Last 30 Days:** 4
 - **Last 90 Days:** 11
-- **Last 365 Days:** 209
+- **Last 365 Days:** 205
 - **First Message:** 2024-06-27
 - **Last Message:** 2026-10-14
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [lockness-contribute](lockness-contribute_1285268686147424388.md) | 2026-10-08 | 2 | 5 | 167 | 379 |
+| [lockness-contribute](lockness-contribute_1285268686147424388.md) | 2026-10-08 | 2 | 5 | 163 | 379 |
 | [lockness-maintainers](lockness-maintainers_1255573353683746856.md) | 2026-10-14 | 2 | 6 | 35 | 201 |
 | [lockness](lockness_1294284489635139585.md) | 2026-07-01 | 0 | 0 | 2 | 62 |
 | [lockness-announce](lockness-announce_1285268049913712641.md) | 2026-04-20 | 0 | 0 | 5 | 9 |
@@ -41,11 +41,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Denis | 89 | Project Maintainer, Lockness Maintainer |
+| 1 | Denis | 88 | Project Maintainer, Lockness Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 25 | lfdt-ca, LFDT Staff |
 | 3 | TheRogueVigilante | 13 | — |
-| 4 | Alfonz | 12 | — |
-| 5 | shridhar panigrahi | 10 | — |
+| 4 | shridhar panigrahi | 10 | — |
+| 5 | Alfonz | 9 | — |
 
 ### All Time
 

@@ -2,19 +2,19 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1195061874950144120
-- **Total Messages in Category:** 1,433
-- **Last 30 Days:** 32
-- **Last 90 Days:** 77
+- **Total Messages in Category:** 1,434
+- **Last 30 Days:** 33
+- **Last 90 Days:** 78
 - **Last 365 Days:** 201
 - **First Message:** 2024-01-11
-- **Last Message:** 2026-10-30
+- **Last Message:** 2026-11-03
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-10-30 | 30 | 74 | 143 | 889 |
-| [web3j-general](web3j-general_1195062053682032700.md) | 2026-10-21 | 2 | 3 | 58 | 544 |
+| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-11-03 | 31 | 75 | 144 | 890 |
+| [web3j-general](web3j-general_1195062053682032700.md) | 2026-10-21 | 2 | 3 | 57 | 544 |
 
 ## Most Active Users
 
@@ -25,7 +25,7 @@
 | 1 | George Tebrean | 12 | Project Maintainer, Web3j Maintainer |
 | 2 | Saurav | 7 | — |
 | 3 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 6 | Project Maintainer, Web3j Maintainer |
-| 4 | Dev | 3 | — |
+| 4 | Dev | 4 | — |
 | 5 | Akshat K | 2 | — |
 
 ### Last 90 Days
@@ -35,7 +35,7 @@
 | 1 | George Tebrean | 24 | Project Maintainer, Web3j Maintainer |
 | 2 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 19 | Project Maintainer, Web3j Maintainer |
 | 3 | Saurav | 12 | — |
-| 4 | Dev | 10 | — |
+| 4 | Dev | 11 | — |
 | 5 | toji | 6 | — |
 
 ### Last 365 Days
@@ -43,7 +43,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | George Tebrean | 54 | Project Maintainer, Web3j Maintainer |
-| 2 | Dev | 45 | — |
+| 2 | Dev | 46 | — |
 | 3 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 41 | Project Maintainer, Web3j Maintainer |
 | 4 | Saurav | 18 | — |
 | 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | lfdt-ca, LFDT Staff |
@@ -62,7 +62,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 189 |
+| 2026 | 190 |
 | 2025 | 341 |
 | 2024 | 903 |
 
@@ -70,6 +70,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-11 | 1 |
 | 2026-10 | 38 |
 | 2026-09 | 27 |
 | 2026-08 | 12 |
@@ -107,6 +108,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-03 | 1 |
 | 2026-10-30 | 1 |
 | 2026-10-27 | 1 |
 | 2026-10-26 | 1 |

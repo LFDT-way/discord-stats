@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414671746065371186
-- **Total Messages:** 161
-- **Last 30 Days:** 2
-- **Last 90 Days:** 16
-- **Last 365 Days:** 131
+- **Total Messages:** 169
+- **Last 30 Days:** 10
+- **Last 90 Days:** 24
+- **Last 365 Days:** 139
 - **First Message:** 2025-09-24
-- **Last Message:** 2026-10-22
+- **Last Message:** 2026-11-03
 
 ## Most Active Users
 
@@ -16,16 +16,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [danielabarbosa](https://github.com/daniela-barbosa) | 1 | LFDT Staff |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 1 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 5 | Lab Leader |
+| 2 | microbiocarly | 4 | Project Maintainer, ToIP |
+| 3 | [danielabarbosa](https://github.com/daniela-barbosa) | 1 | LFDT Staff |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
-| 2 | John Phillips | 3 | Project Maintainer, ToIP |
-| 3 | microbiocarly | 2 | Project Maintainer, ToIP |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 8 | Lab Leader |
+| 2 | microbiocarly | 6 | Project Maintainer, ToIP |
+| 3 | John Phillips | 3 | Project Maintainer, ToIP |
 | 4 | [drummondreed](https://github.com/talltree) | 2 | Project Maintainer, ToIP |
 | 5 | [geoffturk](https://github.com/geoffturk) | 2 | Project Maintainer, ToIP |
 
@@ -33,33 +34,34 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 36 | Project Maintainer, ToIP |
+| 1 | microbiocarly | 40 | Project Maintainer, ToIP |
 | 2 | [drummondreed](https://github.com/talltree) | 21 | Project Maintainer, ToIP |
 | 3 | [firegod](https://github.com/wenjing) | 14 | Project Maintainer, ToIP |
-| 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 10 | Project Maintainer, ToIP |
-| 5 | [danielabarbosa](https://github.com/daniela-barbosa) | 7 | LFDT Staff |
+| 4 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 10 | Lab Leader |
+| 5 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 10 | Project Maintainer, ToIP |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 43 | Project Maintainer, ToIP |
+| 1 | microbiocarly | 47 | Project Maintainer, ToIP |
 | 2 | [drummondreed](https://github.com/talltree) | 27 | Project Maintainer, ToIP |
 | 3 | [firegod](https://github.com/wenjing) | 20 | Project Maintainer, ToIP |
 | 4 | [Ry Jones](https://github.com/ryjones) | 11 | lfdt-ca, LFDT Staff |
-| 5 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 10 | Project Maintainer, ToIP |
+| 5 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 10 | Lab Leader |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 120 |
+| 2026 | 128 |
 | 2025 | 41 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
+| 2026-11 | 8 |
 | 2026-10 | 2 |
 | 2026-09 | 3 |
 | 2026-08 | 11 |
@@ -78,6 +80,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-03 | 8 |
 | 2026-10-22 | 2 |
 | 2026-09-17 | 3 |
 | 2026-08-30 | 2 |

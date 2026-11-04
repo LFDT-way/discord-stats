@@ -1,22 +1,22 @@
 # Guild Report: OpenWallet Foundation
 
 - **Guild ID:** 1022962884864643214
-- **Total Messages:** 9,802
-- **Last 30 Days:** 160
-- **Last 90 Days:** 384
-- **Last 365 Days:** 1,979 — [active users](users.md)
+- **Total Messages:** 9,809
+- **Last 30 Days:** 167
+- **Last 90 Days:** 391
+- **Last 365 Days:** 1,980 — [active users](users.md)
 - **First Message:** 2022-09-23
-- **Last Message:** 2026-11-03
+- **Last Message:** 2026-11-04
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,946 | 140 | 321 | 1,309 | 2023-11-08 | 2026-11-02 |
+| [Growth Projects](Growth_Projects/README.md) | 3,953 | 147 | 328 | 1,315 | 2023-11-08 | 2026-11-04 |
 | [General](General/README.md) | 1,866 | 3 | 7 | 66 | 2022-09-23 | 2026-10-24 |
-| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 0 | 13 | 108 | 2022-09-28 | 2026-09-24 |
-| [Impact Projects](Impact_Projects/README.md) | 880 | 12 | 15 | 161 | 2024-09-26 | 2026-10-26 |
+| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 0 | 13 | 105 | 2022-09-28 | 2026-09-24 |
+| [Impact Projects](Impact_Projects/README.md) | 880 | 12 | 15 | 159 | 2024-09-26 | 2026-10-26 |
 | [Labs](Labs/README.md) | 859 | 4 | 26 | 333 | 2023-06-02 | 2026-10-20 |
 | [Archive](Archive/README.md) | 345 | 0 | 0 | 0 | 2022-09-23 | 2025-10-23 |
 | [Information](Information/README.md) | 70 | 1 | 2 | 2 | 2022-09-28 | 2026-11-03 |
@@ -28,8 +28,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | birte_lr | 33 | — |
-| 2 | [davidz25](https://github.com/davidz25) | 20 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 3 | [Mirko](https://github.com/cre8) | 18 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [Mirko](https://github.com/cre8) | 20 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 3 | [davidz25](https://github.com/davidz25) | 20 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 4 | [esune](https://github.com/esune) | 17 | Project Maintainer |
 | 5 | RMLearney | 10 | — |
 
@@ -37,7 +37,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 86 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 88 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | birte_lr | 61 | — |
 | 3 | [davidz25](https://github.com/davidz25) | 32 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 4 | Cyril | 25 | — |
@@ -47,7 +47,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 394 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 396 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Ry Jones, OWF](https://github.com/ryjones) | 142 | Linux Foundation Staff |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 139 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
@@ -57,7 +57,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 644 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 646 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 499 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 402 | Linux Foundation Staff |
 | 4 | Tracy | 399 | — |
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,595 |
+| 2026 | 1,602 |
 | 2025 | 2,830 |
 | 2024 | 2,596 |
 | 2023 | 1,595 |
@@ -77,7 +77,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 8 |
+| 2026-11 | 15 |
 | 2026-10 | 161 |
 | 2026-09 | 166 |
 | 2026-08 | 53 |
@@ -133,7 +133,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-11-03 | 1 |
+| 2026-11-04 | 4 |
+| 2026-11-03 | 4 |
 | 2026-11-02 | 7 |
 | 2026-10-29 | 3 |
 | 2026-10-28 | 9 |

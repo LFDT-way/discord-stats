@@ -2,21 +2,21 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
-- **Total Messages in Category:** 3,946
-- **Last 30 Days:** 140
-- **Last 90 Days:** 321
-- **Last 365 Days:** 1,309
+- **Total Messages in Category:** 3,953
+- **Last 30 Days:** 147
+- **Last 90 Days:** 328
+- **Last 365 Days:** 1,315
 - **First Message:** 2023-11-08
-- **Last Message:** 2026-11-02
+- **Last Message:** 2026-11-04
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credo](credo_1179453305856991263.md) | 2026-10-25 | 16 | 20 | 156 | 1,106 |
-| [bifold](bifold_1209891839071756419.md) | 2026-10-20 | 5 | 20 | 136 | 915 |
+| [credo](credo_1179453305856991263.md) | 2026-10-25 | 16 | 20 | 155 | 1,106 |
+| [bifold](bifold_1209891839071756419.md) | 2026-11-03 | 8 | 23 | 139 | 918 |
 | [multipaz](multipaz_1179828955717574707.md) | 2026-10-29 | 31 | 53 | 247 | 677 |
-| [eudiplo](eudiplo_1399429216604258365.md) | 2026-11-02 | 61 | 199 | 641 | 653 |
+| [eudiplo](eudiplo_1399429216604258365.md) | 2026-11-04 | 65 | 203 | 645 | 657 |
 | [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 0 | 71 | 268 |
 | [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 1 | 105 |
 | [owl](owl_1214965981470924911.md) | 2026-05-07 | 0 | 0 | 10 | 85 |
@@ -33,15 +33,15 @@
 | ---: | :--- | ---: | :--- |
 | 1 | birte_lr | 33 | — |
 | 2 | [davidz25](https://github.com/davidz25) | 20 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 3 | [esune](https://github.com/esune) | 16 | Project Maintainer |
-| 4 | [Mirko](https://github.com/cre8) | 15 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 5 | [VishnuSanal](https://github.com/VishnuSanal) | 7 | multipaz maintainer, Project Maintainer |
+| 3 | [Mirko](https://github.com/cre8) | 17 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 4 | [esune](https://github.com/esune) | 16 | Project Maintainer |
+| 5 | Jonas Hoffmann (FU Berlin) | 7 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 74 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 76 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | birte_lr | 61 | — |
 | 3 | [davidz25](https://github.com/davidz25) | 32 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 4 | Cyril | 25 | — |
@@ -51,7 +51,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 336 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 338 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | Cyril | 116 | — |
 | 3 | [davidz25](https://github.com/davidz25) | 115 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 68 | Linux Foundation Staff |
@@ -61,7 +61,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 394 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 396 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [davidz25](https://github.com/davidz25) | 318 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 206 | Linux Foundation Staff |
 | 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 176 | Linux Foundation Staff |
@@ -71,7 +71,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,151 |
+| 2026 | 1,158 |
 | 2025 | 1,412 |
 | 2024 | 1,309 |
 | 2023 | 74 |
@@ -80,7 +80,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 7 |
+| 2026-11 | 14 |
 | 2026-10 | 142 |
 | 2026-09 | 129 |
 | 2026-08 | 47 |
@@ -122,6 +122,8 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-04 | 4 |
+| 2026-11-03 | 3 |
 | 2026-11-02 | 7 |
 | 2026-10-29 | 3 |
 | 2026-10-28 | 9 |

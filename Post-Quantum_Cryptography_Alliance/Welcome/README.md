@@ -2,18 +2,18 @@
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1202723483289780234
-- **Total Messages in Category:** 516
-- **Last 30 Days:** 14
-- **Last 90 Days:** 46
-- **Last 365 Days:** 150
+- **Total Messages in Category:** 517
+- **Last 30 Days:** 12
+- **Last 90 Days:** 47
+- **Last 365 Days:** 151
 - **First Message:** 2024-02-01
-- **Last Message:** 2026-11-02
+- **Last Message:** 2026-11-04
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [general](general_1202723483289780236.md) | 2026-11-02 | 14 | 46 | 148 | 478 |
+| [general](general_1202723483289780236.md) | 2026-11-04 | 12 | 47 | 149 | 479 |
 | [linkedin](linkedin_1205645746192261220.md) | 2026-05-24 | 0 | 0 | 2 | 33 |
 | [links](links_1205170239436754974.md) | 2024-02-13 | 0 | 0 | 0 | 4 |
 | [events](events_1214569223012089878.md) | 2025-03-11 | 0 | 0 | 0 | 1 |
@@ -27,8 +27,8 @@
 | 1 | Tim | 2 | — |
 | 2 | Connor 🇺🇸 AF | 2 | — |
 | 3 | Maarl | 2 | — |
-| 4 | Jarek Duda | 2 | — |
-| 5 | brent | 1 | — |
+| 4 | brent | 1 | — |
+| 5 | Abacus | 1 | — |
 
 ### Last 90 Days
 
@@ -64,7 +64,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 126 |
+| 2026 | 127 |
 | 2025 | 144 |
 | 2024 | 246 |
 
@@ -72,7 +72,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 1 |
+| 2026-11 | 2 |
 | 2026-10 | 15 |
 | 2026-09 | 24 |
 | 2026-08 | 7 |
@@ -110,6 +110,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-04 | 1 |
 | 2026-11-02 | 1 |
 | 2026-10-30 | 2 |
 | 2026-10-25 | 1 |

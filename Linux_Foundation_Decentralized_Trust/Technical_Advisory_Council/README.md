@@ -4,7 +4,7 @@
 - **Category ID:** 941383941217222708
 - **Total Messages in Category:** 2,649
 - **Last 30 Days:** 51
-- **Last 90 Days:** 140
+- **Last 90 Days:** 139
 - **Last 365 Days:** 392
 - **First Message:** 2022-02-10
 - **Last Message:** 2026-11-03
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-11-03 | 51 | 140 | 374 | 2,596 |
+| [tac](tac_941384040316018790.md) | 2026-11-03 | 51 | 139 | 374 | 2,596 |
 | [automated-pipelines](automated-pipelines_1156961689971998782.md) | 2026-04-15 | 0 | 0 | 18 | 52 |
 | [tac-announcements](tac-announcements_941399554731966564.md) | 2022-02-17 | 0 | 0 | 0 | 1 |
 
@@ -33,7 +33,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 51 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 50 | TAC member, Chapter Leader |
 | 2 | [davidwboswell](https://github.com/davidwboswell) | 15 | lfdt-ca, LFDT Staff |
 | 3 | [Ry Jones](https://github.com/ryjones) | 12 | lfdt-ca, LFDT Staff |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 12 | lfdt-ca, LFDT Staff |

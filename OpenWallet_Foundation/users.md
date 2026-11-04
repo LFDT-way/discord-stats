@@ -4,12 +4,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
-- **Active Users (365d):** 126
-- **Messages (365d):** 1,979
+- **Active Users (365d):** 125
+- **Messages (365d):** 1,980
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 394 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 396 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Ry Jones, OWF](https://github.com/ryjones) | 142 | Linux Foundation Staff |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 139 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
@@ -23,8 +23,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 12 | davidejalexander | 34 | SIG member |
 | 13 | RMLearney | 32 | — |
 | 14 | Timbl | 31 | — |
-| 15 | [swcurran](https://github.com/swcurran) | 28 | Lab Maintainer, TAC members, Project Maintainer |
-| 16 | Thomas Tran | 28 | Lab Maintainer |
+| 15 | Thomas Tran | 28 | Lab Maintainer |
+| 16 | [swcurran](https://github.com/swcurran) | 27 | Lab Maintainer, TAC members, Project Maintainer |
 | 17 | [VishnuSanal](https://github.com/VishnuSanal) | 26 | multipaz maintainer, Project Maintainer |
 | 18 | [esune](https://github.com/esune) | 25 | Project Maintainer |
 | 19 | ai Igor | 24 | — |
@@ -43,19 +43,19 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 32 | albertoleon_7794 | 11 | — |
 | 33 | [gmulhearn](https://github.com/gmulhearn) | 10 | vcx maintainer, Project Maintainer |
 | 34 | sirawt | 10 | — |
-| 35 | Thiago Romano | 9 | — |
-| 36 | [drummondreed](https://github.com/talltree) | 9 | — |
-| 37 | Jim St.Clair | 8 | SIG member |
-| 38 | Anshulip | 8 | — |
-| 39 | Abhi | 7 | — |
-| 40 | Pragya Jain | 7 | — |
-| 41 | jarosss_ | 6 | — |
-| 42 | Jason | 6 | bifold maintainers, Project Maintainer |
-| 43 | Ever | 6 | multipaz maintainer |
-| 44 | vivek | 6 | — |
-| 45 | [amanji](https://github.com/amanji) | 6 | — |
-| 46 | Neha | 5 | — |
-| 47 | Jonas Hoffmann (FU Berlin) | 5 | — |
+| 35 | Jason | 9 | bifold maintainers, Project Maintainer |
+| 36 | Thiago Romano | 9 | — |
+| 37 | [drummondreed](https://github.com/talltree) | 9 | — |
+| 38 | Jim St.Clair | 8 | SIG member |
+| 39 | Anshulip | 8 | — |
+| 40 | Jonas Hoffmann (FU Berlin) | 7 | — |
+| 41 | Abhi | 7 | — |
+| 42 | Pragya Jain | 7 | — |
+| 43 | jarosss_ | 6 | — |
+| 44 | Ever | 6 | multipaz maintainer |
+| 45 | vivek | 6 | — |
+| 46 | [amanji](https://github.com/amanji) | 6 | — |
+| 47 | Neha | 5 | — |
 | 48 | gr0 | 5 | — |
 | 49 | Ginga | 5 | — |
 | 50 | Aftab Saraz | 5 | — |
@@ -63,52 +63,52 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 52 | geertdoornbos | 4 | — |
 | 53 | Bilal | 4 | — |
 | 54 | Pragya Jain | 4 | — |
-| 55 | Harshitha | 4 | — |
-| 56 | Damignos | 4 | — |
-| 57 | senu | 4 | — |
-| 58 | [Daniel Marvin](https://github.com/danielmarv) | 4 | — |
-| 59 | aaron | 4 | — |
-| 60 | akishiseki | 3 | — |
-| 61 | Hassan | 3 | — |
-| 62 | [Gavinok](https://github.com/Gavinok) | 3 | — |
-| 63 | mashukur.rahman | 3 | — |
-| 64 | [JSyro](https://github.com/Jsyro) | 3 | Lab Maintainer, Project Maintainer |
-| 65 | LukeBC | 3 | — |
-| 66 | ζατch bell | 3 | — |
-| 67 | ai-Igor | 3 | — |
-| 68 | Muhammad Ahmer Khan | 3 | — |
-| 69 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 3 | Lab Maintainer |
-| 70 | Alisson-Dev-Zolvency | 3 | — |
-| 71 | marnix | 3 | — |
-| 72 | darrello | 3 | — |
-| 73 | [Sai Ranjit](https://github.com/sairanjit) | 3 | — |
-| 74 | [cvarjao](https://github.com/cvarjao) | 3 | bifold maintainers, Project Maintainer |
-| 75 | Alan poon | 3 | — |
-| 76 | Thomas T | 3 | — |
-| 77 | André Engelhorn | 3 | — |
-| 78 | Maticus | 2 | — |
-| 79 | Micah Peltier | 2 | — |
-| 80 | mobappdev | 2 | — |
-| 81 | Pratik | 2 | — |
-| 82 | Soloshade | 2 | — |
-| 83 | Gordito Ancestral | 2 | — |
-| 84 | friendlyfire137 | 2 | Project Maintainer |
-| 85 | Akshay Kurhekar | 2 | — |
-| 86 | nerio | 2 | — |
-| 87 | Thilina Senarath | 2 | — |
-| 88 | kevinaboos | 2 | — |
-| 89 | Harsh | 2 | — |
-| 90 | BrunoM | 2 | — |
-| 91 | José Puma | 2 | — |
-| 92 | Jim Ezesinachi | 2 | — |
-| 93 | Thierry (Talao) | 2 | — |
-| 94 | KrishNa | 2 | — |
-| 95 | ademait | 2 | — |
-| 96 | tume2104 | 1 | — |
-| 97 | Sagara | 1 | Project Maintainer |
-| 98 | feldim2425 | 1 | — |
-| 99 | Sagar Khole | 1 | — |
-| 100 | ZeroEpoch | 1 | — |
+| 55 | senu | 4 | — |
+| 56 | [Daniel Marvin](https://github.com/danielmarv) | 4 | — |
+| 57 | aaron | 4 | — |
+| 58 | Damignos | 3 | — |
+| 59 | akishiseki | 3 | — |
+| 60 | Hassan | 3 | — |
+| 61 | [Gavinok](https://github.com/Gavinok) | 3 | — |
+| 62 | mashukur.rahman | 3 | — |
+| 63 | [JSyro](https://github.com/Jsyro) | 3 | Lab Maintainer, Project Maintainer |
+| 64 | LukeBC | 3 | — |
+| 65 | ζατch bell | 3 | — |
+| 66 | ai-Igor | 3 | — |
+| 67 | Muhammad Ahmer Khan | 3 | — |
+| 68 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 3 | Lab Maintainer |
+| 69 | Alisson-Dev-Zolvency | 3 | — |
+| 70 | marnix | 3 | — |
+| 71 | darrello | 3 | — |
+| 72 | [Sai Ranjit](https://github.com/sairanjit) | 3 | — |
+| 73 | [cvarjao](https://github.com/cvarjao) | 3 | bifold maintainers, Project Maintainer |
+| 74 | Alan poon | 3 | — |
+| 75 | Thomas T | 3 | — |
+| 76 | André Engelhorn | 3 | — |
+| 77 | Maticus | 2 | — |
+| 78 | Micah Peltier | 2 | — |
+| 79 | mobappdev | 2 | — |
+| 80 | Pratik | 2 | — |
+| 81 | Soloshade | 2 | — |
+| 82 | Gordito Ancestral | 2 | — |
+| 83 | friendlyfire137 | 2 | Project Maintainer |
+| 84 | Akshay Kurhekar | 2 | — |
+| 85 | nerio | 2 | — |
+| 86 | Thilina Senarath | 2 | — |
+| 87 | kevinaboos | 2 | — |
+| 88 | Harsh | 2 | — |
+| 89 | BrunoM | 2 | — |
+| 90 | José Puma | 2 | — |
+| 91 | Jim Ezesinachi | 2 | — |
+| 92 | Thierry (Talao) | 2 | — |
+| 93 | KrishNa | 2 | — |
+| 94 | ademait | 2 | — |
+| 95 | tume2104 | 1 | — |
+| 96 | Sagara | 1 | Project Maintainer |
+| 97 | feldim2425 | 1 | — |
+| 98 | Sagar Khole | 1 | — |
+| 99 | ZeroEpoch | 1 | — |
+| 100 | Harshitha | 1 | — |
 | 101 | FindingFilene | 1 | — |
 | 102 | ethanpunk_ | 1 | — |
 | 103 | Jazz | 1 | — |
@@ -124,14 +124,13 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 113 | anil.helvaci \| GMT +3 | 1 | — |
 | 114 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
 | 115 | rosterbyte | 1 | — |
-| 116 | [Patrik Stas](https://github.com/Patrik-Stas) | 1 | — |
-| 117 | Daev Mithran | 1 | — |
-| 118 | SRellihan.Phinxlab | 1 | — |
-| 119 | Iancu Fofiu | 1 | — |
-| 120 | Arsalan Shahzad | 1 | — |
-| 121 | sherri58 | 1 | — |
-| 122 | latika_04_17594 | 1 | — |
-| 123 | michkauf | 1 | — |
-| 124 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
-| 125 | Aaron | 1 | — |
-| 126 | arifthehappy | 1 | — |
+| 116 | Daev Mithran | 1 | — |
+| 117 | SRellihan.Phinxlab | 1 | — |
+| 118 | Iancu Fofiu | 1 | — |
+| 119 | Arsalan Shahzad | 1 | — |
+| 120 | sherri58 | 1 | — |
+| 121 | latika_04_17594 | 1 | — |
+| 122 | michkauf | 1 | — |
+| 123 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
+| 124 | Aaron | 1 | — |
+| 125 | arifthehappy | 1 | — |
