@@ -2,12 +2,12 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
-- **Total Messages in Category:** 21,513
-- **Last 30 Days:** 113
-- **Last 90 Days:** 216
-- **Last 365 Days:** 901
+- **Total Messages in Category:** 21,520
+- **Last 30 Days:** 119
+- **Last 90 Days:** 223
+- **Last 365 Days:** 896
 - **First Message:** 2021-11-05
-- **Last Message:** 2026-11-03
+- **Last Message:** 2026-11-04
 
 ## Channels in Category
 
@@ -21,12 +21,12 @@
 | [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 4 | 859 |
 | [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-10-30 | 7 | 22 | 176 | 354 |
 | [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-11-01 | 4 | 11 | 60 | 157 |
-| [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 0 | 107 | 148 |
+| [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 0 | 95 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-10-30 | 1 | 9 | 12 | 109 |
-| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-11-02 | 7 | 32 | 97 | 97 |
+| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-11-04 | 7 | 33 | 98 | 98 |
 | [fablo](fablo_1109190949394989127.md) | 2026-10-20 | 1 | 3 | 14 | 88 |
 | [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-10-23 | 3 | 16 | 84 | 84 |
-| [clpr](clpr_1559643143559717006.md) | 2026-11-03 | 78 | 78 | 78 | 78 |
+| [clpr](clpr_1559643143559717006.md) | 2026-11-04 | 84 | 84 | 84 | 84 |
 | [general](general_988569914266775662.md) | 2026-07-30 | 0 | 0 | 10 | 72 |
 | [cello](cello_941475454378991646.md) | 2026-10-25 | 6 | 7 | 16 | 60 |
 | [cc-tools](cc-tools_1156653969133809715.md) | 2025-05-07 | 0 | 0 | 0 | 45 |
@@ -51,18 +51,18 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [JessicaG](https://github.com/jwagantall) | 28 | lfdt-ca, LFDT Staff |
-| 2 | Edward Wertz (Hashgraph) | 25 | Lab Leader |
-| 3 | [hendrik.ebbers](https://github.com/hendrikebbers) | 8 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
+| 1 | [JessicaG](https://github.com/jwagantall) | 31 | lfdt-ca, LFDT Staff |
+| 2 | Edward Wertz (Hashgraph) | 27 | Lab Leader |
+| 3 | [hendrik.ebbers](https://github.com/hendrikebbers) | 9 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
 | 4 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
-| 5 | SecrizzMagician | 6 | — |
+| 5 | KittyKat | 6 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [JessicaG](https://github.com/jwagantall) | 28 | lfdt-ca, LFDT Staff |
-| 2 | Edward Wertz (Hashgraph) | 25 | Lab Leader |
+| 1 | [JessicaG](https://github.com/jwagantall) | 31 | lfdt-ca, LFDT Staff |
+| 2 | Edward Wertz (Hashgraph) | 27 | Lab Leader |
 | 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 16 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 4 | [Ry Jones](https://github.com/ryjones) | 15 | lfdt-ca, LFDT Staff |
 | 5 | kadalkidal | 12 | Lab Leader |
@@ -73,8 +73,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 86 | lfdt-ca, LFDT Staff |
 | 2 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 81 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
-| 3 | [RAWx18](https://github.com/RAWx18) | 61 | Lab Leader |
-| 4 | [DanielSzego](https://github.com/Daniel-Szego) | 54 | Meetup Organizer |
+| 3 | [DanielSzego](https://github.com/Daniel-Szego) | 54 | Meetup Organizer |
+| 4 | [RAWx18](https://github.com/RAWx18) | 52 | Lab Leader |
 | 5 | [Angelo De Caro](https://github.com/adecaro) | 49 | Lab Leader, Fabric Maintainer, Project Maintainer |
 
 ### All Time
@@ -91,7 +91,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 796 |
+| 2026 | 803 |
 | 2025 | 1,008 |
 | 2024 | 2,099 |
 | 2023 | 7,409 |
@@ -102,7 +102,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 22 |
+| 2026-11 | 29 |
 | 2026-10 | 104 |
 | 2026-09 | 42 |
 | 2026-08 | 54 |
@@ -166,6 +166,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-04 | 7 |
 | 2026-11-03 | 16 |
 | 2026-11-02 | 5 |
 | 2026-11-01 | 1 |

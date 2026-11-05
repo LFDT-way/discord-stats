@@ -4,9 +4,9 @@
 - **Category:** ToIP
 - **Channel ID:** 1414671405383159808
 - **Total Messages:** 185
-- **Last 30 Days:** 8
+- **Last 30 Days:** 6
 - **Last 90 Days:** 19
-- **Last 365 Days:** 156
+- **Last 365 Days:** 155
 - **First Message:** 2025-09-24
 - **Last Message:** 2026-11-03
 
@@ -18,7 +18,6 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
 | 2 | NeilJT | 2 | ToIP |
-| 3 | John Phillips | 2 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 

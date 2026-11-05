@@ -5,8 +5,8 @@
 - **Channel ID:** 1414670897037443205
 - **Total Messages:** 466
 - **Last 30 Days:** 31
-- **Last 90 Days:** 116
-- **Last 365 Days:** 370
+- **Last 90 Days:** 114
+- **Last 365 Days:** 363
 - **First Message:** 2025-09-24
 - **Last Message:** 2026-11-03
 
@@ -26,9 +26,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 44 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 43 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 28 | Project Maintainer, ToIP |
-| 3 | Nicky H | 14 | Project Maintainer, ToIP |
+| 3 | Nicky H | 13 | Project Maintainer, ToIP |
 | 4 | microbiocarly | 9 | Project Maintainer, ToIP |
 | 5 | lyn brooks | 7 | Project Maintainer, ToIP |
 
@@ -37,7 +37,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 130 | Lab Leader |
-| 2 | [drummondreed](https://github.com/talltree) | 124 | Project Maintainer, ToIP |
+| 2 | [drummondreed](https://github.com/talltree) | 121 | Project Maintainer, ToIP |
 | 3 | Nicky H | 37 | Project Maintainer, ToIP |
 | 4 | microbiocarly | 15 | Project Maintainer, ToIP |
 | 5 | stevevitka | 13 | ToIP |

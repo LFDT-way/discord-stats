@@ -6,7 +6,7 @@
 - **Total Messages:** 70
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 16
+- **Last 365 Days:** 13
 - **First Message:** 2023-10-03
 - **Last Message:** 2026-08-04
 
@@ -25,10 +25,10 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | EliMbadi | 4 | — |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
-| 3 | lyz4rd | 2 | — |
-| 4 | rout-chaitanya | 2 | — |
-| 5 | Esco | 2 | — |
+| 2 | lyz4rd | 2 | — |
+| 3 | rout-chaitanya | 2 | — |
+| 4 | Esco | 2 | — |
+| 5 | [bestbeforetoday](https://github.com/bestbeforetoday) | 2 | Project Maintainer, Fabric Maintainer |
 
 ### All Time
 

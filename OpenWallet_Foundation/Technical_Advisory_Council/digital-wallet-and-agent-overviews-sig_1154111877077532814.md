@@ -6,7 +6,7 @@
 - **Total Messages:** 138
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 10
+- **Last 365 Days:** 6
 - **First Message:** 2023-09-21
 - **Last Message:** 2025-11-17
 
@@ -24,8 +24,8 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 5 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | Samuel | 4 | SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 3 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | Samuel | 2 | SIG member |
 | 3 | Bilal | 1 | — |
 
 ### All Time
