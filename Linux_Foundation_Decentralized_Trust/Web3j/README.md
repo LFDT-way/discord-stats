@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1195061874950144120
 - **Total Messages in Category:** 1,434
-- **Last 30 Days:** 31
+- **Last 30 Days:** 28
 - **Last 90 Days:** 78
 - **Last 365 Days:** 199
 - **First Message:** 2024-01-11
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-11-03 | 29 | 75 | 144 | 890 |
+| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-11-03 | 26 | 75 | 144 | 890 |
 | [web3j-general](web3j-general_1195062053682032700.md) | 2026-10-21 | 2 | 3 | 55 | 544 |
 
 ## Most Active Users
@@ -22,9 +22,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | George Tebrean | 11 | Project Maintainer, Web3j Maintainer |
-| 2 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 6 | Project Maintainer, Web3j Maintainer |
-| 3 | Saurav | 6 | — |
+| 1 | George Tebrean | 10 | Project Maintainer, Web3j Maintainer |
+| 2 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 5 | Project Maintainer, Web3j Maintainer |
+| 3 | Saurav | 5 | — |
 | 4 | Dev | 4 | — |
 | 5 | Akshat K | 2 | — |
 

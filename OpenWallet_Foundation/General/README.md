@@ -2,12 +2,12 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1022962884864643218
-- **Total Messages in Category:** 1,866
-- **Last 30 Days:** 2
-- **Last 90 Days:** 7
-- **Last 365 Days:** 66
+- **Total Messages in Category:** 1,867
+- **Last 30 Days:** 3
+- **Last 90 Days:** 8
+- **Last 365 Days:** 67
 - **First Message:** 2022-09-23
-- **Last Message:** 2026-10-24
+- **Last Message:** 2026-11-05
 
 ## Channels in Category
 
@@ -20,7 +20,7 @@
 | [ideas-and-feedback](ideas-and-feedback_1022962884864643221.md) | 2025-11-11 | 0 | 0 | 2 | 54 |
 | [eudi-wallet-multistakeholder](eudi-wallet-multistakeholder_1128703082289692702.md) | 2024-10-09 | 0 | 0 | 0 | 50 |
 | [business-use-cases](business-use-cases_1024844107656478760.md) | 2023-12-01 | 0 | 0 | 0 | 43 |
-| [events](events_1022962884864643220.md) | 2026-02-16 | 0 | 0 | 4 | 29 |
+| [events](events_1022962884864643220.md) | 2026-11-05 | 1 | 1 | 5 | 30 |
 | [iiw-planning](iiw-planning_1222549866094395477.md) | 2025-04-02 | 0 | 0 | 0 | 17 |
 | [eic-planning](eic-planning_1224727458037764191.md) | 2024-06-03 | 0 | 0 | 0 | 13 |
 | [job-postings](job-postings_1357624384160006265.md) | 2025-07-28 | 0 | 0 | 0 | 5 |
@@ -34,24 +34,24 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 1 | — |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
+| 2 | [drummondreed](https://github.com/talltree) | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Ginga | 2 | — |
-| 2 | [drummondreed](https://github.com/talltree) | 2 | — |
-| 3 | Thilina Senarath | 1 | — |
-| 4 | RMLearney | 1 | — |
-| 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
+| 2 | Ginga | 2 | — |
+| 3 | [drummondreed](https://github.com/talltree) | 2 | — |
+| 4 | Thilina Senarath | 1 | — |
+| 5 | RMLearney | 1 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 16 | Linux Foundation Staff |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 17 | Linux Foundation Staff |
 | 2 | [Mirko](https://github.com/cre8) | 11 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | sirawt | 8 | — |
 | 4 | [drummondreed](https://github.com/talltree) | 8 | — |
@@ -63,7 +63,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Deleted User | 138 | — |
 | 2 | [drummondreed](https://github.com/talltree) | 83 | — |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 73 | Linux Foundation Staff |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 74 | Linux Foundation Staff |
 | 4 | OR13 | 50 | — |
 | 5 | [Mirko](https://github.com/cre8) | 46 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 
@@ -71,7 +71,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 42 |
+| 2026 | 43 |
 | 2025 | 150 |
 | 2024 | 226 |
 | 2023 | 842 |
@@ -81,6 +81,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-11 | 1 |
 | 2026-10 | 3 |
 | 2026-09 | 4 |
 | 2026-07 | 3 |
@@ -135,6 +136,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-05 | 1 |
 | 2026-10-24 | 1 |
 | 2026-10-22 | 1 |
 | 2026-10-05 | 1 |

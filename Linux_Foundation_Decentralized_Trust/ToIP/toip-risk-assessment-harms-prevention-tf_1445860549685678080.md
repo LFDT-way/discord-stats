@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1445860549685678080
-- **Total Messages:** 151
-- **Last 30 Days:** 23
-- **Last 90 Days:** 51
-- **Last 365 Days:** 151
+- **Total Messages:** 157
+- **Last 30 Days:** 29
+- **Last 90 Days:** 57
+- **Last 365 Days:** 157
 - **First Message:** 2025-12-03
-- **Last Message:** 2026-11-04
+- **Last Message:** 2026-11-05
 
 ## Most Active Users
 
@@ -16,17 +16,18 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 16 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 19 | Lab Leader |
 | 2 | Nicky H | 3 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
-| 4 | stevevitka | 1 | ToIP |
+| 4 | [Ry Jones](https://github.com/ryjones) | 3 | lfdt-ca, LFDT Staff |
+| 5 | stevevitka | 1 | ToIP |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 29 | Lab Leader |
-| 2 | [Ry Jones](https://github.com/ryjones) | 9 | lfdt-ca, LFDT Staff |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 32 | Lab Leader |
+| 2 | [Ry Jones](https://github.com/ryjones) | 12 | lfdt-ca, LFDT Staff |
 | 3 | Nicky H | 7 | Project Maintainer, ToIP |
 | 4 | stevevitka | 3 | ToIP |
 | 5 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
@@ -35,34 +36,34 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 68 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 71 | Lab Leader |
 | 2 | Nicky H | 25 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 16 | Project Maintainer, ToIP |
-| 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
-| 5 | [Ry Jones](https://github.com/ryjones) | 10 | lfdt-ca, LFDT Staff |
+| 4 | [Ry Jones](https://github.com/ryjones) | 13 | lfdt-ca, LFDT Staff |
+| 5 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 68 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 71 | Lab Leader |
 | 2 | Nicky H | 25 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 16 | Project Maintainer, ToIP |
-| 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
-| 5 | [Ry Jones](https://github.com/ryjones) | 10 | lfdt-ca, LFDT Staff |
+| 4 | [Ry Jones](https://github.com/ryjones) | 13 | lfdt-ca, LFDT Staff |
+| 5 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 11 | Project Maintainer, ToIP |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 137 |
+| 2026 | 143 |
 | 2025 | 14 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 4 |
+| 2026-11 | 10 |
 | 2026-10 | 35 |
 | 2026-09 | 7 |
 | 2026-08 | 7 |
@@ -77,6 +78,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-05 | 6 |
 | 2026-11-04 | 2 |
 | 2026-11-03 | 2 |
 | 2026-10-24 | 1 |

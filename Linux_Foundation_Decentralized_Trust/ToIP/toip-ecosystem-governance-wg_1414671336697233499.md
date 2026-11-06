@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414671336697233499
-- **Total Messages:** 263
-- **Last 30 Days:** 140
-- **Last 90 Days:** 162
-- **Last 365 Days:** 255
+- **Total Messages:** 264
+- **Last 30 Days:** 138
+- **Last 90 Days:** 163
+- **Last 365 Days:** 254
 - **First Message:** 2025-09-30
-- **Last Message:** 2026-11-04
+- **Last Message:** 2026-11-05
 
 ## Most Active Users
 
@@ -16,17 +16,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 53 | Project Maintainer, ToIP |
+| 1 | microbiocarly | 52 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 42 | Lab Leader |
 | 3 | [Ry Jones](https://github.com/ryjones) | 23 | lfdt-ca, LFDT Staff |
 | 4 | Manthan | 19 | — |
-| 5 | lyn brooks | 2 | Project Maintainer, ToIP |
+| 5 | lyn brooks | 1 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 63 | Project Maintainer, ToIP |
+| 1 | microbiocarly | 64 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 51 | Lab Leader |
 | 3 | [Ry Jones](https://github.com/ryjones) | 23 | lfdt-ca, LFDT Staff |
 | 4 | Manthan | 19 | — |
@@ -36,7 +36,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 91 | Project Maintainer, ToIP |
+| 1 | microbiocarly | 92 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 71 | Lab Leader |
 | 3 | [Ry Jones](https://github.com/ryjones) | 23 | lfdt-ca, LFDT Staff |
 | 4 | Manthan | 19 | — |
@@ -46,7 +46,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 96 | Project Maintainer, ToIP |
+| 1 | microbiocarly | 97 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 71 | Lab Leader |
 | 3 | [Ry Jones](https://github.com/ryjones) | 23 | lfdt-ca, LFDT Staff |
 | 4 | Manthan | 19 | — |
@@ -56,14 +56,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 244 |
+| 2026 | 245 |
 | 2025 | 19 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 10 |
+| 2026-11 | 11 |
 | 2026-10 | 130 |
 | 2026-09 | 22 |
 | 2026-08 | 1 |
@@ -83,6 +83,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-05 | 1 |
 | 2026-11-04 | 4 |
 | 2026-11-03 | 4 |
 | 2026-11-02 | 2 |

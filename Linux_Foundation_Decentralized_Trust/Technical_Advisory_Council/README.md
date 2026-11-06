@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 2,654
 - **Last 30 Days:** 55
 - **Last 90 Days:** 138
-- **Last 365 Days:** 397
+- **Last 365 Days:** 394
 - **First Message:** 2022-02-10
 - **Last Message:** 2026-11-04
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-11-04 | 55 | 138 | 379 | 2,601 |
+| [tac](tac_941384040316018790.md) | 2026-11-04 | 55 | 138 | 376 | 2,601 |
 | [automated-pipelines](automated-pipelines_1156961689971998782.md) | 2026-04-15 | 0 | 0 | 18 | 52 |
 | [tac-announcements](tac-announcements_941399554731966564.md) | 2022-02-17 | 0 | 0 | 0 | 1 |
 
@@ -45,7 +45,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Arun S M](https://github.com/arsulegai) | 142 | TAC member, Chapter Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 44 | lfdt-ca, LFDT Staff |
-| 3 | [davidwboswell](https://github.com/davidwboswell) | 36 | lfdt-ca, LFDT Staff |
+| 3 | [davidwboswell](https://github.com/davidwboswell) | 35 | lfdt-ca, LFDT Staff |
 | 4 | [hendrik.ebbers](https://github.com/hendrikebbers) | 19 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
 | 5 | [Enrique Lacal](https://github.com/EnriqueL8) | 19 | TAC member, Project Maintainer, Firefly Maintainer |
 

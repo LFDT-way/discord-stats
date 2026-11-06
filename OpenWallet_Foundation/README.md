@@ -1,9 +1,9 @@
 # Guild Report: OpenWallet Foundation
 
 - **Guild ID:** 1022962884864643214
-- **Total Messages:** 9,812
-- **Last 30 Days:** 154
-- **Last 90 Days:** 393
+- **Total Messages:** 9,814
+- **Last 30 Days:** 152
+- **Last 90 Days:** 392
 - **Last 365 Days:** 1,969 — [active users](users.md)
 - **First Message:** 2022-09-23
 - **Last Message:** 2026-11-05
@@ -13,13 +13,13 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,956 | 136 | 330 | 1,314 | 2023-11-08 | 2026-11-05 |
-| [General](General/README.md) | 1,866 | 2 | 7 | 66 | 2022-09-23 | 2026-10-24 |
+| [Growth Projects](Growth_Projects/README.md) | 3,956 | 133 | 328 | 1,312 | 2023-11-08 | 2026-11-05 |
+| [General](General/README.md) | 1,867 | 3 | 8 | 67 | 2022-09-23 | 2026-11-05 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 0 | 13 | 99 | 2022-09-28 | 2026-09-24 |
-| [Impact Projects](Impact_Projects/README.md) | 880 | 11 | 15 | 155 | 2024-09-26 | 2026-10-26 |
-| [Labs](Labs/README.md) | 859 | 4 | 26 | 333 | 2023-06-02 | 2026-10-20 |
+| [Impact Projects](Impact_Projects/README.md) | 880 | 10 | 15 | 155 | 2024-09-26 | 2026-10-26 |
+| [Labs](Labs/README.md) | 859 | 4 | 25 | 333 | 2023-06-02 | 2026-10-20 |
 | [Archive](Archive/README.md) | 345 | 0 | 0 | 0 | 2022-09-23 | 2025-10-23 |
-| [Information](Information/README.md) | 70 | 1 | 2 | 2 | 2022-09-28 | 2026-11-03 |
+| [Information](Information/README.md) | 71 | 2 | 3 | 3 | 2022-09-28 | 2026-11-05 |
 
 ## Most Active Users
 
@@ -27,10 +27,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | birte_lr | 23 | — |
+| 1 | birte_lr | 22 | — |
 | 2 | [Mirko](https://github.com/cre8) | 20 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | [davidz25](https://github.com/davidz25) | 20 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 4 | [esune](https://github.com/esune) | 17 | Project Maintainer |
+| 4 | [esune](https://github.com/esune) | 16 | Project Maintainer |
 | 5 | RMLearney | 10 | — |
 
 ### Last 90 Days
@@ -49,7 +49,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 395 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Ry Jones, OWF](https://github.com/ryjones) | 142 | Linux Foundation Staff |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 136 | Linux Foundation Staff |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 138 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 114 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 
@@ -58,7 +58,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 648 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 499 | Linux Foundation Staff |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 501 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 402 | Linux Foundation Staff |
 | 4 | Tracy | 399 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 321 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,605 |
+| 2026 | 1,607 |
 | 2025 | 2,830 |
 | 2024 | 2,596 |
 | 2023 | 1,595 |
@@ -77,7 +77,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 18 |
+| 2026-11 | 20 |
 | 2026-10 | 161 |
 | 2026-09 | 166 |
 | 2026-08 | 53 |
@@ -133,7 +133,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-11-05 | 1 |
+| 2026-11-05 | 3 |
 | 2026-11-04 | 6 |
 | 2026-11-03 | 4 |
 | 2026-11-02 | 7 |

@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 33
 - **Last 30 Days:** 2
 - **Last 90 Days:** 22
-- **Last 365 Days:** 33
+- **Last 365 Days:** 31
 - **First Message:** 2025-11-05
 - **Last Message:** 2026-11-04
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [minokawa](minokawa_1426221491833409536.md) | 2026-11-04 | 2 | 22 | 33 | 33 |
+| [minokawa](minokawa_1426221491833409536.md) | 2026-11-04 | 2 | 22 | 31 | 33 |
 
 ## Most Active Users
 
@@ -38,10 +38,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Parisa Ataei](https://github.com/pataei) | 10 | Project Maintainer, Minokawa Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
+| 2 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
 | 3 | [newton_meter (Kevin Millikin)](https://github.com/kmillikin) | 4 | TAC member, Project Maintainer, Minokawa Maintainer |
-| 4 | [SonicSwordcane](https://github.com/SupernaviX) | 3 | Project Maintainer, Firefly Maintainer |
-| 5 | [Arun S M](https://github.com/arsulegai) | 2 | TAC member, Chapter Leader |
+| 4 | [Arun S M](https://github.com/arsulegai) | 2 | TAC member, Chapter Leader |
+| 5 | [SonicSwordcane](https://github.com/SupernaviX) | 2 | Project Maintainer, Firefly Maintainer |
 
 ### All Time
 

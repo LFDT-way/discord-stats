@@ -4,7 +4,7 @@
 - **Category ID:** 1108449719212048556
 - **Total Messages in Category:** 859
 - **Last 30 Days:** 4
-- **Last 90 Days:** 26
+- **Last 90 Days:** 25
 - **Last 365 Days:** 333
 - **First Message:** 2023-06-02
 - **Last Message:** 2026-10-20
@@ -19,7 +19,7 @@
 | [sd-jwt-general](sd-jwt-general_1180161138030284910.md) | 2025-09-24 | 0 | 0 | 0 | 70 |
 | [oid4vc-ts](oid4vc-ts_1326616895453007933.md) | 2026-08-12 | 0 | 1 | 44 | 62 |
 | [vc-api](vc-api_1157008901020073994.md) | 2025-10-24 | 0 | 0 | 0 | 39 |
-| [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-08-18 | 0 | 2 | 21 | 28 |
+| [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-08-18 | 0 | 1 | 21 | 28 |
 | [wallet-framework-dotnet](wallet-framework-dotnet_1159552665940938842.md) | 2024-10-11 | 0 | 0 | 0 | 26 |
 | [pydentity-wallet](pydentity-wallet_1352199414956953630.md) | 2026-02-11 | 0 | 0 | 3 | 20 |
 | [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-10-20 | 4 | 17 | 19 | 19 |
@@ -52,7 +52,7 @@
 | 2 | Manthan | 5 | — |
 | 3 | [firegod](https://github.com/wenjing) | 3 | — |
 | 4 | [Lukas.J.Han](https://github.com/lukasjhan) | 3 | Lab Maintainer |
-| 5 | kukgini | 2 | — |
+| 5 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
 
 ### Last 365 Days
 

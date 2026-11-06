@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1518924075123081246
 - **Total Messages in Category:** 706
-- **Last 30 Days:** 24
+- **Last 30 Days:** 23
 - **Last 90 Days:** 82
 - **Last 365 Days:** 176
 - **First Message:** 2022-03-02
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [panurus](panurus_945691840110272522.md) | 2026-10-30 | 24 | 82 | 176 | 706 |
+| [panurus](panurus_945691840110272522.md) | 2026-10-30 | 23 | 82 | 176 | 706 |
 
 ## Most Active Users
 
@@ -22,7 +22,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Angelo De Caro](https://github.com/adecaro) | 14 | Lab Leader, Fabric Maintainer, Project Maintainer |
-| 2 | ⛅CloudEllie | 8 | — |
+| 2 | ⛅CloudEllie | 7 | — |
 | 3 | hstar | 1 | — |
 | 4 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
 

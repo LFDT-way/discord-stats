@@ -11,11 +11,11 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 395 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Ry Jones, OWF](https://github.com/ryjones) | 142 | Linux Foundation Staff |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 136 | Linux Foundation Staff |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 138 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 114 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 6 | [Lukas.J.Han](https://github.com/lukasjhan) | 102 | Lab Maintainer |
-| 7 | [Timo Glastra](https://github.com/TimoGlastra) | 94 | credo maintainers, Project Maintainer |
+| 7 | [Timo Glastra](https://github.com/TimoGlastra) | 92 | credo maintainers, Project Maintainer |
 | 8 | birte_lr | 61 | — |
 | 9 | espuni | 45 | — |
 | 10 | PStLouis | 36 | Lab Maintainer, Project Maintainer |
