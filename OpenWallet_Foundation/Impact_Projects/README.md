@@ -3,7 +3,7 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1285999377751736443
 - **Total Messages in Category:** 880
-- **Last 30 Days:** 10
+- **Last 30 Days:** 9
 - **Last 90 Days:** 15
 - **Last 365 Days:** 155
 - **First Message:** 2024-09-26
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aca-py](aca-py_1286299858994462842.md) | 2026-10-26 | 10 | 15 | 155 | 819 |
+| [aca-py](aca-py_1286299858994462842.md) | 2026-10-26 | 9 | 15 | 155 | 819 |
 | [acapy-did-registration](acapy-did-registration_1303470616581509130.md) | 2025-10-25 | 0 | 0 | 0 | 61 |
 
 ## Most Active Users
@@ -22,10 +22,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | RMLearney | 3 | — |
-| 2 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
-| 3 | Pragya Jain | 2 | — |
-| 4 | Thiago Romano | 2 | — |
+| 1 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
+| 2 | Pragya Jain | 2 | — |
+| 3 | Thiago Romano | 2 | — |
+| 4 | RMLearney | 2 | — |
 | 5 | Timbl | 1 | — |
 
 ### Last 90 Days

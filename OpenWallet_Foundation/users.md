@@ -5,11 +5,11 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 125
-- **Messages (365d):** 1,969
+- **Messages (365d):** 1,971
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 395 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 397 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Ry Jones, OWF](https://github.com/ryjones) | 142 | Linux Foundation Staff |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 138 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
@@ -28,8 +28,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 17 | [VishnuSanal](https://github.com/VishnuSanal) | 26 | multipaz maintainer, Project Maintainer |
 | 18 | [esune](https://github.com/esune) | 25 | Project Maintainer |
 | 19 | ai Igor | 24 | — |
-| 20 | [bryce-mcmath](https://github.com/bryce-mcmath) | 21 | bifold maintainers, Project Maintainer |
-| 21 | Graham | 19 | — |
+| 20 | [bryce-mcmath](https://github.com/bryce-mcmath) | 20 | bifold maintainers, Project Maintainer |
+| 21 | Graham | 18 | — |
 | 22 | kukgini | 18 | — |
 | 23 | [firegod](https://github.com/wenjing) | 16 | — |
 | 24 | [jamshale](https://github.com/jamshale) | 15 | Project Maintainer |
@@ -41,13 +41,13 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 30 | Amine | 11 | — |
 | 31 | albertoleon_7794 | 11 | — |
 | 32 | [gmulhearn](https://github.com/gmulhearn) | 10 | vcx maintainer, Project Maintainer |
-| 33 | Samuel | 10 | SIG member |
-| 34 | Jason | 9 | bifold maintainers, Project Maintainer |
-| 35 | Thiago Romano | 9 | — |
-| 36 | sirawt | 9 | — |
-| 37 | [drummondreed](https://github.com/talltree) | 9 | — |
-| 38 | Jim St.Clair | 8 | SIG member |
-| 39 | Jonas Hoffmann (FU Berlin) | 8 | — |
+| 33 | Jonas Hoffmann (FU Berlin) | 10 | — |
+| 34 | Samuel | 10 | SIG member |
+| 35 | Jason | 9 | bifold maintainers, Project Maintainer |
+| 36 | Thiago Romano | 9 | — |
+| 37 | sirawt | 9 | — |
+| 38 | [drummondreed](https://github.com/talltree) | 9 | — |
+| 39 | Jim St.Clair | 8 | SIG member |
 | 40 | Anshulip | 8 | — |
 | 41 | Abhi | 7 | — |
 | 42 | Pragya Jain | 7 | — |

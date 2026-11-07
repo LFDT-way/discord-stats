@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 2,364
 - **Last 30 Days:** 9
 - **Last 90 Days:** 23
-- **Last 365 Days:** 259
+- **Last 365 Days:** 258
 - **First Message:** 2021-11-11
 - **Last Message:** 2026-11-02
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-11-02 | 9 | 19 | 195 | 1,805 |
+| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-11-02 | 9 | 19 | 194 | 1,805 |
 | [cacti-users](cacti-users_908379366650703943.md) | 2026-10-02 | 0 | 2 | 51 | 510 |
 | [cacti-resources](cacti-resources_908349711537299497.md) | 2026-04-03 | 0 | 0 | 2 | 26 |
 | [cacti-announcements](cacti-announcements_908380513310498847.md) | 2026-10-01 | 0 | 2 | 8 | 17 |
@@ -42,7 +42,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [rafaelapb](https://github.com/RafaelAPB) | 70 | Project Maintainer, Cacti Maintainer |
+| 1 | [rafaelapb](https://github.com/RafaelAPB) | 69 | Project Maintainer, Cacti Maintainer |
 | 2 | Somesh | 27 | — |
 | 3 | [Carlos Amaro](https://github.com/LordKubaya) | 21 | Project Maintainer, Cacti Maintainer |
 | 4 | [vramaiitkgp](https://github.com/VRamakrishna) | 20 | TAC member, Cacti Maintainer |

@@ -2,12 +2,12 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 948958931512873030
-- **Total Messages in Category:** 14,174
-- **Last 30 Days:** 40
-- **Last 90 Days:** 82
-- **Last 365 Days:** 382
+- **Total Messages in Category:** 14,175
+- **Last 30 Days:** 36
+- **Last 90 Days:** 83
+- **Last 365 Days:** 383
 - **First Message:** 2022-03-03
-- **Last Message:** 2026-11-05
+- **Last Message:** 2026-11-06
 
 ## Channels in Category
 
@@ -15,11 +15,11 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [welcome](welcome_948959099842883654.md) | 2026-08-12 | 0 | 2 | 42 | 10,733 |
 | [general](general_1021077182501621830.md) | 2026-11-05 | 28 | 59 | 197 | 1,930 |
-| [job-postings](job-postings_1050607623566802984.md) | 2026-10-07 | 3 | 8 | 71 | 450 |
-| [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-11-04 | 4 | 4 | 14 | 421 |
-| [connections](connections_948959243095130142.md) | 2026-10-31 | 3 | 7 | 18 | 375 |
+| [job-postings](job-postings_1050607623566802984.md) | 2026-10-07 | 0 | 8 | 71 | 450 |
+| [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-11-04 | 3 | 4 | 14 | 421 |
+| [connections](connections_948959243095130142.md) | 2026-10-31 | 2 | 7 | 18 | 375 |
 | [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-10-27 | 1 | 1 | 29 | 192 |
-| [announcements](announcements_953133039372877844.md) | 2026-06-30 | 0 | 0 | 8 | 39 |
+| [announcements](announcements_953133039372877844.md) | 2026-11-06 | 1 | 1 | 9 | 40 |
 | [git-help](git-help_1098621099681513492.md) | 2026-10-19 | 1 | 1 | 3 | 34 |
 
 ## Most Active Users
@@ -29,10 +29,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 8 | lfdt-ca, LFDT Staff |
-| 2 | Duan | 5 | — |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
-| 4 | De Open Source Guy | 3 | — |
-| 5 | Yash | 3 | — |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
+| 3 | De Open Source Guy | 3 | — |
+| 4 | Yash | 3 | — |
+| 5 | Nova Hayes | 2 | — |
 
 ### Last 90 Days
 
@@ -68,7 +68,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 302 |
+| 2026 | 303 |
 | 2025 | 523 |
 | 2024 | 1,379 |
 | 2023 | 7,571 |
@@ -78,7 +78,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 8 |
+| 2026-11 | 9 |
 | 2026-10 | 34 |
 | 2026-09 | 28 |
 | 2026-08 | 15 |
@@ -140,6 +140,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-06 | 1 |
 | 2026-11-05 | 1 |
 | 2026-11-04 | 3 |
 | 2026-11-03 | 4 |

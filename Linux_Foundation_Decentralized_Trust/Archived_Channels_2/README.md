@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 7,188
 - **Last 30 Days:** 0
 - **Last 90 Days:** 2
-- **Last 365 Days:** 76
+- **Last 365 Days:** 73
 - **First Message:** 2022-02-12
 - **Last Message:** 2026-09-24
 
@@ -29,7 +29,7 @@
 | [business-partner-agent](business-partner-agent_948240184124788736.md) | 2025-11-07 | 0 | 0 | 1 | 114 |
 | [latinoamerica-chapter](latinoamerica-chapter_946127492622721095.md) | 2026-06-17 | 0 | 0 | 3 | 108 |
 | [harmonia](harmonia_1118266461736140841.md) | 2025-02-04 | 0 | 0 | 0 | 99 |
-| [onboarding-content-task-force](onboarding-content-task-force_1070733078772854856.md) | 2025-11-07 | 0 | 0 | 9 | 94 |
+| [onboarding-content-task-force](onboarding-content-task-force_1070733078772854856.md) | 2025-11-07 | 0 | 0 | 8 | 94 |
 | [learning-materials-development](learning-materials-development_943951538345377832.md) | 2024-06-10 | 0 | 0 | 0 | 86 |
 | [healthcare-sig](healthcare-sig_943951175634550874.md) | 2026-04-22 | 0 | 0 | 3 | 83 |
 | [private-data-objects](private-data-objects_1195066449685905548.md) | 2025-12-14 | 0 | 0 | 1 | 83 |
@@ -45,7 +45,7 @@
 | [hyperledger-challenge](hyperledger-challenge_946373162008985640.md) | 2024-08-06 | 0 | 0 | 0 | 48 |
 | [capital-markets-sig](capital-markets-sig_943951056252063744.md) | 2026-06-08 | 0 | 0 | 2 | 47 |
 | [cardea](cardea_1098698391137046679.md) | 2024-10-10 | 0 | 0 | 0 | 44 |
-| [project-consistency-task-force](project-consistency-task-force_1388070912435425320.md) | 2025-11-14 | 0 | 0 | 22 | 44 |
+| [project-consistency-task-force](project-consistency-task-force_1388070912435425320.md) | 2025-11-14 | 0 | 0 | 20 | 44 |
 | [bdls](bdls_1035218321051746344.md) | 2026-03-24 | 0 | 0 | 2 | 37 |
 | [meetups](meetups_966023754016759849.md) | 2026-02-18 | 0 | 0 | 1 | 35 |
 | [splice](splice_1210332028281688135.md) | 2026-04-22 | 0 | 0 | 2 | 34 |
@@ -83,10 +83,10 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 13 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 12 | lfdt-ca, LFDT Staff |
+| 1 | [Ry Jones](https://github.com/ryjones) | 12 | lfdt-ca, LFDT Staff |
+| 2 | [Matthew Whitehead](https://github.com/matthew1001) | 11 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 3 | amitthosare | 7 | Credebl maintainer, Project Maintainer |
-| 4 | Admiral OOM | 6 | — |
+| 4 | Admiral OOM | 5 | — |
 | 5 | Ankita | 3 | Credebl maintainer, Project Maintainer |
 
 ### All Time

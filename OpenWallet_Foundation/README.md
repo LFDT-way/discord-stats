@@ -1,25 +1,26 @@
 # Guild Report: OpenWallet Foundation
 
 - **Guild ID:** 1022962884864643214
-- **Total Messages:** 9,814
+- **Total Messages:** 9,818
 - **Last 30 Days:** 152
-- **Last 90 Days:** 392
-- **Last 365 Days:** 1,969 — [active users](users.md)
+- **Last 90 Days:** 396
+- **Last 365 Days:** 1,978 — [active users](users.md)
 - **First Message:** 2022-09-23
-- **Last Message:** 2026-11-05
+- **Last Message:** 2026-11-07
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,956 | 133 | 328 | 1,312 | 2023-11-08 | 2026-11-05 |
+| [Growth Projects](Growth_Projects/README.md) | 3,960 | 134 | 332 | 1,314 | 2023-11-08 | 2026-11-07 |
 | [General](General/README.md) | 1,867 | 3 | 8 | 67 | 2022-09-23 | 2026-11-05 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 0 | 13 | 99 | 2022-09-28 | 2026-09-24 |
-| [Impact Projects](Impact_Projects/README.md) | 880 | 10 | 15 | 155 | 2024-09-26 | 2026-10-26 |
+| [Impact Projects](Impact_Projects/README.md) | 880 | 9 | 15 | 155 | 2024-09-26 | 2026-10-26 |
 | [Labs](Labs/README.md) | 859 | 4 | 25 | 333 | 2023-06-02 | 2026-10-20 |
 | [Archive](Archive/README.md) | 345 | 0 | 0 | 0 | 2022-09-23 | 2025-10-23 |
 | [Information](Information/README.md) | 71 | 2 | 3 | 3 | 2022-09-28 | 2026-11-05 |
+| [Uncategorized](Uncategorized/README.md) | 0 | 0 | 0 | 7 | None | None |
 
 ## Most Active Users
 
@@ -28,16 +29,16 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | birte_lr | 22 | — |
-| 2 | [Mirko](https://github.com/cre8) | 20 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [Mirko](https://github.com/cre8) | 22 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | [davidz25](https://github.com/davidz25) | 20 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 4 | [esune](https://github.com/esune) | 16 | Project Maintainer |
-| 5 | RMLearney | 10 | — |
+| 5 | Jonas Hoffmann (FU Berlin) | 10 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 90 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 92 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | birte_lr | 61 | — |
 | 3 | [davidz25](https://github.com/davidz25) | 32 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 4 | Cyril | 25 | — |
@@ -47,7 +48,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 395 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 397 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Ry Jones, OWF](https://github.com/ryjones) | 142 | Linux Foundation Staff |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 138 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
@@ -57,7 +58,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 648 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 650 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 501 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 402 | Linux Foundation Staff |
 | 4 | Tracy | 399 | — |
@@ -67,41 +68,42 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,607 |
-| 2025 | 2,830 |
-| 2024 | 2,596 |
-| 2023 | 1,595 |
-| 2022 | 1,186 |
+| 2026 | 1,617 |
+| 2025 | 2,834 |
+| 2024 | 2,598 |
+| 2023 | 1,598 |
+| 2022 | 1,195 |
+| 2021 | 2 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 20 |
+| 2026-11 | 24 |
 | 2026-10 | 161 |
 | 2026-09 | 166 |
 | 2026-08 | 53 |
 | 2026-07 | 130 |
 | 2026-06 | 173 |
-| 2026-05 | 127 |
+| 2026-05 | 128 |
 | 2026-04 | 90 |
-| 2026-03 | 137 |
-| 2026-02 | 284 |
-| 2026-01 | 266 |
+| 2026-03 | 138 |
+| 2026-02 | 287 |
+| 2026-01 | 267 |
 | 2025-12 | 242 |
-| 2025-11 | 143 |
+| 2025-11 | 144 |
 | 2025-10 | 144 |
-| 2025-09 | 259 |
+| 2025-09 | 260 |
 | 2025-08 | 191 |
 | 2025-07 | 222 |
 | 2025-06 | 439 |
 | 2025-05 | 229 |
-| 2025-04 | 249 |
+| 2025-04 | 251 |
 | 2025-03 | 290 |
 | 2025-02 | 168 |
 | 2025-01 | 254 |
 | 2024-12 | 254 |
-| 2024-11 | 272 |
+| 2024-11 | 273 |
 | 2024-10 | 204 |
 | 2024-09 | 97 |
 | 2024-08 | 112 |
@@ -110,9 +112,9 @@
 | 2024-05 | 211 |
 | 2024-04 | 228 |
 | 2024-03 | 310 |
-| 2024-02 | 331 |
+| 2024-02 | 332 |
 | 2024-01 | 228 |
-| 2023-12 | 177 |
+| 2023-12 | 179 |
 | 2023-11 | 210 |
 | 2023-10 | 189 |
 | 2023-09 | 101 |
@@ -121,18 +123,23 @@
 | 2023-06 | 105 |
 | 2023-05 | 43 |
 | 2023-04 | 86 |
-| 2023-03 | 143 |
+| 2023-03 | 144 |
 | 2023-02 | 288 |
 | 2023-01 | 98 |
 | 2022-12 | 66 |
 | 2022-11 | 284 |
 | 2022-10 | 437 |
 | 2022-09 | 399 |
+| 2022-06 | 2 |
+| 2022-04 | 2 |
+| 2022-02 | 5 |
+| 2021-11 | 2 |
 
 ## Daily Traffic
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-07 | 4 |
 | 2026-11-05 | 3 |
 | 2026-11-04 | 6 |
 | 2026-11-03 | 4 |
@@ -260,7 +267,7 @@
 | 2026-05-21 | 8 |
 | 2026-05-20 | 2 |
 | 2026-05-19 | 7 |
-| 2026-05-18 | 1 |
+| 2026-05-18 | 2 |
 | 2026-05-16 | 1 |
 | 2026-05-15 | 2 |
 | 2026-05-14 | 11 |
@@ -310,7 +317,7 @@
 | 2026-03-09 | 1 |
 | 2026-03-05 | 3 |
 | 2026-03-04 | 13 |
-| 2026-03-03 | 3 |
+| 2026-03-03 | 4 |
 | 2026-03-02 | 2 |
 | 2026-03-01 | 10 |
 | 2026-02-28 | 32 |
@@ -325,7 +332,7 @@
 | 2026-02-18 | 2 |
 | 2026-02-17 | 8 |
 | 2026-02-16 | 9 |
-| 2026-02-13 | 5 |
+| 2026-02-13 | 7 |
 | 2026-02-12 | 7 |
 | 2026-02-11 | 16 |
 | 2026-02-10 | 28 |
@@ -334,7 +341,7 @@
 | 2026-02-06 | 9 |
 | 2026-02-05 | 4 |
 | 2026-02-04 | 17 |
-| 2026-02-03 | 2 |
+| 2026-02-03 | 3 |
 | 2026-02-02 | 7 |
 | 2026-01-30 | 6 |
 | 2026-01-29 | 27 |
@@ -345,7 +352,7 @@
 | 2026-01-24 | 1 |
 | 2026-01-23 | 5 |
 | 2026-01-22 | 13 |
-| 2026-01-21 | 8 |
+| 2026-01-21 | 9 |
 | 2026-01-20 | 1 |
 | 2026-01-19 | 1 |
 | 2026-01-18 | 1 |
@@ -389,7 +396,7 @@
 | 2025-11-24 | 3 |
 | 2025-11-23 | 2 |
 | 2025-11-22 | 1 |
-| 2025-11-21 | 4 |
+| 2025-11-21 | 5 |
 | 2025-11-20 | 26 |
 | 2025-11-19 | 3 |
 | 2025-11-18 | 8 |
@@ -445,7 +452,7 @@
 | 2025-09-16 | 5 |
 | 2025-09-15 | 4 |
 | 2025-09-12 | 6 |
-| 2025-09-11 | 4 |
+| 2025-09-11 | 5 |
 | 2025-09-10 | 9 |
 | 2025-09-09 | 11 |
 | 2025-09-08 | 2 |
@@ -575,7 +582,7 @@
 | 2025-04-20 | 5 |
 | 2025-04-19 | 3 |
 | 2025-04-18 | 10 |
-| 2025-04-17 | 27 |
+| 2025-04-17 | 29 |
 | 2025-04-16 | 14 |
 | 2025-04-15 | 7 |
 | 2025-04-14 | 8 |
@@ -702,7 +709,7 @@
 | 2024-11-26 | 31 |
 | 2024-11-25 | 16 |
 | 2024-11-24 | 2 |
-| 2024-11-22 | 9 |
+| 2024-11-22 | 10 |
 | 2024-11-21 | 7 |
 | 2024-11-20 | 5 |
 | 2024-11-19 | 16 |
@@ -950,7 +957,7 @@
 | 2024-02-06 | 15 |
 | 2024-02-05 | 12 |
 | 2024-02-04 | 4 |
-| 2024-02-03 | 5 |
+| 2024-02-03 | 6 |
 | 2024-02-02 | 13 |
 | 2024-02-01 | 20 |
 | 2024-01-31 | 14 |
@@ -992,7 +999,7 @@
 | 2023-12-16 | 1 |
 | 2023-12-15 | 5 |
 | 2023-12-14 | 14 |
-| 2023-12-13 | 10 |
+| 2023-12-13 | 12 |
 | 2023-12-12 | 10 |
 | 2023-12-11 | 39 |
 | 2023-12-08 | 4 |
@@ -1200,7 +1207,7 @@
 | 2023-03-17 | 1 |
 | 2023-03-16 | 5 |
 | 2023-03-15 | 5 |
-| 2023-03-14 | 3 |
+| 2023-03-14 | 4 |
 | 2023-03-13 | 17 |
 | 2023-03-12 | 3 |
 | 2023-03-10 | 5 |
@@ -1340,3 +1347,10 @@
 | 2022-09-25 | 6 |
 | 2022-09-24 | 9 |
 | 2022-09-23 | 25 |
+| 2022-06-13 | 1 |
+| 2022-06-02 | 1 |
+| 2022-04-19 | 1 |
+| 2022-04-11 | 1 |
+| 2022-02-24 | 4 |
+| 2022-02-23 | 1 |
+| 2021-11-02 | 2 |

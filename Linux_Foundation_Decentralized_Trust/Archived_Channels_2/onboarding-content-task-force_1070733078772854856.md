@@ -6,7 +6,7 @@
 - **Total Messages:** 94
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 9
+- **Last 365 Days:** 8
 - **First Message:** 2023-02-02
 - **Last Message:** 2025-11-07
 
@@ -24,7 +24,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Admiral OOM | 6 | — |
+| 1 | Admiral OOM | 5 | — |
 | 2 | Tevo | 3 | — |
 
 ### All Time
