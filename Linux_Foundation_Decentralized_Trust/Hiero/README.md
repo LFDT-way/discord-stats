@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1283486767546237040
-- **Total Messages in Category:** 2,174
-- **Last 30 Days:** 66
-- **Last 90 Days:** 239
+- **Total Messages in Category:** 2,175
+- **Last 30 Days:** 67
+- **Last 90 Days:** 240
 - **Last 365 Days:** 1,481
 - **First Message:** 2024-09-11
-- **Last Message:** 2026-11-06
+- **Last Message:** 2026-11-07
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [hiero-sdk-python](hiero-sdk-python_1336494517544681563.md) | 2026-10-14 | 7 | 14 | 309 | 531 |
+| [hiero-sdk-python](hiero-sdk-python_1336494517544681563.md) | 2026-10-14 | 7 | 14 | 308 | 531 |
 | [hiero-general](hiero-general_1289954446712770600.md) | 2026-11-02 | 4 | 45 | 249 | 301 |
 | [hiero-maintainers](hiero-maintainers_1283487103006543952.md) | 2026-11-03 | 25 | 72 | 158 | 216 |
 | [hiero-website](hiero-website_1458790070986215567.md) | 2026-10-02 | 0 | 8 | 179 | 179 |
@@ -33,8 +33,8 @@
 | [hiero-consensus-node](hiero-consensus-node_1380936805897080862.md) | 2026-03-11 | 0 | 0 | 3 | 19 |
 | [hiero-community-management](hiero-community-management_1469079849158049933.md) | 2026-05-05 | 0 | 0 | 16 | 16 |
 | [hiero-hips](hiero-hips_1354514446898430032.md) | 2026-10-14 | 2 | 2 | 7 | 12 |
+| [hiero-sdk-go](hiero-sdk-go_1337424630289404015.md) | 2026-11-07 | 1 | 2 | 11 | 12 |
 | [hiero-sdk-java](hiero-sdk-java_1337424581652381696.md) | 2026-09-07 | 0 | 1 | 5 | 11 |
-| [hiero-sdk-go](hiero-sdk-go_1337424630289404015.md) | 2026-09-07 | 0 | 1 | 10 | 11 |
 | [hiero-gfi](hiero-gfi_1466829260919673056.md) | 2026-02-12 | 0 | 0 | 9 | 9 |
 | [hiero-sdk-v3-playground](hiero-sdk-v3-playground_1441095054944112710.md) | 2026-06-25 | 0 | 0 | 6 | 6 |
 | [hiero-sdk-tck](hiero-sdk-tck_1336034637310464031.md) | 2025-04-29 | 0 | 0 | 0 | 4 |
@@ -50,7 +50,7 @@
 | 1 | [JessicaG](https://github.com/jwagantall) | 16 | lfdt-ca, LFDT Staff |
 | 2 | [explorer3](https://github.com/exploreriii) | 12 | Project Maintainer, Hiero maintainer |
 | 3 | [Roger](https://github.com/rbarker-dev) | 7 | Project Maintainer, Hiero maintainer |
-| 4 | [Daniel Marvin](https://github.com/danielmarv) | 5 | Project Maintainer, Hiero maintainer |
+| 4 | [Daniel Marvin](https://github.com/danielmarv) | 6 | Project Maintainer, Hiero maintainer |
 | 5 | [hendrik.ebbers](https://github.com/hendrikebbers) | 4 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
 
 ### Last 90 Days
@@ -59,7 +59,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [JessicaG](https://github.com/jwagantall) | 77 | lfdt-ca, LFDT Staff |
 | 2 | [explorer3](https://github.com/exploreriii) | 30 | Project Maintainer, Hiero maintainer |
-| 3 | [Daniel Marvin](https://github.com/danielmarv) | 26 | Project Maintainer, Hiero maintainer |
+| 3 | [Daniel Marvin](https://github.com/danielmarv) | 27 | Project Maintainer, Hiero maintainer |
 | 4 | Ang | 20 | Project Maintainer, Hiero maintainer |
 | 5 | [hendrik.ebbers](https://github.com/hendrikebbers) | 13 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
 
@@ -67,7 +67,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [explorer3](https://github.com/exploreriii) | 437 | Project Maintainer, Hiero maintainer |
+| 1 | [explorer3](https://github.com/exploreriii) | 436 | Project Maintainer, Hiero maintainer |
 | 2 | [JessicaG](https://github.com/jwagantall) | 169 | lfdt-ca, LFDT Staff |
 | 3 | Ang | 107 | Project Maintainer, Hiero maintainer |
 | 4 | [hendrik.ebbers](https://github.com/hendrikebbers) | 54 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
@@ -87,7 +87,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,441 |
+| 2026 | 1,442 |
 | 2025 | 709 |
 | 2024 | 24 |
 
@@ -95,7 +95,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 10 |
+| 2026-11 | 11 |
 | 2026-10 | 82 |
 | 2026-09 | 53 |
 | 2026-08 | 132 |
@@ -126,6 +126,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-07 | 1 |
 | 2026-11-06 | 2 |
 | 2026-11-03 | 7 |
 | 2026-11-02 | 1 |

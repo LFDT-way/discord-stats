@@ -2,9 +2,9 @@
 
 - **Guild ID:** 1202723482224295936
 - **Total Messages:** 4,607
-- **Last 30 Days:** 83
-- **Last 90 Days:** 289
-- **Last 365 Days:** 1,334 — [active users](users.md)
+- **Last 30 Days:** 81
+- **Last 90 Days:** 282
+- **Last 365 Days:** 1,286 — [active users](users.md)
 - **First Message:** 2024-02-01
 - **Last Message:** 2026-11-05
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -13,7 +13,7 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PQ Code Package](PQ_Code_Package/README.md) | 3,655 | 65 | 211 | 1,074 | 2024-02-03 | 2026-11-04 |
+| [PQ Code Package](PQ_Code_Package/README.md) | 3,655 | 63 | 204 | 1,026 | 2024-02-03 | 2026-11-04 |
 | [Welcome](Welcome/README.md) | 518 | 11 | 45 | 151 | 2024-02-01 | 2026-11-05 |
 | [Open Quantum Safe](Open_Quantum_Safe/README.md) | 289 | 7 | 30 | 76 | 2024-02-03 | 2026-11-02 |
 | [Governance](Governance/README.md) | 81 | 0 | 0 | 6 | 2024-02-05 | 2026-02-10 |
@@ -27,7 +27,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 33 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 31 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 18 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 6 | PQ Code Package Maintainer |
 | 4 | RGM-Core | 4 | — |
@@ -38,20 +38,20 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 106 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 59 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 56 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 18 | PQ Code Package Maintainer |
 | 4 | θρπχι | 12 | — |
-| 5 | Ishan | 8 | — |
+| 5 | Ben | 8 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 455 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 351 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 432 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 330 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 97 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 77 | LF Staff |
-| 5 | Jake | 39 | PQ Code Package Maintainer, Project Maintainer |
+| 5 | Jake | 37 | PQ Code Package Maintainer, Project Maintainer |
 
 ### All Time
 

@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 21,567
 - **Last 30 Days:** 164
 - **Last 90 Days:** 268
-- **Last 365 Days:** 942
+- **Last 365 Days:** 941
 - **First Message:** 2021-11-05
 - **Last Message:** 2026-11-06
 
@@ -25,7 +25,7 @@
 | [clpr](clpr_1559643143559717006.md) | 2026-11-06 | 129 | 129 | 129 | 129 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-10-30 | 1 | 9 | 12 | 109 |
 | [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-11-04 | 6 | 32 | 98 | 98 |
-| [fablo](fablo_1109190949394989127.md) | 2026-10-20 | 1 | 3 | 13 | 88 |
+| [fablo](fablo_1109190949394989127.md) | 2026-10-20 | 1 | 3 | 12 | 88 |
 | [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-10-23 | 3 | 16 | 84 | 84 |
 | [general](general_988569914266775662.md) | 2026-07-30 | 0 | 0 | 10 | 72 |
 | [cello](cello_941475454378991646.md) | 2026-10-25 | 6 | 7 | 16 | 60 |

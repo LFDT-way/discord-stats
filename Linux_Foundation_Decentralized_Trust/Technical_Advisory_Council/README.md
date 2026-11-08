@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 941383941217222708
 - **Total Messages in Category:** 2,655
-- **Last 30 Days:** 56
+- **Last 30 Days:** 50
 - **Last 90 Days:** 139
 - **Last 365 Days:** 393
 - **First Message:** 2022-02-10
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-11-06 | 56 | 139 | 375 | 2,602 |
+| [tac](tac_941384040316018790.md) | 2026-11-06 | 50 | 139 | 375 | 2,602 |
 | [automated-pipelines](automated-pipelines_1156961689971998782.md) | 2026-04-15 | 0 | 0 | 18 | 52 |
 | [tac-announcements](tac-announcements_941399554731966564.md) | 2022-02-17 | 0 | 0 | 0 | 1 |
 
@@ -23,9 +23,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [hendrik.ebbers](https://github.com/hendrikebbers) | 12 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
-| 2 | [Arun S M](https://github.com/arsulegai) | 9 | TAC member, Chapter Leader |
-| 3 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
+| 1 | [hendrik.ebbers](https://github.com/hendrikebbers) | 10 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
+| 3 | [Arun S M](https://github.com/arsulegai) | 7 | TAC member, Chapter Leader |
 | 4 | [JessicaG](https://github.com/jwagantall) | 6 | lfdt-ca, LFDT Staff |
 | 5 | [davidwboswell](https://github.com/davidwboswell) | 5 | lfdt-ca, LFDT Staff |
 

@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 2,382
 - **Last 30 Days:** 0
 - **Last 90 Days:** 23
-- **Last 365 Days:** 148
+- **Last 365 Days:** 139
 - **First Message:** 2023-09-10
 - **Last Message:** 2026-09-16
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric-newbies](fabric-newbies_1150488600975245412.md) | 2026-07-20 | 0 | 0 | 110 | 1,957 |
+| [fabric-newbies](fabric-newbies_1150488600975245412.md) | 2026-07-20 | 0 | 0 | 101 | 1,957 |
 | [firefly-newbies](firefly-newbies_1154921177207275520.md) | 2026-09-16 | 0 | 23 | 38 | 425 |
 
 ## Most Active Users
@@ -34,7 +34,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 36 | Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 31 | Project Maintainer, Fabric Maintainer |
 | 2 | [Enrique Lacal](https://github.com/EnriqueL8) | 11 | TAC member, Project Maintainer, Firefly Maintainer |
 | 3 | [SonicSwordcane](https://github.com/SupernaviX) | 10 | Project Maintainer, Firefly Maintainer |
 | 4 | 0xTemi Hardhek 🦀 | 7 | — |

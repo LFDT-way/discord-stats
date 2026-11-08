@@ -2,12 +2,12 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1108449719212048556
-- **Total Messages in Category:** 859
-- **Last 30 Days:** 4
-- **Last 90 Days:** 25
-- **Last 365 Days:** 333
+- **Total Messages in Category:** 860
+- **Last 30 Days:** 5
+- **Last 90 Days:** 26
+- **Last 365 Days:** 334
 - **First Message:** 2023-06-02
-- **Last Message:** 2026-10-20
+- **Last Message:** 2026-11-08
 
 ## Channels in Category
 
@@ -16,7 +16,7 @@
 | [tsp](tsp_1240339063618277467.md) | 2026-09-10 | 0 | 6 | 37 | 268 |
 | [mdoc-ts](mdoc-ts_1251180041124053052.md) | 2026-04-01 | 0 | 0 | 128 | 172 |
 | [sd-jwt-dotnet](sd-jwt-dotnet_1179453047169110056.md) | 2026-04-30 | 0 | 0 | 64 | 80 |
-| [sd-jwt-general](sd-jwt-general_1180161138030284910.md) | 2025-09-24 | 0 | 0 | 0 | 70 |
+| [sd-jwt-general](sd-jwt-general_1180161138030284910.md) | 2026-11-08 | 1 | 1 | 1 | 71 |
 | [oid4vc-ts](oid4vc-ts_1326616895453007933.md) | 2026-08-12 | 0 | 1 | 44 | 62 |
 | [vc-api](vc-api_1157008901020073994.md) | 2025-10-24 | 0 | 0 | 0 | 39 |
 | [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-08-18 | 0 | 1 | 21 | 28 |
@@ -43,6 +43,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 3 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Timo Glastra](https://github.com/TimoGlastra) | 1 | credo maintainers, Project Maintainer |
+| 3 | ZeroEpoch | 1 | — |
 
 ### Last 90 Days
 
@@ -78,7 +79,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 215 |
+| 2026 | 216 |
 | 2025 | 449 |
 | 2024 | 96 |
 | 2023 | 99 |
@@ -87,6 +88,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-11 | 1 |
 | 2026-10 | 4 |
 | 2026-09 | 19 |
 | 2026-08 | 3 |
@@ -130,6 +132,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-08 | 1 |
 | 2026-10-20 | 1 |
 | 2026-10-19 | 1 |
 | 2026-10-18 | 1 |

@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205464046915585
 - **Total Messages in Category:** 20,084
-- **Last 30 Days:** 35
+- **Last 30 Days:** 30
 - **Last 90 Days:** 107
-- **Last 365 Days:** 771
+- **Last 365 Days:** 769
 - **First Message:** 2021-11-07
 - **Last Message:** 2026-11-05
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric](fabric_905205541326975046.md) | 2026-11-05 | 12 | 20 | 205 | 10,167 |
+| [fabric](fabric_905205541326975046.md) | 2026-11-05 | 12 | 20 | 204 | 10,167 |
 | [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-10-29 | 14 | 16 | 27 | 1,645 |
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-08 | 0 | 0 | 0 | 1,527 |
 | [fabric-samples](fabric-samples_945796810042142774.md) | 2026-04-24 | 0 | 0 | 27 | 1,300 |
@@ -22,7 +22,7 @@
 | [fabric-orderer](fabric-orderer_945037581500940298.md) | 2026-04-12 | 0 | 0 | 10 | 817 |
 | [fabric-code-contributors](fabric-code-contributors_941396957635682314.md) | 2026-05-09 | 0 | 0 | 7 | 602 |
 | [fabric-contract-apis](fabric-contract-apis_943090527920877598.md) | 2026-11-04 | 1 | 2 | 13 | 550 |
-| [fabric-x](fabric-x_1427642480504999976.md) | 2026-10-18 | 1 | 36 | 361 | 370 |
+| [fabric-x](fabric-x_1427642480504999976.md) | 2026-10-18 | 1 | 36 | 360 | 370 |
 | [fabric-documentation](fabric-documentation_945038395825070141.md) | 2026-06-19 | 0 | 0 | 21 | 272 |
 | [fabric-japanese](fabric-japanese_942950198836092958.md) | 2026-09-16 | 0 | 3 | 19 | 241 |
 | [fabric-dublin-workshop](fabric-dublin-workshop_1005123918740332604.md) | 2024-09-27 | 0 | 0 | 0 | 119 |
@@ -30,7 +30,7 @@
 | [fabric-certified-practitioner](fabric-certified-practitioner_1158754773026222130.md) | 2026-08-04 | 0 | 0 | 13 | 70 |
 | [fabric-code-reviews](fabric-code-reviews_960583805708664882.md) | 2026-09-24 | 0 | 1 | 3 | 41 |
 | [fabric-docs-i18n](fabric-docs-i18n_963703552352587786.md) | 2023-08-11 | 0 | 0 | 0 | 41 |
-| [fabric-x-evm](fabric-x-evm_1550488625576415232.md) | 2026-10-11 | 7 | 28 | 28 | 28 |
+| [fabric-x-evm](fabric-x-evm_1550488625576415232.md) | 2026-10-11 | 2 | 28 | 28 | 28 |
 | [fabric-announcements](fabric-announcements_941415351474880532.md) | 2026-02-25 | 0 | 0 | 2 | 15 |
 | [fabric-hacktoberfest](fabric-hacktoberfest_1024609249927634997.md) | 2022-10-13 | 0 | 0 | 0 | 10 |
 
@@ -42,9 +42,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Amin.Chegeni | 9 | — |
 | 2 | [jtonline](https://github.com/jt-nti) | 6 | Project Maintainer, Fabric Maintainer |
-| 3 | Siddhartha | 3 | — |
-| 4 | Abhinag Vangala | 3 | — |
-| 5 | Frank_The_Fish | 3 | Lab Leader |
+| 3 | Abhinag Vangala | 3 | — |
+| 4 | Frank_The_Fish | 3 | Lab Leader |
+| 5 | shinchan | 2 | — |
 
 ### Last 90 Days
 
@@ -60,7 +60,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 59 | Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 58 | Project Maintainer, Fabric Maintainer |
 | 2 | Frank_The_Fish | 55 | Lab Leader |
 | 3 | [Yoav Tock](https://github.com/tock-ibm) | 46 | TAC member, Project Maintainer, Fabric Maintainer |
 | 4 | EliMbadi | 45 | — |

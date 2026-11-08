@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1255573270007251024
 - **Total Messages in Category:** 651
-- **Last 30 Days:** 3
+- **Last 30 Days:** 2
 - **Last 90 Days:** 10
 - **Last 365 Days:** 203
 - **First Message:** 2024-06-27
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [lockness-contribute](lockness-contribute_1285268686147424388.md) | 2026-10-08 | 1 | 4 | 162 | 379 |
+| [lockness-contribute](lockness-contribute_1285268686147424388.md) | 2026-10-08 | 0 | 4 | 162 | 379 |
 | [lockness-maintainers](lockness-maintainers_1255573353683746856.md) | 2026-10-14 | 2 | 6 | 34 | 201 |
 | [lockness](lockness_1294284489635139585.md) | 2026-07-01 | 0 | 0 | 2 | 62 |
 | [lockness-announce](lockness-announce_1285268049913712641.md) | 2026-04-20 | 0 | 0 | 5 | 9 |
@@ -24,8 +24,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Denis | 2 | Project Maintainer, Lockness Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
+| 1 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
+| 2 | Denis | 1 | Project Maintainer, Lockness Maintainer |
 
 ### Last 90 Days
 
