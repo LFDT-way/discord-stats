@@ -5,7 +5,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Linux Foundation Decentralized Trust
 - **Guild ID:** 905194001349627914
 - **Active Users (365d):** 799
-- **Messages (365d):** 11,533
+- **Messages (365d):** 11,538
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -20,13 +20,13 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 9 | [JessicaG](https://github.com/jwagantall) | 266 | lfdt-ca, LFDT Staff |
 | 10 | [Simon Dudley](https://github.com/siladu) | 226 | Project Maintainer, Besu Maintainer |
 | 11 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 214 | lfdt-ca, LFDT Staff |
-| 12 | [macfarla \| Besu](https://github.com/macfarla) | 201 | Project Maintainer, Besu Maintainer |
+| 12 | [macfarla \| Besu](https://github.com/macfarla) | 202 | Project Maintainer, Besu Maintainer |
 | 13 | [Arun S M](https://github.com/arsulegai) | 171 | TAC member, Chapter Leader |
 | 14 | [Angelo De Caro](https://github.com/adecaro) | 134 | Lab Leader, Fabric Maintainer, Project Maintainer |
 | 15 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 123 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 16 | stevevitka | 116 | ToIP |
 | 17 | Ang | 107 | Project Maintainer, Hiero maintainer |
-| 18 | divyam-jha | 106 | — |
+| 18 | divyam-jha | 107 | — |
 | 19 | darrello | 103 | Project Maintainer |
 | 20 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 96 | Project Maintainer, ToIP |
 | 21 | Denis | 89 | Project Maintainer, Lockness Maintainer |
@@ -39,8 +39,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 28 | [SonicSwordcane](https://github.com/SupernaviX) | 75 | Project Maintainer, Firefly Maintainer |
 | 29 | [Justin Florentine](https://github.com/jflo) | 75 | Project Maintainer, Besu Maintainer |
 | 30 | Eric Drury | 72 | Project Maintainer, ToIP |
-| 31 | [rafaelapb](https://github.com/RafaelAPB) | 68 | Project Maintainer, Cacti Maintainer |
-| 32 | [Anna McAllister](https://github.com/annamcallister) | 66 | Paladin Maintainer, Project Maintainer, Lab Leader |
+| 31 | [rafaelapb](https://github.com/RafaelAPB) | 70 | Project Maintainer, Cacti Maintainer |
+| 32 | [Anna McAllister](https://github.com/annamcallister) | 67 | Paladin Maintainer, Project Maintainer, Lab Leader |
 | 33 | [Jason Frame](https://github.com/jframe) | 64 | Project Maintainer, Besu Maintainer |
 | 34 | Aditya Sangale | 62 | — |
 | 35 | [fab10](https://github.com/fab-10) | 58 | Project Maintainer, Besu Maintainer |

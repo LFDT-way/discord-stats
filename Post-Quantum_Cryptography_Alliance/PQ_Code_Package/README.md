@@ -3,9 +3,9 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1203395867214745651
 - **Total Messages in Category:** 3,655
-- **Last 30 Days:** 63
-- **Last 90 Days:** 204
-- **Last 365 Days:** 1,026
+- **Last 30 Days:** 62
+- **Last 90 Days:** 203
+- **Last 365 Days:** 1,014
 - **First Message:** 2024-02-03
 - **Last Message:** 2026-11-04
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [mldsa-native-developers](mldsa-native-developers_1339067141269229652.md) | 2026-11-04 | 9 | 30 | 517 | 2,203 |
+| [mldsa-native-developers](mldsa-native-developers_1339067141269229652.md) | 2026-11-04 | 8 | 29 | 505 | 2,203 |
 | [mlkem-native-developers](mlkem-native-developers_1249565286638682122.md) | 2026-11-04 | 51 | 161 | 457 | 1,003 |
 | [pqcp-tsc](pqcp-tsc_1233337574668501033.md) | 2025-11-19 | 0 | 0 | 2 | 249 |
 | [pqcp-general](pqcp-general_1203396039977996359.md) | 2026-10-22 | 3 | 13 | 47 | 174 |
@@ -30,8 +30,8 @@
 | 1 | Rod | 31 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 18 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 6 | PQ Code Package Maintainer |
-| 4 | Brendan | 3 | — |
-| 5 | [RyJones](https://github.com/ryjones) | 2 | LF Staff |
+| 4 | [RyJones](https://github.com/ryjones) | 2 | LF Staff |
+| 5 | Brendan | 2 | — |
 
 ### Last 90 Days
 
@@ -48,10 +48,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 432 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 330 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 319 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 93 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 64 | LF Staff |
-| 5 | Jake | 37 | PQ Code Package Maintainer, Project Maintainer |
+| 5 | Jake | 36 | PQ Code Package Maintainer, Project Maintainer |
 
 ### All Time
 

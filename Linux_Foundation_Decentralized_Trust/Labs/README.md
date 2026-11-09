@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
 - **Total Messages in Category:** 21,567
-- **Last 30 Days:** 164
+- **Last 30 Days:** 163
 - **Last 90 Days:** 268
 - **Last 365 Days:** 941
 - **First Message:** 2021-11-05
@@ -43,7 +43,7 @@
 | [caliper-github](caliper-github_943549642824638544.md) | 2024-04-12 | 0 | 0 | 0 | 4 |
 | [agent-authority-conformance](agent-authority-conformance_1542096589961699369.md) | 2026-08-26 | 0 | 3 | 3 | 3 |
 | [veltoracore](veltoracore_1504169634910310410.md) | 2026-09-22 | 0 | 2 | 2 | 2 |
-| [os_frontiers](os_frontiers_1498334265769726123.md) | 2026-10-09 | 1 | 2 | 2 | 2 |
+| [os_frontiers](os_frontiers_1498334265769726123.md) | 2026-10-09 | 0 | 2 | 2 | 2 |
 
 ## Most Active Users
 

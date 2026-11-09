@@ -4,7 +4,7 @@
 - **Category ID:** 905205464046915585
 - **Total Messages in Category:** 20,084
 - **Last 30 Days:** 30
-- **Last 90 Days:** 107
+- **Last 90 Days:** 106
 - **Last 365 Days:** 769
 - **First Message:** 2021-11-07
 - **Last Message:** 2026-11-05
@@ -22,7 +22,7 @@
 | [fabric-orderer](fabric-orderer_945037581500940298.md) | 2026-04-12 | 0 | 0 | 10 | 817 |
 | [fabric-code-contributors](fabric-code-contributors_941396957635682314.md) | 2026-05-09 | 0 | 0 | 7 | 602 |
 | [fabric-contract-apis](fabric-contract-apis_943090527920877598.md) | 2026-11-04 | 1 | 2 | 13 | 550 |
-| [fabric-x](fabric-x_1427642480504999976.md) | 2026-10-18 | 1 | 36 | 360 | 370 |
+| [fabric-x](fabric-x_1427642480504999976.md) | 2026-10-18 | 1 | 35 | 360 | 370 |
 | [fabric-documentation](fabric-documentation_945038395825070141.md) | 2026-06-19 | 0 | 0 | 21 | 272 |
 | [fabric-japanese](fabric-japanese_942950198836092958.md) | 2026-09-16 | 0 | 3 | 19 | 241 |
 | [fabric-dublin-workshop](fabric-dublin-workshop_1005123918740332604.md) | 2024-09-27 | 0 | 0 | 0 | 119 |

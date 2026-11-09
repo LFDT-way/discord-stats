@@ -4,9 +4,9 @@
 - **Category:** PQ Code Package
 - **Channel ID:** 1339067141269229652
 - **Total Messages:** 2,203
-- **Last 30 Days:** 9
-- **Last 90 Days:** 30
-- **Last 365 Days:** 517
+- **Last 30 Days:** 8
+- **Last 90 Days:** 29
+- **Last 365 Days:** 505
 - **First Message:** 2025-02-12
 - **Last Message:** 2026-11-04
 
@@ -16,8 +16,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Brendan | 3 | — |
-| 2 | [RyJones](https://github.com/ryjones) | 2 | LF Staff |
+| 1 | [RyJones](https://github.com/ryjones) | 2 | LF Staff |
+| 2 | Brendan | 2 | — |
 | 3 | Rod | 2 | PQ Code Package Maintainer, Project Maintainer |
 | 4 | [Matthias Kannwischer](https://github.com/mkannwischer) | 2 | PQ Code Package Maintainer, Project Maintainer |
 
@@ -35,11 +35,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 196 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 185 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | Rod | 172 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 51 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 42 | LF Staff |
-| 5 | Jake | 37 | PQ Code Package Maintainer, Project Maintainer |
+| 5 | Jake | 36 | PQ Code Package Maintainer, Project Maintainer |
 
 ### All Time
 

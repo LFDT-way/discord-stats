@@ -5,7 +5,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 124
-- **Messages (365d):** 1,972
+- **Messages (365d):** 1,973
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -57,13 +57,13 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 46 | [amanji](https://github.com/amanji) | 6 | — |
 | 47 | Neha | 5 | — |
 | 48 | gr0 | 5 | — |
-| 49 | Ginga | 5 | — |
-| 50 | Aftab Saraz | 5 | — |
-| 51 | [Wade Barnes](https://github.com/WadeBarnes) | 5 | — |
-| 52 | geertdoornbos | 4 | — |
-| 53 | Bilal | 4 | — |
-| 54 | Pragya Jain | 4 | — |
-| 55 | ZeroEpoch | 4 | — |
+| 49 | ZeroEpoch | 5 | — |
+| 50 | Ginga | 5 | — |
+| 51 | Aftab Saraz | 5 | — |
+| 52 | [Wade Barnes](https://github.com/WadeBarnes) | 5 | — |
+| 53 | geertdoornbos | 4 | — |
+| 54 | Bilal | 4 | — |
+| 55 | Pragya Jain | 4 | — |
 | 56 | senu | 4 | — |
 | 57 | [Daniel Marvin](https://github.com/danielmarv) | 4 | — |
 | 58 | aaron | 4 | — |

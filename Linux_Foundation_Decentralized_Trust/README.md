@@ -1,35 +1,35 @@
 # Guild Report: Linux Foundation Decentralized Trust
 
 - **Guild ID:** 905194001349627914
-- **Total Messages:** 168,930
-- **Last 30 Days:** 911
-- **Last 90 Days:** 2,618
-- **Last 365 Days:** 11,540 — [active users](users.md)
+- **Total Messages:** 168,935
+- **Last 30 Days:** 896
+- **Last 90 Days:** 2,573
+- **Last 365 Days:** 11,545 — [active users](users.md)
 - **First Message:** 2021-11-02
-- **Last Message:** 2026-11-08
+- **Last Message:** 2026-11-09
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Besu](Besu/README.md) | 47,822 | 121 | 484 | 1,827 | 2021-11-09 | 2026-11-06 |
+| [Besu](Besu/README.md) | 47,823 | 120 | 476 | 1,828 | 2021-11-09 | 2026-11-09 |
 | [Firefly](Firefly/README.md) | 26,659 | 8 | 44 | 643 | 2022-01-05 | 2026-10-23 |
-| [Labs](Labs/README.md) | 21,567 | 164 | 268 | 941 | 2021-11-05 | 2026-11-06 |
-| [Fabric](Fabric/README.md) | 20,084 | 30 | 107 | 769 | 2021-11-07 | 2026-11-05 |
-| [Welcome](Welcome/README.md) | 14,175 | 36 | 83 | 381 | 2022-03-03 | 2026-11-06 |
+| [Labs](Labs/README.md) | 21,567 | 163 | 268 | 941 | 2021-11-05 | 2026-11-06 |
+| [Fabric](Fabric/README.md) | 20,084 | 30 | 106 | 769 | 2021-11-07 | 2026-11-05 |
+| [Welcome](Welcome/README.md) | 14,175 | 33 | 83 | 381 | 2022-03-03 | 2026-11-06 |
 | [Archived Channels 2](Archived_Channels_2/README.md) | 7,188 | 0 | 2 | 49 | 2022-02-12 | 2026-09-24 |
 | [Indy](Indy/README.md) | 6,282 | 4 | 4 | 54 | 2022-01-20 | 2026-11-05 |
-| [ToIP](ToIP/README.md) | 3,619 | 311 | 750 | 2,880 | 2025-04-03 | 2026-11-06 |
+| [ToIP](ToIP/README.md) | 3,619 | 300 | 742 | 2,880 | 2025-04-03 | 2026-11-06 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 2,655 | 50 | 139 | 393 | 2022-02-10 | 2026-11-06 |
 | [Newbies](Newbies/README.md) | 2,382 | 0 | 23 | 139 | 2023-09-10 | 2026-09-16 |
-| [Cacti](Cacti/README.md) | 2,365 | 10 | 24 | 255 | 2021-11-11 | 2026-11-08 |
-| [Hiero](Hiero/README.md) | 2,175 | 67 | 240 | 1,481 | 2024-09-11 | 2026-11-07 |
-| [Paladin](Paladin/README.md) | 1,713 | 36 | 140 | 521 | 2024-07-08 | 2026-11-05 |
+| [Cacti](Cacti/README.md) | 2,367 | 12 | 26 | 257 | 2021-11-11 | 2026-11-09 |
+| [Hiero](Hiero/README.md) | 2,175 | 65 | 211 | 1,481 | 2024-09-11 | 2026-11-07 |
+| [Paladin](Paladin/README.md) | 1,715 | 38 | 139 | 523 | 2024-07-08 | 2026-11-09 |
 | [Iroha](Iroha/README.md) | 1,684 | 0 | 0 | 1 | 2022-02-10 | 2026-04-12 |
 | [Staff](Staff/README.md) | 1,581 | 1 | 18 | 36 | 2021-11-03 | 2026-10-12 |
 | [Identus](Identus/README.md) | 1,560 | 3 | 32 | 226 | 2024-04-10 | 2026-10-20 |
-| [Web3j](Web3j/README.md) | 1,434 | 25 | 78 | 199 | 2024-01-11 | 2026-11-03 |
+| [Web3j](Web3j/README.md) | 1,434 | 24 | 78 | 199 | 2024-01-11 | 2026-11-03 |
 | [Regional Chapters](Regional_Chapters/README.md) | 888 | 2 | 7 | 60 | 2022-02-15 | 2026-11-02 |
 | [Panurus](Panurus/README.md) | 706 | 23 | 82 | 176 | 2022-03-02 | 2026-10-30 |
 | [Lockness](Lockness/README.md) | 651 | 2 | 10 | 203 | 2024-06-27 | 2026-10-14 |
@@ -54,10 +54,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 101 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 96 | Lab Leader |
 | 2 | [JessicaG](https://github.com/jwagantall) | 78 | lfdt-ca, LFDT Staff |
-| 3 | [Ry Jones](https://github.com/ryjones) | 57 | lfdt-ca, LFDT Staff |
-| 4 | microbiocarly | 57 | Project Maintainer, ToIP |
+| 3 | microbiocarly | 55 | Project Maintainer, ToIP |
+| 4 | [Ry Jones](https://github.com/ryjones) | 54 | lfdt-ca, LFDT Staff |
 | 5 | Edward Wertz (Hashgraph) | 47 | Lab Leader |
 
 ### Last 90 Days
@@ -65,10 +65,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 237 | Lab Leader |
-| 2 | [Matthew Whitehead](https://github.com/matthew1001) | 153 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 2 | [Matthew Whitehead](https://github.com/matthew1001) | 152 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 3 | [Ry Jones](https://github.com/ryjones) | 148 | lfdt-ca, LFDT Staff |
-| 4 | [JessicaG](https://github.com/jwagantall) | 142 | lfdt-ca, LFDT Staff |
-| 5 | microbiocarly | 107 | Project Maintainer, ToIP |
+| 4 | [JessicaG](https://github.com/jwagantall) | 126 | lfdt-ca, LFDT Staff |
+| 5 | microbiocarly | 106 | Project Maintainer, ToIP |
 
 ### Last 365 Days
 
@@ -94,7 +94,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 9,915 |
+| 2026 | 9,920 |
 | 2025 | 17,579 |
 | 2024 | 28,268 |
 | 2023 | 51,211 |
@@ -105,7 +105,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 240 |
+| 2026-11 | 245 |
 | 2026-10 | 960 |
 | 2026-09 | 768 |
 | 2026-08 | 816 |
@@ -170,7 +170,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-11-08 | 1 |
+| 2026-11-09 | 4 |
+| 2026-11-08 | 2 |
 | 2026-11-07 | 6 |
 | 2026-11-06 | 52 |
 | 2026-11-05 | 36 |
