@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1518924075123081246
-- **Total Messages in Category:** 706
-- **Last 30 Days:** 23
-- **Last 90 Days:** 82
-- **Last 365 Days:** 176
+- **Total Messages in Category:** 707
+- **Last 30 Days:** 24
+- **Last 90 Days:** 83
+- **Last 365 Days:** 177
 - **First Message:** 2022-03-02
-- **Last Message:** 2026-10-30
+- **Last Message:** 2026-11-09
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [panurus](panurus_945691840110272522.md) | 2026-10-30 | 23 | 82 | 176 | 706 |
+| [panurus](panurus_945691840110272522.md) | 2026-11-09 | 24 | 83 | 177 | 707 |
 
 ## Most Active Users
 
@@ -25,6 +25,7 @@
 | 2 | ⛅CloudEllie | 7 | — |
 | 3 | hstar | 1 | — |
 | 4 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
+| 5 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 
@@ -60,7 +61,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 173 |
+| 2026 | 174 |
 | 2025 | 13 |
 | 2024 | 67 |
 | 2023 | 84 |
@@ -70,6 +71,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-11 | 1 |
 | 2026-10 | 24 |
 | 2026-09 | 10 |
 | 2026-08 | 49 |
@@ -116,6 +118,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-09 | 1 |
 | 2026-10-30 | 13 |
 | 2026-10-28 | 1 |
 | 2026-10-27 | 1 |

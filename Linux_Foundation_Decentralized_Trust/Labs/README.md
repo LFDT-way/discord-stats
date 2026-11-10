@@ -2,19 +2,19 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
-- **Total Messages in Category:** 21,567
-- **Last 30 Days:** 163
+- **Total Messages in Category:** 21,573
+- **Last 30 Days:** 168
 - **Last 90 Days:** 268
-- **Last 365 Days:** 941
+- **Last 365 Days:** 942
 - **First Message:** 2021-11-05
-- **Last Message:** 2026-11-06
+- **Last Message:** 2026-11-09
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [solang-contributors](solang-contributors_905834552965103638.md) | 2026-07-03 | 0 | 0 | 39 | 10,568 |
-| [bevel-operator-fabric](bevel-operator-fabric_967823782712594442.md) | 2026-05-11 | 0 | 0 | 37 | 3,400 |
+| [bevel-operator-fabric](bevel-operator-fabric_967823782712594442.md) | 2026-05-11 | 0 | 0 | 32 | 3,400 |
 | [bevel](bevel_941475087389950002.md) | 2026-10-24 | 2 | 3 | 13 | 2,565 |
 | [caliper](caliper_941417677778473031.md) | 2026-03-23 | 0 | 0 | 20 | 1,439 |
 | [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-10-19 | 1 | 1 | 13 | 1,186 |
@@ -22,11 +22,11 @@
 | [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-11-06 | 8 | 22 | 177 | 355 |
 | [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-11-01 | 4 | 11 | 60 | 157 |
 | [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 0 | 95 | 148 |
-| [clpr](clpr_1559643143559717006.md) | 2026-11-06 | 129 | 129 | 129 | 129 |
+| [clpr](clpr_1559643143559717006.md) | 2026-11-09 | 135 | 135 | 135 | 135 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-10-30 | 1 | 9 | 12 | 109 |
-| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-11-04 | 6 | 32 | 98 | 98 |
+| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-11-04 | 5 | 31 | 98 | 98 |
 | [fablo](fablo_1109190949394989127.md) | 2026-10-20 | 1 | 3 | 12 | 88 |
-| [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-10-23 | 3 | 16 | 84 | 84 |
+| [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-10-23 | 3 | 11 | 84 | 84 |
 | [general](general_988569914266775662.md) | 2026-07-30 | 0 | 0 | 10 | 72 |
 | [cello](cello_941475454378991646.md) | 2026-10-25 | 6 | 7 | 16 | 60 |
 | [cc-tools](cc-tools_1156653969133809715.md) | 2025-05-07 | 0 | 0 | 0 | 45 |
@@ -51,8 +51,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [JessicaG](https://github.com/jwagantall) | 55 | lfdt-ca, LFDT Staff |
-| 2 | Edward Wertz (Hashgraph) | 47 | Lab Leader |
+| 1 | [JessicaG](https://github.com/jwagantall) | 58 | lfdt-ca, LFDT Staff |
+| 2 | Edward Wertz (Hashgraph) | 50 | Lab Leader |
 | 3 | [hendrik.ebbers](https://github.com/hendrikebbers) | 9 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
 | 4 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
 | 5 | SecrizzMagician | 6 | — |
@@ -61,11 +61,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [JessicaG](https://github.com/jwagantall) | 55 | lfdt-ca, LFDT Staff |
-| 2 | Edward Wertz (Hashgraph) | 47 | Lab Leader |
+| 1 | [JessicaG](https://github.com/jwagantall) | 58 | lfdt-ca, LFDT Staff |
+| 2 | Edward Wertz (Hashgraph) | 50 | Lab Leader |
 | 3 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 16 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 4 | [Ry Jones](https://github.com/ryjones) | 15 | lfdt-ca, LFDT Staff |
-| 5 | kadalkidal | 11 | Lab Leader |
+| 5 | [DanielSzego](https://github.com/Daniel-Szego) | 11 | Meetup Organizer |
 
 ### Last 365 Days
 
@@ -73,7 +73,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 86 | lfdt-ca, LFDT Staff |
 | 2 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 82 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
-| 3 | [JessicaG](https://github.com/jwagantall) | 55 | lfdt-ca, LFDT Staff |
+| 3 | [JessicaG](https://github.com/jwagantall) | 58 | lfdt-ca, LFDT Staff |
 | 4 | [DanielSzego](https://github.com/Daniel-Szego) | 54 | Meetup Organizer |
 | 5 | [RAWx18](https://github.com/RAWx18) | 52 | Lab Leader |
 
@@ -91,7 +91,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 850 |
+| 2026 | 856 |
 | 2025 | 1,008 |
 | 2024 | 2,099 |
 | 2023 | 7,409 |
@@ -102,7 +102,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 76 |
+| 2026-11 | 82 |
 | 2026-10 | 104 |
 | 2026-09 | 42 |
 | 2026-08 | 54 |
@@ -166,6 +166,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-09 | 6 |
 | 2026-11-06 | 44 |
 | 2026-11-05 | 3 |
 | 2026-11-04 | 7 |

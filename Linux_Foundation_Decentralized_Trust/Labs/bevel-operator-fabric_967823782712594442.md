@@ -6,7 +6,7 @@
 - **Total Messages:** 3,400
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 37
+- **Last 365 Days:** 32
 - **First Message:** 2022-04-24
 - **Last Message:** 2026-05-11
 
@@ -25,8 +25,8 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 13 | lfdt-ca, LFDT Staff |
-| 2 | KaitouKID | 9 | — |
-| 3 | CalvinCreator | 8 | — |
+| 2 | CalvinCreator | 8 | — |
+| 3 | KaitouKID | 4 | — |
 | 4 | [dnakashima](https://github.com/dnakashima) | 2 | Project Maintainer, Fabric Maintainer, Lab Leader |
 | 5 | adityajoshi | 2 | — |
 

@@ -3,9 +3,9 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1202723483289780234
 - **Total Messages in Category:** 518
-- **Last 30 Days:** 11
+- **Last 30 Days:** 9
 - **Last 90 Days:** 45
-- **Last 365 Days:** 151
+- **Last 365 Days:** 149
 - **First Message:** 2024-02-01
 - **Last Message:** 2026-11-05
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [general](general_1202723483289780236.md) | 2026-11-05 | 11 | 45 | 149 | 480 |
+| [general](general_1202723483289780236.md) | 2026-11-05 | 9 | 45 | 147 | 480 |
 | [linkedin](linkedin_1205645746192261220.md) | 2026-05-24 | 0 | 0 | 2 | 33 |
 | [links](links_1205170239436754974.md) | 2024-02-13 | 0 | 0 | 0 | 4 |
 | [events](events_1214569223012089878.md) | 2025-03-11 | 0 | 0 | 0 | 1 |
@@ -25,10 +25,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Connor 🇺🇸 AF | 2 | — |
-| 2 | Maarl | 2 | — |
-| 3 | brent | 1 | — |
-| 4 | Abacus | 1 | — |
-| 5 | Vijaya Bhasker Gandla | 1 | — |
+| 2 | brent | 1 | — |
+| 3 | Abacus | 1 | — |
+| 4 | Vijaya Bhasker Gandla | 1 | — |
+| 5 | Manuel Echepares | 1 | — |
 
 ### Last 90 Days
 
@@ -44,7 +44,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Severus Snape | 15 | — |
+| 1 | Severus Snape | 13 | — |
 | 2 | chozorho | 12 | — |
 | 3 | Dadofpips | 7 | — |
 | 4 | Jarek Duda | 6 | — |

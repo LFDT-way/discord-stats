@@ -5,7 +5,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 124
-- **Messages (365d):** 1,973
+- **Messages (365d):** 1,974
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -19,7 +19,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 8 | birte_lr | 61 | — |
 | 9 | espuni | 45 | — |
 | 10 | PStLouis | 36 | Lab Maintainer, Project Maintainer |
-| 11 | thidalgo | 35 | — |
+| 11 | thidalgo | 36 | — |
 | 12 | davidejalexander | 34 | SIG member |
 | 13 | RMLearney | 32 | — |
 | 14 | Timbl | 30 | — |

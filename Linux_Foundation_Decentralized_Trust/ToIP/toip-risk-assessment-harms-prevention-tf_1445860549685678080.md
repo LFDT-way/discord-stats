@@ -5,7 +5,7 @@
 - **Channel ID:** 1445860549685678080
 - **Total Messages:** 157
 - **Last 30 Days:** 25
-- **Last 90 Days:** 55
+- **Last 90 Days:** 52
 - **Last 365 Days:** 157
 - **First Message:** 2025-12-03
 - **Last Message:** 2026-11-05
@@ -26,9 +26,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 32 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 30 | Lab Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 12 | lfdt-ca, LFDT Staff |
-| 3 | Nicky H | 5 | Project Maintainer, ToIP |
+| 3 | Nicky H | 4 | Project Maintainer, ToIP |
 | 4 | stevevitka | 3 | ToIP |
 | 5 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
 

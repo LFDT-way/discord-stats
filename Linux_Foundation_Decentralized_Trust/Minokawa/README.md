@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1426221261826293800
-- **Total Messages in Category:** 33
-- **Last 30 Days:** 1
-- **Last 90 Days:** 22
-- **Last 365 Days:** 31
+- **Total Messages in Category:** 34
+- **Last 30 Days:** 2
+- **Last 90 Days:** 23
+- **Last 365 Days:** 32
 - **First Message:** 2025-11-05
-- **Last Message:** 2026-11-04
+- **Last Message:** 2026-11-09
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [minokawa](minokawa_1426221491833409536.md) | 2026-11-04 | 1 | 22 | 31 | 33 |
+| [minokawa](minokawa_1426221491833409536.md) | 2026-11-09 | 2 | 23 | 32 | 34 |
 
 ## Most Active Users
 
@@ -21,13 +21,13 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Parisa Ataei](https://github.com/pataei) | 1 | Project Maintainer, Minokawa Maintainer |
+| 1 | [Parisa Ataei](https://github.com/pataei) | 2 | Project Maintainer, Minokawa Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Parisa Ataei](https://github.com/pataei) | 10 | Project Maintainer, Minokawa Maintainer |
+| 1 | [Parisa Ataei](https://github.com/pataei) | 11 | Project Maintainer, Minokawa Maintainer |
 | 2 | [newton_meter (Kevin Millikin)](https://github.com/kmillikin) | 4 | TAC member, Project Maintainer, Minokawa Maintainer |
 | 3 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
 | 4 | Rodrigo Quelhas | 1 | — |
@@ -37,7 +37,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Parisa Ataei](https://github.com/pataei) | 10 | Project Maintainer, Minokawa Maintainer |
+| 1 | [Parisa Ataei](https://github.com/pataei) | 11 | Project Maintainer, Minokawa Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
 | 3 | [newton_meter (Kevin Millikin)](https://github.com/kmillikin) | 4 | TAC member, Project Maintainer, Minokawa Maintainer |
 | 4 | [Arun S M](https://github.com/arsulegai) | 2 | TAC member, Chapter Leader |
@@ -47,7 +47,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Parisa Ataei](https://github.com/pataei) | 10 | Project Maintainer, Minokawa Maintainer |
+| 1 | [Parisa Ataei](https://github.com/pataei) | 11 | Project Maintainer, Minokawa Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
 | 3 | [newton_meter (Kevin Millikin)](https://github.com/kmillikin) | 4 | TAC member, Project Maintainer, Minokawa Maintainer |
 | 4 | [SonicSwordcane](https://github.com/SupernaviX) | 3 | Project Maintainer, Firefly Maintainer |
@@ -57,14 +57,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 30 |
+| 2026 | 31 |
 | 2025 | 3 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 1 |
+| 2026-11 | 2 |
 | 2026-10 | 1 |
 | 2026-09 | 16 |
 | 2026-08 | 4 |
@@ -78,6 +78,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-09 | 1 |
 | 2026-11-04 | 1 |
 | 2026-10-07 | 1 |
 | 2026-09-28 | 2 |

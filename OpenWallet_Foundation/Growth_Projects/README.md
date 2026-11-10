@@ -2,12 +2,12 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
-- **Total Messages in Category:** 3,960
-- **Last 30 Days:** 114
-- **Last 90 Days:** 328
-- **Last 365 Days:** 1,314
+- **Total Messages in Category:** 3,961
+- **Last 30 Days:** 115
+- **Last 90 Days:** 327
+- **Last 365 Days:** 1,315
 - **First Message:** 2023-11-08
-- **Last Message:** 2026-11-07
+- **Last Message:** 2026-11-09
 
 ## Channels in Category
 
@@ -16,7 +16,7 @@
 | [credo](credo_1179453305856991263.md) | 2026-10-25 | 10 | 20 | 149 | 1,106 |
 | [bifold](bifold_1209891839071756419.md) | 2026-11-03 | 6 | 20 | 138 | 918 |
 | [multipaz](multipaz_1179828955717574707.md) | 2026-10-29 | 29 | 53 | 246 | 677 |
-| [eudiplo](eudiplo_1399429216604258365.md) | 2026-11-07 | 45 | 206 | 652 | 664 |
+| [eudiplo](eudiplo_1399429216604258365.md) | 2026-11-09 | 46 | 205 | 653 | 665 |
 | [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 0 | 71 | 268 |
 | [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 1 | 105 |
 | [owl](owl_1214965981470924911.md) | 2026-05-07 | 0 | 0 | 10 | 85 |
@@ -44,7 +44,7 @@
 | 1 | [Mirko](https://github.com/cre8) | 76 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | birte_lr | 61 | — |
 | 3 | [davidz25](https://github.com/davidz25) | 32 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 4 | Cyril | 25 | — |
+| 4 | Cyril | 24 | — |
 | 5 | [esune](https://github.com/esune) | 16 | Project Maintainer |
 
 ### Last 365 Days
@@ -71,7 +71,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,165 |
+| 2026 | 1,166 |
 | 2025 | 1,412 |
 | 2024 | 1,309 |
 | 2023 | 74 |
@@ -80,7 +80,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 21 |
+| 2026-11 | 22 |
 | 2026-10 | 142 |
 | 2026-09 | 129 |
 | 2026-08 | 47 |
@@ -122,6 +122,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-09 | 1 |
 | 2026-11-07 | 4 |
 | 2026-11-05 | 1 |
 | 2026-11-04 | 6 |

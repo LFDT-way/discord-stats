@@ -4,7 +4,7 @@
 - **Category ID:** 1226983696306012181
 - **Total Messages in Category:** 1,560
 - **Last 30 Days:** 3
-- **Last 90 Days:** 32
+- **Last 90 Days:** 31
 - **Last 365 Days:** 226
 - **First Message:** 2024-04-10
 - **Last Message:** 2026-10-20
@@ -16,7 +16,7 @@
 | [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-08-28 | 0 | 1 | 90 | 747 |
 | [sdk-ts](sdk-ts_1252629747389829152.md) | 2026-06-16 | 0 | 0 | 19 | 219 |
 | [cloud-agent](cloud-agent_1252629630763012116.md) | 2025-12-03 | 0 | 0 | 12 | 213 |
-| [general](general_1252630735269925057.md) | 2026-10-01 | 0 | 20 | 70 | 193 |
+| [general](general_1252630735269925057.md) | 2026-10-01 | 0 | 19 | 70 | 193 |
 | [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 0 | 65 |
 | [identus-faq](identus-faq_1252622748073853083.md) | 2025-11-29 | 0 | 0 | 15 | 46 |
 | [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-10-20 | 3 | 8 | 14 | 30 |
@@ -39,7 +39,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Prince Yarjack | 14 | — |
+| 1 | Prince Yarjack | 13 | — |
 | 2 | jonbauer | 6 | Identus Maintainer, Project Maintainer |
 | 3 | [FabioPinheiro](https://github.com/FabioPinheiro) | 4 | Identus Maintainer, Project Maintainer |
 | 4 | Yurii Shynbuiev | 3 | Identus Maintainer, Project Maintainer |

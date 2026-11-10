@@ -2,25 +2,27 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1155727691216076911
-- **Total Messages in Category:** 2,382
-- **Last 30 Days:** 0
-- **Last 90 Days:** 23
-- **Last 365 Days:** 139
+- **Total Messages in Category:** 2,385
+- **Last 30 Days:** 3
+- **Last 90 Days:** 26
+- **Last 365 Days:** 138
 - **First Message:** 2023-09-10
-- **Last Message:** 2026-09-16
+- **Last Message:** 2026-11-10
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric-newbies](fabric-newbies_1150488600975245412.md) | 2026-07-20 | 0 | 0 | 101 | 1,957 |
+| [fabric-newbies](fabric-newbies_1150488600975245412.md) | 2026-11-10 | 3 | 3 | 100 | 1,960 |
 | [firefly-newbies](firefly-newbies_1154921177207275520.md) | 2026-09-16 | 0 | 23 | 38 | 425 |
 
 ## Most Active Users
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | snowski555 | 3 | — |
 
 ### Last 90 Days
 
@@ -29,12 +31,13 @@ _No activity in this period._
 | 1 | [SonicSwordcane](https://github.com/SupernaviX) | 10 | Project Maintainer, Firefly Maintainer |
 | 2 | 0xTemi Hardhek 🦀 | 7 | — |
 | 3 | [Enrique Lacal](https://github.com/EnriqueL8) | 6 | TAC member, Project Maintainer, Firefly Maintainer |
+| 4 | snowski555 | 3 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 31 | Project Maintainer, Fabric Maintainer |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 29 | Project Maintainer, Fabric Maintainer |
 | 2 | [Enrique Lacal](https://github.com/EnriqueL8) | 11 | TAC member, Project Maintainer, Firefly Maintainer |
 | 3 | [SonicSwordcane](https://github.com/SupernaviX) | 10 | Project Maintainer, Firefly Maintainer |
 | 4 | 0xTemi Hardhek 🦀 | 7 | — |
@@ -54,7 +57,7 @@ _No activity in this period._
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 88 |
+| 2026 | 91 |
 | 2025 | 767 |
 | 2024 | 1,224 |
 | 2023 | 303 |
@@ -63,6 +66,7 @@ _No activity in this period._
 
 | Month | Messages |
 | --- | --- |
+| 2026-11 | 3 |
 | 2026-09 | 23 |
 | 2026-07 | 8 |
 | 2026-06 | 12 |
@@ -104,6 +108,7 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-10 | 3 |
 | 2026-09-16 | 5 |
 | 2026-09-15 | 4 |
 | 2026-09-14 | 1 |
