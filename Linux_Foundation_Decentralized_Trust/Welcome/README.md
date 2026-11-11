@@ -4,8 +4,8 @@
 - **Category ID:** 948958931512873030
 - **Total Messages in Category:** 14,177
 - **Last 30 Days:** 35
-- **Last 90 Days:** 85
-- **Last 365 Days:** 383
+- **Last 90 Days:** 83
+- **Last 365 Days:** 378
 - **First Message:** 2022-03-03
 - **Last Message:** 2026-11-10
 
@@ -13,11 +13,11 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [welcome](welcome_948959099842883654.md) | 2026-08-12 | 0 | 2 | 41 | 10,733 |
+| [welcome](welcome_948959099842883654.md) | 2026-08-12 | 0 | 0 | 38 | 10,733 |
 | [general](general_1021077182501621830.md) | 2026-11-10 | 26 | 60 | 198 | 1,931 |
 | [job-postings](job-postings_1050607623566802984.md) | 2026-10-07 | 0 | 8 | 71 | 450 |
 | [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-11-04 | 3 | 4 | 14 | 421 |
-| [connections](connections_948959243095130142.md) | 2026-10-31 | 2 | 7 | 18 | 375 |
+| [connections](connections_948959243095130142.md) | 2026-10-31 | 2 | 7 | 16 | 375 |
 | [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-10-27 | 1 | 1 | 28 | 192 |
 | [announcements](announcements_953133039372877844.md) | 2026-11-09 | 2 | 2 | 10 | 41 |
 | [git-help](git-help_1098621099681513492.md) | 2026-10-19 | 1 | 1 | 3 | 34 |

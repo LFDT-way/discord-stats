@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 7,188
 - **Last 30 Days:** 0
 - **Last 90 Days:** 1
-- **Last 365 Days:** 49
+- **Last 365 Days:** 47
 - **First Message:** 2022-02-12
 - **Last Message:** 2026-09-24
 
@@ -18,7 +18,7 @@
 | [solang-solana](solang-solana_1133399591610482779.md) | 2025-04-30 | 0 | 0 | 0 | 439 |
 | [blockchain-explorer](blockchain-explorer_1039606111654920255.md) | 2025-07-12 | 0 | 0 | 0 | 338 |
 | [aries-framework-swift](aries-framework-swift_1036463258791583814.md) | 2026-01-05 | 0 | 0 | 4 | 304 |
-| [identity](identity_943951480954712064.md) | 2026-09-24 | 0 | 1 | 5 | 233 |
+| [identity](identity_943951480954712064.md) | 2026-09-24 | 0 | 1 | 4 | 233 |
 | [anoncreds-rs](anoncreds-rs_1037471454775746580.md) | 2025-04-18 | 0 | 0 | 0 | 208 |
 | [anoncreds-spec](anoncreds-spec_1037471404586709042.md) | 2024-05-27 | 0 | 0 | 0 | 173 |
 | [supply-chain-and-trade-finance-sig](supply-chain-and-trade-finance-sig_943951252360925264.md) | 2025-04-28 | 0 | 0 | 0 | 163 |
@@ -48,7 +48,7 @@
 | [project-consistency-task-force](project-consistency-task-force_1388070912435425320.md) | 2025-11-14 | 0 | 0 | 5 | 44 |
 | [bdls](bdls_1035218321051746344.md) | 2026-03-24 | 0 | 0 | 2 | 37 |
 | [meetups](meetups_966023754016759849.md) | 2026-02-18 | 0 | 0 | 1 | 35 |
-| [splice](splice_1210332028281688135.md) | 2026-04-22 | 0 | 0 | 2 | 34 |
+| [splice](splice_1210332028281688135.md) | 2026-04-22 | 0 | 0 | 1 | 34 |
 | [chaindeploy](chaindeploy_1351886901988163635.md) | 2026-07-27 | 0 | 0 | 1 | 24 |
 | [australasia-chapter](australasia-chapter_979467446081691709.md) | 2025-09-12 | 0 | 0 | 0 | 21 |
 | [performance-scale](performance-scale_943951597212414013.md) | 2025-07-17 | 0 | 0 | 0 | 19 |

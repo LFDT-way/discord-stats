@@ -3,8 +3,8 @@
 - **Guild ID:** 1022962884864643214
 - **Total Messages:** 9,823
 - **Last 30 Days:** 136
-- **Last 90 Days:** 394
-- **Last 365 Days:** 1,981 — [active users](users.md)
+- **Last 90 Days:** 393
+- **Last 365 Days:** 1,976 — [active users](users.md)
 - **First Message:** 2022-09-23
 - **Last Message:** 2026-11-09
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -15,9 +15,9 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Growth Projects](Growth_Projects/README.md) | 3,961 | 115 | 327 | 1,315 | 2023-11-08 | 2026-11-09 |
 | [General](General/README.md) | 1,870 | 6 | 11 | 69 | 2022-09-23 | 2026-11-09 |
-| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 0 | 12 | 98 | 2022-09-28 | 2026-09-24 |
-| [Impact Projects](Impact_Projects/README.md) | 880 | 9 | 15 | 155 | 2024-09-26 | 2026-10-26 |
-| [Labs](Labs/README.md) | 860 | 4 | 26 | 334 | 2023-06-02 | 2026-11-08 |
+| [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 0 | 12 | 94 | 2022-09-28 | 2026-09-24 |
+| [Impact Projects](Impact_Projects/README.md) | 880 | 9 | 15 | 154 | 2024-09-26 | 2026-10-26 |
+| [Labs](Labs/README.md) | 860 | 4 | 25 | 334 | 2023-06-02 | 2026-11-08 |
 | [Archive](Archive/README.md) | 345 | 0 | 0 | 0 | 2022-09-23 | 2025-10-23 |
 | [Information](Information/README.md) | 71 | 2 | 3 | 3 | 2022-09-28 | 2026-11-05 |
 | [Uncategorized](Uncategorized/README.md) | 0 | 0 | 0 | 7 | None | None |
@@ -48,7 +48,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 396 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 394 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Ry Jones, OWF](https://github.com/ryjones) | 142 | Linux Foundation Staff |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 138 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |

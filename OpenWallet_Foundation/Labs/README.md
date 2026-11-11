@@ -4,7 +4,7 @@
 - **Category ID:** 1108449719212048556
 - **Total Messages in Category:** 860
 - **Last 30 Days:** 4
-- **Last 90 Days:** 26
+- **Last 90 Days:** 25
 - **Last 365 Days:** 334
 - **First Message:** 2023-06-02
 - **Last Message:** 2026-11-08
@@ -17,7 +17,7 @@
 | [mdoc-ts](mdoc-ts_1251180041124053052.md) | 2026-04-01 | 0 | 0 | 128 | 172 |
 | [sd-jwt-dotnet](sd-jwt-dotnet_1179453047169110056.md) | 2026-04-30 | 0 | 0 | 64 | 80 |
 | [sd-jwt-general](sd-jwt-general_1180161138030284910.md) | 2026-11-08 | 1 | 1 | 1 | 71 |
-| [oid4vc-ts](oid4vc-ts_1326616895453007933.md) | 2026-08-12 | 0 | 1 | 44 | 62 |
+| [oid4vc-ts](oid4vc-ts_1326616895453007933.md) | 2026-08-12 | 0 | 0 | 44 | 62 |
 | [vc-api](vc-api_1157008901020073994.md) | 2025-10-24 | 0 | 0 | 0 | 39 |
 | [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-08-18 | 0 | 1 | 21 | 28 |
 | [wallet-framework-dotnet](wallet-framework-dotnet_1159552665940938842.md) | 2024-10-11 | 0 | 0 | 0 | 26 |

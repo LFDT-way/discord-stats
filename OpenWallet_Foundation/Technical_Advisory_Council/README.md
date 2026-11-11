@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 1,836
 - **Last 30 Days:** 0
 - **Last 90 Days:** 12
-- **Last 365 Days:** 98
+- **Last 365 Days:** 94
 - **First Message:** 2022-09-28
 - **Last Message:** 2026-09-24
 
@@ -17,7 +17,7 @@
 | [safe-wallet-sig](safe-wallet-sig_1154410858991067247.md) | 2025-05-12 | 0 | 0 | 0 | 393 |
 | [wallet-interoperability-sig](wallet-interoperability-sig_1291067233967149150.md) | 2026-06-01 | 0 | 0 | 28 | 204 |
 | [tac](tac_1080192375621685288.md) | 2026-09-24 | 0 | 12 | 26 | 203 |
-| [digital-wallet-and-agent-overviews-sig](digital-wallet-and-agent-overviews-sig_1154111877077532814.md) | 2025-11-17 | 0 | 0 | 5 | 138 |
+| [digital-wallet-and-agent-overviews-sig](digital-wallet-and-agent-overviews-sig_1154111877077532814.md) | 2025-11-17 | 0 | 0 | 1 | 138 |
 
 ## Most Active Users
 
@@ -40,7 +40,7 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | davidejalexander | 33 | SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 28 | Linux Foundation Staff |
-| 3 | [Mirko](https://github.com/cre8) | 12 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 3 | [Mirko](https://github.com/cre8) | 10 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 4 | Jim St.Clair | 5 | SIG member |
 | 5 | [Ry Jones, OWF](https://github.com/ryjones) | 4 | Linux Foundation Staff |
 

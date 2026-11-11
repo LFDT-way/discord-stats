@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 2,655
 - **Last 30 Days:** 50
 - **Last 90 Days:** 136
-- **Last 365 Days:** 393
+- **Last 365 Days:** 391
 - **First Message:** 2022-02-10
 - **Last Message:** 2026-11-06
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-11-06 | 50 | 136 | 375 | 2,602 |
+| [tac](tac_941384040316018790.md) | 2026-11-06 | 50 | 136 | 373 | 2,602 |
 | [automated-pipelines](automated-pipelines_1156961689971998782.md) | 2026-04-15 | 0 | 0 | 18 | 52 |
 | [tac-announcements](tac-announcements_941399554731966564.md) | 2022-02-17 | 0 | 0 | 0 | 1 |
 
@@ -43,7 +43,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 142 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 140 | TAC member, Chapter Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 45 | lfdt-ca, LFDT Staff |
 | 3 | [davidwboswell](https://github.com/davidwboswell) | 35 | lfdt-ca, LFDT Staff |
 | 4 | [hendrik.ebbers](https://github.com/hendrikebbers) | 19 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |

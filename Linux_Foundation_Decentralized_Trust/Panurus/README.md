@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1518924075123081246
-- **Total Messages in Category:** 707
-- **Last 30 Days:** 24
-- **Last 90 Days:** 83
-- **Last 365 Days:** 177
+- **Total Messages in Category:** 710
+- **Last 30 Days:** 27
+- **Last 90 Days:** 80
+- **Last 365 Days:** 180
 - **First Message:** 2022-03-02
-- **Last Message:** 2026-11-09
+- **Last Message:** 2026-11-10
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [panurus](panurus_945691840110272522.md) | 2026-11-09 | 24 | 83 | 177 | 707 |
+| [panurus](panurus_945691840110272522.md) | 2026-11-10 | 27 | 80 | 180 | 710 |
 
 ## Most Active Users
 
@@ -22,20 +22,20 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Angelo De Caro](https://github.com/adecaro) | 14 | Lab Leader, Fabric Maintainer, Project Maintainer |
-| 2 | ⛅CloudEllie | 7 | — |
-| 3 | hstar | 1 | — |
-| 4 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
+| 2 | ⛅CloudEllie | 8 | — |
+| 3 | [Ry Jones](https://github.com/ryjones) | 3 | lfdt-ca, LFDT Staff |
+| 4 | hstar | 1 | — |
 | 5 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 40 | Lab Leader, Fabric Maintainer, Project Maintainer |
-| 2 | arunabha003 | 22 | — |
-| 3 | ⛅CloudEllie | 8 | — |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 36 | Lab Leader, Fabric Maintainer, Project Maintainer |
+| 2 | arunabha003 | 21 | — |
+| 3 | ⛅CloudEllie | 9 | — |
 | 4 | EliMbadi | 4 | — |
-| 5 | Atharva Borade | 3 | — |
+| 5 | [Ry Jones](https://github.com/ryjones) | 3 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
 
@@ -44,8 +44,8 @@
 | 1 | [Angelo De Caro](https://github.com/adecaro) | 84 | Lab Leader, Fabric Maintainer, Project Maintainer |
 | 2 | arunabha003 | 35 | — |
 | 3 | Atharva Borade | 12 | — |
-| 4 | ⛅CloudEllie | 8 | — |
-| 5 | hstar | 5 | — |
+| 4 | ⛅CloudEllie | 9 | — |
+| 5 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
 
 ### All Time
 
@@ -61,7 +61,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 174 |
+| 2026 | 177 |
 | 2025 | 13 |
 | 2024 | 67 |
 | 2023 | 84 |
@@ -71,7 +71,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 1 |
+| 2026-11 | 4 |
 | 2026-10 | 24 |
 | 2026-09 | 10 |
 | 2026-08 | 49 |
@@ -118,6 +118,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-10 | 3 |
 | 2026-11-09 | 1 |
 | 2026-10-30 | 13 |
 | 2026-10-28 | 1 |
