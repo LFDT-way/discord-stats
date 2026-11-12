@@ -2,37 +2,37 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1357322461947101405
-- **Total Messages in Category:** 3,637
-- **Last 30 Days:** 303
-- **Last 90 Days:** 736
-- **Last 365 Days:** 2,884
+- **Total Messages in Category:** 3,653
+- **Last 30 Days:** 310
+- **Last 90 Days:** 744
+- **Last 365 Days:** 2,880
 - **First Message:** 2025-04-03
-- **Last Message:** 2026-11-11
+- **Last Message:** 2026-11-12
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [toip-aim-wg](toip-aim-wg_1379651804790264018.md) | 2026-11-04 | 40 | 95 | 656 | 860 |
-| [toip-decen-trust-graph-wg](toip-decen-trust-graph-wg_1414670897037443205.md) | 2026-11-11 | 29 | 119 | 374 | 479 |
-| [toip-bite-size-trust-tf](toip-bite-size-trust-tf_1414670208085528607.md) | 2026-11-11 | 5 | 11 | 222 | 312 |
-| [toip-trust-registry-tf](toip-trust-registry-tf_1414671976831910049.md) | 2026-11-03 | 9 | 59 | 273 | 305 |
-| [toip-general](toip-general_1357323158935572581.md) | 2026-10-29 | 19 | 42 | 207 | 294 |
-| [toip-ecosystem-governance-wg](toip-ecosystem-governance-wg_1414671336697233499.md) | 2026-11-05 | 103 | 163 | 254 | 264 |
-| [toip-governance-architecture-tf](toip-governance-architecture-tf_1414671405383159808.md) | 2026-11-03 | 6 | 19 | 155 | 185 |
+| [toip-aim-wg](toip-aim-wg_1379651804790264018.md) | 2026-11-12 | 41 | 99 | 659 | 865 |
+| [toip-decen-trust-graph-wg](toip-decen-trust-graph-wg_1414670897037443205.md) | 2026-11-12 | 32 | 121 | 377 | 482 |
+| [toip-bite-size-trust-tf](toip-bite-size-trust-tf_1414670208085528607.md) | 2026-11-11 | 6 | 12 | 216 | 313 |
+| [toip-trust-registry-tf](toip-trust-registry-tf_1414671976831910049.md) | 2026-11-12 | 8 | 60 | 274 | 306 |
+| [toip-general](toip-general_1357323158935572581.md) | 2026-10-29 | 18 | 42 | 202 | 294 |
+| [toip-ecosystem-governance-wg](toip-ecosystem-governance-wg_1414671336697233499.md) | 2026-11-05 | 103 | 163 | 253 | 264 |
+| [toip-governance-architecture-tf](toip-governance-architecture-tf_1414671405383159808.md) | 2026-11-12 | 9 | 22 | 158 | 188 |
 | [toip-steering-committee](toip-steering-committee_1414671746065371186.md) | 2026-11-03 | 10 | 21 | 139 | 169 |
-| [toip-risk-assessment-harms-prevention-tf](toip-risk-assessment-harms-prevention-tf_1445860549685678080.md) | 2026-11-11 | 27 | 54 | 159 | 159 |
+| [toip-risk-assessment-harms-prevention-tf](toip-risk-assessment-harms-prevention-tf_1445860549685678080.md) | 2026-11-12 | 27 | 56 | 161 | 161 |
 | [toip-keri-suite-wg](toip-keri-suite-wg_1414671689005928579.md) | 2026-10-06 | 0 | 1 | 30 | 97 |
 | [toip-dtgwg-zkp-tf](toip-dtgwg-zkp-tf_1521314643124162570.md) | 2026-11-11 | 9 | 46 | 81 | 81 |
 | [toip-symposium](toip-symposium_1414380462863945768.md) | 2025-12-03 | 0 | 0 | 34 | 79 |
-| [toip-concepts-terminology-wg](toip-concepts-terminology-wg_1414670384539897876.md) | 2026-10-05 | 0 | 10 | 60 | 73 |
+| [toip-concepts-terminology-wg](toip-concepts-terminology-wg_1414670384539897876.md) | 2026-10-05 | 0 | 10 | 57 | 73 |
 | [toip-technology-stack-wg](toip-technology-stack-wg_1414671863057223820.md) | 2026-11-04 | 7 | 24 | 63 | 67 |
-| [toip-dtgwg-htx-tf](toip-dtgwg-htx-tf_1532149134327546047.md) | 2026-11-09 | 15 | 34 | 48 | 48 |
+| [toip-dtgwg-htx-tf](toip-dtgwg-htx-tf_1532149134327546047.md) | 2026-11-09 | 15 | 28 | 48 | 48 |
 | [toip-trust-spanning-protocol-tf](toip-trust-spanning-protocol-tf_1414672107836539070.md) | 2026-11-09 | 15 | 27 | 46 | 47 |
 | [toip-high-assurance-vid-tf](toip-high-assurance-vid-tf_1414671546940915854.md) | 2026-08-03 | 0 | 0 | 26 | 37 |
-| [toip-data-model-and-repr-wg](toip-data-model-and-repr-wg_1414671233903235142.md) | 2026-09-30 | 0 | 2 | 15 | 34 |
+| [toip-data-model-and-repr-wg](toip-data-model-and-repr-wg_1414671233903235142.md) | 2026-09-30 | 0 | 2 | 14 | 34 |
 | [toip-introductions](toip-introductions_1414671613626155201.md) | 2026-11-05 | 1 | 1 | 15 | 17 |
-| [toip-dtgwg-cred-tf](toip-dtgwg-cred-tf_1437931170171060244.md) | 2026-11-10 | 2 | 2 | 16 | 16 |
+| [toip-dtgwg-cred-tf](toip-dtgwg-cred-tf_1437931170171060244.md) | 2026-11-11 | 3 | 3 | 16 | 17 |
 | [toip-announcements](toip-announcements_1357322629941428436.md) | 2026-06-12 | 0 | 0 | 3 | 6 |
 | [toip-did-scid-method-tf](toip-did-scid-method-tf_1414671169017217239.md) | 2026-10-29 | 6 | 6 | 6 | 6 |
 | [toip-2026-website-update](toip-2026-website-update_1446653959316967474.md) | 2025-12-06 | 0 | 0 | 2 | 2 |
@@ -43,54 +43,54 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 91 | Lab Leader |
-| 2 | microbiocarly | 59 | Project Maintainer, ToIP |
-| 3 | [drummondreed](https://github.com/talltree) | 36 | Project Maintainer, ToIP |
-| 4 | [firegod](https://github.com/wenjing) | 25 | Project Maintainer, ToIP |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 93 | Lab Leader |
+| 2 | microbiocarly | 60 | Project Maintainer, ToIP |
+| 3 | [drummondreed](https://github.com/talltree) | 33 | Project Maintainer, ToIP |
+| 4 | [firegod](https://github.com/wenjing) | 28 | Project Maintainer, ToIP |
 | 5 | [Ry Jones](https://github.com/ryjones) | 24 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 233 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 236 | Lab Leader |
 | 2 | microbiocarly | 104 | Project Maintainer, ToIP |
-| 3 | [drummondreed](https://github.com/talltree) | 95 | Project Maintainer, ToIP |
-| 4 | [firegod](https://github.com/wenjing) | 77 | Project Maintainer, ToIP |
+| 3 | [drummondreed](https://github.com/talltree) | 96 | Project Maintainer, ToIP |
+| 4 | [firegod](https://github.com/wenjing) | 80 | Project Maintainer, ToIP |
 | 5 | [Ry Jones](https://github.com/ryjones) | 42 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 721 | Lab Leader |
-| 2 | [drummondreed](https://github.com/talltree) | 409 | Project Maintainer, ToIP |
-| 3 | microbiocarly | 390 | Project Maintainer, ToIP |
-| 4 | [firegod](https://github.com/wenjing) | 292 | Project Maintainer, ToIP |
-| 5 | stevevitka | 115 | ToIP |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 727 | Lab Leader |
+| 2 | [drummondreed](https://github.com/talltree) | 404 | Project Maintainer, ToIP |
+| 3 | microbiocarly | 385 | Project Maintainer, ToIP |
+| 4 | [firegod](https://github.com/wenjing) | 295 | Project Maintainer, ToIP |
+| 5 | stevevitka | 117 | ToIP |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 741 | Lab Leader |
-| 2 | [drummondreed](https://github.com/talltree) | 533 | Project Maintainer, ToIP |
-| 3 | microbiocarly | 507 | Project Maintainer, ToIP |
-| 4 | [firegod](https://github.com/wenjing) | 379 | Project Maintainer, ToIP |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 747 | Lab Leader |
+| 2 | [drummondreed](https://github.com/talltree) | 534 | Project Maintainer, ToIP |
+| 3 | microbiocarly | 508 | Project Maintainer, ToIP |
+| 4 | [firegod](https://github.com/wenjing) | 382 | Project Maintainer, ToIP |
 | 5 | [Ry Jones](https://github.com/ryjones) | 163 | lfdt-ca, LFDT Staff |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 2,470 |
+| 2026 | 2,486 |
 | 2025 | 1,167 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 74 |
+| 2026-11 | 90 |
 | 2026-10 | 353 |
 | 2026-09 | 204 |
 | 2026-08 | 185 |
@@ -115,7 +115,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-11-11 | 5 |
+| 2026-11-12 | 9 |
+| 2026-11-11 | 12 |
 | 2026-11-10 | 7 |
 | 2026-11-09 | 6 |
 | 2026-11-06 | 2 |

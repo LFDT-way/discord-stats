@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515688758751282
-- **Total Messages in Category:** 26,659
-- **Last 30 Days:** 8
-- **Last 90 Days:** 44
-- **Last 365 Days:** 643
+- **Total Messages in Category:** 26,660
+- **Last 30 Days:** 9
+- **Last 90 Days:** 45
+- **Last 365 Days:** 641
 - **First Message:** 2022-01-05
-- **Last Message:** 2026-10-23
+- **Last Message:** 2026-11-11
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [firefly](firefly_928377875827154984.md) | 2026-10-23 | 8 | 13 | 119 | 25,516 |
+| [firefly](firefly_928377875827154984.md) | 2026-11-11 | 9 | 14 | 117 | 25,517 |
 | [firefly-maintainers](firefly-maintainers_1151539141826322482.md) | 2026-09-15 | 0 | 31 | 524 | 973 |
 | [firefly-workshop](firefly-workshop_1063562168064282685.md) | 2025-08-28 | 0 | 0 | 0 | 169 |
 | [firefly-announcements](firefly-announcements_928380528422432769.md) | 2022-04-13 | 0 | 0 | 0 | 1 |
@@ -24,7 +24,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [SonicSwordcane](https://github.com/SupernaviX) | 4 | Project Maintainer, Firefly Maintainer |
+| 1 | [SonicSwordcane](https://github.com/SupernaviX) | 5 | Project Maintainer, Firefly Maintainer |
 | 2 | [alexey_semenyuk](https://github.com/alex-semenyuk) | 2 | Project Maintainer, Firefly Maintainer |
 | 3 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
 | 4 | [Enrique Lacal](https://github.com/EnriqueL8) | 1 | TAC member, Project Maintainer, Firefly Maintainer |
@@ -35,7 +35,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 20 | TAC member, Project Maintainer, Firefly Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 8 | lfdt-ca, LFDT Staff |
-| 3 | [SonicSwordcane](https://github.com/SupernaviX) | 6 | Project Maintainer, Firefly Maintainer |
+| 3 | [SonicSwordcane](https://github.com/SupernaviX) | 7 | Project Maintainer, Firefly Maintainer |
 | 4 | [cheng](https://github.com/Chengxuan) | 6 | Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 5 | [alexey_semenyuk](https://github.com/alex-semenyuk) | 2 | Project Maintainer, Firefly Maintainer |
 
@@ -43,9 +43,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 252 | TAC member, Project Maintainer, Firefly Maintainer |
+| 1 | [Enrique Lacal](https://github.com/EnriqueL8) | 249 | TAC member, Project Maintainer, Firefly Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 237 | lfdt-ca, LFDT Staff |
-| 3 | [SonicSwordcane](https://github.com/SupernaviX) | 63 | Project Maintainer, Firefly Maintainer |
+| 3 | [SonicSwordcane](https://github.com/SupernaviX) | 64 | Project Maintainer, Firefly Maintainer |
 | 4 | Dan | 29 | Project Maintainer, Firefly Maintainer |
 | 5 | [cheng](https://github.com/Chengxuan) | 16 | Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 
@@ -63,7 +63,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 605 |
+| 2026 | 606 |
 | 2025 | 2,681 |
 | 2024 | 3,078 |
 | 2023 | 8,386 |
@@ -73,6 +73,7 @@
 
 | Month | Messages |
 | --- | --- |
+| 2026-11 | 1 |
 | 2026-10 | 8 |
 | 2026-09 | 32 |
 | 2026-08 | 8 |
@@ -136,6 +137,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-11 | 1 |
 | 2026-10-23 | 4 |
 | 2026-10-21 | 1 |
 | 2026-10-20 | 1 |

@@ -6,7 +6,7 @@
 - **Total Messages:** 34
 - **Last 30 Days:** 0
 - **Last 90 Days:** 2
-- **Last 365 Days:** 15
+- **Last 365 Days:** 14
 - **First Message:** 2025-09-29
 - **Last Message:** 2026-09-30
 
@@ -26,7 +26,7 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | NeilJT | 10 | ToIP |
+| 1 | NeilJT | 9 | ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
 | 3 | [drummondreed](https://github.com/talltree) | 1 | Project Maintainer, ToIP |
 

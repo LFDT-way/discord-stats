@@ -24,7 +24,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Sahan | 4 | Project Maintainer |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
-| 3 | ThaminduDilshan | 1 | Project Maintainer |
+| 3 | Thamindu Dilshan Jayawickrama | 1 | Project Maintainer |
 | 4 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
@@ -33,7 +33,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Sahan | 4 | Project Maintainer |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
-| 3 | ThaminduDilshan | 1 | Project Maintainer |
+| 3 | Thamindu Dilshan Jayawickrama | 1 | Project Maintainer |
 | 4 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
@@ -42,7 +42,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Sahan | 4 | Project Maintainer |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
-| 3 | ThaminduDilshan | 1 | Project Maintainer |
+| 3 | Thamindu Dilshan Jayawickrama | 1 | Project Maintainer |
 | 4 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
 
 ### All Time
@@ -51,7 +51,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Sahan | 4 | Project Maintainer |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
-| 3 | ThaminduDilshan | 1 | Project Maintainer |
+| 3 | Thamindu Dilshan Jayawickrama | 1 | Project Maintainer |
 | 4 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
 
 ## Yearly Traffic

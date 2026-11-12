@@ -2,19 +2,19 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205653801431081
-- **Total Messages in Category:** 6,282
-- **Last 30 Days:** 4
-- **Last 90 Days:** 4
-- **Last 365 Days:** 54
+- **Total Messages in Category:** 6,283
+- **Last 30 Days:** 5
+- **Last 90 Days:** 5
+- **Last 365 Days:** 55
 - **First Message:** 2022-01-20
-- **Last Message:** 2026-11-05
+- **Last Message:** 2026-11-11
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [indy-node](indy-node_941709259710808155.md) | 2026-05-25 | 0 | 0 | 2 | 2,386 |
-| [indy](indy_905205711850594336.md) | 2026-11-05 | 4 | 4 | 19 | 1,724 |
+| [indy](indy_905205711850594336.md) | 2026-11-11 | 5 | 5 | 20 | 1,725 |
 | [indy-ubuntu-2204-upgrade](indy-ubuntu-2204-upgrade_1333885568433524736.md) | 2026-01-06 | 0 | 0 | 1 | 690 |
 | [indy-sdk](indy-sdk_941709279289815070.md) | 2025-04-15 | 0 | 0 | 0 | 607 |
 | [indy-contributors](indy-contributors_933797403092475924.md) | 2026-05-05 | 0 | 0 | 30 | 375 |
@@ -30,14 +30,14 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
-| 2 | [lynnbendixsen](https://github.com/lynnbendixsen) | 1 | Project Maintainer, Indy Maintainer |
+| 2 | [lynnbendixsen](https://github.com/lynnbendixsen) | 2 | Project Maintainer, Indy Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
-| 2 | [lynnbendixsen](https://github.com/lynnbendixsen) | 1 | Project Maintainer, Indy Maintainer |
+| 2 | [lynnbendixsen](https://github.com/lynnbendixsen) | 2 | Project Maintainer, Indy Maintainer |
 
 ### Last 365 Days
 
@@ -45,9 +45,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 13 | lfdt-ca, LFDT Staff |
 | 2 | [Wade Barnes](https://github.com/WadeBarnes) | 9 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
-| 3 | [swcurran](https://github.com/swcurran) | 6 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
-| 4 | Somesh | 5 | — |
-| 5 | [lynnbendixsen](https://github.com/lynnbendixsen) | 5 | Project Maintainer, Indy Maintainer |
+| 3 | [lynnbendixsen](https://github.com/lynnbendixsen) | 6 | Project Maintainer, Indy Maintainer |
+| 4 | [swcurran](https://github.com/swcurran) | 6 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
+| 5 | Somesh | 5 | — |
 
 ### All Time
 
@@ -56,14 +56,14 @@
 | 1 | [Wade Barnes](https://github.com/WadeBarnes) | 2,017 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
 | 2 | [swcurran](https://github.com/swcurran) | 392 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
 | 3 | c2bo | 198 | — |
-| 4 | [lynnbendixsen](https://github.com/lynnbendixsen) | 188 | Project Maintainer, Indy Maintainer |
+| 4 | [lynnbendixsen](https://github.com/lynnbendixsen) | 189 | Project Maintainer, Indy Maintainer |
 | 5 | tnkhanh | 187 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 45 |
+| 2026 | 46 |
 | 2025 | 1,234 |
 | 2024 | 974 |
 | 2023 | 1,859 |
@@ -73,7 +73,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 3 |
+| 2026-11 | 4 |
 | 2026-10 | 1 |
 | 2026-05 | 7 |
 | 2026-04 | 14 |
@@ -133,6 +133,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-11 | 1 |
 | 2026-11-05 | 1 |
 | 2026-11-04 | 2 |
 | 2026-10-28 | 1 |

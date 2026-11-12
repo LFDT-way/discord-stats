@@ -3,12 +3,12 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category:** PQ Code Package
 - **Channel ID:** 1339067141269229652
-- **Total Messages:** 2,203
-- **Last 30 Days:** 8
+- **Total Messages:** 2,204
+- **Last 30 Days:** 9
 - **Last 90 Days:** 29
-- **Last 365 Days:** 493
+- **Last 365 Days:** 475
 - **First Message:** 2025-02-12
-- **Last Message:** 2026-11-04
+- **Last Message:** 2026-11-11
 
 ## Most Active Users
 
@@ -16,16 +16,16 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [RyJones](https://github.com/ryjones) | 2 | LF Staff |
-| 2 | Brendan | 2 | — |
-| 3 | Rod | 2 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 3 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [RyJones](https://github.com/ryjones) | 2 | LF Staff |
+| 3 | Brendan | 2 | — |
 | 4 | [Matthias Kannwischer](https://github.com/mkannwischer) | 2 | PQ Code Package Maintainer, Project Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 10 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 11 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 10 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Brendan | 3 | — |
 | 4 | isolinear | 3 | — |
@@ -35,17 +35,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 184 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | Rod | 166 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 49 | PQ Code Package Maintainer |
+| 1 | [Matthias Kannwischer](https://github.com/mkannwischer) | 182 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | Rod | 157 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 45 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 42 | LF Staff |
-| 5 | Jake | 33 | PQ Code Package Maintainer, Project Maintainer |
+| 5 | Jake | 30 | PQ Code Package Maintainer, Project Maintainer |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 858 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 859 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 851 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Jake | 168 | PQ Code Package Maintainer, Project Maintainer |
 | 4 | Hanno | 167 | PQ Code Package Maintainer |
@@ -55,14 +55,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 295 |
+| 2026 | 296 |
 | 2025 | 1,908 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 5 |
+| 2026-11 | 6 |
 | 2026-10 | 4 |
 | 2026-08 | 52 |
 | 2026-07 | 31 |
@@ -88,6 +88,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-11 | 1 |
 | 2026-11-04 | 2 |
 | 2026-11-03 | 3 |
 | 2026-10-22 | 2 |

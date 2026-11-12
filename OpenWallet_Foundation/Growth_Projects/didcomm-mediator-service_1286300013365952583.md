@@ -4,7 +4,7 @@
 - **Category:** Growth Projects
 - **Channel ID:** 1286300013365952583
 - **Total Messages:** 61
-- **Last 30 Days:** 24
+- **Last 30 Days:** 22
 - **Last 90 Days:** 27
 - **Last 365 Days:** 34
 - **First Message:** 2024-09-24
@@ -18,9 +18,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [esune](https://github.com/esune) | 11 | Project Maintainer |
 | 2 | [GenAris](https://github.com/genaris) | 6 | credo maintainers, Project Maintainer |
-| 3 | RMLearney | 3 | — |
+| 3 | RMLearney | 2 | — |
 | 4 | [jamshale](https://github.com/jamshale) | 2 | Project Maintainer |
-| 5 | Pragya Jain | 1 | — |
+| 5 | Manthan | 1 | — |
 
 ### Last 90 Days
 

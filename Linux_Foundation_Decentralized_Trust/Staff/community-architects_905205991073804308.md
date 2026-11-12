@@ -4,7 +4,7 @@
 - **Category:** Staff
 - **Channel ID:** 905205991073804308
 - **Total Messages:** 1,581
-- **Last 30 Days:** 1
+- **Last 30 Days:** 0
 - **Last 90 Days:** 18
 - **Last 365 Days:** 36
 - **First Message:** 2021-11-03
@@ -14,9 +14,7 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
+_No activity in this period._
 
 ### Last 90 Days
 

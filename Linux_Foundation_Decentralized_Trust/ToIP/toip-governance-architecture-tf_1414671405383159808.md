@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414671405383159808
-- **Total Messages:** 185
-- **Last 30 Days:** 6
-- **Last 90 Days:** 19
-- **Last 365 Days:** 155
+- **Total Messages:** 188
+- **Last 30 Days:** 9
+- **Last 90 Days:** 22
+- **Last 365 Days:** 158
 - **First Message:** 2025-09-24
-- **Last Message:** 2026-11-03
+- **Last Message:** 2026-11-12
 
 ## Most Active Users
 
@@ -16,24 +16,25 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 6 | Lab Leader |
 | 2 | NeilJT | 2 | ToIP |
+| 3 | John Phillips | 1 | Project Maintainer, ToIP |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 11 | Lab Leader |
-| 2 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
-| 3 | John Phillips | 3 | Project Maintainer, ToIP |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 13 | Lab Leader |
+| 2 | John Phillips | 4 | Project Maintainer, ToIP |
+| 3 | [drummondreed](https://github.com/talltree) | 3 | Project Maintainer, ToIP |
 | 4 | NeilJT | 2 | ToIP |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 71 | Lab Leader |
-| 2 | John Phillips | 34 | Project Maintainer, ToIP |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 73 | Lab Leader |
+| 2 | John Phillips | 35 | Project Maintainer, ToIP |
 | 3 | NeilJT | 19 | ToIP |
 | 4 | [drummondreed](https://github.com/talltree) | 18 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 4 | Project Maintainer, ToIP |
@@ -42,8 +43,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 76 | Lab Leader |
-| 2 | John Phillips | 48 | Project Maintainer, ToIP |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 78 | Lab Leader |
+| 2 | John Phillips | 49 | Project Maintainer, ToIP |
 | 3 | NeilJT | 23 | ToIP |
 | 4 | [drummondreed](https://github.com/talltree) | 22 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 5 | Project Maintainer, ToIP |
@@ -52,14 +53,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 132 |
+| 2026 | 135 |
 | 2025 | 53 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 1 |
+| 2026-11 | 4 |
 | 2026-10 | 10 |
 | 2026-09 | 8 |
 | 2026-08 | 4 |
@@ -79,6 +80,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-12 | 3 |
 | 2026-11-03 | 1 |
 | 2026-10-26 | 1 |
 | 2026-10-21 | 1 |
