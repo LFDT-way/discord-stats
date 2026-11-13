@@ -3,8 +3,8 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1226983696306012181
 - **Total Messages in Category:** 1,560
-- **Last 30 Days:** 3
-- **Last 90 Days:** 28
+- **Last 30 Days:** 2
+- **Last 90 Days:** 18
 - **Last 365 Days:** 222
 - **First Message:** 2024-04-10
 - **Last Message:** 2026-10-20
@@ -16,10 +16,10 @@
 | [identus-maintainers](identus-maintainers_1226983777687965707.md) | 2026-08-28 | 0 | 1 | 87 | 747 |
 | [sdk-ts](sdk-ts_1252629747389829152.md) | 2026-06-16 | 0 | 0 | 19 | 219 |
 | [cloud-agent](cloud-agent_1252629630763012116.md) | 2025-12-03 | 0 | 0 | 12 | 213 |
-| [general](general_1252630735269925057.md) | 2026-10-01 | 0 | 16 | 69 | 193 |
+| [general](general_1252630735269925057.md) | 2026-10-01 | 0 | 6 | 69 | 193 |
 | [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 0 | 65 |
 | [identus-faq](identus-faq_1252622748073853083.md) | 2025-11-29 | 0 | 0 | 15 | 46 |
-| [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-10-20 | 3 | 8 | 14 | 30 |
+| [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-10-20 | 2 | 8 | 14 | 30 |
 | [mediator](mediator_1252629675943919679.md) | 2026-07-07 | 0 | 0 | 3 | 22 |
 | [meeting-minutes](meeting-minutes_1252982706212438016.md) | 2025-06-18 | 0 | 0 | 0 | 12 |
 | [sdk-kmp](sdk-kmp_1252629800372408330.md) | 2026-09-28 | 0 | 3 | 3 | 9 |
@@ -31,19 +31,18 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Yurii Shynbuiev | 1 | Identus Maintainer, Project Maintainer |
-| 2 | pat_pat | 1 | Identus Maintainer, Project Maintainer |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
+| 1 | pat_pat | 1 | Identus Maintainer, Project Maintainer |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Prince Yarjack | 12 | — |
-| 2 | jonbauer | 6 | Identus Maintainer, Project Maintainer |
-| 3 | Yurii Shynbuiev | 3 | Identus Maintainer, Project Maintainer |
+| 1 | jonbauer | 6 | Identus Maintainer, Project Maintainer |
+| 2 | Yurii Shynbuiev | 3 | Identus Maintainer, Project Maintainer |
+| 3 | Prince Yarjack | 3 | — |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
-| 5 | [FabioPinheiro](https://github.com/FabioPinheiro) | 2 | Identus Maintainer, Project Maintainer |
+| 5 | [FabioPinheiro](https://github.com/FabioPinheiro) | 1 | Identus Maintainer, Project Maintainer |
 
 ### Last 365 Days
 

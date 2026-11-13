@@ -2,18 +2,18 @@
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1202723483289780234
-- **Total Messages in Category:** 518
-- **Last 30 Days:** 8
-- **Last 90 Days:** 44
-- **Last 365 Days:** 149
+- **Total Messages in Category:** 519
+- **Last 30 Days:** 9
+- **Last 90 Days:** 45
+- **Last 365 Days:** 150
 - **First Message:** 2024-02-01
-- **Last Message:** 2026-11-05
+- **Last Message:** 2026-11-12
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [general](general_1202723483289780236.md) | 2026-11-05 | 8 | 44 | 147 | 480 |
+| [general](general_1202723483289780236.md) | 2026-11-12 | 9 | 45 | 148 | 481 |
 | [linkedin](linkedin_1205645746192261220.md) | 2026-05-24 | 0 | 0 | 2 | 33 |
 | [links](links_1205170239436754974.md) | 2024-02-13 | 0 | 0 | 0 | 4 |
 | [events](events_1214569223012089878.md) | 2025-03-11 | 0 | 0 | 0 | 1 |
@@ -24,10 +24,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Connor 🇺🇸 AF | 2 | — |
-| 2 | brent | 1 | — |
-| 3 | Vijaya Bhasker Gandla | 1 | — |
-| 4 | Manuel Echepares | 1 | — |
+| 1 | Manuel Echepares | 2 | — |
+| 2 | Connor 🇺🇸 AF | 2 | — |
+| 3 | brent | 1 | — |
+| 4 | Vijaya Bhasker Gandla | 1 | — |
 | 5 | Ben | 1 | — |
 
 ### Last 90 Days
@@ -64,7 +64,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 128 |
+| 2026 | 129 |
 | 2025 | 144 |
 | 2024 | 246 |
 
@@ -72,7 +72,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 3 |
+| 2026-11 | 4 |
 | 2026-10 | 15 |
 | 2026-09 | 24 |
 | 2026-08 | 7 |
@@ -110,6 +110,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-12 | 1 |
 | 2026-11-05 | 1 |
 | 2026-11-04 | 1 |
 | 2026-11-02 | 1 |

@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 421
 - **Last 30 Days:** 4
 - **Last 90 Days:** 11
-- **Last 365 Days:** 161
+- **Last 365 Days:** 157
 - **First Message:** 2025-01-23
 - **Last Message:** 2026-10-30
 
@@ -13,10 +13,10 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credebl](credebl_1331657363161219082.md) | 2026-10-30 | 4 | 11 | 113 | 288 |
+| [credebl](credebl_1331657363161219082.md) | 2026-10-30 | 4 | 11 | 112 | 288 |
 | [credebl-platform](credebl-platform_1354090545043210362.md) | 2025-09-30 | 0 | 0 | 0 | 61 |
 | [credebl-maintainers](credebl-maintainers_1354091009813905488.md) | 2026-07-07 | 0 | 0 | 39 | 58 |
-| [credebl-announcement](credebl-announcement_1354090474654404660.md) | 2026-04-09 | 0 | 0 | 9 | 14 |
+| [credebl-announcement](credebl-announcement_1354090474654404660.md) | 2026-04-09 | 0 | 0 | 6 | 14 |
 
 ## Most Active Users
 
@@ -41,7 +41,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | amitthosare | 31 | Credebl maintainer, Project Maintainer |
+| 1 | amitthosare | 30 | Credebl maintainer, Project Maintainer |
 | 2 | Ankita | 23 | Credebl maintainer, Project Maintainer |
 | 3 | PriyanshuZone | 19 | — |
 | 4 | tsheringgyeltshen | 13 | — |

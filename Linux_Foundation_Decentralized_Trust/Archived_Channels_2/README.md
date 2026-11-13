@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 7,188
 - **Last 30 Days:** 0
 - **Last 90 Days:** 1
-- **Last 365 Days:** 47
+- **Last 365 Days:** 45
 - **First Message:** 2022-02-12
 - **Last Message:** 2026-09-24
 
@@ -18,7 +18,7 @@
 | [solang-solana](solang-solana_1133399591610482779.md) | 2025-04-30 | 0 | 0 | 0 | 439 |
 | [blockchain-explorer](blockchain-explorer_1039606111654920255.md) | 2025-07-12 | 0 | 0 | 0 | 338 |
 | [aries-framework-swift](aries-framework-swift_1036463258791583814.md) | 2026-01-05 | 0 | 0 | 4 | 304 |
-| [identity](identity_943951480954712064.md) | 2026-09-24 | 0 | 1 | 4 | 233 |
+| [identity](identity_943951480954712064.md) | 2026-09-24 | 0 | 1 | 3 | 233 |
 | [anoncreds-rs](anoncreds-rs_1037471454775746580.md) | 2025-04-18 | 0 | 0 | 0 | 208 |
 | [anoncreds-spec](anoncreds-spec_1037471404586709042.md) | 2024-05-27 | 0 | 0 | 0 | 173 |
 | [supply-chain-and-trade-finance-sig](supply-chain-and-trade-finance-sig_943951252360925264.md) | 2025-04-28 | 0 | 0 | 0 | 163 |
@@ -31,7 +31,7 @@
 | [harmonia](harmonia_1118266461736140841.md) | 2025-02-04 | 0 | 0 | 0 | 99 |
 | [onboarding-content-task-force](onboarding-content-task-force_1070733078772854856.md) | 2025-11-07 | 0 | 0 | 0 | 94 |
 | [learning-materials-development](learning-materials-development_943951538345377832.md) | 2024-06-10 | 0 | 0 | 0 | 86 |
-| [healthcare-sig](healthcare-sig_943951175634550874.md) | 2026-04-22 | 0 | 0 | 3 | 83 |
+| [healthcare-sig](healthcare-sig_943951175634550874.md) | 2026-04-22 | 0 | 0 | 2 | 83 |
 | [private-data-objects](private-data-objects_1195066449685905548.md) | 2025-12-14 | 0 | 0 | 1 | 83 |
 | [bevel-workshops](bevel-workshops_1016315449681641502.md) | 2025-08-13 | 0 | 0 | 0 | 78 |
 | [perun](perun_955484679635632148.md) | 2024-12-03 | 0 | 0 | 0 | 77 |
@@ -84,9 +84,9 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | amitthosare | 7 | Credebl maintainer, Project Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 5 | lfdt-ca, LFDT Staff |
-| 3 | Ankita | 3 | Credebl maintainer, Project Maintainer |
-| 4 | [Ajay Jadhav](https://github.com/ajile-in) | 3 | Credebl maintainer, Project Maintainer |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
+| 3 | [Ajay Jadhav](https://github.com/ajile-in) | 3 | Credebl maintainer, Project Maintainer |
+| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
+| 5 | [JessicaG](https://github.com/jwagantall) | 3 | lfdt-ca, LFDT Staff |
 
 ### All Time
 

@@ -2,19 +2,19 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 948958931512873030
-- **Total Messages in Category:** 14,177
-- **Last 30 Days:** 35
-- **Last 90 Days:** 83
-- **Last 365 Days:** 376
+- **Total Messages in Category:** 14,179
+- **Last 30 Days:** 37
+- **Last 90 Days:** 85
+- **Last 365 Days:** 378
 - **First Message:** 2022-03-03
-- **Last Message:** 2026-11-10
+- **Last Message:** 2026-11-12
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [welcome](welcome_948959099842883654.md) | 2026-08-12 | 0 | 0 | 38 | 10,733 |
-| [general](general_1021077182501621830.md) | 2026-11-10 | 26 | 60 | 197 | 1,931 |
+| [general](general_1021077182501621830.md) | 2026-11-12 | 28 | 62 | 199 | 1,933 |
 | [job-postings](job-postings_1050607623566802984.md) | 2026-10-07 | 0 | 8 | 71 | 450 |
 | [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-11-04 | 3 | 4 | 14 | 421 |
 | [connections](connections_948959243095130142.md) | 2026-10-31 | 2 | 7 | 16 | 375 |
@@ -29,7 +29,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 8 | lfdt-ca, LFDT Staff |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | lfdt-ca, LFDT Staff |
 | 3 | Yash | 3 | — |
 | 4 | Nova Hayes | 2 | — |
 | 5 | Nidhi | 2 | — |
@@ -39,7 +39,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 12 | lfdt-ca, LFDT Staff |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 9 | lfdt-ca, LFDT Staff |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 10 | lfdt-ca, LFDT Staff |
 | 3 | Duan | 6 | — |
 | 4 | Rowan | 5 | — |
 | 5 | De Open Source Guy | 3 | — |
@@ -48,7 +48,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 38 | lfdt-ca, LFDT Staff |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 39 | lfdt-ca, LFDT Staff |
 | 2 | [Ry Jones](https://github.com/ryjones) | 27 | lfdt-ca, LFDT Staff |
 | 3 | varun | 15 | — |
 | 4 | Zion'sEarthlyPrince | 13 | — |
@@ -60,7 +60,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Deleted User | 699 | — |
 | 2 | [Ry Jones](https://github.com/ryjones) | 454 | lfdt-ca, LFDT Staff |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 442 | lfdt-ca, LFDT Staff |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 443 | lfdt-ca, LFDT Staff |
 | 4 | tobytobias | 40 | — |
 | 5 | liger | 29 | — |
 
@@ -68,7 +68,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 305 |
+| 2026 | 307 |
 | 2025 | 523 |
 | 2024 | 1,379 |
 | 2023 | 7,571 |
@@ -78,7 +78,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 11 |
+| 2026-11 | 13 |
 | 2026-10 | 34 |
 | 2026-09 | 28 |
 | 2026-08 | 15 |
@@ -140,6 +140,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-12 | 2 |
 | 2026-11-10 | 1 |
 | 2026-11-09 | 1 |
 | 2026-11-06 | 1 |

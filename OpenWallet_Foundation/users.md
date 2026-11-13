@@ -5,17 +5,17 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 120
-- **Messages (365d):** 1,953
+- **Messages (365d):** 1,948
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 392 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Ry Jones, OWF](https://github.com/ryjones) | 139 | Linux Foundation Staff |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 137 | Linux Foundation Staff |
+| 1 | [Mirko](https://github.com/cre8) | 391 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 137 | Linux Foundation Staff |
+| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 137 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 113 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 6 | [Lukas.J.Han](https://github.com/lukasjhan) | 102 | Lab Maintainer |
-| 7 | [Timo Glastra](https://github.com/TimoGlastra) | 89 | credo maintainers, Project Maintainer |
+| 7 | [Timo Glastra](https://github.com/TimoGlastra) | 88 | credo maintainers, Project Maintainer |
 | 8 | birte_lr | 61 | — |
 | 9 | espuni | 45 | — |
 | 10 | thidalgo | 37 | — |
@@ -60,12 +60,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 49 | ZeroEpoch | 5 | — |
 | 50 | Ginga | 5 | — |
 | 51 | Aftab Saraz | 5 | — |
-| 52 | [Wade Barnes](https://github.com/WadeBarnes) | 5 | — |
-| 53 | geertdoornbos | 4 | — |
-| 54 | Bilal | 4 | — |
-| 55 | Pragya Jain | 4 | — |
-| 56 | senu | 4 | — |
-| 57 | [Daniel Marvin](https://github.com/danielmarv) | 4 | — |
+| 52 | geertdoornbos | 4 | — |
+| 53 | Bilal | 4 | — |
+| 54 | Pragya Jain | 4 | — |
+| 55 | senu | 4 | — |
+| 56 | [Daniel Marvin](https://github.com/danielmarv) | 4 | — |
+| 57 | [Wade Barnes](https://github.com/WadeBarnes) | 4 | — |
 | 58 | aaron | 4 | — |
 | 59 | Damignos | 3 | — |
 | 60 | akishiseki | 3 | — |
@@ -124,8 +124,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 113 | Iancu Fofiu | 1 | — |
 | 114 | Arsalan Shahzad | 1 | — |
 | 115 | sherri58 | 1 | — |
-| 116 | latika_04_17594 | 1 | — |
-| 117 | michkauf | 1 | — |
-| 118 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
-| 119 | Aaron | 1 | — |
-| 120 | arifthehappy | 1 | — |
+| 116 | Michael | 1 | — |
+| 117 | latika_04_17594 | 1 | — |
+| 118 | michkauf | 1 | — |
+| 119 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
+| 120 | Aaron | 1 | — |

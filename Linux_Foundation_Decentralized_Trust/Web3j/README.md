@@ -2,10 +2,10 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1195061874950144120
-- **Total Messages in Category:** 1,435
-- **Last 30 Days:** 25
-- **Last 90 Days:** 74
-- **Last 365 Days:** 200
+- **Total Messages in Category:** 1,436
+- **Last 30 Days:** 19
+- **Last 90 Days:** 75
+- **Last 365 Days:** 197
 - **First Message:** 2024-01-11
 - **Last Message:** 2026-11-12
 
@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-11-03 | 22 | 70 | 144 | 890 |
-| [web3j-general](web3j-general_1195062053682032700.md) | 2026-11-12 | 3 | 4 | 56 | 545 |
+| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-11-12 | 17 | 71 | 145 | 891 |
+| [web3j-general](web3j-general_1195062053682032700.md) | 2026-11-12 | 2 | 4 | 52 | 545 |
 
 ## Most Active Users
 
@@ -23,16 +23,16 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | George Tebrean | 9 | Project Maintainer, Web3j Maintainer |
-| 2 | Saurav | 4 | — |
-| 3 | Dev | 4 | — |
-| 4 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 3 | Project Maintainer, Web3j Maintainer |
-| 5 | Akshat K | 2 | — |
+| 2 | Saurav | 3 | — |
+| 3 | Dev | 3 | — |
+| 4 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 1 | Project Maintainer, Web3j Maintainer |
+| 5 | Conor | 1 | Project Maintainer, Web3j Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | George Tebrean | 23 | Project Maintainer, Web3j Maintainer |
+| 1 | George Tebrean | 24 | Project Maintainer, Web3j Maintainer |
 | 2 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 19 | Project Maintainer, Web3j Maintainer |
 | 3 | Saurav | 11 | — |
 | 4 | Dev | 8 | — |
@@ -42,7 +42,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | George Tebrean | 53 | Project Maintainer, Web3j Maintainer |
+| 1 | George Tebrean | 52 | Project Maintainer, Web3j Maintainer |
 | 2 | Dev | 46 | — |
 | 3 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 41 | Project Maintainer, Web3j Maintainer |
 | 4 | Saurav | 18 | — |
@@ -54,7 +54,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 363 | Project Maintainer, Web3j Maintainer |
 | 2 | Shashank Kumar | 289 | — |
-| 3 | George Tebrean | 282 | Project Maintainer, Web3j Maintainer |
+| 3 | George Tebrean | 283 | Project Maintainer, Web3j Maintainer |
 | 4 | Deleted User | 65 | — |
 | 5 | [Ry Jones](https://github.com/ryjones) | 54 | lfdt-ca, LFDT Staff |
 
@@ -62,7 +62,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 191 |
+| 2026 | 192 |
 | 2025 | 341 |
 | 2024 | 903 |
 
@@ -70,7 +70,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 2 |
+| 2026-11 | 3 |
 | 2026-10 | 38 |
 | 2026-09 | 27 |
 | 2026-08 | 12 |
@@ -108,7 +108,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-11-12 | 1 |
+| 2026-11-12 | 2 |
 | 2026-11-03 | 1 |
 | 2026-10-30 | 1 |
 | 2026-10-27 | 1 |

@@ -3,7 +3,7 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
 - **Total Messages in Category:** 3,963
-- **Last 30 Days:** 115
+- **Last 30 Days:** 111
 - **Last 90 Days:** 329
 - **Last 365 Days:** 1,312
 - **First Message:** 2023-11-08
@@ -21,7 +21,7 @@
 | [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 1 | 105 |
 | [owl](owl_1214965981470924911.md) | 2026-05-07 | 0 | 0 | 10 | 85 |
 | [vcx](vcx_1344319756324311123.md) | 2026-03-31 | 0 | 0 | 6 | 69 |
-| [didcomm-mediator-service](didcomm-mediator-service_1286300013365952583.md) | 2026-10-29 | 22 | 27 | 34 | 61 |
+| [didcomm-mediator-service](didcomm-mediator-service_1286300013365952583.md) | 2026-10-29 | 18 | 27 | 34 | 61 |
 | [diip](diip_1493643118078201856.md) | 2026-07-27 | 0 | 0 | 5 | 5 |
 | [thunderid](thunderid_1530170675493339227.md) | 2026-08-20 | 0 | 2 | 2 | 2 |
 
@@ -34,8 +34,8 @@
 | 1 | [davidz25](https://github.com/davidz25) | 19 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 2 | [Mirko](https://github.com/cre8) | 18 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 3 | birte_lr | 11 | — |
-| 4 | [esune](https://github.com/esune) | 11 | Project Maintainer |
-| 5 | Jonas Hoffmann (FU Berlin) | 10 | — |
+| 4 | Jonas Hoffmann (FU Berlin) | 10 | — |
+| 5 | [esune](https://github.com/esune) | 9 | Project Maintainer |
 
 ### Last 90 Days
 

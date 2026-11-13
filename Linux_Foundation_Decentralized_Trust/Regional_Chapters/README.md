@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 888
 - **Last 30 Days:** 2
 - **Last 90 Days:** 6
-- **Last 365 Days:** 60
+- **Last 365 Days:** 58
 - **First Message:** 2022-02-15
 - **Last Message:** 2026-11-02
 
@@ -13,9 +13,9 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [india-chapter](india-chapter_942822085917556777.md) | 2026-11-02 | 2 | 5 | 30 | 458 |
+| [india-chapter](india-chapter_942822085917556777.md) | 2026-11-02 | 2 | 5 | 29 | 458 |
 | [brasil-chapter](brasil-chapter_943207619508723723.md) | 2026-07-22 | 0 | 0 | 9 | 277 |
-| [european-chapter](european-chapter_1289237830081581158.md) | 2026-08-19 | 0 | 1 | 20 | 132 |
+| [european-chapter](european-chapter_1289237830081581158.md) | 2026-08-19 | 0 | 1 | 19 | 132 |
 | [japan-chapter-🇯🇵](japan-chapter-🇯🇵_956727657884692550.md) | 2026-06-17 | 0 | 0 | 1 | 21 |
 
 ## Most Active Users
@@ -40,8 +40,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Ankita | 14 | Credebl maintainer, Project Maintainer |
-| 2 | amitthosare | 13 | Credebl maintainer, Project Maintainer |
+| 1 | amitthosare | 13 | Credebl maintainer, Project Maintainer |
+| 2 | Ankita | 12 | Credebl maintainer, Project Maintainer |
 | 3 | MH | 7 | Chapter Leader |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | lfdt-ca, LFDT Staff |
 | 5 | joselio.teider | 4 | — |

@@ -4,7 +4,7 @@
 - **Category ID:** 1255573270007251024
 - **Total Messages in Category:** 651
 - **Last 30 Days:** 2
-- **Last 90 Days:** 10
+- **Last 90 Days:** 6
 - **Last 365 Days:** 203
 - **First Message:** 2024-06-27
 - **Last Message:** 2026-10-14
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [lockness-contribute](lockness-contribute_1285268686147424388.md) | 2026-10-08 | 0 | 4 | 162 | 379 |
-| [lockness-maintainers](lockness-maintainers_1255573353683746856.md) | 2026-10-14 | 2 | 6 | 34 | 201 |
+| [lockness-maintainers](lockness-maintainers_1255573353683746856.md) | 2026-10-14 | 2 | 2 | 34 | 201 |
 | [lockness](lockness_1294284489635139585.md) | 2026-07-01 | 0 | 0 | 2 | 62 |
 | [lockness-announce](lockness-announce_1285268049913712641.md) | 2026-04-20 | 0 | 0 | 5 | 9 |
 
@@ -31,9 +31,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Denis | 5 | Project Maintainer, Lockness Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
-| 3 | beekayg15 | 1 | — |
+| 1 | Denis | 4 | Project Maintainer, Lockness Maintainer |
+| 2 | beekayg15 | 1 | — |
+| 3 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
 

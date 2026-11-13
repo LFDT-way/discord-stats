@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1552008839623352370
 - **Total Messages in Category:** 14
-- **Last 30 Days:** 1
+- **Last 30 Days:** 0
 - **Last 90 Days:** 14
 - **Last 365 Days:** 14
 - **First Message:** 2026-09-25
@@ -13,15 +13,13 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [ai-×-lfdt](ai-×-lfdt_1552013901846155407.md) | 2026-10-13 | 1 | 14 | 14 | 14 |
+| [ai-×-lfdt](ai-×-lfdt_1552013901846155407.md) | 2026-10-13 | 0 | 14 | 14 | 14 |
 
 ## Most Active Users
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [Alfonso Govela](https://github.com/AlfonsoGovela) | 1 | Lab Leader |
+_No activity in this period._
 
 ### Last 90 Days
 
