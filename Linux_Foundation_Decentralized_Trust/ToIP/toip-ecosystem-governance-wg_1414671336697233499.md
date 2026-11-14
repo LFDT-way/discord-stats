@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414671336697233499
-- **Total Messages:** 269
-- **Last 30 Days:** 89
-- **Last 90 Days:** 168
-- **Last 365 Days:** 258
+- **Total Messages:** 270
+- **Last 30 Days:** 74
+- **Last 90 Days:** 169
+- **Last 365 Days:** 259
 - **First Message:** 2025-09-30
-- **Last Message:** 2026-11-13
+- **Last Message:** 2026-11-14
 
 ## Most Active Users
 
@@ -16,17 +16,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 31 | Project Maintainer, ToIP |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 30 | Lab Leader |
-| 3 | [Ry Jones](https://github.com/ryjones) | 17 | lfdt-ca, LFDT Staff |
-| 4 | Manthan | 11 | — |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 26 | Lab Leader |
+| 2 | microbiocarly | 26 | Project Maintainer, ToIP |
+| 3 | [Ry Jones](https://github.com/ryjones) | 16 | lfdt-ca, LFDT Staff |
+| 4 | Manthan | 6 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | microbiocarly | 64 | Project Maintainer, ToIP |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 56 | Lab Leader |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 57 | Lab Leader |
 | 3 | [Ry Jones](https://github.com/ryjones) | 23 | lfdt-ca, LFDT Staff |
 | 4 | Manthan | 19 | — |
 | 5 | lyn brooks | 3 | Project Maintainer, ToIP |
@@ -36,7 +36,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | microbiocarly | 91 | Project Maintainer, ToIP |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 76 | Lab Leader |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 77 | Lab Leader |
 | 3 | [Ry Jones](https://github.com/ryjones) | 23 | lfdt-ca, LFDT Staff |
 | 4 | Manthan | 19 | — |
 | 5 | [drummondreed](https://github.com/talltree) | 16 | Project Maintainer, ToIP |
@@ -46,7 +46,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | microbiocarly | 97 | Project Maintainer, ToIP |
-| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 76 | Lab Leader |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 77 | Lab Leader |
 | 3 | [Ry Jones](https://github.com/ryjones) | 23 | lfdt-ca, LFDT Staff |
 | 4 | Manthan | 19 | — |
 | 5 | [drummondreed](https://github.com/talltree) | 16 | Project Maintainer, ToIP |
@@ -55,14 +55,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 250 |
+| 2026 | 251 |
 | 2025 | 19 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 16 |
+| 2026-11 | 17 |
 | 2026-10 | 130 |
 | 2026-09 | 22 |
 | 2026-08 | 1 |
@@ -82,6 +82,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-14 | 1 |
 | 2026-11-13 | 2 |
 | 2026-11-12 | 3 |
 | 2026-11-05 | 1 |

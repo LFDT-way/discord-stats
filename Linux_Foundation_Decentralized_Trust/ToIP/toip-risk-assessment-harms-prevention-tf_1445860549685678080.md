@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1445860549685678080
-- **Total Messages:** 162
+- **Total Messages:** 163
 - **Last 30 Days:** 26
-- **Last 90 Days:** 57
-- **Last 365 Days:** 162
+- **Last 90 Days:** 58
+- **Last 365 Days:** 163
 - **First Message:** 2025-12-03
-- **Last Message:** 2026-11-13
+- **Last Message:** 2026-11-14
 
 ## Most Active Users
 
@@ -25,7 +25,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 34 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 35 | Lab Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 12 | lfdt-ca, LFDT Staff |
 | 3 | Nicky H | 5 | Project Maintainer, ToIP |
 | 4 | stevevitka | 3 | ToIP |
@@ -35,7 +35,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 75 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 76 | Lab Leader |
 | 2 | Nicky H | 26 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 16 | Project Maintainer, ToIP |
 | 4 | [Ry Jones](https://github.com/ryjones) | 13 | lfdt-ca, LFDT Staff |
@@ -45,7 +45,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 75 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 76 | Lab Leader |
 | 2 | Nicky H | 26 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 16 | Project Maintainer, ToIP |
 | 4 | [Ry Jones](https://github.com/ryjones) | 13 | lfdt-ca, LFDT Staff |
@@ -55,14 +55,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 148 |
+| 2026 | 149 |
 | 2025 | 14 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 15 |
+| 2026-11 | 16 |
 | 2026-10 | 35 |
 | 2026-09 | 7 |
 | 2026-08 | 7 |
@@ -77,6 +77,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-14 | 1 |
 | 2026-11-13 | 1 |
 | 2026-11-12 | 1 |
 | 2026-11-11 | 2 |

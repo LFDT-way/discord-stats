@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 941383941217222708
 - **Total Messages in Category:** 2,658
-- **Last 30 Days:** 47
+- **Last 30 Days:** 46
 - **Last 90 Days:** 139
-- **Last 365 Days:** 394
+- **Last 365 Days:** 387
 - **First Message:** 2022-02-10
 - **Last Message:** 2026-11-13
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-11-13 | 47 | 139 | 376 | 2,605 |
+| [tac](tac_941384040316018790.md) | 2026-11-13 | 46 | 139 | 369 | 2,605 |
 | [automated-pipelines](automated-pipelines_1156961689971998782.md) | 2026-04-15 | 0 | 0 | 18 | 52 |
 | [tac-announcements](tac-announcements_941399554731966564.md) | 2022-02-17 | 0 | 0 | 0 | 1 |
 
@@ -43,11 +43,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 140 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 138 | TAC member, Chapter Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 45 | lfdt-ca, LFDT Staff |
-| 3 | [davidwboswell](https://github.com/davidwboswell) | 35 | lfdt-ca, LFDT Staff |
+| 3 | [davidwboswell](https://github.com/davidwboswell) | 34 | lfdt-ca, LFDT Staff |
 | 4 | [hendrik.ebbers](https://github.com/hendrikebbers) | 21 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
-| 5 | [Enrique Lacal](https://github.com/EnriqueL8) | 19 | TAC member, Project Maintainer, Firefly Maintainer |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 18 | lfdt-ca, LFDT Staff |
 
 ### All Time
 

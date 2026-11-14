@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Labs
 - **Channel ID:** 1502324614204752155
-- **Total Messages:** 85
-- **Last 30 Days:** 4
-- **Last 90 Days:** 11
-- **Last 365 Days:** 85
+- **Total Messages:** 87
+- **Last 30 Days:** 6
+- **Last 90 Days:** 13
+- **Last 365 Days:** 87
 - **First Message:** 2026-05-08
-- **Last Message:** 2026-11-11
+- **Last Message:** 2026-11-13
 
 ## Most Active Users
 
@@ -16,8 +16,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [OA](https://github.com/pv-sarvesh) | 1 | Lab Leader |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
+| 1 | [OA](https://github.com/pv-sarvesh) | 2 | Lab Leader |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
 | 3 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
 | 4 | Zapperombie | 1 | — |
 
@@ -25,19 +25,19 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | lfdt-ca, LFDT Staff |
 | 2 | Mukul | 3 | — |
-| 3 | Zapperombie | 2 | — |
-| 4 | [OA](https://github.com/pv-sarvesh) | 1 | Lab Leader |
+| 3 | [OA](https://github.com/pv-sarvesh) | 2 | Lab Leader |
+| 4 | Zapperombie | 2 | — |
 | 5 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 25 | lfdt-ca, LFDT Staff |
-| 2 | Shrov Jain | 13 | — |
-| 3 | [OA](https://github.com/pv-sarvesh) | 12 | Lab Leader |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 26 | lfdt-ca, LFDT Staff |
+| 2 | [OA](https://github.com/pv-sarvesh) | 13 | Lab Leader |
+| 3 | Shrov Jain | 13 | — |
 | 4 | Zapperombie | 11 | — |
 | 5 | Mukul | 8 | — |
 
@@ -45,9 +45,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 25 | lfdt-ca, LFDT Staff |
-| 2 | Shrov Jain | 13 | — |
-| 3 | [OA](https://github.com/pv-sarvesh) | 12 | Lab Leader |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 26 | lfdt-ca, LFDT Staff |
+| 2 | [OA](https://github.com/pv-sarvesh) | 13 | Lab Leader |
+| 3 | Shrov Jain | 13 | — |
 | 4 | Zapperombie | 11 | — |
 | 5 | Mukul | 8 | — |
 
@@ -55,13 +55,13 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 85 |
+| 2026 | 87 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 1 |
+| 2026-11 | 3 |
 | 2026-10 | 3 |
 | 2026-09 | 5 |
 | 2026-08 | 8 |
@@ -73,6 +73,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-13 | 2 |
 | 2026-11-11 | 1 |
 | 2026-10-23 | 1 |
 | 2026-10-20 | 1 |

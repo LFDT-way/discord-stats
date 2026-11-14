@@ -4,7 +4,7 @@
 - **Total Messages:** 9,827
 - **Last 30 Days:** 129
 - **Last 90 Days:** 397
-- **Last 365 Days:** 1,955 — [active users](users.md)
+- **Last 365 Days:** 1,951 — [active users](users.md)
 - **First Message:** 2022-09-23
 - **Last Message:** 2026-11-12
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -17,7 +17,7 @@
 | [General](General/README.md) | 1,871 | 7 | 12 | 67 | 2022-09-23 | 2026-11-12 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 0 | 12 | 91 | 2022-09-28 | 2026-09-24 |
 | [Impact Projects](Impact_Projects/README.md) | 881 | 5 | 16 | 152 | 2024-09-26 | 2026-11-11 |
-| [Labs](Labs/README.md) | 860 | 4 | 25 | 323 | 2023-06-02 | 2026-11-08 |
+| [Labs](Labs/README.md) | 860 | 4 | 25 | 319 | 2023-06-02 | 2026-11-08 |
 | [Archive](Archive/README.md) | 345 | 0 | 0 | 0 | 2022-09-23 | 2025-10-23 |
 | [Information](Information/README.md) | 71 | 2 | 3 | 3 | 2022-09-28 | 2026-11-05 |
 | [Uncategorized](Uncategorized/README.md) | 0 | 0 | 0 | 7 | None | None |
@@ -48,7 +48,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 391 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 389 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 137 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 137 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
