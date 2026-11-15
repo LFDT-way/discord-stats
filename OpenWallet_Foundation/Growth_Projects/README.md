@@ -2,21 +2,21 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
-- **Total Messages in Category:** 3,963
-- **Last 30 Days:** 111
-- **Last 90 Days:** 329
-- **Last 365 Days:** 1,312
+- **Total Messages in Category:** 3,966
+- **Last 30 Days:** 95
+- **Last 90 Days:** 332
+- **Last 365 Days:** 1,315
 - **First Message:** 2023-11-08
-- **Last Message:** 2026-11-11
+- **Last Message:** 2026-11-14
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credo](credo_1179453305856991263.md) | 2026-10-25 | 10 | 20 | 146 | 1,106 |
-| [bifold](bifold_1209891839071756419.md) | 2026-11-03 | 6 | 20 | 137 | 918 |
+| [credo](credo_1179453305856991263.md) | 2026-10-25 | 7 | 20 | 146 | 1,106 |
+| [bifold](bifold_1209891839071756419.md) | 2026-11-03 | 4 | 20 | 137 | 918 |
 | [multipaz](multipaz_1179828955717574707.md) | 2026-10-29 | 29 | 53 | 245 | 677 |
-| [eudiplo](eudiplo_1399429216604258365.md) | 2026-11-11 | 48 | 207 | 655 | 667 |
+| [eudiplo](eudiplo_1399429216604258365.md) | 2026-11-14 | 37 | 210 | 658 | 670 |
 | [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 0 | 71 | 268 |
 | [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 1 | 105 |
 | [owl](owl_1214965981470924911.md) | 2026-05-07 | 0 | 0 | 10 | 85 |
@@ -33,15 +33,15 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [davidz25](https://github.com/davidz25) | 19 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 2 | [Mirko](https://github.com/cre8) | 18 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | birte_lr | 11 | — |
-| 4 | Jonas Hoffmann (FU Berlin) | 10 | — |
-| 5 | [esune](https://github.com/esune) | 9 | Project Maintainer |
+| 3 | Jonas Hoffmann (FU Berlin) | 10 | — |
+| 4 | [esune](https://github.com/esune) | 9 | Project Maintainer |
+| 5 | [VishnuSanal](https://github.com/VishnuSanal) | 6 | multipaz maintainer, Project Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 77 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 79 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | birte_lr | 61 | — |
 | 3 | [davidz25](https://github.com/davidz25) | 32 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 4 | Cyril | 24 | — |
@@ -51,7 +51,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 343 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 345 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | Cyril | 116 | — |
 | 3 | [davidz25](https://github.com/davidz25) | 113 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 67 | Linux Foundation Staff |
@@ -61,7 +61,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 401 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 403 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [davidz25](https://github.com/davidz25) | 318 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 206 | Linux Foundation Staff |
 | 4 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 176 | Linux Foundation Staff |
@@ -71,7 +71,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,168 |
+| 2026 | 1,171 |
 | 2025 | 1,412 |
 | 2024 | 1,309 |
 | 2023 | 74 |
@@ -80,7 +80,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 24 |
+| 2026-11 | 27 |
 | 2026-10 | 142 |
 | 2026-09 | 129 |
 | 2026-08 | 47 |
@@ -122,6 +122,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-14 | 3 |
 | 2026-11-11 | 2 |
 | 2026-11-09 | 1 |
 | 2026-11-07 | 4 |

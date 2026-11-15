@@ -6,7 +6,7 @@
 - **Total Messages:** 3,400
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 27
+- **Last 365 Days:** 26
 - **First Message:** 2022-04-24
 - **Last Message:** 2026-05-11
 
@@ -28,7 +28,7 @@ _No activity in this period._
 | 2 | CalvinCreator | 8 | — |
 | 3 | [dnakashima](https://github.com/dnakashima) | 2 | Project Maintainer, Fabric Maintainer, Lab Leader |
 | 4 | adityajoshi | 2 | — |
-| 5 | Piyush Gupta | 2 | — |
+| 5 | Piyush Gupta | 1 | — |
 
 ### All Time
 

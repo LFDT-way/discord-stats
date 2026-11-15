@@ -1,23 +1,23 @@
 # Guild Report: OpenWallet Foundation
 
 - **Guild ID:** 1022962884864643214
-- **Total Messages:** 9,827
-- **Last 30 Days:** 129
-- **Last 90 Days:** 397
-- **Last 365 Days:** 1,951 — [active users](users.md)
+- **Total Messages:** 9,830
+- **Last 30 Days:** 113
+- **Last 90 Days:** 400
+- **Last 365 Days:** 1,949 — [active users](users.md)
 - **First Message:** 2022-09-23
-- **Last Message:** 2026-11-12
+- **Last Message:** 2026-11-14
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,963 | 111 | 329 | 1,312 | 2023-11-08 | 2026-11-11 |
-| [General](General/README.md) | 1,871 | 7 | 12 | 67 | 2022-09-23 | 2026-11-12 |
+| [Growth Projects](Growth_Projects/README.md) | 3,966 | 95 | 332 | 1,315 | 2023-11-08 | 2026-11-14 |
+| [General](General/README.md) | 1,871 | 7 | 12 | 66 | 2022-09-23 | 2026-11-12 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,836 | 0 | 12 | 91 | 2022-09-28 | 2026-09-24 |
 | [Impact Projects](Impact_Projects/README.md) | 881 | 5 | 16 | 152 | 2024-09-26 | 2026-11-11 |
-| [Labs](Labs/README.md) | 860 | 4 | 25 | 319 | 2023-06-02 | 2026-11-08 |
+| [Labs](Labs/README.md) | 860 | 4 | 25 | 315 | 2023-06-02 | 2026-11-08 |
 | [Archive](Archive/README.md) | 345 | 0 | 0 | 0 | 2022-09-23 | 2025-10-23 |
 | [Information](Information/README.md) | 71 | 2 | 3 | 3 | 2022-09-28 | 2026-11-05 |
 | [Uncategorized](Uncategorized/README.md) | 0 | 0 | 0 | 7 | None | None |
@@ -30,15 +30,15 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 20 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [davidz25](https://github.com/davidz25) | 19 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 3 | birte_lr | 11 | — |
-| 4 | Jonas Hoffmann (FU Berlin) | 10 | — |
-| 5 | [esune](https://github.com/esune) | 9 | Project Maintainer |
+| 3 | Jonas Hoffmann (FU Berlin) | 10 | — |
+| 4 | [esune](https://github.com/esune) | 9 | Project Maintainer |
+| 5 | [VishnuSanal](https://github.com/VishnuSanal) | 6 | multipaz maintainer, Project Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 89 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 91 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | birte_lr | 61 | — |
 | 3 | [davidz25](https://github.com/davidz25) | 32 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 4 | Cyril | 24 | — |
@@ -48,9 +48,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 389 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 137 | Linux Foundation Staff |
-| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 137 | Linux Foundation Staff |
+| 1 | [Mirko](https://github.com/cre8) | 391 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 136 | Linux Foundation Staff |
+| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 136 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 113 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 
@@ -58,7 +58,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 651 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 653 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 502 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 402 | Linux Foundation Staff |
 | 4 | Tracy | 399 | — |
@@ -68,7 +68,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,626 |
+| 2026 | 1,629 |
 | 2025 | 2,834 |
 | 2024 | 2,598 |
 | 2023 | 1,598 |
@@ -79,7 +79,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 33 |
+| 2026-11 | 36 |
 | 2026-10 | 161 |
 | 2026-09 | 166 |
 | 2026-08 | 53 |
@@ -139,6 +139,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-14 | 3 |
 | 2026-11-12 | 1 |
 | 2026-11-11 | 3 |
 | 2026-11-09 | 2 |

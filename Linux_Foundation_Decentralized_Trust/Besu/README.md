@@ -2,24 +2,24 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205381872095283
-- **Total Messages in Category:** 47,898
-- **Last 30 Days:** 182
-- **Last 90 Days:** 504
-- **Last 365 Days:** 1,860
+- **Total Messages in Category:** 47,899
+- **Last 30 Days:** 181
+- **Last 90 Days:** 505
+- **Last 365 Days:** 1,859
 - **First Message:** 2021-11-09
-- **Last Message:** 2026-11-13
+- **Last Message:** 2026-11-14
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [besu](besu_938504958909747250.md) | 2026-11-12 | 67 | 212 | 750 | 33,881 |
+| [besu](besu_938504958909747250.md) | 2026-11-12 | 66 | 212 | 750 | 33,881 |
 | [besu-contributors](besu-contributors_905205502940696607.md) | 2026-11-13 | 49 | 150 | 522 | 6,742 |
-| [besu-reviews](besu-reviews_938505506123812865.md) | 2026-11-12 | 45 | 69 | 274 | 2,415 |
+| [besu-reviews](besu-reviews_938505506123812865.md) | 2026-11-14 | 45 | 70 | 274 | 2,416 |
 | [besu-enterprise](besu-enterprise_1172617318845657199.md) | 2026-10-26 | 2 | 15 | 140 | 1,814 |
 | [besu-release](besu-release_943252457063075880.md) | 2026-11-12 | 3 | 4 | 64 | 1,793 |
 | [besu-performance](besu-performance_1129455688255553717.md) | 2026-10-12 | 0 | 12 | 42 | 457 |
-| [besu-workshop](besu-workshop_974732102450970654.md) | 2026-09-18 | 0 | 8 | 11 | 218 |
+| [besu-workshop](besu-workshop_974732102450970654.md) | 2026-09-18 | 0 | 8 | 10 | 218 |
 | [besu-announce](besu-announce_906266945614135356.md) | 2026-11-02 | 6 | 9 | 21 | 153 |
 | [besu-verkle](besu-verkle_1207729310534737920.md) | 2026-11-12 | 1 | 1 | 1 | 108 |
 | [besu-modularity](besu-modularity_1134521811388870676.md) | 2026-01-26 | 0 | 0 | 2 | 71 |
@@ -58,7 +58,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Matthew Whitehead](https://github.com/matthew1001) | 243 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 2 | [Simon Dudley](https://github.com/siladu) | 226 | Project Maintainer, Besu Maintainer |
-| 3 | [macfarla \| Besu](https://github.com/macfarla) | 203 | Project Maintainer, Besu Maintainer |
+| 3 | [macfarla \| Besu](https://github.com/macfarla) | 202 | Project Maintainer, Besu Maintainer |
 | 4 | [fab10](https://github.com/fab-10) | 80 | Project Maintainer, Besu Maintainer |
 | 5 | yorick | 75 | — |
 
@@ -76,7 +76,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,586 |
+| 2026 | 1,587 |
 | 2025 | 3,483 |
 | 2024 | 10,360 |
 | 2023 | 11,741 |
@@ -87,7 +87,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 114 |
+| 2026-11 | 115 |
 | 2026-10 | 148 |
 | 2026-09 | 146 |
 | 2026-08 | 173 |
@@ -151,6 +151,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-14 | 1 |
 | 2026-11-13 | 6 |
 | 2026-11-12 | 20 |
 | 2026-11-11 | 21 |

@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 421
 - **Last 30 Days:** 3
 - **Last 90 Days:** 11
-- **Last 365 Days:** 157
+- **Last 365 Days:** 156
 - **First Message:** 2025-01-23
 - **Last Message:** 2026-10-30
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credebl](credebl_1331657363161219082.md) | 2026-10-30 | 3 | 11 | 112 | 288 |
+| [credebl](credebl_1331657363161219082.md) | 2026-10-30 | 3 | 11 | 111 | 288 |
 | [credebl-platform](credebl-platform_1354090545043210362.md) | 2025-09-30 | 0 | 0 | 0 | 61 |
 | [credebl-maintainers](credebl-maintainers_1354091009813905488.md) | 2026-07-07 | 0 | 0 | 39 | 58 |
 | [credebl-announcement](credebl-announcement_1354090474654404660.md) | 2026-04-09 | 0 | 0 | 6 | 14 |
