@@ -2,18 +2,20 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1570380738673512528
-- **Total Messages in Category:** 11
-- **Last 30 Days:** 11
-- **Last 90 Days:** 11
-- **Last 365 Days:** 11
-- **First Message:** 2026-11-12
-- **Last Message:** 2026-11-15
+- **Total Messages in Category:** 427
+- **Last 30 Days:** 30
+- **Last 90 Days:** 89
+- **Last 365 Days:** 389
+- **First Message:** 2025-10-14
+- **Last Message:** 2026-11-16
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [chaguar-discuss](chaguar-discuss_1570380938897006664.md) | 2026-11-15 | 11 | 11 | 11 | 11 |
+| [fabric-x](fabric-x_1427642480504999976.md) | 2026-11-15 | 3 | 34 | 334 | 372 |
+| [fabric-x-evm](fabric-x-evm_1550488625576415232.md) | 2026-11-11 | 1 | 29 | 29 | 29 |
+| [chaguar-discuss](chaguar-discuss_1570380938897006664.md) | 2026-11-16 | 26 | 26 | 26 | 26 |
 
 ## Most Active Users
 
@@ -21,51 +23,213 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
-| 2 | [Yoav Tock](https://github.com/tock-ibm) | 2 | TAC member, Project Maintainer, Fabric Maintainer |
-| 3 | paskelo95 | 2 | — |
+| 1 | [Ry Jones](https://github.com/ryjones) | 16 | lfdt-ca, LFDT Staff |
+| 2 | [Yoav Tock](https://github.com/tock-ibm) | 8 | TAC member, Project Maintainer, Fabric Maintainer |
+| 3 | paskelo95 | 4 | — |
+| 4 | Storm1289 | 1 | — |
+| 5 | Ayush Kumar Gaur | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
-| 2 | [Yoav Tock](https://github.com/tock-ibm) | 2 | TAC member, Project Maintainer, Fabric Maintainer |
-| 3 | paskelo95 | 2 | — |
+| 1 | [Ry Jones](https://github.com/ryjones) | 24 | lfdt-ca, LFDT Staff |
+| 2 | [Yoav Tock](https://github.com/tock-ibm) | 19 | TAC member, Project Maintainer, Fabric Maintainer |
+| 3 | Storm1289 | 12 | — |
+| 4 | [arner](https://github.com/arner) | 10 | Project Maintainer, Fabric Maintainer |
+| 5 | EliMbadi | 9 | — |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
-| 2 | [Yoav Tock](https://github.com/tock-ibm) | 2 | TAC member, Project Maintainer, Fabric Maintainer |
-| 3 | paskelo95 | 2 | — |
+| 1 | [Yoav Tock](https://github.com/tock-ibm) | 53 | TAC member, Project Maintainer, Fabric Maintainer |
+| 2 | EliMbadi | 39 | — |
+| 3 | [Ry Jones](https://github.com/ryjones) | 36 | lfdt-ca, LFDT Staff |
+| 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 31 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 5 | Aaradhy Chinche | 31 | — |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
-| 2 | [Yoav Tock](https://github.com/tock-ibm) | 2 | TAC member, Project Maintainer, Fabric Maintainer |
-| 3 | paskelo95 | 2 | — |
+| 1 | [Yoav Tock](https://github.com/tock-ibm) | 53 | TAC member, Project Maintainer, Fabric Maintainer |
+| 2 | EliMbadi | 39 | — |
+| 3 | [Ry Jones](https://github.com/ryjones) | 38 | lfdt-ca, LFDT Staff |
+| 4 | [arner](https://github.com/arner) | 36 | Project Maintainer, Fabric Maintainer |
+| 5 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 31 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 11 |
+| 2026 | 340 |
+| 2025 | 87 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 11 |
+| 2026-11 | 29 |
+| 2026-10 | 14 |
+| 2026-09 | 42 |
+| 2026-08 | 28 |
+| 2026-07 | 18 |
+| 2026-06 | 21 |
+| 2026-05 | 43 |
+| 2026-04 | 52 |
+| 2026-03 | 13 |
+| 2026-02 | 30 |
+| 2026-01 | 50 |
+| 2025-12 | 22 |
+| 2025-11 | 60 |
+| 2025-10 | 5 |
 
 ## Daily Traffic
 
 | Date | Messages |
 | --- | --- |
-| 2026-11-15 | 1 |
+| 2026-11-16 | 4 |
+| 2026-11-15 | 14 |
 | 2026-11-14 | 1 |
 | 2026-11-13 | 8 |
 | 2026-11-12 | 1 |
+| 2026-11-11 | 1 |
+| 2026-10-18 | 1 |
+| 2026-10-11 | 2 |
+| 2026-10-08 | 5 |
+| 2026-10-07 | 1 |
+| 2026-10-06 | 2 |
+| 2026-10-05 | 2 |
+| 2026-10-01 | 1 |
+| 2026-09-29 | 2 |
+| 2026-09-28 | 4 |
+| 2026-09-25 | 3 |
+| 2026-09-24 | 6 |
+| 2026-09-22 | 1 |
+| 2026-09-17 | 3 |
+| 2026-09-15 | 1 |
+| 2026-09-14 | 3 |
+| 2026-09-09 | 10 |
+| 2026-09-07 | 4 |
+| 2026-09-06 | 5 |
+| 2026-08-26 | 1 |
+| 2026-08-25 | 2 |
+| 2026-08-18 | 1 |
+| 2026-08-13 | 3 |
+| 2026-08-10 | 1 |
+| 2026-08-06 | 14 |
+| 2026-08-05 | 6 |
+| 2026-07-30 | 4 |
+| 2026-07-23 | 2 |
+| 2026-07-17 | 2 |
+| 2026-07-07 | 4 |
+| 2026-07-02 | 3 |
+| 2026-07-01 | 3 |
+| 2026-06-29 | 1 |
+| 2026-06-26 | 1 |
+| 2026-06-25 | 1 |
+| 2026-06-24 | 1 |
+| 2026-06-19 | 4 |
+| 2026-06-17 | 7 |
+| 2026-06-16 | 4 |
+| 2026-06-12 | 1 |
+| 2026-06-08 | 1 |
+| 2026-05-26 | 5 |
+| 2026-05-25 | 1 |
+| 2026-05-23 | 2 |
+| 2026-05-22 | 1 |
+| 2026-05-20 | 6 |
+| 2026-05-18 | 2 |
+| 2026-05-16 | 1 |
+| 2026-05-14 | 1 |
+| 2026-05-13 | 2 |
+| 2026-05-10 | 1 |
+| 2026-05-08 | 1 |
+| 2026-05-04 | 7 |
+| 2026-05-02 | 10 |
+| 2026-05-01 | 3 |
+| 2026-04-30 | 5 |
+| 2026-04-29 | 1 |
+| 2026-04-28 | 1 |
+| 2026-04-25 | 5 |
+| 2026-04-24 | 2 |
+| 2026-04-23 | 3 |
+| 2026-04-21 | 4 |
+| 2026-04-20 | 1 |
+| 2026-04-19 | 1 |
+| 2026-04-18 | 3 |
+| 2026-04-17 | 7 |
+| 2026-04-16 | 4 |
+| 2026-04-15 | 1 |
+| 2026-04-13 | 1 |
+| 2026-04-12 | 8 |
+| 2026-04-11 | 2 |
+| 2026-04-10 | 1 |
+| 2026-04-05 | 1 |
+| 2026-04-01 | 1 |
+| 2026-03-31 | 1 |
+| 2026-03-30 | 1 |
+| 2026-03-26 | 1 |
+| 2026-03-25 | 1 |
+| 2026-03-18 | 1 |
+| 2026-03-10 | 1 |
+| 2026-03-05 | 5 |
+| 2026-03-04 | 1 |
+| 2026-03-03 | 1 |
+| 2026-02-26 | 2 |
+| 2026-02-23 | 1 |
+| 2026-02-19 | 2 |
+| 2026-02-18 | 2 |
+| 2026-02-17 | 2 |
+| 2026-02-16 | 1 |
+| 2026-02-12 | 5 |
+| 2026-02-10 | 1 |
+| 2026-02-09 | 2 |
+| 2026-02-08 | 1 |
+| 2026-02-05 | 5 |
+| 2026-02-04 | 3 |
+| 2026-02-02 | 2 |
+| 2026-02-01 | 1 |
+| 2026-01-29 | 3 |
+| 2026-01-28 | 1 |
+| 2026-01-26 | 5 |
+| 2026-01-22 | 1 |
+| 2026-01-21 | 1 |
+| 2026-01-20 | 5 |
+| 2026-01-19 | 4 |
+| 2026-01-18 | 1 |
+| 2026-01-15 | 5 |
+| 2026-01-14 | 2 |
+| 2026-01-13 | 2 |
+| 2026-01-11 | 2 |
+| 2026-01-09 | 1 |
+| 2026-01-08 | 5 |
+| 2026-01-07 | 7 |
+| 2026-01-06 | 5 |
+| 2025-12-17 | 3 |
+| 2025-12-16 | 4 |
+| 2025-12-15 | 2 |
+| 2025-12-14 | 1 |
+| 2025-12-12 | 1 |
+| 2025-12-08 | 1 |
+| 2025-12-05 | 1 |
+| 2025-12-04 | 1 |
+| 2025-12-03 | 5 |
+| 2025-12-01 | 3 |
+| 2025-11-28 | 1 |
+| 2025-11-27 | 11 |
+| 2025-11-26 | 3 |
+| 2025-11-20 | 5 |
+| 2025-11-19 | 2 |
+| 2025-11-17 | 5 |
+| 2025-11-14 | 5 |
+| 2025-11-13 | 14 |
+| 2025-11-12 | 1 |
+| 2025-11-11 | 3 |
+| 2025-11-10 | 5 |
+| 2025-11-07 | 1 |
+| 2025-11-06 | 4 |
+| 2025-10-26 | 2 |
+| 2025-10-16 | 2 |
+| 2025-10-14 | 1 |

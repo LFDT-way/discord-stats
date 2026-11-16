@@ -3,7 +3,7 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1285999377751736443
 - **Total Messages in Category:** 881
-- **Last 30 Days:** 5
+- **Last 30 Days:** 4
 - **Last 90 Days:** 16
 - **Last 365 Days:** 152
 - **First Message:** 2024-09-26
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aca-py](aca-py_1286299858994462842.md) | 2026-11-11 | 5 | 16 | 152 | 820 |
+| [aca-py](aca-py_1286299858994462842.md) | 2026-11-11 | 4 | 16 | 152 | 820 |
 | [acapy-did-registration](acapy-did-registration_1303470616581509130.md) | 2025-10-25 | 0 | 0 | 0 | 61 |
 
 ## Most Active Users
@@ -22,9 +22,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Thiago Romano | 2 | — |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
-| 3 | [swcurran](https://github.com/swcurran) | 1 | Lab Maintainer, TAC members, Project Maintainer |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
+| 2 | [swcurran](https://github.com/swcurran) | 1 | Lab Maintainer, TAC members, Project Maintainer |
+| 3 | Thiago Romano | 1 | — |
 | 4 | Timbl | 1 | — |
 
 ### Last 90 Days

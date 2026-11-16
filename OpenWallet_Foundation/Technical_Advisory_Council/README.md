@@ -2,12 +2,12 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1111041471768961044
-- **Total Messages in Category:** 1,836
-- **Last 30 Days:** 0
-- **Last 90 Days:** 12
-- **Last 365 Days:** 91
+- **Total Messages in Category:** 1,837
+- **Last 30 Days:** 1
+- **Last 90 Days:** 13
+- **Last 365 Days:** 92
 - **First Message:** 2022-09-28
-- **Last Message:** 2026-09-24
+- **Last Message:** 2026-11-16
 
 ## Channels in Category
 
@@ -15,15 +15,17 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [architecture-sig](architecture-sig_1024688298389688360.md) | 2026-08-10 | 0 | 0 | 37 | 898 |
 | [safe-wallet-sig](safe-wallet-sig_1154410858991067247.md) | 2025-05-12 | 0 | 0 | 0 | 393 |
+| [tac](tac_1080192375621685288.md) | 2026-11-16 | 1 | 13 | 26 | 204 |
 | [wallet-interoperability-sig](wallet-interoperability-sig_1291067233967149150.md) | 2026-06-01 | 0 | 0 | 28 | 204 |
-| [tac](tac_1080192375621685288.md) | 2026-09-24 | 0 | 12 | 25 | 203 |
 | [digital-wallet-and-agent-overviews-sig](digital-wallet-and-agent-overviews-sig_1154111877077532814.md) | 2025-11-17 | 0 | 0 | 1 | 138 |
 
 ## Most Active Users
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | amanda | 1 | — |
 
 ### Last 90 Days
 
@@ -32,7 +34,8 @@ _No activity in this period._
 | 1 | [Mirko](https://github.com/cre8) | 6 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | Manthan | 3 | — |
 | 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 2 | Linux Foundation Staff |
-| 4 | RMLearney | 1 | — |
+| 4 | amanda | 1 | — |
+| 5 | RMLearney | 1 | — |
 
 ### Last 365 Days
 
@@ -58,7 +61,7 @@ _No activity in this period._
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 80 |
+| 2026 | 81 |
 | 2025 | 254 |
 | 2024 | 551 |
 | 2023 | 399 |
@@ -68,6 +71,7 @@ _No activity in this period._
 
 | Month | Messages |
 | --- | --- |
+| 2026-11 | 1 |
 | 2026-09 | 12 |
 | 2026-08 | 1 |
 | 2026-07 | 4 |
@@ -122,6 +126,7 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-16 | 1 |
 | 2026-09-24 | 1 |
 | 2026-09-17 | 5 |
 | 2026-09-16 | 6 |

@@ -4,8 +4,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
-- **Active Users (365d):** 119
-- **Messages (365d):** 1,942
+- **Active Users (365d):** 121
+- **Messages (365d):** 1,944
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -105,26 +105,28 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 94 | feldim2425 | 1 | — |
 | 95 | Sagar Khole | 1 | — |
 | 96 | friendlyfire137 | 1 | Project Maintainer |
-| 97 | Jazz | 1 | — |
-| 98 | Yunna | 1 | — |
-| 99 | sencond1800 | 1 | — |
-| 100 | Ankita | 1 | — |
-| 101 | Siva | 1 | — |
-| 102 | Pankti | 1 | — |
-| 103 | Nahuel_NP | 1 | — |
-| 104 | [JSyro](https://github.com/Jsyro) | 1 | Lab Maintainer, Project Maintainer |
-| 105 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
-| 106 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
-| 107 | anil.helvaci \| GMT +3 | 1 | — |
-| 108 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
-| 109 | rosterbyte | 1 | — |
-| 110 | Daev Mithran | 1 | — |
-| 111 | SRellihan.Phinxlab | 1 | — |
-| 112 | Iancu Fofiu | 1 | — |
-| 113 | Arsalan Shahzad | 1 | — |
-| 114 | sherri58 | 1 | — |
-| 115 | Michael | 1 | — |
-| 116 | latika_04_17594 | 1 | — |
-| 117 | michkauf | 1 | — |
-| 118 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
-| 119 | Aaron | 1 | — |
+| 97 | amanda | 1 | — |
+| 98 | Jazz | 1 | — |
+| 99 | Yunna | 1 | — |
+| 100 | sencond1800 | 1 | — |
+| 101 | Ankita | 1 | — |
+| 102 | Siva | 1 | — |
+| 103 | Pankti | 1 | — |
+| 104 | Nahuel_NP | 1 | — |
+| 105 | Jessie | 1 | — |
+| 106 | [JSyro](https://github.com/Jsyro) | 1 | Lab Maintainer, Project Maintainer |
+| 107 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
+| 108 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
+| 109 | anil.helvaci \| GMT +3 | 1 | — |
+| 110 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
+| 111 | rosterbyte | 1 | — |
+| 112 | Daev Mithran | 1 | — |
+| 113 | SRellihan.Phinxlab | 1 | — |
+| 114 | Iancu Fofiu | 1 | — |
+| 115 | Arsalan Shahzad | 1 | — |
+| 116 | sherri58 | 1 | — |
+| 117 | Michael | 1 | — |
+| 118 | latika_04_17594 | 1 | — |
+| 119 | michkauf | 1 | — |
+| 120 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
+| 121 | Aaron | 1 | — |

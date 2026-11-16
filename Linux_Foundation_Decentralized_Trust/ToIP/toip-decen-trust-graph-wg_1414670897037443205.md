@@ -5,7 +5,7 @@
 - **Channel ID:** 1414670897037443205
 - **Total Messages:** 483
 - **Last 30 Days:** 29
-- **Last 90 Days:** 116
+- **Last 90 Days:** 115
 - **Last 365 Days:** 367
 - **First Message:** 2025-09-24
 - **Last Message:** 2026-11-13
@@ -26,7 +26,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 41 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 40 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 32 | Project Maintainer, ToIP |
 | 3 | Nicky H | 9 | Project Maintainer, ToIP |
 | 4 | lyn brooks | 7 | Project Maintainer, ToIP |

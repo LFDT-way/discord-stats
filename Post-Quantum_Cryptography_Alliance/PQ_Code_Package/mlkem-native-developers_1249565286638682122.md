@@ -3,12 +3,12 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category:** PQ Code Package
 - **Channel ID:** 1249565286638682122
-- **Total Messages:** 1,009
-- **Last 30 Days:** 57
+- **Total Messages:** 1,010
+- **Last 30 Days:** 58
 - **Last 90 Days:** 167
-- **Last 365 Days:** 463
+- **Last 365 Days:** 464
 - **First Message:** 2024-06-10
-- **Last Message:** 2026-11-11
+- **Last Message:** 2026-11-16
 
 ## Most Active Users
 
@@ -16,7 +16,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 33 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 34 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 18 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 6 | PQ Code Package Maintainer |
 
@@ -34,7 +34,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 264 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 265 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 125 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 38 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 20 | LF Staff |
@@ -44,7 +44,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 463 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 464 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 265 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 157 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 78 | LF Staff |
@@ -54,7 +54,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 425 |
+| 2026 | 426 |
 | 2025 | 397 |
 | 2024 | 187 |
 
@@ -62,7 +62,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 30 |
+| 2026-11 | 31 |
 | 2026-10 | 37 |
 | 2026-09 | 66 |
 | 2026-08 | 43 |
@@ -94,6 +94,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-16 | 1 |
 | 2026-11-11 | 1 |
 | 2026-11-10 | 5 |
 | 2026-11-04 | 3 |

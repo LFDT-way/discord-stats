@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
 - **Total Messages in Category:** 21,581
-- **Last 30 Days:** 168
+- **Last 30 Days:** 166
 - **Last 90 Days:** 265
 - **Last 365 Days:** 930
 - **First Message:** 2021-11-05
@@ -19,7 +19,7 @@
 | [caliper](caliper_941417677778473031.md) | 2026-03-23 | 0 | 0 | 20 | 1,439 |
 | [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-10-19 | 1 | 1 | 13 | 1,186 |
 | [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 4 | 859 |
-| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-11-13 | 10 | 24 | 179 | 357 |
+| [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-11-13 | 8 | 24 | 179 | 357 |
 | [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-11-01 | 4 | 11 | 58 | 157 |
 | [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 0 | 88 | 148 |
 | [clpr](clpr_1559643143559717006.md) | 2026-11-13 | 131 | 138 | 138 | 138 |
@@ -54,8 +54,8 @@
 | 1 | [JessicaG](https://github.com/jwagantall) | 58 | lfdt-ca, LFDT Staff |
 | 2 | Edward Wertz (Hashgraph) | 50 | Lab Leader |
 | 3 | [hendrik.ebbers](https://github.com/hendrikebbers) | 7 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
-| 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 7 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
-| 5 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
+| 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 6 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 5 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 

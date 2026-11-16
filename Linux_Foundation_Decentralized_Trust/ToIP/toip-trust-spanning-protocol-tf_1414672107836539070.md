@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414672107836539070
-- **Total Messages:** 48
-- **Last 30 Days:** 16
-- **Last 90 Days:** 28
-- **Last 365 Days:** 47
+- **Total Messages:** 49
+- **Last 30 Days:** 13
+- **Last 90 Days:** 29
+- **Last 365 Days:** 48
 - **First Message:** 2025-10-01
-- **Last Message:** 2026-11-13
+- **Last Message:** 2026-11-16
 
 ## Most Active Users
 
@@ -16,9 +16,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | microbiocarly | 7 | Project Maintainer, ToIP |
-| 2 | [firegod](https://github.com/wenjing) | 7 | Project Maintainer, ToIP |
+| 1 | [firegod](https://github.com/wenjing) | 7 | Project Maintainer, ToIP |
+| 2 | microbiocarly | 3 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 2 | Project Maintainer, ToIP |
+| 4 | Sankalp Gilda (Independent) | 1 | — |
 
 ### Last 90 Days
 
@@ -27,6 +28,7 @@
 | 1 | [firegod](https://github.com/wenjing) | 15 | Project Maintainer, ToIP |
 | 2 | microbiocarly | 8 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 5 | Project Maintainer, ToIP |
+| 4 | Sankalp Gilda (Independent) | 1 | — |
 
 ### Last 365 Days
 
@@ -52,14 +54,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 38 |
+| 2026 | 39 |
 | 2025 | 10 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 7 |
+| 2026-11 | 8 |
 | 2026-10 | 11 |
 | 2026-09 | 10 |
 | 2026-08 | 7 |
@@ -73,6 +75,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-16 | 1 |
 | 2026-11-13 | 1 |
 | 2026-11-09 | 1 |
 | 2026-11-04 | 3 |

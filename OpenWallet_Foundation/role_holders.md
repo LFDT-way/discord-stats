@@ -9,7 +9,7 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 - **Role holders:** 48
 - **Inactive (no msgs in 365d):** 21
 - **Never posted (0 all-time):** 0
-- **Report generated:** 2026-11-15
+- **Report generated:** 2026-11-16
 
 | User | Roles | Last Msg | 30d | 90d | 365d | All-Time | All Guilds 365d |
 | :--- | :--- | :--- | ---: | ---: | ---: | ---: | ---: |
@@ -59,6 +59,6 @@ Members holding at least one assigned (non-@everyone) role, sorted **inactive-fi
 | [Timo Glastra](https://github.com/TimoGlastra) | credo maintainers, Project Maintainer | 2026-10-19 | 1 | 5 | 106 | 289 | 106 |
 | [davidz25](https://github.com/davidz25) | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer | 2026-10-29 | 19 | 32 | 113 | 322 | 113 |
 | [Sean Bohan, OWF](https://github.com/SeanBohan) | Linux Foundation Staff | 2026-11-11 | 5 | 10 | 137 | 505 | 354 |
-| [Ry Jones, OWF](https://github.com/ryjones) | Linux Foundation Staff | 2026-10-20 | 1 | 9 | 149 | 422 | 1,017 |
-| [Mirko](https://github.com/cre8) | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member | 2026-11-14 | 20 | 91 | 398 | 661 | 403 |
+| [Ry Jones, OWF](https://github.com/ryjones) | Linux Foundation Staff | 2026-10-20 | 1 | 9 | 149 | 422 | 1,027 |
+| [Mirko](https://github.com/cre8) | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member | 2026-11-14 | 20 | 86 | 398 | 661 | 403 |
 
