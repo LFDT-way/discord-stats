@@ -4,12 +4,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
-- **Active Users (365d):** 99
-- **Messages (365d):** 1,235
+- **Active Users (365d):** 98
+- **Messages (365d):** 1,232
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 419 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 417 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 307 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 91 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 74 | LF Staff |
@@ -78,33 +78,32 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 67 | keerthivasan | 1 | — |
 | 68 | v1rtu3x | 1 | — |
 | 69 | Skytree | 1 | — |
-| 70 | Noxious | 1 | — |
-| 71 | Abacus | 1 | — |
-| 72 | sycramore | 1 | — |
-| 73 | Vijaya Bhasker Gandla | 1 | — |
-| 74 | Luke | 1 | — |
-| 75 | Kaartik Bhushan | 1 | — |
-| 76 | Vn | 1 | — |
-| 77 | Fynn Thierling | 1 | CBOM maintainer, Project Maintainer |
-| 78 | arun | 1 | — |
-| 79 | Jim St.Clair | 1 | — |
-| 80 | Ayush | 1 | — |
-| 81 | Jeffrey C. Rombough | 1 | — |
-| 82 | Rockster | 1 | — |
-| 83 | shauryaneel13 | 1 | — |
-| 84 | asxeem | 1 | — |
-| 85 | beafn28 | 1 | — |
-| 86 | manishtiwari | 1 | — |
-| 87 | Prince | 1 | — |
-| 88 | Jonutella | 1 | — |
-| 89 | rockpaperdev | 1 | — |
-| 90 | Arkariun | 1 | — |
-| 91 | T-P | 1 | — |
-| 92 | matu3ba | 1 | — |
-| 93 | ramuiruri | 1 | — |
-| 94 | Tim420 | 1 | — |
-| 95 | Owen W | 1 | — |
-| 96 | Allan_Cryptowhickk ♨ | 1 | — |
-| 97 | knugen1337 | 1 | — |
-| 98 | Surbhi Agarwal | 1 | — |
-| 99 | eccstartup | 1 | — |
+| 70 | Abacus | 1 | — |
+| 71 | sycramore | 1 | — |
+| 72 | Vijaya Bhasker Gandla | 1 | — |
+| 73 | Luke | 1 | — |
+| 74 | Kaartik Bhushan | 1 | — |
+| 75 | Vn | 1 | — |
+| 76 | Fynn Thierling | 1 | CBOM maintainer, Project Maintainer |
+| 77 | arun | 1 | — |
+| 78 | Jim St.Clair | 1 | — |
+| 79 | Ayush | 1 | — |
+| 80 | Jeffrey C. Rombough | 1 | — |
+| 81 | Rockster | 1 | — |
+| 82 | shauryaneel13 | 1 | — |
+| 83 | asxeem | 1 | — |
+| 84 | beafn28 | 1 | — |
+| 85 | manishtiwari | 1 | — |
+| 86 | Prince | 1 | — |
+| 87 | Jonutella | 1 | — |
+| 88 | rockpaperdev | 1 | — |
+| 89 | Arkariun | 1 | — |
+| 90 | T-P | 1 | — |
+| 91 | matu3ba | 1 | — |
+| 92 | ramuiruri | 1 | — |
+| 93 | Tim420 | 1 | — |
+| 94 | Owen W | 1 | — |
+| 95 | Allan_Cryptowhickk ♨ | 1 | — |
+| 96 | knugen1337 | 1 | — |
+| 97 | Surbhi Agarwal | 1 | — |
+| 98 | eccstartup | 1 | — |

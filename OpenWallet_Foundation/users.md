@@ -4,8 +4,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
-- **Active Users (365d):** 121
-- **Messages (365d):** 1,944
+- **Active Users (365d):** 122
+- **Messages (365d):** 1,945
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -100,33 +100,34 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 89 | Jim Ezesinachi | 2 | — |
 | 90 | KrishNa | 2 | — |
 | 91 | ademait | 2 | — |
-| 92 | tume2104 | 1 | — |
-| 93 | Sagara | 1 | Project Maintainer |
-| 94 | feldim2425 | 1 | — |
-| 95 | Sagar Khole | 1 | — |
-| 96 | friendlyfire137 | 1 | Project Maintainer |
-| 97 | amanda | 1 | — |
-| 98 | Jazz | 1 | — |
-| 99 | Yunna | 1 | — |
-| 100 | sencond1800 | 1 | — |
-| 101 | Ankita | 1 | — |
-| 102 | Siva | 1 | — |
-| 103 | Pankti | 1 | — |
-| 104 | Nahuel_NP | 1 | — |
-| 105 | Jessie | 1 | — |
-| 106 | [JSyro](https://github.com/Jsyro) | 1 | Lab Maintainer, Project Maintainer |
-| 107 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
-| 108 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
-| 109 | anil.helvaci \| GMT +3 | 1 | — |
-| 110 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
-| 111 | rosterbyte | 1 | — |
-| 112 | Daev Mithran | 1 | — |
-| 113 | SRellihan.Phinxlab | 1 | — |
-| 114 | Iancu Fofiu | 1 | — |
-| 115 | Arsalan Shahzad | 1 | — |
-| 116 | sherri58 | 1 | — |
-| 117 | Michael | 1 | — |
-| 118 | latika_04_17594 | 1 | — |
-| 119 | michkauf | 1 | — |
-| 120 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
-| 121 | Aaron | 1 | — |
+| 92 | [esplinr](https://github.com/esplinr) | 1 | — |
+| 93 | tume2104 | 1 | — |
+| 94 | Sagara | 1 | Project Maintainer |
+| 95 | feldim2425 | 1 | — |
+| 96 | Sagar Khole | 1 | — |
+| 97 | friendlyfire137 | 1 | Project Maintainer |
+| 98 | amanda | 1 | — |
+| 99 | Jazz | 1 | — |
+| 100 | Yunna | 1 | — |
+| 101 | sencond1800 | 1 | — |
+| 102 | Ankita | 1 | — |
+| 103 | Siva | 1 | — |
+| 104 | Pankti | 1 | — |
+| 105 | Nahuel_NP | 1 | — |
+| 106 | Jessie | 1 | — |
+| 107 | [JSyro](https://github.com/Jsyro) | 1 | Lab Maintainer, Project Maintainer |
+| 108 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
+| 109 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
+| 110 | anil.helvaci \| GMT +3 | 1 | — |
+| 111 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
+| 112 | rosterbyte | 1 | — |
+| 113 | Daev Mithran | 1 | — |
+| 114 | SRellihan.Phinxlab | 1 | — |
+| 115 | Iancu Fofiu | 1 | — |
+| 116 | Arsalan Shahzad | 1 | — |
+| 117 | sherri58 | 1 | — |
+| 118 | Michael | 1 | — |
+| 119 | latika_04_17594 | 1 | — |
+| 120 | michkauf | 1 | — |
+| 121 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
+| 122 | Aaron | 1 | — |

@@ -1,23 +1,23 @@
 # Guild Report: OpenWallet Foundation
 
 - **Guild ID:** 1022962884864643214
-- **Total Messages:** 9,832
-- **Last 30 Days:** 114
-- **Last 90 Days:** 396
-- **Last 365 Days:** 1,951 — [active users](users.md)
+- **Total Messages:** 9,833
+- **Last 30 Days:** 115
+- **Last 90 Days:** 390
+- **Last 365 Days:** 1,952 — [active users](users.md)
 - **First Message:** 2022-09-23
-- **Last Message:** 2026-11-16
+- **Last Message:** 2026-11-17
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,967 | 96 | 327 | 1,316 | 2023-11-08 | 2026-11-15 |
+| [Growth Projects](Growth_Projects/README.md) | 3,967 | 96 | 322 | 1,316 | 2023-11-08 | 2026-11-15 |
 | [General](General/README.md) | 1,871 | 7 | 12 | 66 | 2022-09-23 | 2026-11-12 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,837 | 1 | 13 | 92 | 2022-09-28 | 2026-11-16 |
-| [Impact Projects](Impact_Projects/README.md) | 881 | 4 | 16 | 152 | 2024-09-26 | 2026-11-11 |
-| [Labs](Labs/README.md) | 860 | 4 | 25 | 315 | 2023-06-02 | 2026-11-08 |
+| [Impact Projects](Impact_Projects/README.md) | 881 | 4 | 15 | 152 | 2024-09-26 | 2026-11-11 |
+| [Labs](Labs/README.md) | 861 | 5 | 25 | 316 | 2023-06-02 | 2026-11-17 |
 | [Archive](Archive/README.md) | 345 | 0 | 0 | 0 | 2022-09-23 | 2025-10-23 |
 | [Information](Information/README.md) | 71 | 2 | 3 | 3 | 2022-09-28 | 2026-11-05 |
 | [Uncategorized](Uncategorized/README.md) | 0 | 0 | 0 | 7 | None | None |
@@ -38,9 +38,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 86 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 83 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | birte_lr | 61 | — |
-| 3 | [davidz25](https://github.com/davidz25) | 32 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 3 | [davidz25](https://github.com/davidz25) | 31 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 4 | Cyril | 24 | — |
 | 5 | [esune](https://github.com/esune) | 17 | Project Maintainer |
 
@@ -68,7 +68,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1,631 |
+| 2026 | 1,632 |
 | 2025 | 2,834 |
 | 2024 | 2,598 |
 | 2023 | 1,598 |
@@ -79,7 +79,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 38 |
+| 2026-11 | 39 |
 | 2026-10 | 161 |
 | 2026-09 | 166 |
 | 2026-08 | 53 |
@@ -139,6 +139,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-17 | 1 |
 | 2026-11-16 | 1 |
 | 2026-11-15 | 1 |
 | 2026-11-14 | 3 |

@@ -2,9 +2,9 @@
 
 - **Guild ID:** 1202723482224295936
 - **Total Messages:** 4,619
-- **Last 30 Days:** 89
+- **Last 30 Days:** 87
 - **Last 90 Days:** 274
-- **Last 365 Days:** 1,235 — [active users](users.md)
+- **Last 365 Days:** 1,232 — [active users](users.md)
 - **First Message:** 2024-02-01
 - **Last Message:** 2026-11-16
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -13,9 +13,9 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PQ Code Package](PQ_Code_Package/README.md) | 3,663 | 70 | 204 | 973 | 2024-02-03 | 2026-11-16 |
-| [Welcome](Welcome/README.md) | 522 | 12 | 48 | 153 | 2024-02-01 | 2026-11-16 |
-| [Open Quantum Safe](Open_Quantum_Safe/README.md) | 289 | 7 | 19 | 76 | 2024-02-03 | 2026-11-02 |
+| [PQ Code Package](PQ_Code_Package/README.md) | 3,663 | 69 | 204 | 971 | 2024-02-03 | 2026-11-16 |
+| [Welcome](Welcome/README.md) | 522 | 12 | 48 | 152 | 2024-02-01 | 2026-11-16 |
+| [Open Quantum Safe](Open_Quantum_Safe/README.md) | 289 | 6 | 19 | 76 | 2024-02-03 | 2026-11-02 |
 | [Governance](Governance/README.md) | 81 | 0 | 0 | 6 | 2024-02-05 | 2026-02-10 |
 | [CBOMKit](CBOMKit/README.md) | 51 | 0 | 3 | 20 | 2025-05-06 | 2026-09-24 |
 | [Uncategorized](Uncategorized/README.md) | 11 | 0 | 0 | 7 | 2024-02-03 | 2026-05-18 |
@@ -30,8 +30,8 @@
 | 1 | Rod | 37 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 20 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 6 | PQ Code Package Maintainer |
-| 4 | RGM-Core | 4 | — |
-| 5 | Manuel Echepares | 3 | — |
+| 4 | Manuel Echepares | 3 | — |
+| 5 | Silent58 | 3 | — |
 
 ### Last 90 Days
 
@@ -47,7 +47,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 419 | PQ Code Package Maintainer, Project Maintainer |
+| 1 | Rod | 417 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 307 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 91 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 74 | LF Staff |

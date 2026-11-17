@@ -4,7 +4,7 @@
 - **Category ID:** 905205929920856137
 - **Total Messages in Category:** 1,581
 - **Last 30 Days:** 0
-- **Last 90 Days:** 18
+- **Last 90 Days:** 17
 - **Last 365 Days:** 36
 - **First Message:** 2021-11-03
 - **Last Message:** 2026-10-12
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [community-architects](community-architects_905205991073804308.md) | 2026-10-12 | 0 | 18 | 36 | 1,581 |
+| [community-architects](community-architects_905205991073804308.md) | 2026-10-12 | 0 | 17 | 36 | 1,581 |
 
 ## Most Active Users
 

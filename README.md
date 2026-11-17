@@ -6,6 +6,6 @@ Per-guild Discord activity reports. Each guild has its own report one level down
 
 | Guild | Total Messages | Last 30 Days | Last 90 Days | Last 365 Days |
 | :--- | ---: | ---: | ---: | ---: |
-| [Linux Foundation Decentralized Trust](Linux_Foundation_Decentralized_Trust/README.md) | 169,197 | 953 | 2,613 | 11,442 |
-| [OpenWallet Foundation](OpenWallet_Foundation/README.md) | 9,832 | 114 | 396 | 1,951 |
-| [Post-Quantum Cryptography Alliance](Post-Quantum_Cryptography_Alliance/README.md) | 4,619 | 89 | 274 | 1,235 |
+| [Linux Foundation Decentralized Trust](Linux_Foundation_Decentralized_Trust/README.md) | 169,229 | 983 | 2,622 | 11,463 |
+| [OpenWallet Foundation](OpenWallet_Foundation/README.md) | 9,833 | 115 | 390 | 1,952 |
+| [Post-Quantum Cryptography Alliance](Post-Quantum_Cryptography_Alliance/README.md) | 4,619 | 87 | 274 | 1,232 |

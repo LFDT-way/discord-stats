@@ -5,7 +5,7 @@
 - **Channel ID:** 1414670897037443205
 - **Total Messages:** 483
 - **Last 30 Days:** 29
-- **Last 90 Days:** 115
+- **Last 90 Days:** 114
 - **Last 365 Days:** 367
 - **First Message:** 2025-09-24
 - **Last Message:** 2026-11-13

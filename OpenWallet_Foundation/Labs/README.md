@@ -2,12 +2,12 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1108449719212048556
-- **Total Messages in Category:** 860
-- **Last 30 Days:** 4
+- **Total Messages in Category:** 861
+- **Last 30 Days:** 5
 - **Last 90 Days:** 25
-- **Last 365 Days:** 315
+- **Last 365 Days:** 316
 - **First Message:** 2023-06-02
-- **Last Message:** 2026-11-08
+- **Last Message:** 2026-11-17
 
 ## Channels in Category
 
@@ -19,10 +19,10 @@
 | [sd-jwt-general](sd-jwt-general_1180161138030284910.md) | 2026-11-08 | 1 | 1 | 1 | 71 |
 | [oid4vc-ts](oid4vc-ts_1326616895453007933.md) | 2026-08-12 | 0 | 0 | 31 | 62 |
 | [vc-api](vc-api_1157008901020073994.md) | 2025-10-24 | 0 | 0 | 0 | 39 |
-| [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-08-18 | 0 | 1 | 21 | 28 |
+| [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-08-18 | 0 | 0 | 21 | 28 |
 | [wallet-framework-dotnet](wallet-framework-dotnet_1159552665940938842.md) | 2024-10-11 | 0 | 0 | 0 | 26 |
+| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-11-17 | 4 | 18 | 20 | 20 |
 | [pydentity-wallet](pydentity-wallet_1352199414956953630.md) | 2026-02-11 | 0 | 0 | 3 | 20 |
-| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-10-20 | 3 | 17 | 19 | 19 |
 | [axle](axle_1404761591710355506.md) | 2026-07-17 | 0 | 0 | 14 | 17 |
 | [farmworker-wallet-os](farmworker-wallet-os_1138937641123987466.md) | 2024-10-09 | 0 | 0 | 0 | 10 |
 | [sd-jwt-vc-dm](sd-jwt-vc-dm_1331889781570932849.md) | 2025-04-20 | 0 | 0 | 0 | 10 |
@@ -42,8 +42,9 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 2 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Timo Glastra](https://github.com/TimoGlastra) | 1 | credo maintainers, Project Maintainer |
-| 3 | ZeroEpoch | 1 | — |
+| 2 | [esplinr](https://github.com/esplinr) | 1 | — |
+| 3 | [Timo Glastra](https://github.com/TimoGlastra) | 1 | credo maintainers, Project Maintainer |
+| 4 | ZeroEpoch | 1 | — |
 
 ### Last 90 Days
 
@@ -79,7 +80,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 216 |
+| 2026 | 217 |
 | 2025 | 449 |
 | 2024 | 96 |
 | 2023 | 99 |
@@ -88,7 +89,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 1 |
+| 2026-11 | 2 |
 | 2026-10 | 4 |
 | 2026-09 | 19 |
 | 2026-08 | 3 |
@@ -132,6 +133,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-17 | 1 |
 | 2026-11-08 | 1 |
 | 2026-10-20 | 1 |
 | 2026-10-19 | 1 |
