@@ -4,8 +4,8 @@
 - **Category ID:** 1195061874950144120
 - **Total Messages in Category:** 1,437
 - **Last 30 Days:** 18
-- **Last 90 Days:** 74
-- **Last 365 Days:** 198
+- **Last 90 Days:** 73
+- **Last 365 Days:** 197
 - **First Message:** 2024-01-11
 - **Last Message:** 2026-11-13
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-11-13 | 16 | 70 | 146 | 892 |
+| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-11-13 | 16 | 69 | 145 | 892 |
 | [web3j-general](web3j-general_1195062053682032700.md) | 2026-11-12 | 2 | 4 | 52 | 545 |
 
 ## Most Active Users
@@ -42,7 +42,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | George Tebrean | 53 | Project Maintainer, Web3j Maintainer |
+| 1 | George Tebrean | 52 | Project Maintainer, Web3j Maintainer |
 | 2 | Dev | 46 | — |
 | 3 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 41 | Project Maintainer, Web3j Maintainer |
 | 4 | Saurav | 18 | — |

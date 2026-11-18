@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414672107836539070
-- **Total Messages:** 49
-- **Last 30 Days:** 13
-- **Last 90 Days:** 29
-- **Last 365 Days:** 48
+- **Total Messages:** 50
+- **Last 30 Days:** 14
+- **Last 90 Days:** 30
+- **Last 365 Days:** 49
 - **First Message:** 2025-10-01
-- **Last Message:** 2026-11-16
+- **Last Message:** 2026-11-17
 
 ## Most Active Users
 
@@ -16,7 +16,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [firegod](https://github.com/wenjing) | 7 | Project Maintainer, ToIP |
+| 1 | [firegod](https://github.com/wenjing) | 8 | Project Maintainer, ToIP |
 | 2 | microbiocarly | 3 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 2 | Project Maintainer, ToIP |
 | 4 | Sankalp Gilda (Independent) | 1 | — |
@@ -25,7 +25,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [firegod](https://github.com/wenjing) | 15 | Project Maintainer, ToIP |
+| 1 | [firegod](https://github.com/wenjing) | 16 | Project Maintainer, ToIP |
 | 2 | microbiocarly | 8 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 5 | Project Maintainer, ToIP |
 | 4 | Sankalp Gilda (Independent) | 1 | — |
@@ -34,7 +34,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [firegod](https://github.com/wenjing) | 24 | Project Maintainer, ToIP |
+| 1 | [firegod](https://github.com/wenjing) | 25 | Project Maintainer, ToIP |
 | 2 | microbiocarly | 8 | Project Maintainer, ToIP |
 | 3 | [drummondreed](https://github.com/talltree) | 7 | Project Maintainer, ToIP |
 | 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 5 | Project Maintainer, ToIP |
@@ -44,7 +44,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [firegod](https://github.com/wenjing) | 24 | Project Maintainer, ToIP |
+| 1 | [firegod](https://github.com/wenjing) | 25 | Project Maintainer, ToIP |
 | 2 | [drummondreed](https://github.com/talltree) | 8 | Project Maintainer, ToIP |
 | 3 | microbiocarly | 8 | Project Maintainer, ToIP |
 | 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 5 | Project Maintainer, ToIP |
@@ -54,14 +54,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 39 |
+| 2026 | 40 |
 | 2025 | 10 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 8 |
+| 2026-11 | 9 |
 | 2026-10 | 11 |
 | 2026-09 | 10 |
 | 2026-08 | 7 |
@@ -75,6 +75,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-17 | 1 |
 | 2026-11-16 | 1 |
 | 2026-11-13 | 1 |
 | 2026-11-09 | 1 |

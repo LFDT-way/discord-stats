@@ -6,7 +6,7 @@
 - **Total Messages:** 138
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 1
+- **Last 365 Days:** 0
 - **First Message:** 2023-09-21
 - **Last Message:** 2025-11-17
 
@@ -22,9 +22,7 @@ _No activity in this period._
 
 ### Last 365 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | Bilal | 1 | — |
+_No activity in this period._
 
 ### All Time
 

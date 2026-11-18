@@ -4,7 +4,7 @@
 - **Category ID:** 942821993391202394
 - **Total Messages in Category:** 888
 - **Last 30 Days:** 2
-- **Last 90 Days:** 5
+- **Last 90 Days:** 3
 - **Last 365 Days:** 57
 - **First Message:** 2022-02-15
 - **Last Message:** 2026-11-02
@@ -13,9 +13,9 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [india-chapter](india-chapter_942822085917556777.md) | 2026-11-02 | 2 | 4 | 28 | 458 |
+| [india-chapter](india-chapter_942822085917556777.md) | 2026-11-02 | 2 | 3 | 28 | 458 |
 | [brasil-chapter](brasil-chapter_943207619508723723.md) | 2026-07-22 | 0 | 0 | 9 | 277 |
-| [european-chapter](european-chapter_1289237830081581158.md) | 2026-08-19 | 0 | 1 | 19 | 132 |
+| [european-chapter](european-chapter_1289237830081581158.md) | 2026-08-19 | 0 | 0 | 19 | 132 |
 | [japan-chapter-🇯🇵](japan-chapter-🇯🇵_956727657884692550.md) | 2026-06-17 | 0 | 0 | 1 | 21 |
 
 ## Most Active Users
@@ -31,10 +31,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Ankita | 2 | Credebl maintainer, Project Maintainer |
-| 2 | amitthosare | 1 | Credebl maintainer, Project Maintainer |
-| 3 | ITACHI | 1 | — |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
+| 1 | amitthosare | 1 | Credebl maintainer, Project Maintainer |
+| 2 | ITACHI | 1 | — |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
 

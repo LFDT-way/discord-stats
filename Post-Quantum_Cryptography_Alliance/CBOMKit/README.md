@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 51
 - **Last 30 Days:** 0
 - **Last 90 Days:** 3
-- **Last 365 Days:** 20
+- **Last 365 Days:** 17
 - **First Message:** 2025-05-06
 - **Last Message:** 2026-09-24
 
@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [wg-tooling](wg-tooling_1323700037099847782.md) | 2025-11-17 | 0 | 0 | 1 | 32 |
-| [cbomkit-general](cbomkit-general_1440054266571133053.md) | 2026-09-24 | 0 | 3 | 19 | 19 |
+| [wg-tooling](wg-tooling_1323700037099847782.md) | 2025-11-17 | 0 | 0 | 0 | 32 |
+| [cbomkit-general](cbomkit-general_1440054266571133053.md) | 2026-09-24 | 0 | 3 | 17 | 19 |
 
 ## Most Active Users
 
@@ -33,8 +33,8 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [RyJones](https://github.com/ryjones) | 5 | LF Staff |
-| 2 | Lucifer | 4 | — |
+| 1 | Lucifer | 4 | — |
+| 2 | [RyJones](https://github.com/ryjones) | 3 | LF Staff |
 | 3 | Severus Snape | 3 | — |
 | 4 | shubham17 | 2 | — |
 | 5 | [Andreas Schade](https://github.com/san-zrl) | 2 | CBOM maintainer, Project Maintainer |

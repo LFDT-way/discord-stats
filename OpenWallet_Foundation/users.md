@@ -5,13 +5,13 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 122
-- **Messages (365d):** 1,945
+- **Messages (365d):** 1,940
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 391 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 136 | Linux Foundation Staff |
-| 3 | [Ry Jones, OWF](https://github.com/ryjones) | 136 | Linux Foundation Staff |
+| 2 | [Ry Jones, OWF](https://github.com/ryjones) | 136 | Linux Foundation Staff |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 135 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 113 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 6 | [Lukas.J.Han](https://github.com/lukasjhan) | 102 | Lab Maintainer |
@@ -21,7 +21,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 10 | thidalgo | 37 | — |
 | 11 | PStLouis | 36 | Lab Maintainer, Project Maintainer |
 | 12 | RMLearney | 32 | — |
-| 13 | davidejalexander | 32 | SIG member |
+| 13 | davidejalexander | 31 | SIG member |
 | 14 | Timbl | 30 | — |
 | 15 | Thomas Tran | 28 | Lab Maintainer |
 | 16 | [swcurran](https://github.com/swcurran) | 26 | Lab Maintainer, TAC members, Project Maintainer |
@@ -31,11 +31,11 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 20 | [bryce-mcmath](https://github.com/bryce-mcmath) | 20 | bifold maintainers, Project Maintainer |
 | 21 | Graham | 18 | — |
 | 22 | kukgini | 18 | — |
-| 23 | [jamshale](https://github.com/jamshale) | 15 | Project Maintainer |
-| 24 | [GenAris](https://github.com/genaris) | 15 | credo maintainers, Project Maintainer |
-| 25 | diegoz (OpenMobileHub, Multipaz) | 15 | Lab Maintainer, multipaz maintainer |
-| 26 | Manthan | 15 | — |
-| 27 | [firegod](https://github.com/wenjing) | 15 | — |
+| 23 | [GenAris](https://github.com/genaris) | 15 | credo maintainers, Project Maintainer |
+| 24 | diegoz (OpenMobileHub, Multipaz) | 15 | Lab Maintainer, multipaz maintainer |
+| 25 | Manthan | 15 | — |
+| 26 | [firegod](https://github.com/wenjing) | 15 | — |
+| 27 | [jamshale](https://github.com/jamshale) | 14 | Project Maintainer |
 | 28 | MostafaGamal | 12 | — |
 | 29 | Sodium | 12 | — |
 | 30 | Amine | 11 | — |
@@ -61,30 +61,30 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 50 | Ginga | 5 | — |
 | 51 | Aftab Saraz | 5 | — |
 | 52 | geertdoornbos | 4 | — |
-| 53 | Bilal | 4 | — |
-| 54 | Pragya Jain | 4 | — |
-| 55 | senu | 4 | — |
-| 56 | [Daniel Marvin](https://github.com/danielmarv) | 4 | — |
-| 57 | [Wade Barnes](https://github.com/WadeBarnes) | 4 | — |
-| 58 | aaron | 4 | — |
-| 59 | Damignos | 3 | — |
-| 60 | akishiseki | 3 | — |
-| 61 | Hassan | 3 | — |
-| 62 | [Gavinok](https://github.com/Gavinok) | 3 | — |
-| 63 | mashukur.rahman | 3 | — |
-| 64 | LukeBC | 3 | — |
-| 65 | ζατch bell | 3 | — |
-| 66 | ai-Igor | 3 | — |
-| 67 | Muhammad Ahmer Khan | 3 | — |
-| 68 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 3 | Lab Maintainer |
-| 69 | Alisson-Dev-Zolvency | 3 | — |
-| 70 | marnix | 3 | — |
-| 71 | darrello | 3 | — |
-| 72 | [Sai Ranjit](https://github.com/sairanjit) | 3 | — |
-| 73 | [cvarjao](https://github.com/cvarjao) | 3 | bifold maintainers, Project Maintainer |
-| 74 | Alan poon | 3 | — |
-| 75 | Thomas T | 3 | — |
-| 76 | André Engelhorn | 3 | — |
+| 53 | Pragya Jain | 4 | — |
+| 54 | senu | 4 | — |
+| 55 | [Daniel Marvin](https://github.com/danielmarv) | 4 | — |
+| 56 | [Wade Barnes](https://github.com/WadeBarnes) | 4 | — |
+| 57 | aaron | 4 | — |
+| 58 | Damignos | 3 | — |
+| 59 | akishiseki | 3 | — |
+| 60 | Hassan | 3 | — |
+| 61 | [Gavinok](https://github.com/Gavinok) | 3 | — |
+| 62 | mashukur.rahman | 3 | — |
+| 63 | LukeBC | 3 | — |
+| 64 | ζατch bell | 3 | — |
+| 65 | ai-Igor | 3 | — |
+| 66 | Muhammad Ahmer Khan | 3 | — |
+| 67 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 3 | Lab Maintainer |
+| 68 | Alisson-Dev-Zolvency | 3 | — |
+| 69 | marnix | 3 | — |
+| 70 | darrello | 3 | — |
+| 71 | [Sai Ranjit](https://github.com/sairanjit) | 3 | — |
+| 72 | [cvarjao](https://github.com/cvarjao) | 3 | bifold maintainers, Project Maintainer |
+| 73 | Alan poon | 3 | — |
+| 74 | Thomas T | 3 | — |
+| 75 | André Engelhorn | 3 | — |
+| 76 | Bilal | 2 | — |
 | 77 | Maticus | 2 | — |
 | 78 | Micah Peltier | 2 | — |
 | 79 | mobappdev | 2 | — |

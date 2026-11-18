@@ -4,7 +4,7 @@
 - **Category ID:** 1518924075123081246
 - **Total Messages in Category:** 710
 - **Last 30 Days:** 27
-- **Last 90 Days:** 80
+- **Last 90 Days:** 78
 - **Last 365 Days:** 180
 - **First Message:** 2022-03-02
 - **Last Message:** 2026-11-10
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [panurus](panurus_945691840110272522.md) | 2026-11-10 | 27 | 80 | 180 | 710 |
+| [panurus](panurus_945691840110272522.md) | 2026-11-10 | 27 | 78 | 180 | 710 |
 
 ## Most Active Users
 
@@ -32,7 +32,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Angelo De Caro](https://github.com/adecaro) | 36 | Lab Leader, Fabric Maintainer, Project Maintainer |
-| 2 | arunabha003 | 21 | — |
+| 2 | arunabha003 | 19 | — |
 | 3 | ⛅CloudEllie | 9 | — |
 | 4 | EliMbadi | 4 | — |
 | 5 | [Ry Jones](https://github.com/ryjones) | 3 | lfdt-ca, LFDT Staff |

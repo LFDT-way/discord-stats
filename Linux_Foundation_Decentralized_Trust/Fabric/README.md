@@ -4,8 +4,8 @@
 - **Category ID:** 905205464046915585
 - **Total Messages in Category:** 19,689
 - **Last 30 Days:** 24
-- **Last 90 Days:** 44
-- **Last 365 Days:** 375
+- **Last 90 Days:** 43
+- **Last 365 Days:** 372
 - **First Message:** 2021-11-07
 - **Last Message:** 2026-11-10
 
@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric](fabric_905205541326975046.md) | 2026-11-09 | 7 | 20 | 204 | 10,168 |
-| [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-10-29 | 14 | 16 | 27 | 1,645 |
+| [fabric](fabric_905205541326975046.md) | 2026-11-09 | 7 | 20 | 203 | 10,168 |
+| [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-10-29 | 14 | 15 | 27 | 1,645 |
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-08 | 0 | 0 | 0 | 1,527 |
 | [fabric-samples](fabric-samples_945796810042142774.md) | 2026-11-10 | 2 | 2 | 23 | 1,302 |
 | [fabric-peer](fabric-peer_945037339170836501.md) | 2026-04-10 | 0 | 0 | 6 | 1,084 |
@@ -23,7 +23,7 @@
 | [fabric-code-contributors](fabric-code-contributors_941396957635682314.md) | 2026-05-09 | 0 | 0 | 7 | 602 |
 | [fabric-contract-apis](fabric-contract-apis_943090527920877598.md) | 2026-11-04 | 1 | 2 | 13 | 550 |
 | [fabric-documentation](fabric-documentation_945038395825070141.md) | 2026-06-19 | 0 | 0 | 21 | 272 |
-| [fabric-japanese](fabric-japanese_942950198836092958.md) | 2026-09-16 | 0 | 3 | 19 | 241 |
+| [fabric-japanese](fabric-japanese_942950198836092958.md) | 2026-09-16 | 0 | 3 | 17 | 241 |
 | [fabric-dublin-workshop](fabric-dublin-workshop_1005123918740332604.md) | 2024-09-27 | 0 | 0 | 0 | 119 |
 | [fabric-admin-sdk](fabric-admin-sdk_1063507202607956018.md) | 2026-04-24 | 0 | 0 | 1 | 110 |
 | [fabric-certified-practitioner](fabric-certified-practitioner_1158754773026222130.md) | 2026-08-04 | 0 | 0 | 13 | 70 |
@@ -49,7 +49,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Amin.Chegeni | 9 | — |
-| 2 | [jtonline](https://github.com/jt-nti) | 8 | Project Maintainer, Fabric Maintainer |
+| 2 | [jtonline](https://github.com/jt-nti) | 7 | Project Maintainer, Fabric Maintainer |
 | 3 | [davidwboswell](https://github.com/davidwboswell) | 3 | lfdt-ca, LFDT Staff |
 | 4 | Abhinag Vangala | 3 | — |
 | 5 | Frank_The_Fish | 3 | Lab Leader |
