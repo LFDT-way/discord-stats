@@ -4,7 +4,7 @@
 - **Category:** Labs
 - **Channel ID:** 941417722946924554
 - **Total Messages:** 1,186
-- **Last 30 Days:** 1
+- **Last 30 Days:** 0
 - **Last 90 Days:** 1
 - **Last 365 Days:** 13
 - **First Message:** 2022-02-16
@@ -14,9 +14,7 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
+_No activity in this period._
 
 ### Last 90 Days
 

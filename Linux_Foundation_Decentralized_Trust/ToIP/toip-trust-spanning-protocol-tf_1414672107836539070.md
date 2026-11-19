@@ -6,7 +6,7 @@
 - **Total Messages:** 50
 - **Last 30 Days:** 14
 - **Last 90 Days:** 30
-- **Last 365 Days:** 49
+- **Last 365 Days:** 48
 - **First Message:** 2025-10-01
 - **Last Message:** 2026-11-17
 
@@ -36,7 +36,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [firegod](https://github.com/wenjing) | 25 | Project Maintainer, ToIP |
 | 2 | microbiocarly | 8 | Project Maintainer, ToIP |
-| 3 | [drummondreed](https://github.com/talltree) | 7 | Project Maintainer, ToIP |
+| 3 | [drummondreed](https://github.com/talltree) | 6 | Project Maintainer, ToIP |
 | 4 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 5 | Project Maintainer, ToIP |
 | 5 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 3 | Lab Leader |
 

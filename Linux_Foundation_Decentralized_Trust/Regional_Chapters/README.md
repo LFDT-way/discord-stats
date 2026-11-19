@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 888
 - **Last 30 Days:** 2
 - **Last 90 Days:** 3
-- **Last 365 Days:** 57
+- **Last 365 Days:** 56
 - **First Message:** 2022-02-15
 - **Last Message:** 2026-11-02
 
@@ -15,7 +15,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [india-chapter](india-chapter_942822085917556777.md) | 2026-11-02 | 2 | 3 | 28 | 458 |
 | [brasil-chapter](brasil-chapter_943207619508723723.md) | 2026-07-22 | 0 | 0 | 9 | 277 |
-| [european-chapter](european-chapter_1289237830081581158.md) | 2026-08-19 | 0 | 0 | 19 | 132 |
+| [european-chapter](european-chapter_1289237830081581158.md) | 2026-08-19 | 0 | 0 | 18 | 132 |
 | [japan-chapter-🇯🇵](japan-chapter-🇯🇵_956727657884692550.md) | 2026-06-17 | 0 | 0 | 1 | 21 |
 
 ## Most Active Users
@@ -41,8 +41,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | amitthosare | 13 | Credebl maintainer, Project Maintainer |
 | 2 | Ankita | 12 | Credebl maintainer, Project Maintainer |
-| 3 | MH | 7 | Chapter Leader |
-| 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | lfdt-ca, LFDT Staff |
+| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | lfdt-ca, LFDT Staff |
+| 4 | MH | 6 | Chapter Leader |
 | 5 | joselio.teider | 4 | — |
 
 ### All Time

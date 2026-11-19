@@ -6,7 +6,7 @@
 - **Total Messages:** 3,400
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 26
+- **Last 365 Days:** 25
 - **First Message:** 2022-04-24
 - **Last Message:** 2026-05-11
 
@@ -27,7 +27,7 @@ _No activity in this period._
 | 1 | [Ry Jones](https://github.com/ryjones) | 12 | lfdt-ca, LFDT Staff |
 | 2 | CalvinCreator | 8 | — |
 | 3 | [dnakashima](https://github.com/dnakashima) | 2 | Project Maintainer, Fabric Maintainer, Lab Leader |
-| 4 | adityajoshi | 2 | — |
+| 4 | adityajoshi | 1 | — |
 | 5 | Piyush Gupta | 1 | — |
 
 ### All Time

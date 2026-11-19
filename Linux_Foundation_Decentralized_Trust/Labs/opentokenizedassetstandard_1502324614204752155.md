@@ -4,7 +4,7 @@
 - **Category:** Labs
 - **Channel ID:** 1502324614204752155
 - **Total Messages:** 89
-- **Last 30 Days:** 8
+- **Last 30 Days:** 7
 - **Last 90 Days:** 15
 - **Last 365 Days:** 89
 - **First Message:** 2026-05-08
@@ -18,8 +18,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [OA](https://github.com/pv-sarvesh) | 3 | Lab Leader |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
-| 3 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
-| 4 | Zapperombie | 1 | — |
+| 3 | Zapperombie | 1 | — |
 
 ### Last 90 Days
 

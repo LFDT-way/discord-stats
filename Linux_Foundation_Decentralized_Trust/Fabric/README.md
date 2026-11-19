@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205464046915585
-- **Total Messages in Category:** 19,689
-- **Last 30 Days:** 24
-- **Last 90 Days:** 43
-- **Last 365 Days:** 372
+- **Total Messages in Category:** 19,691
+- **Last 30 Days:** 25
+- **Last 90 Days:** 45
+- **Last 365 Days:** 351
 - **First Message:** 2021-11-07
-- **Last Message:** 2026-11-10
+- **Last Message:** 2026-11-18
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric](fabric_905205541326975046.md) | 2026-11-09 | 7 | 20 | 203 | 10,168 |
+| [fabric](fabric_905205541326975046.md) | 2026-11-18 | 8 | 22 | 182 | 10,170 |
 | [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-10-29 | 14 | 15 | 27 | 1,645 |
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-08 | 0 | 0 | 0 | 1,527 |
 | [fabric-samples](fabric-samples_945796810042142774.md) | 2026-11-10 | 2 | 2 | 23 | 1,302 |
@@ -40,9 +40,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Amin.Chegeni | 9 | — |
 | 2 | [jtonline](https://github.com/jt-nti) | 6 | Project Maintainer, Fabric Maintainer |
-| 3 | Abhinag Vangala | 2 | — |
-| 4 | noble883 | 2 | — |
-| 5 | snowski555 | 2 | — |
+| 3 | Abhinag Vangala | 3 | — |
+| 4 | [davidwboswell](https://github.com/davidwboswell) | 2 | lfdt-ca, LFDT Staff |
+| 5 | noble883 | 2 | — |
 
 ### Last 90 Days
 
@@ -50,16 +50,16 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Amin.Chegeni | 9 | — |
 | 2 | [jtonline](https://github.com/jt-nti) | 7 | Project Maintainer, Fabric Maintainer |
-| 3 | [davidwboswell](https://github.com/davidwboswell) | 3 | lfdt-ca, LFDT Staff |
-| 4 | Abhinag Vangala | 3 | — |
+| 3 | [davidwboswell](https://github.com/davidwboswell) | 4 | lfdt-ca, LFDT Staff |
+| 4 | Abhinag Vangala | 4 | — |
 | 5 | Frank_The_Fish | 3 | Lab Leader |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 58 | Project Maintainer, Fabric Maintainer |
-| 2 | Frank_The_Fish | 55 | Lab Leader |
+| 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 48 | Project Maintainer, Fabric Maintainer |
+| 2 | Frank_The_Fish | 42 | Lab Leader |
 | 3 | [jtonline](https://github.com/jt-nti) | 31 | Project Maintainer, Fabric Maintainer |
 | 4 | JRM | 22 | — |
 | 5 | [Maria Munaro](https://github.com/munapower) | 13 | — |
@@ -78,7 +78,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 237 |
+| 2026 | 239 |
 | 2025 | 1,509 |
 | 2024 | 3,365 |
 | 2023 | 7,203 |
@@ -89,7 +89,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 5 |
+| 2026-11 | 7 |
 | 2026-10 | 26 |
 | 2026-09 | 12 |
 | 2026-08 | 6 |
@@ -153,6 +153,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-18 | 2 |
 | 2026-11-10 | 2 |
 | 2026-11-09 | 1 |
 | 2026-11-05 | 1 |

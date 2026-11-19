@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 948958931512873030
 - **Total Messages in Category:** 14,187
-- **Last 30 Days:** 42
+- **Last 30 Days:** 39
 - **Last 90 Days:** 93
-- **Last 365 Days:** 374
+- **Last 365 Days:** 369
 - **First Message:** 2022-03-03
 - **Last Message:** 2026-11-15
 
@@ -14,13 +14,13 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [welcome](welcome_948959099842883654.md) | 2026-08-12 | 0 | 0 | 38 | 10,733 |
-| [general](general_1021077182501621830.md) | 2026-11-15 | 33 | 70 | 199 | 1,941 |
+| [general](general_1021077182501621830.md) | 2026-11-15 | 31 | 70 | 194 | 1,941 |
 | [job-postings](job-postings_1050607623566802984.md) | 2026-10-07 | 0 | 8 | 67 | 450 |
 | [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-11-04 | 3 | 4 | 14 | 421 |
 | [connections](connections_948959243095130142.md) | 2026-10-31 | 2 | 7 | 16 | 375 |
 | [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-10-27 | 1 | 1 | 27 | 192 |
 | [announcements](announcements_953133039372877844.md) | 2026-11-09 | 2 | 2 | 10 | 41 |
-| [git-help](git-help_1098621099681513492.md) | 2026-10-19 | 1 | 1 | 3 | 34 |
+| [git-help](git-help_1098621099681513492.md) | 2026-10-19 | 0 | 1 | 3 | 34 |
 
 ## Most Active Users
 
@@ -29,7 +29,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 13 | lfdt-ca, LFDT Staff |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | lfdt-ca, LFDT Staff |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
 | 3 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 3 | Project Maintainer, ToIP |
 | 4 | Yash | 3 | — |
 | 5 | Nova Hayes | 2 | — |
@@ -48,7 +48,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 38 | lfdt-ca, LFDT Staff |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 37 | lfdt-ca, LFDT Staff |
 | 2 | [Ry Jones](https://github.com/ryjones) | 32 | lfdt-ca, LFDT Staff |
 | 3 | varun | 15 | — |
 | 4 | Zion'sEarthlyPrince | 13 | — |

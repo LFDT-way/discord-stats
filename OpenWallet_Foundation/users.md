@@ -4,18 +4,18 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
-- **Active Users (365d):** 122
-- **Messages (365d):** 1,940
+- **Active Users (365d):** 121
+- **Messages (365d):** 1,934
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 391 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Ry Jones, OWF](https://github.com/ryjones) | 136 | Linux Foundation Staff |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 135 | Linux Foundation Staff |
+| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 133 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
-| 5 | [davidz25](https://github.com/davidz25) | 113 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 6 | [Lukas.J.Han](https://github.com/lukasjhan) | 102 | Lab Maintainer |
-| 7 | [Timo Glastra](https://github.com/TimoGlastra) | 86 | credo maintainers, Project Maintainer |
+| 5 | [davidz25](https://github.com/davidz25) | 114 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 6 | [Lukas.J.Han](https://github.com/lukasjhan) | 101 | Lab Maintainer |
+| 7 | [Timo Glastra](https://github.com/TimoGlastra) | 84 | credo maintainers, Project Maintainer |
 | 8 | birte_lr | 61 | — |
 | 9 | espuni | 45 | — |
 | 10 | thidalgo | 37 | — |
@@ -28,14 +28,14 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 17 | [VishnuSanal](https://github.com/VishnuSanal) | 26 | multipaz maintainer, Project Maintainer |
 | 18 | [esune](https://github.com/esune) | 25 | Project Maintainer |
 | 19 | ai Igor | 24 | — |
-| 20 | [bryce-mcmath](https://github.com/bryce-mcmath) | 20 | bifold maintainers, Project Maintainer |
+| 20 | [bryce-mcmath](https://github.com/bryce-mcmath) | 19 | bifold maintainers, Project Maintainer |
 | 21 | Graham | 18 | — |
 | 22 | kukgini | 18 | — |
 | 23 | [GenAris](https://github.com/genaris) | 15 | credo maintainers, Project Maintainer |
 | 24 | diegoz (OpenMobileHub, Multipaz) | 15 | Lab Maintainer, multipaz maintainer |
 | 25 | Manthan | 15 | — |
-| 26 | [firegod](https://github.com/wenjing) | 15 | — |
-| 27 | [jamshale](https://github.com/jamshale) | 14 | Project Maintainer |
+| 26 | [jamshale](https://github.com/jamshale) | 14 | Project Maintainer |
+| 27 | [firegod](https://github.com/wenjing) | 14 | — |
 | 28 | MostafaGamal | 12 | — |
 | 29 | Sodium | 12 | — |
 | 30 | Amine | 11 | — |
@@ -49,10 +49,10 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 38 | Jim St.Clair | 8 | SIG member |
 | 39 | Samuel | 8 | SIG member |
 | 40 | Anshulip | 8 | — |
-| 41 | Abhi | 7 | — |
-| 42 | Pragya Jain | 7 | — |
-| 43 | jarosss_ | 6 | — |
-| 44 | Ever | 6 | multipaz maintainer |
+| 41 | Ever | 7 | multipaz maintainer |
+| 42 | Abhi | 7 | — |
+| 43 | Pragya Jain | 7 | — |
+| 44 | jarosss_ | 6 | — |
 | 45 | vivek | 6 | — |
 | 46 | [amanji](https://github.com/amanji) | 6 | — |
 | 47 | Neha | 5 | — |
@@ -115,19 +115,18 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 104 | Pankti | 1 | — |
 | 105 | Nahuel_NP | 1 | — |
 | 106 | Jessie | 1 | — |
-| 107 | [JSyro](https://github.com/Jsyro) | 1 | Lab Maintainer, Project Maintainer |
-| 108 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
-| 109 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
-| 110 | anil.helvaci \| GMT +3 | 1 | — |
-| 111 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
-| 112 | rosterbyte | 1 | — |
-| 113 | Daev Mithran | 1 | — |
-| 114 | SRellihan.Phinxlab | 1 | — |
-| 115 | Iancu Fofiu | 1 | — |
-| 116 | Arsalan Shahzad | 1 | — |
-| 117 | sherri58 | 1 | — |
-| 118 | Michael | 1 | — |
-| 119 | latika_04_17594 | 1 | — |
-| 120 | michkauf | 1 | — |
-| 121 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
-| 122 | Aaron | 1 | — |
+| 107 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
+| 108 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
+| 109 | anil.helvaci \| GMT +3 | 1 | — |
+| 110 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
+| 111 | rosterbyte | 1 | — |
+| 112 | Daev Mithran | 1 | — |
+| 113 | SRellihan.Phinxlab | 1 | — |
+| 114 | Iancu Fofiu | 1 | — |
+| 115 | Arsalan Shahzad | 1 | — |
+| 116 | sherri58 | 1 | — |
+| 117 | Michael | 1 | — |
+| 118 | latika_04_17594 | 1 | — |
+| 119 | michkauf | 1 | — |
+| 120 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
+| 121 | Aaron | 1 | — |
