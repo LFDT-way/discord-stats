@@ -4,7 +4,7 @@
 - **Category:** Identus
 - **Channel ID:** 1230596020790886490
 - **Total Messages:** 30
-- **Last 30 Days:** 2
+- **Last 30 Days:** 0
 - **Last 90 Days:** 7
 - **Last 365 Days:** 14
 - **First Message:** 2024-06-18
@@ -14,10 +14,7 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | pat_pat | 1 | Identus Maintainer, Project Maintainer |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
+_No activity in this period._
 
 ### Last 90 Days
 

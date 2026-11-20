@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 941383941217222708
-- **Total Messages in Category:** 2,663
-- **Last 30 Days:** 51
-- **Last 90 Days:** 143
-- **Last 365 Days:** 389
+- **Total Messages in Category:** 2,667
+- **Last 30 Days:** 55
+- **Last 90 Days:** 147
+- **Last 365 Days:** 393
 - **First Message:** 2022-02-10
-- **Last Message:** 2026-11-18
+- **Last Message:** 2026-11-19
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-11-18 | 51 | 143 | 371 | 2,610 |
+| [tac](tac_941384040316018790.md) | 2026-11-19 | 55 | 147 | 375 | 2,614 |
 | [automated-pipelines](automated-pipelines_1156961689971998782.md) | 2026-04-15 | 0 | 0 | 18 | 52 |
 | [tac-announcements](tac-announcements_941399554731966564.md) | 2022-02-17 | 0 | 0 | 0 | 1 |
 
@@ -24,10 +24,10 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [hendrik.ebbers](https://github.com/hendrikebbers) | 15 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 7 | lfdt-ca, LFDT Staff |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 8 | lfdt-ca, LFDT Staff |
 | 3 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
 | 4 | [JessicaG](https://github.com/jwagantall) | 6 | lfdt-ca, LFDT Staff |
-| 5 | [davidwboswell](https://github.com/davidwboswell) | 5 | lfdt-ca, LFDT Staff |
+| 5 | [davidwboswell](https://github.com/davidwboswell) | 6 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 
@@ -35,9 +35,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Arun S M](https://github.com/arsulegai) | 46 | TAC member, Chapter Leader |
 | 2 | [hendrik.ebbers](https://github.com/hendrikebbers) | 19 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
-| 3 | [davidwboswell](https://github.com/davidwboswell) | 14 | lfdt-ca, LFDT Staff |
+| 3 | [davidwboswell](https://github.com/davidwboswell) | 15 | lfdt-ca, LFDT Staff |
 | 4 | [Ry Jones](https://github.com/ryjones) | 13 | lfdt-ca, LFDT Staff |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 11 | lfdt-ca, LFDT Staff |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 12 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
 
@@ -45,9 +45,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Arun S M](https://github.com/arsulegai) | 138 | TAC member, Chapter Leader |
 | 2 | [Ry Jones](https://github.com/ryjones) | 45 | lfdt-ca, LFDT Staff |
-| 3 | [davidwboswell](https://github.com/davidwboswell) | 34 | lfdt-ca, LFDT Staff |
+| 3 | [davidwboswell](https://github.com/davidwboswell) | 35 | lfdt-ca, LFDT Staff |
 | 4 | [hendrik.ebbers](https://github.com/hendrikebbers) | 24 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 19 | lfdt-ca, LFDT Staff |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 20 | lfdt-ca, LFDT Staff |
 
 ### All Time
 
@@ -63,7 +63,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 358 |
+| 2026 | 362 |
 | 2025 | 400 |
 | 2024 | 501 |
 | 2023 | 816 |
@@ -73,7 +73,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 26 |
+| 2026-11 | 30 |
 | 2026-10 | 47 |
 | 2026-09 | 54 |
 | 2026-08 | 33 |
@@ -136,6 +136,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-19 | 4 |
 | 2026-11-18 | 4 |
 | 2026-11-16 | 1 |
 | 2026-11-13 | 1 |

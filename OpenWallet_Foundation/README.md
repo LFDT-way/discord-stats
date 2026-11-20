@@ -2,9 +2,9 @@
 
 - **Guild ID:** 1022962884864643214
 - **Total Messages:** 9,835
-- **Last 30 Days:** 114
-- **Last 90 Days:** 385
-- **Last 365 Days:** 1,941 — [active users](users.md)
+- **Last 30 Days:** 104
+- **Last 90 Days:** 384
+- **Last 365 Days:** 1,938 — [active users](users.md)
 - **First Message:** 2022-09-23
 - **Last Message:** 2026-11-18
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -13,11 +13,11 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,969 | 97 | 317 | 1,312 | 2023-11-08 | 2026-11-18 |
+| [Growth Projects](Growth_Projects/README.md) | 3,969 | 88 | 316 | 1,309 | 2023-11-08 | 2026-11-18 |
 | [General](General/README.md) | 1,871 | 7 | 12 | 66 | 2022-09-23 | 2026-11-12 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,837 | 1 | 13 | 88 | 2022-09-28 | 2026-11-16 |
 | [Impact Projects](Impact_Projects/README.md) | 881 | 4 | 15 | 150 | 2024-09-26 | 2026-11-11 |
-| [Labs](Labs/README.md) | 861 | 3 | 25 | 315 | 2023-06-02 | 2026-11-17 |
+| [Labs](Labs/README.md) | 861 | 2 | 25 | 315 | 2023-06-02 | 2026-11-17 |
 | [Archive](Archive/README.md) | 345 | 0 | 0 | 0 | 2022-09-23 | 2025-10-23 |
 | [Information](Information/README.md) | 71 | 2 | 3 | 3 | 2022-09-28 | 2026-11-05 |
 | [Uncategorized](Uncategorized/README.md) | 0 | 0 | 0 | 7 | None | None |
@@ -28,10 +28,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [davidz25](https://github.com/davidz25) | 20 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
-| 2 | [Mirko](https://github.com/cre8) | 18 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 3 | Jonas Hoffmann (FU Berlin) | 10 | — |
-| 4 | [esune](https://github.com/esune) | 9 | Project Maintainer |
+| 1 | [davidz25](https://github.com/davidz25) | 19 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 2 | [Mirko](https://github.com/cre8) | 16 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 3 | [esune](https://github.com/esune) | 9 | Project Maintainer |
+| 4 | Jonas Hoffmann (FU Berlin) | 8 | — |
 | 5 | [VishnuSanal](https://github.com/VishnuSanal) | 6 | multipaz maintainer, Project Maintainer |
 
 ### Last 90 Days

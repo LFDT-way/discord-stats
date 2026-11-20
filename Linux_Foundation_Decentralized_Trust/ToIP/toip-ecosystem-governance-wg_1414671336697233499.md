@@ -3,10 +3,10 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414671336697233499
-- **Total Messages:** 273
-- **Last 30 Days:** 71
-- **Last 90 Days:** 172
-- **Last 365 Days:** 261
+- **Total Messages:** 274
+- **Last 30 Days:** 66
+- **Last 90 Days:** 173
+- **Last 365 Days:** 262
 - **First Message:** 2025-09-30
 - **Last Message:** 2026-11-19
 
@@ -16,8 +16,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 27 | Lab Leader |
-| 2 | microbiocarly | 23 | Project Maintainer, ToIP |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 26 | Lab Leader |
+| 2 | microbiocarly | 19 | Project Maintainer, ToIP |
 | 3 | [Ry Jones](https://github.com/ryjones) | 16 | lfdt-ca, LFDT Staff |
 | 4 | Manthan | 5 | — |
 
@@ -28,7 +28,7 @@
 | 1 | microbiocarly | 64 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 59 | Lab Leader |
 | 3 | [Ry Jones](https://github.com/ryjones) | 23 | lfdt-ca, LFDT Staff |
-| 4 | Manthan | 20 | — |
+| 4 | Manthan | 21 | — |
 | 5 | lyn brooks | 3 | Project Maintainer, ToIP |
 
 ### Last 365 Days
@@ -38,7 +38,7 @@
 | 1 | microbiocarly | 91 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 79 | Lab Leader |
 | 3 | [Ry Jones](https://github.com/ryjones) | 23 | lfdt-ca, LFDT Staff |
-| 4 | Manthan | 20 | — |
+| 4 | Manthan | 21 | — |
 | 5 | [drummondreed](https://github.com/talltree) | 16 | Project Maintainer, ToIP |
 
 ### All Time
@@ -48,21 +48,21 @@
 | 1 | microbiocarly | 97 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 79 | Lab Leader |
 | 3 | [Ry Jones](https://github.com/ryjones) | 23 | lfdt-ca, LFDT Staff |
-| 4 | Manthan | 20 | — |
+| 4 | Manthan | 21 | — |
 | 5 | [drummondreed](https://github.com/talltree) | 16 | Project Maintainer, ToIP |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 254 |
+| 2026 | 255 |
 | 2025 | 19 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 20 |
+| 2026-11 | 21 |
 | 2026-10 | 130 |
 | 2026-09 | 22 |
 | 2026-08 | 1 |
@@ -82,7 +82,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-11-19 | 1 |
+| 2026-11-19 | 2 |
 | 2026-11-18 | 1 |
 | 2026-11-17 | 1 |
 | 2026-11-14 | 1 |

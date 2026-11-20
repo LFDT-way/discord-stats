@@ -2,35 +2,40 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205784550440990
-- **Total Messages in Category:** 1,684
-- **Last 30 Days:** 0
-- **Last 90 Days:** 0
-- **Last 365 Days:** 1
+- **Total Messages in Category:** 1,685
+- **Last 30 Days:** 1
+- **Last 90 Days:** 1
+- **Last 365 Days:** 2
 - **First Message:** 2022-02-10
-- **Last Message:** 2026-04-12
+- **Last Message:** 2026-11-19
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [iroha](iroha_905205848547155968.md) | 2026-04-12 | 0 | 0 | 1 | 1,251 |
-| [iroha-2-contributors](iroha-2-contributors_968576696154476575.md) | 2025-10-23 | 0 | 0 | 0 | 433 |
+| [iroha-2-contributors](iroha-2-contributors_968576696154476575.md) | 2026-11-19 | 1 | 1 | 1 | 434 |
 
 ## Most Active Users
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 1 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 
 ### Last 90 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 1 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 
 ### Last 365 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | The Equalizer | 1 | — |
+| 1 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 1 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 2 | The Equalizer | 1 | — |
 
 ### All Time
 
@@ -46,7 +51,7 @@ _No activity in this period._
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 1 |
+| 2026 | 2 |
 | 2025 | 21 |
 | 2024 | 105 |
 | 2023 | 966 |
@@ -56,6 +61,7 @@ _No activity in this period._
 
 | Month | Messages |
 | --- | --- |
+| 2026-11 | 1 |
 | 2026-04 | 1 |
 | 2025-10 | 2 |
 | 2025-08 | 1 |
@@ -102,6 +108,7 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-19 | 1 |
 | 2026-04-12 | 1 |
 | 2025-10-27 | 1 |
 | 2025-10-23 | 1 |

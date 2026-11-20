@@ -2,19 +2,19 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1570380738673512528
-- **Total Messages in Category:** 436
-- **Last 30 Days:** 38
-- **Last 90 Days:** 97
-- **Last 365 Days:** 393
+- **Total Messages in Category:** 440
+- **Last 30 Days:** 42
+- **Last 90 Days:** 101
+- **Last 365 Days:** 395
 - **First Message:** 2025-10-14
-- **Last Message:** 2026-11-18
+- **Last Message:** 2026-11-20
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric-x](fabric-x_1427642480504999976.md) | 2026-11-15 | 2 | 33 | 329 | 372 |
-| [chaguar-discuss](chaguar-discuss_1570380938897006664.md) | 2026-11-18 | 35 | 35 | 35 | 35 |
+| [fabric-x](fabric-x_1427642480504999976.md) | 2026-11-15 | 2 | 33 | 327 | 372 |
+| [chaguar-discuss](chaguar-discuss_1570380938897006664.md) | 2026-11-20 | 39 | 39 | 39 | 39 |
 | [fabric-x-evm](fabric-x-evm_1550488625576415232.md) | 2026-11-11 | 1 | 29 | 29 | 29 |
 
 ## Most Active Users
@@ -23,17 +23,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 21 | lfdt-ca, LFDT Staff |
-| 2 | [Yoav Tock](https://github.com/tock-ibm) | 9 | TAC member, Project Maintainer, Fabric Maintainer |
-| 3 | paskelo95 | 7 | — |
+| 1 | [Ry Jones](https://github.com/ryjones) | 22 | lfdt-ca, LFDT Staff |
+| 2 | [Yoav Tock](https://github.com/tock-ibm) | 11 | TAC member, Project Maintainer, Fabric Maintainer |
+| 3 | paskelo95 | 8 | — |
 | 4 | Storm1289 | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 29 | lfdt-ca, LFDT Staff |
-| 2 | [Yoav Tock](https://github.com/tock-ibm) | 20 | TAC member, Project Maintainer, Fabric Maintainer |
+| 1 | [Ry Jones](https://github.com/ryjones) | 30 | lfdt-ca, LFDT Staff |
+| 2 | [Yoav Tock](https://github.com/tock-ibm) | 22 | TAC member, Project Maintainer, Fabric Maintainer |
 | 3 | Storm1289 | 12 | — |
 | 4 | [arner](https://github.com/arner) | 10 | Project Maintainer, Fabric Maintainer |
 | 5 | EliMbadi | 9 | — |
@@ -42,8 +42,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Yoav Tock](https://github.com/tock-ibm) | 54 | TAC member, Project Maintainer, Fabric Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 41 | lfdt-ca, LFDT Staff |
+| 1 | [Yoav Tock](https://github.com/tock-ibm) | 56 | TAC member, Project Maintainer, Fabric Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 42 | lfdt-ca, LFDT Staff |
 | 3 | EliMbadi | 39 | — |
 | 4 | Aaradhy Chinche | 31 | — |
 | 5 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 30 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
@@ -52,8 +52,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Yoav Tock](https://github.com/tock-ibm) | 54 | TAC member, Project Maintainer, Fabric Maintainer |
-| 2 | [Ry Jones](https://github.com/ryjones) | 43 | lfdt-ca, LFDT Staff |
+| 1 | [Yoav Tock](https://github.com/tock-ibm) | 56 | TAC member, Project Maintainer, Fabric Maintainer |
+| 2 | [Ry Jones](https://github.com/ryjones) | 44 | lfdt-ca, LFDT Staff |
 | 3 | EliMbadi | 39 | — |
 | 4 | [arner](https://github.com/arner) | 36 | Project Maintainer, Fabric Maintainer |
 | 5 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 31 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
@@ -62,14 +62,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 349 |
+| 2026 | 353 |
 | 2025 | 87 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 38 |
+| 2026-11 | 42 |
 | 2026-10 | 14 |
 | 2026-09 | 42 |
 | 2026-08 | 28 |
@@ -88,6 +88,8 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-20 | 1 |
+| 2026-11-19 | 3 |
 | 2026-11-18 | 3 |
 | 2026-11-17 | 3 |
 | 2026-11-16 | 7 |

@@ -4,7 +4,7 @@
 - **Category ID:** 1518924075123081246
 - **Total Messages in Category:** 712
 - **Last 30 Days:** 29
-- **Last 90 Days:** 61
+- **Last 90 Days:** 43
 - **Last 365 Days:** 182
 - **First Message:** 2022-03-02
 - **Last Message:** 2026-11-18
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [panurus](panurus_945691840110272522.md) | 2026-11-18 | 29 | 61 | 182 | 712 |
+| [panurus](panurus_945691840110272522.md) | 2026-11-18 | 29 | 43 | 182 | 712 |
 
 ## Most Active Users
 
@@ -31,11 +31,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 29 | Lab Leader, Fabric Maintainer, Project Maintainer |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 20 | Lab Leader, Fabric Maintainer, Project Maintainer |
 | 2 | ⛅CloudEllie | 10 | — |
-| 3 | arunabha003 | 10 | — |
-| 4 | EliMbadi | 4 | — |
-| 5 | [Ry Jones](https://github.com/ryjones) | 3 | lfdt-ca, LFDT Staff |
+| 3 | EliMbadi | 4 | — |
+| 4 | [Ry Jones](https://github.com/ryjones) | 3 | lfdt-ca, LFDT Staff |
+| 5 | hstar | 2 | — |
 
 ### Last 365 Days
 

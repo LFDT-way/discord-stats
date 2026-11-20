@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515538766254102
-- **Total Messages in Category:** 2,379
+- **Total Messages in Category:** 2,380
 - **Last 30 Days:** 19
-- **Last 90 Days:** 38
-- **Last 365 Days:** 236
+- **Last 90 Days:** 39
+- **Last 365 Days:** 237
 - **First Message:** 2021-11-11
-- **Last Message:** 2026-11-17
+- **Last Message:** 2026-11-19
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-11-17 | 19 | 34 | 177 | 1,820 |
+| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-11-19 | 19 | 35 | 178 | 1,821 |
 | [cacti-users](cacti-users_908379366650703943.md) | 2026-10-02 | 0 | 2 | 50 | 510 |
 | [cacti-resources](cacti-resources_908349711537299497.md) | 2026-04-03 | 0 | 0 | 1 | 26 |
 | [cacti-announcements](cacti-announcements_908380513310498847.md) | 2026-10-01 | 0 | 2 | 8 | 17 |
@@ -33,8 +33,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [rafaelapb](https://github.com/RafaelAPB) | 14 | Project Maintainer, Cacti Maintainer |
-| 2 | AgrimTawani \| Cryptobazaar | 14 | — |
+| 1 | AgrimTawani \| Cryptobazaar | 15 | — |
+| 2 | [rafaelapb](https://github.com/RafaelAPB) | 14 | Project Maintainer, Cacti Maintainer |
 | 3 | yash | 5 | — |
 | 4 | Humayun | 2 | — |
 | 5 | Sarbojit Rana | 2 | — |
@@ -46,7 +46,7 @@
 | 1 | [rafaelapb](https://github.com/RafaelAPB) | 61 | Project Maintainer, Cacti Maintainer |
 | 2 | Somesh | 27 | — |
 | 3 | [Carlos Amaro](https://github.com/LordKubaya) | 17 | Project Maintainer, Cacti Maintainer |
-| 4 | AgrimTawani \| Cryptobazaar | 15 | — |
+| 4 | AgrimTawani \| Cryptobazaar | 16 | — |
 | 5 | harshita | 14 | — |
 
 ### All Time
@@ -63,7 +63,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 233 |
+| 2026 | 234 |
 | 2025 | 463 |
 | 2024 | 480 |
 | 2023 | 429 |
@@ -74,7 +74,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 17 |
+| 2026-11 | 18 |
 | 2026-10 | 13 |
 | 2026-09 | 7 |
 | 2026-08 | 1 |
@@ -138,6 +138,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-19 | 1 |
 | 2026-11-17 | 1 |
 | 2026-11-16 | 3 |
 | 2026-11-15 | 2 |
