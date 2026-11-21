@@ -2,21 +2,21 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1430941644034670794
-- **Total Messages in Category:** 1,747
-- **Last 30 Days:** 51
-- **Last 90 Days:** 126
-- **Last 365 Days:** 507
+- **Total Messages in Category:** 1,751
+- **Last 30 Days:** 55
+- **Last 90 Days:** 130
+- **Last 365 Days:** 502
 - **First Message:** 2024-07-08
-- **Last Message:** 2026-11-20
+- **Last Message:** 2026-11-21
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [paladin](paladin_1303371167020879903.md) | 2026-11-02 | 3 | 8 | 70 | 636 |
-| [paladin-maintainers](paladin-maintainers_1332404027052392488.md) | 2026-10-13 | 0 | 5 | 155 | 507 |
+| [paladin](paladin_1303371167020879903.md) | 2026-11-02 | 3 | 8 | 69 | 636 |
+| [paladin-maintainers](paladin-maintainers_1332404027052392488.md) | 2026-10-13 | 0 | 5 | 147 | 507 |
 | [zeto](zeto_1259800071185367040.md) | 2026-09-04 | 0 | 4 | 19 | 326 |
-| [paladin-java-sdk](paladin-java-sdk_1513571876708810834.md) | 2026-11-20 | 48 | 109 | 215 | 215 |
+| [paladin-java-sdk](paladin-java-sdk_1513571876708810834.md) | 2026-11-21 | 52 | 113 | 219 | 219 |
 | [paladin-general](paladin-general_1430941784610963538.md) | 2026-08-11 | 0 | 0 | 41 | 45 |
 | [paladin-release](paladin-release_1435984838388875284.md) | 2026-06-25 | 0 | 0 | 6 | 17 |
 | [paladin-announce](paladin-announce_1430941736460484638.md) | 2026-06-25 | 0 | 0 | 1 | 1 |
@@ -27,7 +27,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | divyam-jha | 25 | — |
+| 1 | divyam-jha | 29 | — |
 | 2 | [Matthew Whitehead](https://github.com/matthew1001) | 13 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 3 | [Anna McAllister](https://github.com/annamcallister) | 12 | Paladin Maintainer, Project Maintainer, Lab Leader |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
@@ -36,7 +36,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | divyam-jha | 54 | — |
+| 1 | divyam-jha | 58 | — |
 | 2 | [Matthew Whitehead](https://github.com/matthew1001) | 51 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 3 | [Anna McAllister](https://github.com/annamcallister) | 12 | Paladin Maintainer, Project Maintainer, Lab Leader |
 | 4 | gurbaj08 | 3 | — |
@@ -46,8 +46,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 170 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
-| 2 | divyam-jha | 124 | — |
+| 1 | [Matthew Whitehead](https://github.com/matthew1001) | 165 | Besu Maintainer, TAC member, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
+| 2 | divyam-jha | 128 | — |
 | 3 | [Anna McAllister](https://github.com/annamcallister) | 65 | Paladin Maintainer, Project Maintainer, Lab Leader |
 | 4 | [Ry Jones](https://github.com/ryjones) | 59 | lfdt-ca, LFDT Staff |
 | 5 | [jimthematrix](https://github.com/jimthematrix) | 11 | Lab Leader, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
@@ -60,13 +60,13 @@
 | 2 | [Anna McAllister](https://github.com/annamcallister) | 190 | Paladin Maintainer, Project Maintainer, Lab Leader |
 | 3 | [jimthematrix](https://github.com/jimthematrix) | 168 | Lab Leader, Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 4 | [dwertent](https://github.com/dwertent) | 132 | Paladin Maintainer, Project Maintainer, Lab Leader |
-| 5 | [Ry Jones](https://github.com/ryjones) | 126 | lfdt-ca, LFDT Staff |
+| 5 | divyam-jha | 128 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 419 |
+| 2026 | 423 |
 | 2025 | 1,056 |
 | 2024 | 272 |
 
@@ -74,7 +74,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 45 |
+| 2026-11 | 49 |
 | 2026-10 | 33 |
 | 2026-09 | 37 |
 | 2026-08 | 63 |
@@ -108,7 +108,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-11-20 | 1 |
+| 2026-11-21 | 3 |
+| 2026-11-20 | 2 |
 | 2026-11-18 | 1 |
 | 2026-11-17 | 6 |
 | 2026-11-16 | 1 |

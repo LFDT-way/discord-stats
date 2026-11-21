@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1331657844193231030
 - **Total Messages in Category:** 426
-- **Last 30 Days:** 8
+- **Last 30 Days:** 7
 - **Last 90 Days:** 15
 - **Last 365 Days:** 159
 - **First Message:** 2025-01-23
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [credebl](credebl_1331657363161219082.md) | 2026-11-18 | 4 | 11 | 110 | 289 |
+| [credebl](credebl_1331657363161219082.md) | 2026-11-18 | 3 | 11 | 110 | 289 |
 | [credebl-maintainers](credebl-maintainers_1354091009813905488.md) | 2026-11-19 | 4 | 4 | 43 | 62 |
 | [credebl-platform](credebl-platform_1354090545043210362.md) | 2025-09-30 | 0 | 0 | 0 | 61 |
 | [credebl-announcement](credebl-announcement_1354090474654404660.md) | 2026-04-09 | 0 | 0 | 6 | 14 |
@@ -27,7 +27,6 @@
 | 1 | [Ajay Jadhav](https://github.com/ajile-in) | 3 | Credebl maintainer, Project Maintainer |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 2 | lfdt-ca, LFDT Staff |
 | 3 | Ankita | 2 | Credebl maintainer, Project Maintainer |
-| 4 | amitthosare | 1 | Credebl maintainer, Project Maintainer |
 
 ### Last 90 Days
 

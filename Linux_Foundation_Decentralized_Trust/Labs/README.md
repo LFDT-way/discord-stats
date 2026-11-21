@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
 - **Total Messages in Category:** 21,621
-- **Last 30 Days:** 181
+- **Last 30 Days:** 180
 - **Last 90 Days:** 298
-- **Last 365 Days:** 961
+- **Last 365 Days:** 959
 - **First Message:** 2021-11-05
 - **Last Message:** 2026-11-19
 
@@ -16,15 +16,15 @@
 | [solang-contributors](solang-contributors_905834552965103638.md) | 2026-07-03 | 0 | 0 | 39 | 10,568 |
 | [bevel-operator-fabric](bevel-operator-fabric_967823782712594442.md) | 2026-05-11 | 0 | 0 | 25 | 3,400 |
 | [bevel](bevel_941475087389950002.md) | 2026-11-18 | 3 | 4 | 10 | 2,566 |
-| [caliper](caliper_941417677778473031.md) | 2026-03-23 | 0 | 0 | 20 | 1,439 |
-| [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-10-19 | 0 | 1 | 13 | 1,186 |
+| [caliper](caliper_941417677778473031.md) | 2026-03-23 | 0 | 0 | 19 | 1,439 |
+| [caliper-contributors](caliper-contributors_941417722946924554.md) | 2026-10-19 | 0 | 1 | 12 | 1,186 |
 | [bevel-contributors](bevel-contributors_941739691336679454.md) | 2026-04-20 | 0 | 0 | 4 | 859 |
 | [fabric-smart-client](fabric-smart-client_945691888348967012.md) | 2026-11-19 | 11 | 26 | 182 | 360 |
 | [clpr](clpr_1559643143559717006.md) | 2026-11-18 | 144 | 166 | 166 | 166 |
 | [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-11-19 | 7 | 14 | 59 | 160 |
 | [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 0 | 83 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-11-19 | 2 | 10 | 13 | 110 |
-| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-11-18 | 5 | 22 | 99 | 99 |
+| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-11-18 | 4 | 22 | 99 | 99 |
 | [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-11-19 | 7 | 16 | 90 | 90 |
 | [fablo](fablo_1109190949394989127.md) | 2026-10-20 | 0 | 3 | 12 | 88 |
 | [general](general_988569914266775662.md) | 2026-07-30 | 0 | 0 | 10 | 72 |

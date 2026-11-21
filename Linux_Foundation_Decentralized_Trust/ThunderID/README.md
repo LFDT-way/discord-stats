@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1562155837202501673
 - **Total Messages in Category:** 45
-- **Last 30 Days:** 45
+- **Last 30 Days:** 43
 - **Last 90 Days:** 45
 - **Last 365 Days:** 45
 - **First Message:** 2026-10-21
@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [thunderid-dev](thunderid-dev_1562155954521374752.md) | 2026-11-20 | 44 | 44 | 44 | 44 |
-| [thunderid-help](thunderid-help_1562156064588304485.md) | 2026-10-21 | 1 | 1 | 1 | 1 |
+| [thunderid-dev](thunderid-dev_1562155954521374752.md) | 2026-11-20 | 43 | 44 | 44 | 44 |
+| [thunderid-help](thunderid-help_1562156064588304485.md) | 2026-10-21 | 0 | 1 | 1 | 1 |
 
 ## Most Active Users
 
@@ -22,11 +22,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | lfdt-ca, LFDT Staff |
-| 2 | Thamindu Dilshan Jayawickrama | 4 | Project Maintainer |
-| 3 | ASHALMAN | 4 | — |
-| 4 | Senthalan | 4 | — |
-| 5 | Sahan | 4 | Project Maintainer |
+| 1 | Thamindu Dilshan Jayawickrama | 4 | Project Maintainer |
+| 2 | ImalshaD | 4 | — |
+| 3 | Senthalan | 4 | — |
+| 4 | Sahan | 4 | Project Maintainer |
+| 5 | Thumi | 3 | — |
 
 ### Last 90 Days
 
@@ -34,7 +34,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | lfdt-ca, LFDT Staff |
 | 2 | Thamindu Dilshan Jayawickrama | 4 | Project Maintainer |
-| 3 | ASHALMAN | 4 | — |
+| 3 | ImalshaD | 4 | — |
 | 4 | Senthalan | 4 | — |
 | 5 | Sahan | 4 | Project Maintainer |
 
@@ -44,7 +44,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | lfdt-ca, LFDT Staff |
 | 2 | Thamindu Dilshan Jayawickrama | 4 | Project Maintainer |
-| 3 | ASHALMAN | 4 | — |
+| 3 | ImalshaD | 4 | — |
 | 4 | Senthalan | 4 | — |
 | 5 | Sahan | 4 | Project Maintainer |
 
@@ -54,7 +54,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | lfdt-ca, LFDT Staff |
 | 2 | Thamindu Dilshan Jayawickrama | 4 | Project Maintainer |
-| 3 | ASHALMAN | 4 | — |
+| 3 | ImalshaD | 4 | — |
 | 4 | Senthalan | 4 | — |
 | 5 | Sahan | 4 | Project Maintainer |
 

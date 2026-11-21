@@ -6,7 +6,7 @@
 - **Total Messages:** 52
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 4
+- **Last 365 Days:** 0
 - **First Message:** 2025-07-16
 - **Last Message:** 2025-11-20
 
@@ -22,11 +22,7 @@ _No activity in this period._
 
 ### Last 365 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [Diane Mueller](https://github.com/dmueller2001) | 2 | TAC member |
-| 2 | [JessicaG](https://github.com/jwagantall) | 1 | lfdt-ca, LFDT Staff |
-| 3 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
+_No activity in this period._
 
 ### All Time
 

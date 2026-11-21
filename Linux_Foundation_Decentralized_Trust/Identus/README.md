@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 813
 - **Last 30 Days:** 0
 - **Last 90 Days:** 13
-- **Last 365 Days:** 132
+- **Last 365 Days:** 131
 - **First Message:** 2024-06-18
 - **Last Message:** 2026-10-20
 
@@ -18,7 +18,7 @@
 | [general](general_1252630735269925057.md) | 2026-10-01 | 0 | 3 | 66 | 193 |
 | [sdk-swift](sdk-swift_1252629844718649468.md) | 2025-07-18 | 0 | 0 | 0 | 65 |
 | [identus-faq](identus-faq_1252622748073853083.md) | 2025-11-29 | 0 | 0 | 15 | 46 |
-| [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-10-20 | 0 | 7 | 14 | 30 |
+| [identus-announcements](identus-announcements_1230596020790886490.md) | 2026-10-20 | 0 | 7 | 13 | 30 |
 | [mediator](mediator_1252629675943919679.md) | 2026-07-07 | 0 | 0 | 3 | 22 |
 | [meeting-minutes](meeting-minutes_1252982706212438016.md) | 2025-06-18 | 0 | 0 | 0 | 12 |
 | [sdk-kmp](sdk-kmp_1252629800372408330.md) | 2026-09-28 | 0 | 3 | 3 | 9 |

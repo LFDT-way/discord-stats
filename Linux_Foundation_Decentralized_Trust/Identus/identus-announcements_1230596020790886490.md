@@ -6,7 +6,7 @@
 - **Total Messages:** 30
 - **Last 30 Days:** 0
 - **Last 90 Days:** 7
-- **Last 365 Days:** 14
+- **Last 365 Days:** 13
 - **First Message:** 2024-06-18
 - **Last Message:** 2026-10-20
 
@@ -31,8 +31,8 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Yurii Shynbuiev | 5 | Identus Maintainer, Project Maintainer |
-| 2 | havy | 3 | Identus Maintainer, Project Maintainer |
-| 3 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
+| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
+| 3 | havy | 2 | Identus Maintainer, Project Maintainer |
 | 4 | pat_pat | 2 | Identus Maintainer, Project Maintainer |
 | 5 | jonbauer | 1 | Identus Maintainer, Project Maintainer |
 

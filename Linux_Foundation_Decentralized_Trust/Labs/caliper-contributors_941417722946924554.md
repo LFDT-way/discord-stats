@@ -6,7 +6,7 @@
 - **Total Messages:** 1,186
 - **Last 30 Days:** 0
 - **Last 90 Days:** 1
-- **Last 365 Days:** 13
+- **Last 365 Days:** 12
 - **First Message:** 2022-02-16
 - **Last Message:** 2026-10-19
 
@@ -27,7 +27,7 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Attila Klenik](https://github.com/aklenik) | 5 | Project Maintainer, Lab Leader |
-| 2 | [Arun S M](https://github.com/arsulegai) | 4 | TAC member, Chapter Leader |
+| 2 | [Arun S M](https://github.com/arsulegai) | 3 | TAC member, Chapter Leader |
 | 3 | tunedev | 2 | — |
 | 4 | NorfolkAndChance | 1 | Project Maintainer |
 | 5 | [davidwboswell](https://github.com/davidwboswell) | 1 | lfdt-ca, LFDT Staff |
