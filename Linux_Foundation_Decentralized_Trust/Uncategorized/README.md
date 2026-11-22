@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 15
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 7
+- **Last 365 Days:** 6
 - **First Message:** 2021-11-02
 - **Last Message:** 2024-11-22
 
@@ -32,7 +32,6 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | Chrissy Harter | 4 | LFDT Staff |
 | 2 | Dadofpips | 2 | — |
-| 3 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
 
 ### All Time
 

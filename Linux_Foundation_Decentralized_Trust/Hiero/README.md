@@ -4,8 +4,8 @@
 - **Category ID:** 1283486767546237040
 - **Total Messages in Category:** 2,192
 - **Last 30 Days:** 38
-- **Last 90 Days:** 191
-- **Last 365 Days:** 1,485
+- **Last 90 Days:** 190
+- **Last 365 Days:** 1,483
 - **First Message:** 2024-09-11
 - **Last Message:** 2026-11-21
 
@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [hiero-sdk-python](hiero-sdk-python_1336494517544681563.md) | 2026-11-17 | 6 | 18 | 312 | 537 |
-| [hiero-general](hiero-general_1289954446712770600.md) | 2026-11-16 | 6 | 29 | 251 | 303 |
+| [hiero-sdk-python](hiero-sdk-python_1336494517544681563.md) | 2026-11-17 | 6 | 18 | 310 | 537 |
+| [hiero-general](hiero-general_1289954446712770600.md) | 2026-11-16 | 6 | 28 | 251 | 303 |
 | [hiero-maintainers](hiero-maintainers_1283487103006543952.md) | 2026-11-10 | 8 | 55 | 158 | 217 |
 | [hiero-website](hiero-website_1458790070986215567.md) | 2026-10-02 | 0 | 7 | 179 | 179 |
 | [hiero-announcements](hiero-announcements_1283487046484234270.md) | 2026-11-17 | 4 | 21 | 108 | 170 |
@@ -67,7 +67,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [explorer3](https://github.com/exploreriii) | 435 | Project Maintainer, Hiero maintainer |
+| 1 | [explorer3](https://github.com/exploreriii) | 433 | Project Maintainer, Hiero maintainer |
 | 2 | [JessicaG](https://github.com/jwagantall) | 171 | lfdt-ca, LFDT Staff |
 | 3 | Ang | 107 | Project Maintainer, Hiero maintainer |
 | 4 | [hendrik.ebbers](https://github.com/hendrikebbers) | 55 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |

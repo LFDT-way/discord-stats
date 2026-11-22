@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 11
 - **Last 30 Days:** 0
 - **Last 90 Days:** 0
-- **Last 365 Days:** 7
+- **Last 365 Days:** 6
 - **First Message:** 2024-02-03
 - **Last Message:** 2026-05-18
 
@@ -14,7 +14,7 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [rules](rules_1203397080769364008.md) | 2026-02-13 | 0 | 0 | 2 | 6 |
-| [pqca-announce](pqca-announce_1441476629867004129.md) | 2026-05-18 | 0 | 0 | 5 | 5 |
+| [pqca-announce](pqca-announce_1441476629867004129.md) | 2026-05-18 | 0 | 0 | 4 | 5 |
 
 ## Most Active Users
 
@@ -32,7 +32,6 @@ _No activity in this period._
 | ---: | :--- | ---: | :--- |
 | 1 | Chrissy Harter | 4 | LF Staff |
 | 2 | Dadofpips | 2 | — |
-| 3 | [RyJones](https://github.com/ryjones) | 1 | LF Staff |
 
 ### All Time
 

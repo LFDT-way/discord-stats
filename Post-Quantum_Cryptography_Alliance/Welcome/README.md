@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 522
 - **Last 30 Days:** 11
 - **Last 90 Days:** 47
-- **Last 365 Days:** 148
+- **Last 365 Days:** 140
 - **First Message:** 2024-02-01
 - **Last Message:** 2026-11-16
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [general](general_1202723483289780236.md) | 2026-11-16 | 11 | 47 | 146 | 484 |
+| [general](general_1202723483289780236.md) | 2026-11-16 | 11 | 47 | 138 | 484 |
 | [linkedin](linkedin_1205645746192261220.md) | 2026-05-24 | 0 | 0 | 2 | 33 |
 | [links](links_1205170239436754974.md) | 2024-02-13 | 0 | 0 | 0 | 4 |
 | [events](events_1214569223012089878.md) | 2025-03-11 | 0 | 0 | 0 | 1 |
@@ -45,7 +45,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | Severus Snape | 13 | — |
-| 2 | chozorho | 8 | — |
+| 2 | chozorho | 7 | — |
 | 3 | Dadofpips | 7 | — |
 | 4 | Jarek Duda | 6 | — |
 | 5 | θρπχι | 6 | — |

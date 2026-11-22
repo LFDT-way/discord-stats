@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 948958931512873030
 - **Total Messages in Category:** 14,187
-- **Last 30 Days:** 27
-- **Last 90 Days:** 93
-- **Last 365 Days:** 362
+- **Last 30 Days:** 25
+- **Last 90 Days:** 91
+- **Last 365 Days:** 360
 - **First Message:** 2022-03-03
 - **Last Message:** 2026-11-15
 
@@ -14,10 +14,10 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [welcome](welcome_948959099842883654.md) | 2026-08-12 | 0 | 0 | 38 | 10,733 |
-| [general](general_1021077182501621830.md) | 2026-11-15 | 19 | 70 | 192 | 1,941 |
-| [job-postings](job-postings_1050607623566802984.md) | 2026-10-07 | 0 | 8 | 62 | 450 |
-| [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-11-04 | 3 | 4 | 14 | 421 |
-| [connections](connections_948959243095130142.md) | 2026-10-31 | 2 | 7 | 16 | 375 |
+| [general](general_1021077182501621830.md) | 2026-11-15 | 18 | 70 | 191 | 1,941 |
+| [job-postings](job-postings_1050607623566802984.md) | 2026-10-07 | 0 | 6 | 62 | 450 |
+| [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-11-04 | 3 | 4 | 13 | 421 |
+| [connections](connections_948959243095130142.md) | 2026-10-31 | 1 | 7 | 16 | 375 |
 | [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-10-27 | 1 | 1 | 27 | 192 |
 | [announcements](announcements_953133039372877844.md) | 2026-11-09 | 2 | 2 | 10 | 41 |
 | [git-help](git-help_1098621099681513492.md) | 2026-10-19 | 0 | 1 | 3 | 34 |

@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905205464046915585
 - **Total Messages in Category:** 19,694
-- **Last 30 Days:** 27
+- **Last 30 Days:** 24
 - **Last 90 Days:** 48
-- **Last 365 Days:** 334
+- **Last 365 Days:** 326
 - **First Message:** 2021-11-07
 - **Last Message:** 2026-11-20
 
@@ -13,10 +13,10 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric](fabric_905205541326975046.md) | 2026-11-19 | 9 | 24 | 168 | 10,172 |
+| [fabric](fabric_905205541326975046.md) | 2026-11-19 | 6 | 24 | 165 | 10,172 |
 | [fabric-kubernetes](fabric-kubernetes_945796983795384331.md) | 2026-10-29 | 14 | 15 | 27 | 1,645 |
 | [fabric-client-apis](fabric-client-apis_943089887589048350.md) | 2025-10-08 | 0 | 0 | 0 | 1,527 |
-| [fabric-samples](fabric-samples_945796810042142774.md) | 2026-11-10 | 2 | 2 | 23 | 1,302 |
+| [fabric-samples](fabric-samples_945796810042142774.md) | 2026-11-10 | 2 | 2 | 18 | 1,302 |
 | [fabric-peer](fabric-peer_945037339170836501.md) | 2026-04-10 | 0 | 0 | 6 | 1,084 |
 | [fabric-private-chaincode](fabric-private-chaincode_943059293765267497.md) | 2026-08-14 | 0 | 0 | 28 | 1,075 |
 | [fabric-orderer](fabric-orderer_945037581500940298.md) | 2026-11-20 | 1 | 1 | 9 | 818 |
@@ -40,9 +40,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Amin.Chegeni | 9 | — |
 | 2 | [jtonline](https://github.com/jt-nti) | 6 | Project Maintainer, Fabric Maintainer |
-| 3 | Abhinag Vangala | 4 | — |
+| 3 | Abhinag Vangala | 3 | — |
 | 4 | [davidwboswell](https://github.com/davidwboswell) | 2 | lfdt-ca, LFDT Staff |
-| 5 | noble883 | 2 | — |
+| 5 | snowski555 | 2 | — |
 
 ### Last 90 Days
 
@@ -59,7 +59,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [bestbeforetoday](https://github.com/bestbeforetoday) | 48 | Project Maintainer, Fabric Maintainer |
-| 2 | Frank_The_Fish | 35 | Lab Leader |
+| 2 | Frank_The_Fish | 33 | Lab Leader |
 | 3 | [jtonline](https://github.com/jt-nti) | 23 | Project Maintainer, Fabric Maintainer |
 | 4 | JRM | 22 | — |
 | 5 | [Maria Munaro](https://github.com/munapower) | 13 | — |

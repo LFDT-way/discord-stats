@@ -2,9 +2,9 @@
 
 - **Guild ID:** 1022962884864643214
 - **Total Messages:** 9,838
-- **Last 30 Days:** 98
+- **Last 30 Days:** 96
 - **Last 90 Days:** 384
-- **Last 365 Days:** 1,915 — [active users](users.md)
+- **Last 365 Days:** 1,910 — [active users](users.md)
 - **First Message:** 2022-09-23
 - **Last Message:** 2026-11-20
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -13,14 +13,14 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,971 | 81 | 315 | 1,306 | 2023-11-08 | 2026-11-20 |
-| [General](General/README.md) | 1,871 | 7 | 12 | 65 | 2022-09-23 | 2026-11-12 |
+| [Growth Projects](Growth_Projects/README.md) | 3,971 | 80 | 315 | 1,306 | 2023-11-08 | 2026-11-20 |
+| [General](General/README.md) | 1,871 | 6 | 12 | 65 | 2022-09-23 | 2026-11-12 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,837 | 1 | 13 | 86 | 2022-09-28 | 2026-11-16 |
-| [Impact Projects](Impact_Projects/README.md) | 881 | 4 | 15 | 146 | 2024-09-26 | 2026-11-11 |
+| [Impact Projects](Impact_Projects/README.md) | 881 | 4 | 15 | 142 | 2024-09-26 | 2026-11-11 |
 | [Labs](Labs/README.md) | 862 | 3 | 26 | 302 | 2023-06-02 | 2026-11-20 |
 | [Archive](Archive/README.md) | 345 | 0 | 0 | 0 | 2022-09-23 | 2025-10-23 |
 | [Information](Information/README.md) | 71 | 2 | 3 | 3 | 2022-09-28 | 2026-11-05 |
-| [Uncategorized](Uncategorized/README.md) | 0 | 0 | 0 | 7 | None | None |
+| [Uncategorized](Uncategorized/README.md) | 0 | 0 | 0 | 6 | None | None |
 
 ## Most Active Users
 
@@ -29,7 +29,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 17 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [davidz25](https://github.com/davidz25) | 16 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 2 | [davidz25](https://github.com/davidz25) | 15 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 3 | [esune](https://github.com/esune) | 9 | Project Maintainer |
 | 4 | Jonas Hoffmann (FU Berlin) | 8 | — |
 | 5 | [GenAris](https://github.com/genaris) | 6 | credo maintainers, Project Maintainer |

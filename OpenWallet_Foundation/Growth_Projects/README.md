@@ -3,7 +3,7 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1179453189368586260
 - **Total Messages in Category:** 3,971
-- **Last 30 Days:** 81
+- **Last 30 Days:** 80
 - **Last 90 Days:** 315
 - **Last 365 Days:** 1,306
 - **First Message:** 2023-11-08
@@ -15,7 +15,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [credo](credo_1179453305856991263.md) | 2026-10-25 | 3 | 20 | 137 | 1,106 |
 | [bifold](bifold_1209891839071756419.md) | 2026-11-03 | 3 | 16 | 135 | 918 |
-| [multipaz](multipaz_1179828955717574707.md) | 2026-11-20 | 25 | 55 | 249 | 681 |
+| [multipaz](multipaz_1179828955717574707.md) | 2026-11-20 | 24 | 55 | 249 | 681 |
 | [eudiplo](eudiplo_1399429216604258365.md) | 2026-11-15 | 32 | 197 | 659 | 671 |
 | [sd-jwt-js](sd-jwt-js_1169313401302945792.md) | 2026-07-15 | 0 | 0 | 69 | 268 |
 | [askar](askar_1286299889961009293.md) | 2026-03-16 | 0 | 0 | 1 | 105 |
@@ -32,7 +32,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 16 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [davidz25](https://github.com/davidz25) | 16 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
+| 2 | [davidz25](https://github.com/davidz25) | 15 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 3 | [esune](https://github.com/esune) | 9 | Project Maintainer |
 | 4 | Jonas Hoffmann (FU Berlin) | 8 | — |
 | 5 | [GenAris](https://github.com/genaris) | 6 | credo maintainers, Project Maintainer |

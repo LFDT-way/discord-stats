@@ -4,8 +4,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
-- **Active Users (365d):** 120
-- **Messages (365d):** 1,908
+- **Active Users (365d):** 119
+- **Messages (365d):** 1,904
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -19,7 +19,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 8 | birte_lr | 61 | — |
 | 9 | espuni | 45 | — |
 | 10 | thidalgo | 37 | — |
-| 11 | PStLouis | 36 | Lab Maintainer, Project Maintainer |
+| 11 | PStLouis | 34 | Lab Maintainer, Project Maintainer |
 | 12 | RMLearney | 32 | — |
 | 13 | Timbl | 30 | — |
 | 14 | davidejalexander | 30 | SIG member |
@@ -92,40 +92,39 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 81 | Gordito Ancestral | 2 | — |
 | 82 | Akshay Kurhekar | 2 | — |
 | 83 | nerio | 2 | — |
-| 84 | senu | 2 | — |
-| 85 | Thilina Senarath | 2 | — |
-| 86 | Harsh | 2 | — |
-| 87 | José Puma | 2 | — |
-| 88 | Jim Ezesinachi | 2 | — |
-| 89 | KrishNa | 2 | — |
-| 90 | ademait | 2 | — |
-| 91 | [esplinr](https://github.com/esplinr) | 1 | — |
-| 92 | tume2104 | 1 | — |
-| 93 | Sagara | 1 | Project Maintainer |
-| 94 | feldim2425 | 1 | — |
-| 95 | Sagar Khole | 1 | — |
-| 96 | friendlyfire137 | 1 | Project Maintainer |
-| 97 | amanda | 1 | — |
-| 98 | BrunoM | 1 | — |
-| 99 | Jazz | 1 | — |
-| 100 | Yunna | 1 | — |
-| 101 | sencond1800 | 1 | — |
-| 102 | Ankita | 1 | — |
-| 103 | Siva | 1 | — |
-| 104 | Pankti | 1 | — |
-| 105 | Nahuel_NP | 1 | — |
-| 106 | Jessie | 1 | — |
-| 107 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
-| 108 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
-| 109 | anil.helvaci \| GMT +3 | 1 | — |
-| 110 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
-| 111 | rosterbyte | 1 | — |
-| 112 | Daev Mithran | 1 | — |
-| 113 | SRellihan.Phinxlab | 1 | — |
-| 114 | Arsalan Shahzad | 1 | — |
-| 115 | sherri58 | 1 | — |
-| 116 | Michael | 1 | — |
-| 117 | latika_04_17594 | 1 | — |
-| 118 | michkauf | 1 | — |
-| 119 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
-| 120 | Aaron | 1 | — |
+| 84 | Thilina Senarath | 2 | — |
+| 85 | Harsh | 2 | — |
+| 86 | José Puma | 2 | — |
+| 87 | Jim Ezesinachi | 2 | — |
+| 88 | KrishNa | 2 | — |
+| 89 | ademait | 2 | — |
+| 90 | [esplinr](https://github.com/esplinr) | 1 | — |
+| 91 | tume2104 | 1 | — |
+| 92 | Sagara | 1 | Project Maintainer |
+| 93 | feldim2425 | 1 | — |
+| 94 | Sagar Khole | 1 | — |
+| 95 | amanda | 1 | — |
+| 96 | senu | 1 | — |
+| 97 | BrunoM | 1 | — |
+| 98 | Jazz | 1 | — |
+| 99 | Yunna | 1 | — |
+| 100 | sencond1800 | 1 | — |
+| 101 | Ankita | 1 | — |
+| 102 | Siva | 1 | — |
+| 103 | Pankti | 1 | — |
+| 104 | Nahuel_NP | 1 | — |
+| 105 | Jessie | 1 | — |
+| 106 | VIJAY KUMAR CHAGANTIPATI | 1 | — |
+| 107 | [berend](https://github.com/berendsliedrecht) | 1 | credo maintainers, Project Maintainer |
+| 108 | anil.helvaci \| GMT +3 | 1 | — |
+| 109 | [Kim Ebert](https://github.com/KimEbert42) | 1 | — |
+| 110 | rosterbyte | 1 | — |
+| 111 | Daev Mithran | 1 | — |
+| 112 | SRellihan.Phinxlab | 1 | — |
+| 113 | Arsalan Shahzad | 1 | — |
+| 114 | sherri58 | 1 | — |
+| 115 | Michael | 1 | — |
+| 116 | latika_04_17594 | 1 | — |
+| 117 | michkauf | 1 | — |
+| 118 | [rinkal.bhojani](https://github.com/RinkalBhojani) | 1 | — |
+| 119 | Aaron | 1 | — |

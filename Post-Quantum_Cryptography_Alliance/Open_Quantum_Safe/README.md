@@ -4,7 +4,7 @@
 - **Category ID:** 1203395822390083676
 - **Total Messages in Category:** 289
 - **Last 30 Days:** 6
-- **Last 90 Days:** 19
+- **Last 90 Days:** 17
 - **Last 365 Days:** 76
 - **First Message:** 2024-02-03
 - **Last Message:** 2026-11-02
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [oqs-general](oqs-general_1203395992003678238.md) | 2026-11-02 | 6 | 19 | 69 | 274 |
+| [oqs-general](oqs-general_1203395992003678238.md) | 2026-11-02 | 6 | 17 | 69 | 274 |
 | [oqs-call](oqs-call_1214590815695933470.md) | 2026-06-13 | 0 | 0 | 7 | 13 |
 | [oqs-github](oqs-github_1214605403527184394.md) | 2024-12-23 | 0 | 0 | 0 | 2 |
 
@@ -34,7 +34,7 @@
 | 2 | RGM-Core | 4 | — |
 | 3 | Silent58 | 3 | — |
 | 4 | Meerkatdev | 2 | — |
-| 5 | keerthivasan | 1 | — |
+| 5 | .ᙁᥱᥴtᥲɾᙅoᑯᥱɾ. | 1 | — |
 
 ### Last 365 Days
 

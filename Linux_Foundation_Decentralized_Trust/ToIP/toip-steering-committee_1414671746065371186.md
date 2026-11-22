@@ -4,7 +4,7 @@
 - **Category:** ToIP
 - **Channel ID:** 1414671746065371186
 - **Total Messages:** 169
-- **Last 30 Days:** 10
+- **Last 30 Days:** 8
 - **Last 90 Days:** 20
 - **Last 365 Days:** 139
 - **First Message:** 2025-09-24
@@ -16,9 +16,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 5 | Lab Leader |
-| 2 | microbiocarly | 4 | Project Maintainer, ToIP |
-| 3 | [danielabarbosa](https://github.com/daniela-barbosa) | 1 | LFDT Staff |
+| 1 | microbiocarly | 4 | Project Maintainer, ToIP |
+| 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 4 | Lab Leader |
 
 ### Last 90 Days
 
