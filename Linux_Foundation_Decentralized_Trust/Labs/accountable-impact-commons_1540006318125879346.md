@@ -5,7 +5,7 @@
 - **Channel ID:** 1540006318125879346
 - **Total Messages:** 5
 - **Last 30 Days:** 1
-- **Last 90 Days:** 5
+- **Last 90 Days:** 3
 - **Last 365 Days:** 5
 - **First Message:** 2026-08-24
 - **Last Message:** 2026-11-06
@@ -22,9 +22,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | kitblake | 3 | — |
+| 1 | kitblake | 2 | — |
 | 2 | christiaan | 1 | — |
-| 3 | ahmarcus | 1 | — |
 
 ### Last 365 Days
 

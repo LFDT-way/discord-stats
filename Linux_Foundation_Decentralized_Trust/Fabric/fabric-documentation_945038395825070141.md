@@ -3,22 +3,26 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Fabric
 - **Channel ID:** 945038395825070141
-- **Total Messages:** 272
-- **Last 30 Days:** 0
-- **Last 90 Days:** 0
-- **Last 365 Days:** 21
+- **Total Messages:** 273
+- **Last 30 Days:** 1
+- **Last 90 Days:** 1
+- **Last 365 Days:** 22
 - **First Message:** 2022-03-16
-- **Last Message:** 2026-06-19
+- **Last Message:** 2026-11-22
 
 ## Most Active Users
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | S | 1 | — |
 
 ### Last 90 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | S | 1 | — |
 
 ### Last 365 Days
 
@@ -44,7 +48,7 @@ _No activity in this period._
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 11 |
+| 2026 | 12 |
 | 2025 | 54 |
 | 2024 | 55 |
 | 2023 | 46 |
@@ -54,6 +58,7 @@ _No activity in this period._
 
 | Month | Messages |
 | --- | --- |
+| 2026-11 | 1 |
 | 2026-06 | 2 |
 | 2026-01 | 9 |
 | 2025-12 | 10 |
@@ -96,6 +101,7 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-22 | 1 |
 | 2026-06-19 | 1 |
 | 2026-06-18 | 1 |
 | 2026-01-29 | 1 |

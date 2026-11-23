@@ -3,8 +3,8 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515688758751282
 - **Total Messages in Category:** 26,660
-- **Last 30 Days:** 5
-- **Last 90 Days:** 45
+- **Last 30 Days:** 1
+- **Last 90 Days:** 44
 - **Last 365 Days:** 630
 - **First Message:** 2022-01-05
 - **Last Message:** 2026-11-11
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [firefly](firefly_928377875827154984.md) | 2026-11-11 | 5 | 14 | 106 | 25,517 |
+| [firefly](firefly_928377875827154984.md) | 2026-11-11 | 1 | 13 | 106 | 25,517 |
 | [firefly-maintainers](firefly-maintainers_1151539141826322482.md) | 2026-09-15 | 0 | 31 | 524 | 973 |
 | [firefly-workshop](firefly-workshop_1063562168064282685.md) | 2025-08-28 | 0 | 0 | 0 | 169 |
 | [firefly-announcements](firefly-announcements_928380528422432769.md) | 2022-04-13 | 0 | 0 | 0 | 1 |
@@ -24,9 +24,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [alexey_semenyuk](https://github.com/alex-semenyuk) | 2 | Project Maintainer, Firefly Maintainer |
-| 2 | [SonicSwordcane](https://github.com/SupernaviX) | 2 | Project Maintainer, Firefly Maintainer |
-| 3 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
+| 1 | [SonicSwordcane](https://github.com/SupernaviX) | 1 | Project Maintainer, Firefly Maintainer |
 
 ### Last 90 Days
 

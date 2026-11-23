@@ -4,7 +4,7 @@
 - **Category ID:** 1034860801284128868
 - **Total Messages in Category:** 538
 - **Last 30 Days:** 0
-- **Last 90 Days:** 1
+- **Last 90 Days:** 0
 - **Last 365 Days:** 10
 - **First Message:** 2022-10-26
 - **Last Message:** 2026-08-24
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [anoncreds](anoncreds_1035263835449331793.md) | 2026-08-24 | 0 | 1 | 7 | 475 |
+| [anoncreds](anoncreds_1035263835449331793.md) | 2026-08-24 | 0 | 0 | 7 | 475 |
 | [anoncreds-maintainers](anoncreds-maintainers_1034862425478021211.md) | 2026-04-25 | 0 | 0 | 3 | 63 |
 
 ## Most Active Users
@@ -24,9 +24,7 @@ _No activity in this period._
 
 ### Last 90 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | Christian Saucier | 1 | — |
+_No activity in this period._
 
 ### Last 365 Days
 

@@ -4,7 +4,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
-- **Active Users (365d):** 97
+- **Active Users (365d):** 98
 - **Messages (365d):** 1,188
 
 | Rank | User | Messages | Roles |
@@ -13,8 +13,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 302 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 88 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 61 | LF Staff |
-| 5 | Jake | 23 | PQ Code Package Maintainer, Project Maintainer |
-| 6 | Severus Snape | 23 | — |
+| 5 | Severus Snape | 23 | — |
+| 6 | Jake | 22 | PQ Code Package Maintainer, Project Maintainer |
 | 7 | chozorho | 22 | — |
 | 8 | Ben | 13 | — |
 | 9 | brent | 13 | — |
@@ -97,12 +97,13 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 86 | Jonutella | 1 | — |
 | 87 | rockpaperdev | 1 | — |
 | 88 | Arkariun | 1 | — |
-| 89 | T-P | 1 | — |
-| 90 | matu3ba | 1 | — |
-| 91 | ramuiruri | 1 | — |
-| 92 | Tim420 | 1 | — |
-| 93 | Owen W | 1 | — |
-| 94 | Allan_Cryptowhickk ♨ | 1 | — |
-| 95 | knugen1337 | 1 | — |
-| 96 | Surbhi Agarwal | 1 | — |
-| 97 | eccstartup | 1 | — |
+| 89 | Th3g3ntl3man1 | 1 | — |
+| 90 | T-P | 1 | — |
+| 91 | matu3ba | 1 | — |
+| 92 | ramuiruri | 1 | — |
+| 93 | Tim420 | 1 | — |
+| 94 | Owen W | 1 | — |
+| 95 | Allan_Cryptowhickk ♨ | 1 | — |
+| 96 | knugen1337 | 1 | — |
+| 97 | Surbhi Agarwal | 1 | — |
+| 98 | eccstartup | 1 | — |

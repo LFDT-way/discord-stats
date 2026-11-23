@@ -1,19 +1,19 @@
 # Guild Report: Post-Quantum Cryptography Alliance
 
 - **Guild ID:** 1202723482224295936
-- **Total Messages:** 4,619
-- **Last 30 Days:** 62
-- **Last 90 Days:** 252
+- **Total Messages:** 4,620
+- **Last 30 Days:** 63
+- **Last 90 Days:** 233
 - **Last 365 Days:** 1,188 — [active users](users.md)
 - **First Message:** 2024-02-01
-- **Last Message:** 2026-11-16
+- **Last Message:** 2026-11-23
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PQ Code Package](PQ_Code_Package/README.md) | 3,663 | 45 | 185 | 943 | 2024-02-03 | 2026-11-16 |
+| [PQ Code Package](PQ_Code_Package/README.md) | 3,664 | 46 | 166 | 943 | 2024-02-03 | 2026-11-23 |
 | [Welcome](Welcome/README.md) | 522 | 11 | 47 | 140 | 2024-02-01 | 2026-11-16 |
 | [Open Quantum Safe](Open_Quantum_Safe/README.md) | 289 | 6 | 17 | 76 | 2024-02-03 | 2026-11-02 |
 | [Governance](Governance/README.md) | 81 | 0 | 0 | 6 | 2024-02-05 | 2026-02-10 |
@@ -37,9 +37,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 100 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 50 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 18 | PQ Code Package Maintainer |
+| 1 | Rod | 85 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 46 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 17 | PQ Code Package Maintainer |
 | 4 | θρπχι | 12 | — |
 | 5 | Severus Snape | 6 | — |
 
@@ -51,7 +51,7 @@
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 302 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Hanno | 88 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 61 | LF Staff |
-| 5 | Jake | 23 | PQ Code Package Maintainer, Project Maintainer |
+| 5 | Severus Snape | 23 | — |
 
 ### All Time
 
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 993 |
+| 2026 | 994 |
 | 2025 | 2,683 |
 | 2024 | 944 |
 | 2023 | 3 |
@@ -78,7 +78,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 49 |
+| 2026-11 | 50 |
 | 2026-10 | 62 |
 | 2026-09 | 109 |
 | 2026-08 | 130 |
@@ -123,6 +123,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-23 | 1 |
 | 2026-11-16 | 4 |
 | 2026-11-12 | 1 |
 | 2026-11-11 | 2 |

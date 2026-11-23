@@ -9,7 +9,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 387 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 386 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 129 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 128 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
@@ -40,8 +40,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 29 | Sodium | 12 | — |
 | 30 | Amine | 11 | — |
 | 31 | [gmulhearn](https://github.com/gmulhearn) | 10 | vcx maintainer, Project Maintainer |
-| 32 | Jonas Hoffmann (FU Berlin) | 10 | — |
-| 33 | Jason | 9 | bifold maintainers, Project Maintainer |
+| 32 | Jason | 10 | bifold maintainers, Project Maintainer |
+| 33 | Jonas Hoffmann (FU Berlin) | 10 | — |
 | 34 | Thiago Romano | 9 | — |
 | 35 | sirawt | 9 | — |
 | 36 | [drummondreed](https://github.com/talltree) | 9 | — |
