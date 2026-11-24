@@ -1,20 +1,20 @@
 # Guild Report: Post-Quantum Cryptography Alliance
 
 - **Guild ID:** 1202723482224295936
-- **Total Messages:** 4,620
+- **Total Messages:** 4,621
 - **Last 30 Days:** 63
-- **Last 90 Days:** 233
-- **Last 365 Days:** 1,188 — [active users](users.md)
+- **Last 90 Days:** 234
+- **Last 365 Days:** 1,189 — [active users](users.md)
 - **First Message:** 2024-02-01
-- **Last Message:** 2026-11-23
+- **Last Message:** 2026-11-24
 - **Role Holders:** [inactivity roster](role_holders.md)
 
 ## Categories
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PQ Code Package](PQ_Code_Package/README.md) | 3,664 | 46 | 166 | 943 | 2024-02-03 | 2026-11-23 |
-| [Welcome](Welcome/README.md) | 522 | 11 | 47 | 140 | 2024-02-01 | 2026-11-16 |
+| [PQ Code Package](PQ_Code_Package/README.md) | 3,665 | 47 | 167 | 944 | 2024-02-03 | 2026-11-24 |
+| [Welcome](Welcome/README.md) | 522 | 10 | 47 | 140 | 2024-02-01 | 2026-11-16 |
 | [Open Quantum Safe](Open_Quantum_Safe/README.md) | 289 | 6 | 17 | 76 | 2024-02-03 | 2026-11-02 |
 | [Governance](Governance/README.md) | 81 | 0 | 0 | 6 | 2024-02-05 | 2026-02-10 |
 | [CBOMKit](CBOMKit/README.md) | 51 | 0 | 3 | 17 | 2025-05-06 | 2026-09-24 |
@@ -39,7 +39,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 85 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 46 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 17 | PQ Code Package Maintainer |
+| 3 | Hanno | 18 | PQ Code Package Maintainer |
 | 4 | θρπχι | 12 | — |
 | 5 | Severus Snape | 6 | — |
 
@@ -49,7 +49,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 412 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 302 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 88 | PQ Code Package Maintainer |
+| 3 | Hanno | 89 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 61 | LF Staff |
 | 5 | Severus Snape | 23 | — |
 
@@ -59,7 +59,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 1,323 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 1,167 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 412 | PQ Code Package Maintainer |
+| 3 | Hanno | 413 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 323 | LF Staff |
 | 5 | [Nigel Jones](https://github.com/planetf1) | 182 | PQ Code Package Maintainer, Project Maintainer |
 
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 994 |
+| 2026 | 995 |
 | 2025 | 2,683 |
 | 2024 | 944 |
 | 2023 | 3 |
@@ -78,7 +78,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 50 |
+| 2026-11 | 51 |
 | 2026-10 | 62 |
 | 2026-09 | 109 |
 | 2026-08 | 130 |
@@ -123,6 +123,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-24 | 1 |
 | 2026-11-23 | 1 |
 | 2026-11-16 | 4 |
 | 2026-11-12 | 1 |

@@ -23,7 +23,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | ImalshaD | 5 | — |
-| 2 | Thamindu Dilshan Jayawickrama | 4 | Project Maintainer |
+| 2 | Thamindu Dilshan | 4 | Project Maintainer |
 | 3 | Senthalan | 4 | — |
 | 4 | sajitha_tj | 4 | — |
 | 5 | Sahan | 4 | Project Maintainer |
@@ -34,7 +34,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | ImalshaD | 5 | — |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | lfdt-ca, LFDT Staff |
-| 3 | Thamindu Dilshan Jayawickrama | 4 | Project Maintainer |
+| 3 | Thamindu Dilshan | 4 | Project Maintainer |
 | 4 | Senthalan | 4 | — |
 | 5 | sajitha_tj | 4 | — |
 
@@ -44,7 +44,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | ImalshaD | 5 | — |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | lfdt-ca, LFDT Staff |
-| 3 | Thamindu Dilshan Jayawickrama | 4 | Project Maintainer |
+| 3 | Thamindu Dilshan | 4 | Project Maintainer |
 | 4 | Senthalan | 4 | — |
 | 5 | sajitha_tj | 4 | — |
 
@@ -54,7 +54,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | ImalshaD | 5 | — |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 5 | lfdt-ca, LFDT Staff |
-| 3 | Thamindu Dilshan Jayawickrama | 4 | Project Maintainer |
+| 3 | Thamindu Dilshan | 4 | Project Maintainer |
 | 4 | Senthalan | 4 | — |
 | 5 | sajitha_tj | 4 | — |
 

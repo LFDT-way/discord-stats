@@ -3,12 +3,12 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category:** PQ Code Package
 - **Channel ID:** 1249565286638682122
-- **Total Messages:** 1,010
-- **Last 30 Days:** 39
-- **Last 90 Days:** 145
-- **Last 365 Days:** 464
+- **Total Messages:** 1,011
+- **Last 30 Days:** 40
+- **Last 90 Days:** 146
+- **Last 365 Days:** 465
 - **First Message:** 2024-06-10
-- **Last Message:** 2026-11-16
+- **Last Message:** 2026-11-24
 
 ## Most Active Users
 
@@ -18,6 +18,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 21 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 18 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 1 | PQ Code Package Maintainer |
 
 ### Last 90 Days
 
@@ -25,7 +26,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 82 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 43 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 16 | PQ Code Package Maintainer |
+| 3 | Hanno | 17 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 3 | LF Staff |
 | 5 | Ben | 1 | — |
 
@@ -35,7 +36,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 265 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 125 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 38 | PQ Code Package Maintainer |
+| 3 | Hanno | 39 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 20 | LF Staff |
 | 5 | Ben | 4 | — |
 
@@ -45,7 +46,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | Rod | 464 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 265 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 157 | PQ Code Package Maintainer |
+| 3 | Hanno | 158 | PQ Code Package Maintainer |
 | 4 | [RyJones](https://github.com/ryjones) | 78 | LF Staff |
 | 5 | cothan | 20 | — |
 
@@ -53,7 +54,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 426 |
+| 2026 | 427 |
 | 2025 | 397 |
 | 2024 | 187 |
 
@@ -61,7 +62,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 31 |
+| 2026-11 | 32 |
 | 2026-10 | 37 |
 | 2026-09 | 66 |
 | 2026-08 | 43 |
@@ -93,6 +94,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-24 | 1 |
 | 2026-11-16 | 1 |
 | 2026-11-11 | 1 |
 | 2026-11-10 | 5 |

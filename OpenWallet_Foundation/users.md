@@ -5,17 +5,17 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 119
-- **Messages (365d):** 1,904
+- **Messages (365d):** 1,903
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 386 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 385 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 129 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 128 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 115 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
 | 6 | [Lukas.J.Han](https://github.com/lukasjhan) | 100 | Lab Maintainer |
-| 7 | [Timo Glastra](https://github.com/TimoGlastra) | 83 | credo maintainers, Project Maintainer |
+| 7 | [Timo Glastra](https://github.com/TimoGlastra) | 82 | credo maintainers, Project Maintainer |
 | 8 | birte_lr | 61 | — |
 | 9 | espuni | 45 | — |
 | 10 | thidalgo | 37 | — |
@@ -24,7 +24,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 13 | Timbl | 30 | — |
 | 14 | davidejalexander | 30 | SIG member |
 | 15 | Thomas Tran | 28 | Lab Maintainer |
-| 16 | [swcurran](https://github.com/swcurran) | 26 | Lab Maintainer, TAC members, Project Maintainer |
+| 16 | [swcurran](https://github.com/swcurran) | 27 | Lab Maintainer, TAC members, Project Maintainer |
 | 17 | [VishnuSanal](https://github.com/VishnuSanal) | 26 | multipaz maintainer, Project Maintainer |
 | 18 | ai Igor | 24 | — |
 | 19 | [esune](https://github.com/esune) | 24 | Project Maintainer |

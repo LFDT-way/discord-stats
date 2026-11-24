@@ -5,7 +5,7 @@
 - **Channel ID:** 1414671746065371186
 - **Total Messages:** 169
 - **Last 30 Days:** 8
-- **Last 90 Days:** 20
+- **Last 90 Days:** 18
 - **Last 365 Days:** 139
 - **First Message:** 2025-09-24
 - **Last Message:** 2026-11-03
@@ -23,9 +23,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 7 | Lab Leader |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 6 | Lab Leader |
 | 2 | microbiocarly | 4 | Project Maintainer, ToIP |
-| 3 | John Phillips | 3 | Project Maintainer, ToIP |
+| 3 | John Phillips | 2 | Project Maintainer, ToIP |
 | 4 | [geoffturk](https://github.com/geoffturk) | 2 | Project Maintainer, ToIP |
 | 5 | [drummondreed](https://github.com/talltree) | 1 | Project Maintainer, ToIP |
 

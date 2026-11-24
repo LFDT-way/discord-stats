@@ -3,7 +3,7 @@
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1202723483289780234
 - **Total Messages in Category:** 522
-- **Last 30 Days:** 11
+- **Last 30 Days:** 10
 - **Last 90 Days:** 47
 - **Last 365 Days:** 140
 - **First Message:** 2024-02-01
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [general](general_1202723483289780236.md) | 2026-11-16 | 11 | 47 | 138 | 484 |
+| [general](general_1202723483289780236.md) | 2026-11-16 | 10 | 47 | 138 | 484 |
 | [linkedin](linkedin_1205645746192261220.md) | 2026-05-24 | 0 | 0 | 2 | 33 |
 | [links](links_1205170239436754974.md) | 2024-02-13 | 0 | 0 | 0 | 4 |
 | [events](events_1214569223012089878.md) | 2025-03-11 | 0 | 0 | 0 | 1 |
@@ -28,7 +28,7 @@
 | 2 | Ben | 2 | — |
 | 3 | MK | 2 | — |
 | 4 | Connor 🇺🇸 AF | 2 | — |
-| 5 | brent | 1 | — |
+| 5 | Owen W | 1 | — |
 
 ### Last 90 Days
 

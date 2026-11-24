@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 888
 - **Last 30 Days:** 2
 - **Last 90 Days:** 3
-- **Last 365 Days:** 55
+- **Last 365 Days:** 53
 - **First Message:** 2022-02-15
 - **Last Message:** 2026-11-02
 
@@ -15,7 +15,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [india-chapter](india-chapter_942822085917556777.md) | 2026-11-02 | 2 | 3 | 28 | 458 |
 | [brasil-chapter](brasil-chapter_943207619508723723.md) | 2026-07-22 | 0 | 0 | 8 | 277 |
-| [european-chapter](european-chapter_1289237830081581158.md) | 2026-08-19 | 0 | 0 | 18 | 132 |
+| [european-chapter](european-chapter_1289237830081581158.md) | 2026-08-19 | 0 | 0 | 16 | 132 |
 | [japan-chapter-🇯🇵](japan-chapter-🇯🇵_956727657884692550.md) | 2026-06-17 | 0 | 0 | 1 | 21 |
 
 ## Most Active Users

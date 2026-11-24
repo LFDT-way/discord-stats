@@ -2,12 +2,12 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1572642822530793643
-- **Total Messages in Category:** 8
-- **Last 30 Days:** 8
-- **Last 90 Days:** 8
-- **Last 365 Days:** 8
+- **Total Messages in Category:** 10
+- **Last 30 Days:** 10
+- **Last 90 Days:** 10
+- **Last 365 Days:** 10
 - **First Message:** 2026-11-18
-- **Last Message:** 2026-11-19
+- **Last Message:** 2026-11-24
 
 ## Channels in Category
 
@@ -15,6 +15,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [vcx](vcx_1572650359841882142.md) | 2026-11-18 | 4 | 4 | 4 | 4 |
 | [credo](credo_1572643052542234686.md) | 2026-11-19 | 2 | 2 | 2 | 2 |
+| [dcf-tsc](dcf-tsc_1572643008028086353.md) | 2026-11-24 | 2 | 2 | 2 | 2 |
 | [bifold-wallet](bifold-wallet_1572643187519004753.md) | 2026-11-18 | 1 | 1 | 1 | 1 |
 | [aca-py](aca-py_1572643126034825359.md) | 2026-11-18 | 1 | 1 | 1 | 1 |
 
@@ -26,7 +27,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
 | 2 | [gmulhearn](https://github.com/gmulhearn) | 3 | Project Maintainer |
-| 3 | Manthan | 1 | — |
+| 3 | [swcurran](https://github.com/swcurran) | 2 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
+| 4 | Manthan | 1 | — |
 
 ### Last 90 Days
 
@@ -34,7 +36,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
 | 2 | [gmulhearn](https://github.com/gmulhearn) | 3 | Project Maintainer |
-| 3 | Manthan | 1 | — |
+| 3 | [swcurran](https://github.com/swcurran) | 2 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
+| 4 | Manthan | 1 | — |
 
 ### Last 365 Days
 
@@ -42,7 +45,8 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
 | 2 | [gmulhearn](https://github.com/gmulhearn) | 3 | Project Maintainer |
-| 3 | Manthan | 1 | — |
+| 3 | [swcurran](https://github.com/swcurran) | 2 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
+| 4 | Manthan | 1 | — |
 
 ### All Time
 
@@ -50,23 +54,25 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
 | 2 | [gmulhearn](https://github.com/gmulhearn) | 3 | Project Maintainer |
-| 3 | Manthan | 1 | — |
+| 3 | [swcurran](https://github.com/swcurran) | 2 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
+| 4 | Manthan | 1 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 8 |
+| 2026 | 10 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 8 |
+| 2026-11 | 10 |
 
 ## Daily Traffic
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-24 | 2 |
 | 2026-11-19 | 1 |
 | 2026-11-18 | 7 |

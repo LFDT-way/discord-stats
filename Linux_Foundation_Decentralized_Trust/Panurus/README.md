@@ -2,10 +2,10 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1518924075123081246
-- **Total Messages in Category:** 715
-- **Last 30 Days:** 25
-- **Last 90 Days:** 43
-- **Last 365 Days:** 183
+- **Total Messages in Category:** 718
+- **Last 30 Days:** 28
+- **Last 90 Days:** 46
+- **Last 365 Days:** 186
 - **First Message:** 2022-03-02
 - **Last Message:** 2026-11-23
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [panurus](panurus_945691840110272522.md) | 2026-11-23 | 25 | 43 | 183 | 715 |
+| [panurus](panurus_945691840110272522.md) | 2026-11-23 | 28 | 46 | 186 | 718 |
 
 ## Most Active Users
 
@@ -23,9 +23,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | ⛅CloudEllie | 8 | — |
 | 2 | [Angelo De Caro](https://github.com/adecaro) | 8 | Lab Leader, Fabric Maintainer, Project Maintainer |
-| 3 | [Ry Jones](https://github.com/ryjones) | 3 | lfdt-ca, LFDT Staff |
-| 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 2 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
-| 5 | [davidwboswell](https://github.com/davidwboswell) | 2 | lfdt-ca, LFDT Staff |
+| 3 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
+| 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 3 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 5 | Effi-S | 2 | — |
 
 ### Last 90 Days
 
@@ -33,9 +33,9 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Angelo De Caro](https://github.com/adecaro) | 19 | Lab Leader, Fabric Maintainer, Project Maintainer |
 | 2 | ⛅CloudEllie | 10 | — |
-| 3 | EliMbadi | 4 | — |
-| 4 | [Ry Jones](https://github.com/ryjones) | 3 | lfdt-ca, LFDT Staff |
-| 5 | hstar | 2 | — |
+| 3 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
+| 4 | EliMbadi | 4 | — |
+| 5 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 3 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 
 ### Last 365 Days
 
@@ -45,7 +45,7 @@
 | 2 | arunabha003 | 35 | — |
 | 3 | Atharva Borade | 12 | — |
 | 4 | ⛅CloudEllie | 10 | — |
-| 5 | [Ry Jones](https://github.com/ryjones) | 7 | lfdt-ca, LFDT Staff |
+| 5 | [Ry Jones](https://github.com/ryjones) | 8 | lfdt-ca, LFDT Staff |
 
 ### All Time
 
@@ -54,14 +54,14 @@
 | 1 | [Angelo De Caro](https://github.com/adecaro) | 254 | Lab Leader, Fabric Maintainer, Project Maintainer |
 | 2 | masool baba irfan | 62 | — |
 | 3 | Rajat Sharma | 56 | — |
-| 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 47 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 48 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 5 | arunabha003 | 35 | — |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 182 |
+| 2026 | 185 |
 | 2025 | 13 |
 | 2024 | 67 |
 | 2023 | 84 |
@@ -71,7 +71,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 9 |
+| 2026-11 | 12 |
 | 2026-10 | 24 |
 | 2026-09 | 10 |
 | 2026-08 | 49 |
@@ -118,7 +118,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-11-23 | 3 |
+| 2026-11-23 | 6 |
 | 2026-11-18 | 2 |
 | 2026-11-10 | 3 |
 | 2026-11-09 | 1 |

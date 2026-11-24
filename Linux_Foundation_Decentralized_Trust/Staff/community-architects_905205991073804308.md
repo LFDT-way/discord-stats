@@ -5,7 +5,7 @@
 - **Channel ID:** 905205991073804308
 - **Total Messages:** 1,581
 - **Last 30 Days:** 0
-- **Last 90 Days:** 17
+- **Last 90 Days:** 14
 - **Last 365 Days:** 36
 - **First Message:** 2021-11-03
 - **Last Message:** 2026-10-12
@@ -21,10 +21,10 @@ _No activity in this period._
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Ry Jones](https://github.com/ryjones) | 5 | lfdt-ca, LFDT Staff |
-| 2 | æœss | 3 | Lab Leader |
-| 3 | vetefe | 3 | Lab Leader |
-| 4 | akupemulaygbaik | 3 | — |
-| 5 | CrazyChopin | 2 | — |
+| 2 | vetefe | 3 | Lab Leader |
+| 3 | akupemulaygbaik | 3 | — |
+| 4 | æœss | 2 | Lab Leader |
+| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 365 Days
 
