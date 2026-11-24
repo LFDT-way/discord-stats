@@ -5,7 +5,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Linux Foundation Decentralized Trust
 - **Guild ID:** 905194001349627914
 - **Active Users (365d):** 803
-- **Messages (365d):** 11,413
+- **Messages (365d):** 11,422
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -29,10 +29,10 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 18 | Ang | 107 | Project Maintainer, Hiero maintainer |
 | 19 | darrello | 100 | Project Maintainer |
 | 20 | [hendrik.ebbers](https://github.com/hendrikebbers) | 95 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
-| 21 | Denis | 89 | Project Maintainer, Lockness Maintainer |
-| 22 | [fab10](https://github.com/fab-10) | 88 | Project Maintainer, Besu Maintainer |
+| 21 | [fab10](https://github.com/fab-10) | 90 | Project Maintainer, Besu Maintainer |
+| 22 | Denis | 89 | Project Maintainer, Lockness Maintainer |
 | 23 | [Charles Lanahan (daidoji@github)](https://github.com/daidoji) | 88 | Project Maintainer, ToIP |
-| 24 | Nicky H | 80 | Project Maintainer, ToIP |
+| 24 | Nicky H | 82 | Project Maintainer, ToIP |
 | 25 | yorick | 78 | — |
 | 26 | [SonicSwordcane](https://github.com/SupernaviX) | 76 | Project Maintainer, Firefly Maintainer |
 | 27 | [davidwboswell](https://github.com/davidwboswell) | 76 | lfdt-ca, LFDT Staff |
@@ -90,24 +90,24 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 79 | [cheng](https://github.com/Chengxuan) | 22 | Project Maintainer, Paladin Maintainer, Firefly Maintainer |
 | 80 | Vaclav.Janecek | 22 | — |
 | 81 | [swcurran](https://github.com/swcurran) | 22 | Anoncreds Maintainer, Indy Maintainer, Project Maintainer |
-| 82 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 22 | Project Maintainer, Hiero maintainer |
-| 83 | Siddhi Khandelwal | 22 | — |
-| 84 | Abhigyan | 21 | — |
-| 85 | [Matilda Clerke](https://github.com/Matilda-Clerke) | 21 | Project Maintainer, Besu Maintainer |
-| 86 | hstar | 20 | — |
-| 87 | rout-chaitanya | 20 | — |
-| 88 | NssGourav | 20 | — |
-| 89 | Mohit Yadav | 20 | — |
-| 90 | Storm1289 | 20 | — |
-| 91 | [OA](https://github.com/pv-sarvesh) | 19 | Lab Leader |
-| 92 | iparthdagia | 19 | — |
-| 93 | ZenDox.X | 19 | — |
-| 94 | Saurav | 19 | — |
-| 95 | Sagar Khandagre | 19 | — |
-| 96 | PriyanshuZone | 19 | — |
-| 97 | [Ajay Jadhav](https://github.com/ajile-in) | 18 | Credebl maintainer, Project Maintainer |
-| 98 | [Attila Klenik](https://github.com/aklenik) | 18 | Project Maintainer, Lab Leader |
-| 99 | [Carlos Amaro](https://github.com/LordKubaya) | 18 | Project Maintainer, Cacti Maintainer |
+| 82 | [Carlos Amaro](https://github.com/LordKubaya) | 22 | Project Maintainer, Cacti Maintainer |
+| 83 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 22 | Project Maintainer, Hiero maintainer |
+| 84 | Siddhi Khandelwal | 22 | — |
+| 85 | Abhigyan | 21 | — |
+| 86 | [Matilda Clerke](https://github.com/Matilda-Clerke) | 21 | Project Maintainer, Besu Maintainer |
+| 87 | hstar | 20 | — |
+| 88 | rout-chaitanya | 20 | — |
+| 89 | NssGourav | 20 | — |
+| 90 | Mohit Yadav | 20 | — |
+| 91 | Storm1289 | 20 | — |
+| 92 | [OA](https://github.com/pv-sarvesh) | 19 | Lab Leader |
+| 93 | iparthdagia | 19 | — |
+| 94 | ZenDox.X | 19 | — |
+| 95 | Saurav | 19 | — |
+| 96 | Sagar Khandagre | 19 | — |
+| 97 | PriyanshuZone | 19 | — |
+| 98 | [Ajay Jadhav](https://github.com/ajile-in) | 18 | Credebl maintainer, Project Maintainer |
+| 99 | [Attila Klenik](https://github.com/aklenik) | 18 | Project Maintainer, Lab Leader |
 | 100 | [nayamhb](https://github.com/nayamhb) | 18 | Lab Leader |
 | 101 | paskelo95 | 18 | — |
 | 102 | [Maria Munaro](https://github.com/munapower) | 17 | — |
@@ -199,31 +199,31 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 188 | Pereowei | 8 | Lab Leader |
 | 189 | mykim | 8 | — |
 | 190 | abhi sogal | 8 | — |
-| 191 | [Wade Barnes](https://github.com/WadeBarnes) | 8 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
-| 192 | Torfinn | 8 | Hiero maintainer |
-| 193 | [Twiine Enock](https://github.com/Twiineenock) | 8 | — |
-| 194 | Abhay | 8 | — |
-| 195 | gets | 8 | — |
-| 196 | Jeromy (Solo Lead Engineer) | 8 | Project Maintainer, Hiero maintainer |
-| 197 | Le Chiffre | 8 | — |
-| 198 | ManKia | 8 | — |
-| 199 | darshit | 8 | — |
-| 200 | Vineet | 8 | — |
-| 201 | JordyDutch \| Stakingverse.io | 8 | — |
-| 202 | Prowler | 8 | — |
-| 203 | jaycool | 8 | — |
-| 204 | Manmath Mohanty | 8 | — |
-| 205 | presn | 8 | — |
-| 206 | Mukul | 8 | — |
-| 207 | Aditya | 7 | — |
-| 208 | YogeshK | 7 | — |
-| 209 | parv | 7 | — |
-| 210 | Felipe Faria | 7 | — |
-| 211 | [Osama_Rabea](https://github.com/OsamaRab3) | 7 | TAC member |
-| 212 | Manar Elhabbal | 7 | — |
-| 213 | dherrero | 7 | — |
-| 214 | Abhinag Vangala | 7 | — |
-| 215 | trbouma | 7 | — |
+| 191 | trbouma | 8 | — |
+| 192 | [Wade Barnes](https://github.com/WadeBarnes) | 8 | Project Maintainer, Anoncreds Maintainer, Indy Maintainer |
+| 193 | Torfinn | 8 | Hiero maintainer |
+| 194 | [Twiine Enock](https://github.com/Twiineenock) | 8 | — |
+| 195 | Abhay | 8 | — |
+| 196 | gets | 8 | — |
+| 197 | Jeromy (Solo Lead Engineer) | 8 | Project Maintainer, Hiero maintainer |
+| 198 | Le Chiffre | 8 | — |
+| 199 | ManKia | 8 | — |
+| 200 | darshit | 8 | — |
+| 201 | Vineet | 8 | — |
+| 202 | JordyDutch \| Stakingverse.io | 8 | — |
+| 203 | Prowler | 8 | — |
+| 204 | jaycool | 8 | — |
+| 205 | Manmath Mohanty | 8 | — |
+| 206 | presn | 8 | — |
+| 207 | Mukul | 8 | — |
+| 208 | Aditya | 7 | — |
+| 209 | YogeshK | 7 | — |
+| 210 | parv | 7 | — |
+| 211 | Felipe Faria | 7 | — |
+| 212 | [Osama_Rabea](https://github.com/OsamaRab3) | 7 | TAC member |
+| 213 | Manar Elhabbal | 7 | — |
+| 214 | dherrero | 7 | — |
+| 215 | Abhinag Vangala | 7 | — |
 | 216 | rootp1 | 7 | — |
 | 217 | KittyKat | 7 | — |
 | 218 | Vipin Bharathan | 7 | lab stewards |

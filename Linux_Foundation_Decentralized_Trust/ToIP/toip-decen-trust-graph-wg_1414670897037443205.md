@@ -3,10 +3,10 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** ToIP
 - **Channel ID:** 1414670897037443205
-- **Total Messages:** 489
-- **Last 30 Days:** 31
-- **Last 90 Days:** 114
-- **Last 365 Days:** 372
+- **Total Messages:** 491
+- **Last 30 Days:** 33
+- **Last 90 Days:** 116
+- **Last 365 Days:** 374
 - **First Message:** 2025-09-24
 - **Last Message:** 2026-11-24
 
@@ -28,7 +28,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 41 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 31 | Project Maintainer, ToIP |
-| 3 | Nicky H | 9 | Project Maintainer, ToIP |
+| 3 | Nicky H | 10 | Project Maintainer, ToIP |
 | 4 | microbiocarly | 7 | Project Maintainer, ToIP |
 | 5 | lyn brooks | 6 | Project Maintainer, ToIP |
 
@@ -38,7 +38,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 138 | Lab Leader |
 | 2 | [drummondreed](https://github.com/talltree) | 119 | Project Maintainer, ToIP |
-| 3 | Nicky H | 35 | Project Maintainer, ToIP |
+| 3 | Nicky H | 36 | Project Maintainer, ToIP |
 | 4 | microbiocarly | 15 | Project Maintainer, ToIP |
 | 5 | stevevitka | 13 | ToIP |
 
@@ -48,7 +48,7 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [drummondreed](https://github.com/talltree) | 162 | Project Maintainer, ToIP |
 | 2 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 143 | Lab Leader |
-| 3 | Nicky H | 38 | Project Maintainer, ToIP |
+| 3 | Nicky H | 39 | Project Maintainer, ToIP |
 | 4 | Jonathan Bellack | 16 | Project Maintainer, ToIP |
 | 5 | microbiocarly | 15 | Project Maintainer, ToIP |
 
@@ -56,14 +56,14 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 347 |
+| 2026 | 349 |
 | 2025 | 142 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 24 |
+| 2026-11 | 26 |
 | 2026-10 | 34 |
 | 2026-09 | 33 |
 | 2026-08 | 54 |
@@ -83,7 +83,7 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-11-24 | 4 |
+| 2026-11-24 | 6 |
 | 2026-11-23 | 1 |
 | 2026-11-19 | 1 |
 | 2026-11-13 | 1 |
