@@ -2,9 +2,9 @@
 
 - **Guild ID:** 1022962884864643214
 - **Total Messages:** 9,840
-- **Last 30 Days:** 94
-- **Last 90 Days:** 377
-- **Last 365 Days:** 1,909 — [active users](users.md)
+- **Last 30 Days:** 91
+- **Last 90 Days:** 375
+- **Last 365 Days:** 1,906 — [active users](users.md)
 - **First Message:** 2022-09-23
 - **Last Message:** 2026-11-23
 - **Role Holders:** [inactivity roster](role_holders.md)
@@ -13,7 +13,7 @@
 
 | Category | Total Messages | 30 Days | 90 Days | 365 Days | First Activity | Last Activity |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Growth Projects](Growth_Projects/README.md) | 3,972 | 78 | 307 | 1,307 | 2023-11-08 | 2026-11-23 |
+| [Growth Projects](Growth_Projects/README.md) | 3,972 | 75 | 305 | 1,304 | 2023-11-08 | 2026-11-23 |
 | [General](General/README.md) | 1,871 | 5 | 12 | 65 | 2022-09-23 | 2026-11-12 |
 | [Technical Advisory Council](Technical_Advisory_Council/README.md) | 1,837 | 1 | 13 | 86 | 2022-09-28 | 2026-11-16 |
 | [Impact Projects](Impact_Projects/README.md) | 882 | 5 | 16 | 143 | 2024-09-26 | 2026-11-23 |
@@ -49,7 +49,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 385 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 129 | Linux Foundation Staff |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 128 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 128 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 115 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |

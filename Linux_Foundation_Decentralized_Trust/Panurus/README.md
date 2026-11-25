@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1518924075123081246
-- **Total Messages in Category:** 718
+- **Total Messages in Category:** 719
 - **Last 30 Days:** 28
-- **Last 90 Days:** 46
+- **Last 90 Days:** 47
 - **Last 365 Days:** 186
 - **First Message:** 2022-03-02
-- **Last Message:** 2026-11-23
+- **Last Message:** 2026-11-25
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [panurus](panurus_945691840110272522.md) | 2026-11-23 | 28 | 46 | 186 | 718 |
+| [panurus](panurus_945691840110272522.md) | 2026-11-25 | 28 | 47 | 186 | 719 |
 
 ## Most Active Users
 
@@ -31,7 +31,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 19 | Lab Leader, Fabric Maintainer, Project Maintainer |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 20 | Lab Leader, Fabric Maintainer, Project Maintainer |
 | 2 | ⛅CloudEllie | 10 | — |
 | 3 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
 | 4 | EliMbadi | 4 | — |
@@ -41,7 +41,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 84 | Lab Leader, Fabric Maintainer, Project Maintainer |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 85 | Lab Leader, Fabric Maintainer, Project Maintainer |
 | 2 | arunabha003 | 35 | — |
 | 3 | Atharva Borade | 12 | — |
 | 4 | ⛅CloudEllie | 10 | — |
@@ -51,7 +51,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 254 | Lab Leader, Fabric Maintainer, Project Maintainer |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 255 | Lab Leader, Fabric Maintainer, Project Maintainer |
 | 2 | masool baba irfan | 62 | — |
 | 3 | Rajat Sharma | 56 | — |
 | 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 48 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
@@ -61,7 +61,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 185 |
+| 2026 | 186 |
 | 2025 | 13 |
 | 2024 | 67 |
 | 2023 | 84 |
@@ -71,7 +71,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 12 |
+| 2026-11 | 13 |
 | 2026-10 | 24 |
 | 2026-09 | 10 |
 | 2026-08 | 49 |
@@ -118,6 +118,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-25 | 1 |
 | 2026-11-23 | 6 |
 | 2026-11-18 | 2 |
 | 2026-11-10 | 3 |

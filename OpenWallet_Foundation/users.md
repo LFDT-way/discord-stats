@@ -5,12 +5,12 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 119
-- **Messages (365d):** 1,903
+- **Messages (365d):** 1,900
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [Mirko](https://github.com/cre8) | 385 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 129 | Linux Foundation Staff |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 128 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 128 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
 | 5 | [davidz25](https://github.com/davidz25) | 115 | Lab Maintainer, TAC members, multipaz maintainer, Project Maintainer |
@@ -48,8 +48,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 37 | Jim St.Clair | 8 | SIG member |
 | 38 | Samuel | 8 | SIG member |
 | 39 | Ever | 8 | multipaz maintainer |
-| 40 | albertoleon_7794 | 8 | — |
-| 41 | Anshulip | 8 | — |
+| 40 | Anshulip | 8 | — |
+| 41 | albertoleon_7794 | 7 | — |
 | 42 | Abhi | 7 | — |
 | 43 | Pragya Jain | 7 | — |
 | 44 | jarosss_ | 6 | — |
@@ -71,30 +71,30 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 60 | [Gavinok](https://github.com/Gavinok) | 3 | — |
 | 61 | mashukur.rahman | 3 | — |
 | 62 | LukeBC | 3 | — |
-| 63 | ζατch bell | 3 | — |
-| 64 | ai-Igor | 3 | — |
-| 65 | Muhammad Ahmer Khan | 3 | — |
-| 66 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 3 | Lab Maintainer |
-| 67 | Alisson-Dev-Zolvency | 3 | — |
-| 68 | marnix | 3 | — |
-| 69 | darrello | 3 | — |
-| 70 | [Sai Ranjit](https://github.com/sairanjit) | 3 | — |
-| 71 | [cvarjao](https://github.com/cvarjao) | 3 | bifold maintainers, Project Maintainer |
-| 72 | Alan poon | 3 | — |
-| 73 | Thomas T | 3 | — |
-| 74 | André Engelhorn | 3 | — |
-| 75 | Bilal | 2 | — |
-| 76 | Maticus | 2 | — |
-| 77 | Micah Peltier | 2 | — |
-| 78 | mobappdev | 2 | — |
-| 79 | Pratik | 2 | — |
-| 80 | Soloshade | 2 | — |
-| 81 | Gordito Ancestral | 2 | — |
-| 82 | Akshay Kurhekar | 2 | — |
-| 83 | nerio | 2 | — |
-| 84 | Thilina Senarath | 2 | — |
-| 85 | Harsh | 2 | — |
-| 86 | José Puma | 2 | — |
+| 63 | ai-Igor | 3 | — |
+| 64 | Muhammad Ahmer Khan | 3 | — |
+| 65 | [alexander.shenshin](https://github.com/AlexanderShenshin) | 3 | Lab Maintainer |
+| 66 | Alisson-Dev-Zolvency | 3 | — |
+| 67 | marnix | 3 | — |
+| 68 | darrello | 3 | — |
+| 69 | [Sai Ranjit](https://github.com/sairanjit) | 3 | — |
+| 70 | [cvarjao](https://github.com/cvarjao) | 3 | bifold maintainers, Project Maintainer |
+| 71 | Alan poon | 3 | — |
+| 72 | Thomas T | 3 | — |
+| 73 | André Engelhorn | 3 | — |
+| 74 | Bilal | 2 | — |
+| 75 | Maticus | 2 | — |
+| 76 | Micah Peltier | 2 | — |
+| 77 | mobappdev | 2 | — |
+| 78 | Pratik | 2 | — |
+| 79 | Soloshade | 2 | — |
+| 80 | Gordito Ancestral | 2 | — |
+| 81 | Akshay Kurhekar | 2 | — |
+| 82 | nerio | 2 | — |
+| 83 | Thilina Senarath | 2 | — |
+| 84 | Harsh | 2 | — |
+| 85 | José Puma | 2 | — |
+| 86 | ζατch bell | 2 | — |
 | 87 | Jim Ezesinachi | 2 | — |
 | 88 | KrishNa | 2 | — |
 | 89 | ademait | 2 | — |

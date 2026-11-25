@@ -3,8 +3,8 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536679010086555709
 - **Total Messages in Category:** 21,625
-- **Last 30 Days:** 177
-- **Last 90 Days:** 291
+- **Last 30 Days:** 176
+- **Last 90 Days:** 287
 - **Last 365 Days:** 963
 - **First Message:** 2021-11-05
 - **Last Message:** 2026-11-23
@@ -24,11 +24,11 @@
 | [zk-learning-group](zk-learning-group_1329201532628898036.md) | 2026-11-19 | 7 | 14 | 59 | 160 |
 | [gitmesh](gitmesh_1426307186027659319.md) | 2026-08-05 | 0 | 0 | 83 | 148 |
 | [labs-governance](labs-governance_1182026443006414898.md) | 2026-11-19 | 2 | 10 | 13 | 110 |
-| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-11-18 | 4 | 20 | 99 | 99 |
+| [pdp-connect](pdp-connect_1527713223334166744.md) | 2026-11-18 | 4 | 19 | 99 | 99 |
 | [opentokenizedassetstandard](opentokenizedassetstandard_1502324614204752155.md) | 2026-11-23 | 7 | 15 | 91 | 91 |
 | [fablo](fablo_1109190949394989127.md) | 2026-10-20 | 0 | 3 | 12 | 88 |
 | [general](general_988569914266775662.md) | 2026-07-30 | 0 | 0 | 10 | 72 |
-| [cello](cello_941475454378991646.md) | 2026-10-25 | 1 | 7 | 16 | 60 |
+| [cello](cello_941475454378991646.md) | 2026-10-25 | 0 | 7 | 16 | 60 |
 | [cc-tools](cc-tools_1156653969133809715.md) | 2025-05-07 | 0 | 0 | 0 | 45 |
 | [fabric-evm](fabric-evm_1130526287694405705.md) | 2026-10-07 | 0 | 1 | 38 | 44 |
 | [learning-tokens](learning-tokens_1120853856360878271.md) | 2026-08-25 | 0 | 0 | 5 | 36 |
@@ -41,7 +41,7 @@
 | [caliper-announcements](caliper-announcements_941417775275065364.md) | 2025-10-03 | 0 | 0 | 0 | 5 |
 | [accountable-impact-commons](accountable-impact-commons_1540006318125879346.md) | 2026-11-06 | 1 | 3 | 5 | 5 |
 | [caliper-github](caliper-github_943549642824638544.md) | 2024-04-12 | 0 | 0 | 0 | 4 |
-| [agent-authority-conformance](agent-authority-conformance_1542096589961699369.md) | 2026-08-26 | 0 | 3 | 3 | 3 |
+| [agent-authority-conformance](agent-authority-conformance_1542096589961699369.md) | 2026-08-26 | 0 | 0 | 3 | 3 |
 | [veltoracore](veltoracore_1504169634910310410.md) | 2026-09-22 | 0 | 1 | 2 | 2 |
 | [os_frontiers](os_frontiers_1498334265769726123.md) | 2026-10-09 | 0 | 2 | 2 | 2 |
 
