@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1498775901532454942
-- **Total Messages in Category:** 45
-- **Last 30 Days:** 4
-- **Last 90 Days:** 24
-- **Last 365 Days:** 45
+- **Total Messages in Category:** 46
+- **Last 30 Days:** 5
+- **Last 90 Days:** 22
+- **Last 365 Days:** 46
 - **First Message:** 2026-05-11
-- **Last Message:** 2026-11-11
+- **Last Message:** 2026-11-25
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [lineth-general](lineth-general_1498775958080065746.md) | 2026-11-11 | 4 | 24 | 41 | 41 |
+| [lineth-general](lineth-general_1498775958080065746.md) | 2026-11-25 | 5 | 22 | 42 | 42 |
 | [lineth-announcements](lineth-announcements_1499425506439729262.md) | 2026-06-26 | 0 | 0 | 2 | 2 |
 | [lineth-dev](lineth-dev_1509343096457134142.md) | 2026-06-25 | 0 | 0 | 2 | 2 |
 
@@ -23,16 +23,16 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 3 | lfdt-ca, LFDT Staff |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 4 | lfdt-ca, LFDT Staff |
 | 2 | Coenie | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Coenie | 8 | — |
-| 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | lfdt-ca, LFDT Staff |
-| 3 | Le Chiffre | 5 | — |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 7 | lfdt-ca, LFDT Staff |
+| 2 | Coenie | 6 | — |
+| 3 | Le Chiffre | 4 | — |
 | 4 | TiteWare | 2 | — |
 | 5 | Jimmy Lineth | 1 | — |
 
@@ -40,7 +40,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 13 | lfdt-ca, LFDT Staff |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 14 | lfdt-ca, LFDT Staff |
 | 2 | Coenie | 9 | — |
 | 3 | Le Chiffre | 8 | — |
 | 4 | Zidan | 4 | — |
@@ -50,7 +50,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 13 | lfdt-ca, LFDT Staff |
+| 1 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 14 | lfdt-ca, LFDT Staff |
 | 2 | Coenie | 9 | — |
 | 3 | Le Chiffre | 8 | — |
 | 4 | Zidan | 4 | — |
@@ -60,13 +60,13 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 45 |
+| 2026 | 46 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 4 |
+| 2026-11 | 5 |
 | 2026-09 | 15 |
 | 2026-08 | 6 |
 | 2026-07 | 6 |
@@ -77,6 +77,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-25 | 1 |
 | 2026-11-11 | 2 |
 | 2026-11-04 | 2 |
 | 2026-09-30 | 1 |

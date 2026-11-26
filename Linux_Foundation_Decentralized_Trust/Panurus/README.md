@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1518924075123081246
-- **Total Messages in Category:** 719
-- **Last 30 Days:** 28
-- **Last 90 Days:** 47
-- **Last 365 Days:** 186
+- **Total Messages in Category:** 722
+- **Last 30 Days:** 31
+- **Last 90 Days:** 50
+- **Last 365 Days:** 189
 - **First Message:** 2022-03-02
-- **Last Message:** 2026-11-25
+- **Last Message:** 2026-11-26
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [panurus](panurus_945691840110272522.md) | 2026-11-25 | 28 | 47 | 186 | 719 |
+| [panurus](panurus_945691840110272522.md) | 2026-11-26 | 31 | 50 | 189 | 722 |
 
 ## Most Active Users
 
@@ -21,8 +21,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | ⛅CloudEllie | 8 | — |
-| 2 | [Angelo De Caro](https://github.com/adecaro) | 8 | Lab Leader, Fabric Maintainer, Project Maintainer |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 10 | Lab Leader, Fabric Maintainer, Project Maintainer |
+| 2 | ⛅CloudEllie | 9 | — |
 | 3 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
 | 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 3 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 | 5 | Effi-S | 2 | — |
@@ -31,8 +31,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 20 | Lab Leader, Fabric Maintainer, Project Maintainer |
-| 2 | ⛅CloudEllie | 10 | — |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 22 | Lab Leader, Fabric Maintainer, Project Maintainer |
+| 2 | ⛅CloudEllie | 11 | — |
 | 3 | [Ry Jones](https://github.com/ryjones) | 4 | lfdt-ca, LFDT Staff |
 | 4 | EliMbadi | 4 | — |
 | 5 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 3 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
@@ -41,17 +41,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 85 | Lab Leader, Fabric Maintainer, Project Maintainer |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 87 | Lab Leader, Fabric Maintainer, Project Maintainer |
 | 2 | arunabha003 | 35 | — |
 | 3 | Atharva Borade | 12 | — |
-| 4 | ⛅CloudEllie | 10 | — |
+| 4 | ⛅CloudEllie | 11 | — |
 | 5 | [Ry Jones](https://github.com/ryjones) | 8 | lfdt-ca, LFDT Staff |
 
 ### All Time
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Angelo De Caro](https://github.com/adecaro) | 255 | Lab Leader, Fabric Maintainer, Project Maintainer |
+| 1 | [Angelo De Caro](https://github.com/adecaro) | 257 | Lab Leader, Fabric Maintainer, Project Maintainer |
 | 2 | masool baba irfan | 62 | — |
 | 3 | Rajat Sharma | 56 | — |
 | 4 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 48 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
@@ -61,7 +61,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 186 |
+| 2026 | 189 |
 | 2025 | 13 |
 | 2024 | 67 |
 | 2023 | 84 |
@@ -71,7 +71,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 13 |
+| 2026-11 | 16 |
 | 2026-10 | 24 |
 | 2026-09 | 10 |
 | 2026-08 | 49 |
@@ -118,7 +118,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-11-25 | 1 |
+| 2026-11-26 | 2 |
+| 2026-11-25 | 2 |
 | 2026-11-23 | 6 |
 | 2026-11-18 | 2 |
 | 2026-11-10 | 3 |

@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 6,283
 - **Last 30 Days:** 5
 - **Last 90 Days:** 5
-- **Last 365 Days:** 53
+- **Last 365 Days:** 52
 - **First Message:** 2022-01-20
 - **Last Message:** 2026-11-11
 
@@ -18,7 +18,7 @@
 | [indy-ubuntu-2204-upgrade](indy-ubuntu-2204-upgrade_1333885568433524736.md) | 2026-01-06 | 0 | 0 | 1 | 690 |
 | [indy-sdk](indy-sdk_941709279289815070.md) | 2025-04-15 | 0 | 0 | 0 | 607 |
 | [indy-contributors](indy-contributors_933797403092475924.md) | 2026-05-05 | 0 | 0 | 29 | 375 |
-| [indy-vdr](indy-vdr_941709303549685811.md) | 2025-11-25 | 0 | 0 | 1 | 222 |
+| [indy-vdr](indy-vdr_941709303549685811.md) | 2025-11-25 | 0 | 0 | 0 | 222 |
 | [indy-did-method](indy-did-method_941708981825576960.md) | 2025-03-19 | 0 | 0 | 0 | 169 |
 | [indy-cli](indy-cli_1060304199981740032.md) | 2025-02-17 | 0 | 0 | 0 | 94 |
 | [indy-announcements](indy-announcements_941416734336884736.md) | 2026-02-04 | 0 | 0 | 1 | 15 |

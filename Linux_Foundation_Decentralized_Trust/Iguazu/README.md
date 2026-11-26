@@ -4,7 +4,7 @@
 - **Category ID:** 1542605511340458116
 - **Total Messages in Category:** 1
 - **Last 30 Days:** 0
-- **Last 90 Days:** 1
+- **Last 90 Days:** 0
 - **Last 365 Days:** 1
 - **First Message:** 2026-08-27
 - **Last Message:** 2026-08-27
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [iguazu-general](iguazu-general_1542605641775059014.md) | 2026-08-27 | 0 | 1 | 1 | 1 |
+| [iguazu-general](iguazu-general_1542605641775059014.md) | 2026-08-27 | 0 | 0 | 1 | 1 |
 
 ## Most Active Users
 
@@ -23,9 +23,7 @@ _No activity in this period._
 
 ### Last 90 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
+_No activity in this period._
 
 ### Last 365 Days
 

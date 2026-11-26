@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 14,187
 - **Last 30 Days:** 24
 - **Last 90 Days:** 83
-- **Last 365 Days:** 360
+- **Last 365 Days:** 353
 - **First Message:** 2022-03-03
 - **Last Message:** 2026-11-15
 
@@ -14,8 +14,8 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [welcome](welcome_948959099842883654.md) | 2026-08-12 | 0 | 0 | 38 | 10,733 |
-| [general](general_1021077182501621830.md) | 2026-11-15 | 17 | 64 | 191 | 1,941 |
-| [job-postings](job-postings_1050607623566802984.md) | 2026-10-07 | 0 | 4 | 62 | 450 |
+| [general](general_1021077182501621830.md) | 2026-11-15 | 17 | 64 | 188 | 1,941 |
+| [job-postings](job-postings_1050607623566802984.md) | 2026-10-07 | 0 | 4 | 58 | 450 |
 | [chat-server-questions](chat-server-questions_1050576328765743114.md) | 2026-11-04 | 3 | 4 | 13 | 421 |
 | [connections](connections_948959243095130142.md) | 2026-10-31 | 1 | 7 | 16 | 375 |
 | [looking-for-work](looking-for-work_1061698556483883138.md) | 2026-10-27 | 1 | 1 | 27 | 192 |
@@ -52,7 +52,7 @@
 | 2 | [Ry Jones](https://github.com/ryjones) | 32 | lfdt-ca, LFDT Staff |
 | 3 | varun | 15 | — |
 | 4 | Zion'sEarthlyPrince | 13 | — |
-| 5 | today | 9 | — |
+| 5 | today | 7 | — |
 
 ### All Time
 

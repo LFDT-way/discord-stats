@@ -3,7 +3,7 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1536684429756604447
 - **Total Messages in Category:** 201
-- **Last 30 Days:** 1
+- **Last 30 Days:** 0
 - **Last 90 Days:** 1
 - **Last 365 Days:** 4
 - **First Message:** 2022-02-23
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [besu-legacy-sunset](besu-legacy-sunset_1288187441211244598.md) | 2026-10-26 | 1 | 1 | 4 | 77 |
+| [besu-legacy-sunset](besu-legacy-sunset_1288187441211244598.md) | 2026-10-26 | 0 | 1 | 4 | 77 |
 | [vs-code-plugin](vs-code-plugin_1249243593475096647.md) | 2025-04-08 | 0 | 0 | 0 | 60 |
 | [weaver](weaver_986350461886033980.md) | 2024-09-05 | 0 | 0 | 0 | 29 |
 | [yui](yui_1036682184955809792.md) | 2023-09-29 | 0 | 0 | 0 | 15 |
@@ -24,9 +24,7 @@
 
 ### Last 30 Days
 
-| Rank | User | Messages | Roles |
-| ---: | :--- | ---: | :--- |
-| 1 | [Justin Florentine](https://github.com/jflo) | 1 | Project Maintainer, Besu Maintainer |
+_No activity in this period._
 
 ### Last 90 Days
 

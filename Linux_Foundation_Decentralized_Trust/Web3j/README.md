@@ -2,19 +2,19 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1195061874950144120
-- **Total Messages in Category:** 1,442
-- **Last 30 Days:** 12
-- **Last 90 Days:** 74
-- **Last 365 Days:** 201
+- **Total Messages in Category:** 1,444
+- **Last 30 Days:** 13
+- **Last 90 Days:** 76
+- **Last 365 Days:** 203
 - **First Message:** 2024-01-11
-- **Last Message:** 2026-11-25
+- **Last Message:** 2026-11-26
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-11-25 | 11 | 71 | 150 | 897 |
-| [web3j-general](web3j-general_1195062053682032700.md) | 2026-11-12 | 1 | 3 | 51 | 545 |
+| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-11-25 | 11 | 72 | 151 | 898 |
+| [web3j-general](web3j-general_1195062053682032700.md) | 2026-11-26 | 2 | 4 | 52 | 546 |
 
 ## Most Active Users
 
@@ -23,7 +23,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | George Tebrean | 7 | Project Maintainer, Web3j Maintainer |
-| 2 | Conor | 1 | Project Maintainer, Web3j Maintainer |
+| 2 | Morrison | 2 | — |
 | 3 | Saurav | 1 | — |
 | 4 | divyesh_exe | 1 | — |
 | 5 | Dev | 1 | — |
@@ -62,7 +62,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 198 |
+| 2026 | 200 |
 | 2025 | 341 |
 | 2024 | 903 |
 
@@ -70,7 +70,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 9 |
+| 2026-11 | 11 |
 | 2026-10 | 38 |
 | 2026-09 | 27 |
 | 2026-08 | 12 |
@@ -108,7 +108,8 @@
 
 | Date | Messages |
 | --- | --- |
-| 2026-11-25 | 2 |
+| 2026-11-26 | 1 |
+| 2026-11-25 | 3 |
 | 2026-11-24 | 1 |
 | 2026-11-19 | 2 |
 | 2026-11-13 | 1 |

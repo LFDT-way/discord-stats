@@ -5,7 +5,7 @@
 - **Total Messages in Category:** 428
 - **Last 30 Days:** 9
 - **Last 90 Days:** 15
-- **Last 365 Days:** 161
+- **Last 365 Days:** 160
 - **First Message:** 2025-01-23
 - **Last Message:** 2026-11-25
 
@@ -16,7 +16,7 @@
 | [credebl](credebl_1331657363161219082.md) | 2026-11-25 | 5 | 11 | 112 | 291 |
 | [credebl-maintainers](credebl-maintainers_1354091009813905488.md) | 2026-11-19 | 4 | 4 | 43 | 62 |
 | [credebl-platform](credebl-platform_1354090545043210362.md) | 2025-09-30 | 0 | 0 | 0 | 61 |
-| [credebl-announcement](credebl-announcement_1354090474654404660.md) | 2026-04-09 | 0 | 0 | 6 | 14 |
+| [credebl-announcement](credebl-announcement_1354090474654404660.md) | 2026-04-09 | 0 | 0 | 5 | 14 |
 
 ## Most Active Users
 
@@ -44,7 +44,7 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | amitthosare | 32 | Credebl maintainer, Project Maintainer |
-| 2 | Ankita | 24 | Credebl maintainer, Project Maintainer |
+| 2 | Ankita | 23 | Credebl maintainer, Project Maintainer |
 | 3 | PriyanshuZone | 19 | — |
 | 4 | tsheringgyeltshen | 13 | — |
 | 5 | [Sai Ranjit](https://github.com/sairanjit) | 11 | Credebl maintainer, Project Maintainer |

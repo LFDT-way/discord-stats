@@ -3,9 +3,9 @@
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1285999377751736443
 - **Total Messages in Category:** 882
-- **Last 30 Days:** 5
+- **Last 30 Days:** 2
 - **Last 90 Days:** 16
-- **Last 365 Days:** 143
+- **Last 365 Days:** 139
 - **First Message:** 2024-09-26
 - **Last Message:** 2026-11-23
 
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aca-py](aca-py_1286299858994462842.md) | 2026-11-23 | 5 | 16 | 143 | 821 |
+| [aca-py](aca-py_1286299858994462842.md) | 2026-11-23 | 2 | 16 | 139 | 821 |
 | [acapy-did-registration](acapy-did-registration_1303470616581509130.md) | 2025-10-25 | 0 | 0 | 0 | 61 |
 
 ## Most Active Users
@@ -22,10 +22,8 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
-| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
-| 3 | Thiago Romano | 1 | — |
-| 4 | Timbl | 1 | — |
+| 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
+| 2 | [swcurran](https://github.com/swcurran) | 1 | Lab Maintainer, TAC members, Project Maintainer |
 
 ### Last 90 Days
 
@@ -42,8 +40,8 @@
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | PStLouis | 28 | Lab Maintainer, Project Maintainer |
-| 2 | [swcurran](https://github.com/swcurran) | 19 | Lab Maintainer, TAC members, Project Maintainer |
-| 3 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 18 | Linux Foundation Staff |
+| 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 18 | Linux Foundation Staff |
+| 3 | [swcurran](https://github.com/swcurran) | 17 | Lab Maintainer, TAC members, Project Maintainer |
 | 4 | Timbl | 9 | — |
 | 5 | RMLearney | 8 | — |
 

@@ -2,12 +2,12 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1108449719212048556
-- **Total Messages in Category:** 862
-- **Last 30 Days:** 3
-- **Last 90 Days:** 26
-- **Last 365 Days:** 299
+- **Total Messages in Category:** 863
+- **Last 30 Days:** 4
+- **Last 90 Days:** 27
+- **Last 365 Days:** 300
 - **First Message:** 2023-06-02
-- **Last Message:** 2026-11-20
+- **Last Message:** 2026-11-25
 
 ## Channels in Category
 
@@ -21,7 +21,7 @@
 | [vc-api](vc-api_1157008901020073994.md) | 2025-10-24 | 0 | 0 | 0 | 39 |
 | [sd-jwt-rust](sd-jwt-rust_1174382048400654457.md) | 2026-08-18 | 0 | 0 | 21 | 28 |
 | [wallet-framework-dotnet](wallet-framework-dotnet_1159552665940938842.md) | 2024-10-11 | 0 | 0 | 0 | 26 |
-| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-11-20 | 2 | 19 | 21 | 21 |
+| [identity-common-ts](identity-common-ts_1481638863217885295.md) | 2026-11-25 | 3 | 20 | 22 | 22 |
 | [pydentity-wallet](pydentity-wallet_1352199414956953630.md) | 2026-02-11 | 0 | 0 | 3 | 20 |
 | [axle](axle_1404761591710355506.md) | 2026-07-17 | 0 | 0 | 14 | 17 |
 | [farmworker-wallet-os](farmworker-wallet-os_1138937641123987466.md) | 2024-10-09 | 0 | 0 | 0 | 10 |
@@ -41,7 +41,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [esplinr](https://github.com/esplinr) | 1 | — |
+| 1 | [esplinr](https://github.com/esplinr) | 2 | — |
 | 2 | ZeroEpoch | 1 | — |
 | 3 | [Mirko](https://github.com/cre8) | 1 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 
@@ -53,7 +53,7 @@
 | 2 | Manthan | 5 | — |
 | 3 | [firegod](https://github.com/wenjing) | 3 | — |
 | 4 | [Lukas.J.Han](https://github.com/lukasjhan) | 3 | Lab Maintainer |
-| 5 | [swcurran](https://github.com/swcurran) | 2 | Lab Maintainer, TAC members, Project Maintainer |
+| 5 | [esplinr](https://github.com/esplinr) | 2 | — |
 
 ### Last 365 Days
 
@@ -79,7 +79,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 218 |
+| 2026 | 219 |
 | 2025 | 449 |
 | 2024 | 96 |
 | 2023 | 99 |
@@ -88,7 +88,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 3 |
+| 2026-11 | 4 |
 | 2026-10 | 4 |
 | 2026-09 | 19 |
 | 2026-08 | 3 |
@@ -132,6 +132,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-25 | 1 |
 | 2026-11-20 | 1 |
 | 2026-11-17 | 1 |
 | 2026-11-08 | 1 |

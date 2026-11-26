@@ -3,12 +3,12 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Fabric
 - **Channel ID:** 945038395825070141
-- **Total Messages:** 273
-- **Last 30 Days:** 1
-- **Last 90 Days:** 1
-- **Last 365 Days:** 22
+- **Total Messages:** 274
+- **Last 30 Days:** 2
+- **Last 90 Days:** 2
+- **Last 365 Days:** 23
 - **First Message:** 2022-03-16
-- **Last Message:** 2026-11-22
+- **Last Message:** 2026-11-25
 
 ## Most Active Users
 
@@ -16,13 +16,13 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | S | 1 | — |
+| 1 | S | 2 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | S | 1 | — |
+| 1 | S | 2 | — |
 
 ### Last 365 Days
 
@@ -32,7 +32,7 @@
 | 2 | ZenDox.X | 4 | — |
 | 3 | Ali | 4 | — |
 | 4 | [jtonline](https://github.com/jt-nti) | 4 | Project Maintainer, Fabric Maintainer |
-| 5 | EliMbadi | 1 | — |
+| 5 | S | 2 | — |
 
 ### All Time
 
@@ -48,7 +48,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 12 |
+| 2026 | 13 |
 | 2025 | 54 |
 | 2024 | 55 |
 | 2023 | 46 |
@@ -58,7 +58,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 1 |
+| 2026-11 | 2 |
 | 2026-06 | 2 |
 | 2026-01 | 9 |
 | 2025-12 | 10 |
@@ -101,6 +101,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-25 | 1 |
 | 2026-11-22 | 1 |
 | 2026-06-19 | 1 |
 | 2026-06-18 | 1 |
