@@ -2,18 +2,18 @@
 
 - **Guild:** OpenWallet Foundation
 - **Category ID:** 1285999377751736443
-- **Total Messages in Category:** 882
-- **Last 30 Days:** 2
-- **Last 90 Days:** 16
+- **Total Messages in Category:** 883
+- **Last 30 Days:** 3
+- **Last 90 Days:** 17
 - **Last 365 Days:** 139
 - **First Message:** 2024-09-26
-- **Last Message:** 2026-11-23
+- **Last Message:** 2026-11-26
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [aca-py](aca-py_1286299858994462842.md) | 2026-11-23 | 2 | 16 | 139 | 821 |
+| [aca-py](aca-py_1286299858994462842.md) | 2026-11-26 | 3 | 17 | 139 | 822 |
 | [acapy-did-registration](acapy-did-registration_1303470616581509130.md) | 2025-10-25 | 0 | 0 | 0 | 61 |
 
 ## Most Active Users
@@ -24,13 +24,14 @@
 | ---: | :--- | ---: | :--- |
 | 1 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
 | 2 | [swcurran](https://github.com/swcurran) | 1 | Lab Maintainer, TAC members, Project Maintainer |
+| 3 | Pragya Jain | 1 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
 | 1 | [swcurran](https://github.com/swcurran) | 5 | Lab Maintainer, TAC members, Project Maintainer |
-| 2 | Pragya Jain | 3 | — |
+| 2 | Pragya Jain | 4 | — |
 | 3 | RMLearney | 3 | — |
 | 4 | Thiago Romano | 2 | — |
 | 5 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 1 | Linux Foundation Staff |
@@ -59,7 +60,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 107 |
+| 2026 | 108 |
 | 2025 | 531 |
 | 2024 | 244 |
 
@@ -67,7 +68,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 2 |
+| 2026-11 | 3 |
 | 2026-10 | 12 |
 | 2026-09 | 1 |
 | 2026-08 | 2 |
@@ -99,6 +100,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-26 | 1 |
 | 2026-11-23 | 1 |
 | 2026-11-11 | 1 |
 | 2026-10-26 | 3 |

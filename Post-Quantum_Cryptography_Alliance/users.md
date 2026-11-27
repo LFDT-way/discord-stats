@@ -5,7 +5,7 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Guild ID:** 1202723482224295936
 - **Active Users (365d):** 98
-- **Messages (365d):** 1,178
+- **Messages (365d):** 1,179
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
@@ -18,8 +18,8 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 7 | Jake | 21 | PQ Code Package Maintainer, Project Maintainer |
 | 8 | Ben | 13 | — |
 | 9 | brent | 13 | — |
-| 10 | θρπχι | 12 | — |
-| 11 | hatz | 11 | — |
+| 10 | hatz | 12 | — |
+| 11 | θρπχι | 12 | — |
 | 12 | Ishan | 10 | — |
 | 13 | Dadofpips | 9 | — |
 | 14 | Loganaden | 8 | — |

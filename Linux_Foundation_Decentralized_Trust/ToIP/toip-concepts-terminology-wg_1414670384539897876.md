@@ -6,7 +6,7 @@
 - **Total Messages:** 73
 - **Last 30 Days:** 0
 - **Last 90 Days:** 7
-- **Last 365 Days:** 45
+- **Last 365 Days:** 43
 - **First Message:** 2025-09-27
 - **Last Message:** 2026-10-05
 
@@ -28,11 +28,11 @@ _No activity in this period._
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [drummondreed](https://github.com/talltree) | 18 | Project Maintainer, ToIP |
+| 1 | [drummondreed](https://github.com/talltree) | 17 | Project Maintainer, ToIP |
 | 2 | Henk van Cann | 8 | Project Maintainer, ToIP |
 | 3 | microbiocarly | 7 | Project Maintainer, ToIP |
 | 4 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 6 | Lab Leader |
-| 5 | stevevitka | 4 | ToIP |
+| 5 | stevevitka | 3 | ToIP |
 
 ### All Time
 

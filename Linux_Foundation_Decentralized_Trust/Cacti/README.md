@@ -2,18 +2,18 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 905515538766254102
-- **Total Messages in Category:** 2,385
-- **Last 30 Days:** 20
-- **Last 90 Days:** 39
-- **Last 365 Days:** 242
+- **Total Messages in Category:** 2,387
+- **Last 30 Days:** 22
+- **Last 90 Days:** 41
+- **Last 365 Days:** 244
 - **First Message:** 2021-11-11
-- **Last Message:** 2026-11-23
+- **Last Message:** 2026-11-27
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-11-23 | 20 | 35 | 179 | 1,822 |
+| [cacti-contributors](cacti-contributors_908379338716631050.md) | 2026-11-27 | 22 | 37 | 181 | 1,824 |
 | [cacti-users](cacti-users_908379366650703943.md) | 2026-10-02 | 0 | 2 | 50 | 510 |
 | [cacti-resources](cacti-resources_908349711537299497.md) | 2026-04-03 | 0 | 0 | 1 | 26 |
 | [cacti-announcements](cacti-announcements_908380513310498847.md) | 2026-10-01 | 0 | 2 | 8 | 17 |
@@ -26,17 +26,17 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | AgrimTawani \| Cryptobazaar | 8 | — |
+| 1 | AgrimTawani \| Cryptobazaar | 9 | — |
 | 2 | [rafaelapb](https://github.com/RafaelAPB) | 7 | Project Maintainer, Cacti Maintainer |
-| 3 | yash | 5 | — |
+| 3 | yash | 6 | — |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | AgrimTawani \| Cryptobazaar | 16 | — |
+| 1 | AgrimTawani \| Cryptobazaar | 17 | — |
 | 2 | [rafaelapb](https://github.com/RafaelAPB) | 13 | Project Maintainer, Cacti Maintainer |
-| 3 | yash | 5 | — |
+| 3 | yash | 6 | — |
 | 4 | Humayun | 2 | — |
 | 5 | Sarbojit Rana | 2 | — |
 
@@ -47,7 +47,7 @@
 | 1 | [rafaelapb](https://github.com/RafaelAPB) | 61 | Project Maintainer, Cacti Maintainer |
 | 2 | Somesh | 27 | — |
 | 3 | [Carlos Amaro](https://github.com/LordKubaya) | 21 | Project Maintainer, Cacti Maintainer |
-| 4 | AgrimTawani \| Cryptobazaar | 17 | — |
+| 4 | AgrimTawani \| Cryptobazaar | 18 | — |
 | 5 | harshita | 14 | — |
 
 ### All Time
@@ -64,7 +64,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 239 |
+| 2026 | 241 |
 | 2025 | 463 |
 | 2024 | 480 |
 | 2023 | 429 |
@@ -75,7 +75,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 19 |
+| 2026-11 | 21 |
 | 2026-10 | 13 |
 | 2026-09 | 7 |
 | 2026-08 | 1 |
@@ -139,6 +139,8 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-27 | 1 |
+| 2026-11-26 | 1 |
 | 2026-11-23 | 1 |
 | 2026-11-19 | 1 |
 | 2026-11-17 | 1 |

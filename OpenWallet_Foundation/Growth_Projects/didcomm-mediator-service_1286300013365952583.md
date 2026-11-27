@@ -4,7 +4,7 @@
 - **Category:** Growth Projects
 - **Channel ID:** 1286300013365952583
 - **Total Messages:** 61
-- **Last 30 Days:** 18
+- **Last 30 Days:** 1
 - **Last 90 Days:** 27
 - **Last 365 Days:** 34
 - **First Message:** 2024-09-24
@@ -16,10 +16,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [esune](https://github.com/esune) | 9 | Project Maintainer |
-| 2 | [GenAris](https://github.com/genaris) | 6 | credo maintainers, Project Maintainer |
-| 3 | RMLearney | 2 | — |
-| 4 | Manthan | 1 | — |
+| 1 | Manthan | 1 | — |
 
 ### Last 90 Days
 

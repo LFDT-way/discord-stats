@@ -4,7 +4,7 @@
 - **Category:** ToIP
 - **Channel ID:** 1414671336697233499
 - **Total Messages:** 276
-- **Last 30 Days:** 30
+- **Last 30 Days:** 23
 - **Last 90 Days:** 175
 - **Last 365 Days:** 263
 - **First Message:** 2025-09-30
@@ -16,10 +16,10 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 15 | Lab Leader |
-| 2 | microbiocarly | 8 | Project Maintainer, ToIP |
-| 3 | [Ry Jones](https://github.com/ryjones) | 5 | lfdt-ca, LFDT Staff |
-| 4 | Manthan | 2 | — |
+| 1 | [sankarshan](https://github.com/sankarshanmukhopadhyay) | 14 | Lab Leader |
+| 2 | microbiocarly | 6 | Project Maintainer, ToIP |
+| 3 | Manthan | 2 | — |
+| 4 | [Ry Jones](https://github.com/ryjones) | 1 | lfdt-ca, LFDT Staff |
 
 ### Last 90 Days
 

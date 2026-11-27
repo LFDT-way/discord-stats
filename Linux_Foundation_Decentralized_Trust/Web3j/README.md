@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1195061874950144120
 - **Total Messages in Category:** 1,444
-- **Last 30 Days:** 13
+- **Last 30 Days:** 12
 - **Last 90 Days:** 76
-- **Last 365 Days:** 203
+- **Last 365 Days:** 201
 - **First Message:** 2024-01-11
 - **Last Message:** 2026-11-26
 
@@ -13,8 +13,8 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-11-25 | 11 | 72 | 151 | 898 |
-| [web3j-general](web3j-general_1195062053682032700.md) | 2026-11-26 | 2 | 4 | 52 | 546 |
+| [web3j-maintainers](web3j-maintainers_1195061989072978082.md) | 2026-11-25 | 10 | 72 | 151 | 898 |
+| [web3j-general](web3j-general_1195062053682032700.md) | 2026-11-26 | 2 | 4 | 50 | 546 |
 
 ## Most Active Users
 
@@ -22,7 +22,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | George Tebrean | 7 | Project Maintainer, Web3j Maintainer |
+| 1 | George Tebrean | 6 | Project Maintainer, Web3j Maintainer |
 | 2 | Morrison | 2 | — |
 | 3 | Saurav | 1 | — |
 | 4 | divyesh_exe | 1 | — |
@@ -42,11 +42,11 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | George Tebrean | 55 | Project Maintainer, Web3j Maintainer |
+| 1 | George Tebrean | 54 | Project Maintainer, Web3j Maintainer |
 | 2 | Dev | 46 | — |
 | 3 | [Nischal \| nischal.eth](https://github.com/NickSneo) | 41 | Project Maintainer, Web3j Maintainer |
 | 4 | Saurav | 19 | — |
-| 5 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | lfdt-ca, LFDT Staff |
+| 5 | toji | 6 | — |
 
 ### All Time
 

@@ -5,11 +5,11 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 - **Guild:** OpenWallet Foundation
 - **Guild ID:** 1022962884864643214
 - **Active Users (365d):** 118
-- **Messages (365d):** 1,887
+- **Messages (365d):** 1,884
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Mirko](https://github.com/cre8) | 380 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
+| 1 | [Mirko](https://github.com/cre8) | 379 | Lab Maintainer, eudiplo maintainer, Project Maintainer, SIG member |
 | 2 | [Sean Bohan, OWF](https://github.com/SeanBohan) | 128 | Linux Foundation Staff |
 | 3 | [Ry Jones, OWF](https://github.com/ryjones) | 128 | Linux Foundation Staff |
 | 4 | Cyril | 116 | — |
@@ -19,15 +19,15 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 8 | birte_lr | 61 | — |
 | 9 | espuni | 45 | — |
 | 10 | PStLouis | 34 | Lab Maintainer, Project Maintainer |
-| 11 | thidalgo | 34 | — |
+| 11 | thidalgo | 33 | — |
 | 12 | RMLearney | 32 | — |
 | 13 | Timbl | 30 | — |
-| 14 | davidejalexander | 30 | SIG member |
+| 14 | davidejalexander | 29 | SIG member |
 | 15 | Thomas Tran | 28 | Lab Maintainer |
 | 16 | [VishnuSanal](https://github.com/VishnuSanal) | 26 | multipaz maintainer, Project Maintainer |
 | 17 | [swcurran](https://github.com/swcurran) | 25 | Lab Maintainer, TAC members, Project Maintainer |
 | 18 | ai Igor | 24 | — |
-| 19 | [esune](https://github.com/esune) | 23 | Project Maintainer |
+| 19 | [esune](https://github.com/esune) | 22 | Project Maintainer |
 | 20 | [bryce-mcmath](https://github.com/bryce-mcmath) | 19 | bifold maintainers, Project Maintainer |
 | 21 | Graham | 18 | — |
 | 22 | kukgini | 18 | — |
@@ -57,11 +57,11 @@ Users with activity in the last 365 days, sorted by message count. Bot and webho
 | 46 | [amanji](https://github.com/amanji) | 6 | — |
 | 47 | Neha | 5 | — |
 | 48 | gr0 | 5 | — |
-| 49 | ZeroEpoch | 5 | — |
-| 50 | Ginga | 5 | — |
-| 51 | Aftab Saraz | 5 | — |
-| 52 | geertdoornbos | 4 | — |
-| 53 | Pragya Jain | 4 | — |
+| 49 | Pragya Jain | 5 | — |
+| 50 | ZeroEpoch | 5 | — |
+| 51 | Ginga | 5 | — |
+| 52 | Aftab Saraz | 5 | — |
+| 53 | geertdoornbos | 4 | — |
 | 54 | [Daniel Marvin](https://github.com/danielmarv) | 4 | — |
 | 55 | [Wade Barnes](https://github.com/WadeBarnes) | 4 | — |
 | 56 | aaron | 4 | — |

@@ -2,21 +2,21 @@
 
 - **Guild:** Post-Quantum Cryptography Alliance
 - **Category ID:** 1203395867214745651
-- **Total Messages in Category:** 3,665
-- **Last 30 Days:** 47
-- **Last 90 Days:** 167
-- **Last 365 Days:** 934
+- **Total Messages in Category:** 3,666
+- **Last 30 Days:** 48
+- **Last 90 Days:** 157
+- **Last 365 Days:** 935
 - **First Message:** 2024-02-03
-- **Last Message:** 2026-11-24
+- **Last Message:** 2026-11-26
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [mldsa-native-developers](mldsa-native-developers_1339067141269229652.md) | 2026-11-11 | 6 | 10 | 426 | 2,204 |
-| [mlkem-native-developers](mlkem-native-developers_1249565286638682122.md) | 2026-11-24 | 40 | 146 | 464 | 1,011 |
+| [mlkem-native-developers](mlkem-native-developers_1249565286638682122.md) | 2026-11-24 | 40 | 135 | 464 | 1,011 |
 | [pqcp-tsc](pqcp-tsc_1233337574668501033.md) | 2025-11-19 | 0 | 0 | 0 | 249 |
-| [pqcp-general](pqcp-general_1203396039977996359.md) | 2026-11-23 | 1 | 11 | 41 | 175 |
+| [pqcp-general](pqcp-general_1203396039977996359.md) | 2026-11-26 | 2 | 12 | 42 | 176 |
 | [hackathon](hackathon_1217120054618095746.md) | 2026-02-07 | 0 | 0 | 1 | 11 |
 | [slhdsa-c-developers](slhdsa-c-developers_1393078454945320980.md) | 2026-06-21 | 0 | 0 | 1 | 11 |
 | [pqcp-github](pqcp-github_1214603236019806249.md) | 2026-01-17 | 0 | 0 | 1 | 4 |
@@ -30,18 +30,18 @@
 | 1 | Rod | 24 | PQ Code Package Maintainer, Project Maintainer |
 | 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 19 | PQ Code Package Maintainer, Project Maintainer |
 | 3 | Brendan | 2 | — |
-| 4 | Hanno | 1 | PQ Code Package Maintainer |
-| 5 | Th3g3ntl3man1 | 1 | — |
+| 4 | hatz | 1 | — |
+| 5 | Hanno | 1 | PQ Code Package Maintainer |
 
 ### Last 90 Days
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | Rod | 85 | PQ Code Package Maintainer, Project Maintainer |
-| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 46 | PQ Code Package Maintainer, Project Maintainer |
-| 3 | Hanno | 18 | PQ Code Package Maintainer |
-| 4 | [RyJones](https://github.com/ryjones) | 5 | LF Staff |
-| 5 | Ishan | 3 | — |
+| 1 | Rod | 82 | PQ Code Package Maintainer, Project Maintainer |
+| 2 | [Matthias Kannwischer](https://github.com/mkannwischer) | 43 | PQ Code Package Maintainer, Project Maintainer |
+| 3 | Hanno | 16 | PQ Code Package Maintainer |
+| 4 | Ishan | 3 | — |
+| 5 | Brendan | 3 | — |
 
 ### Last 365 Days
 
@@ -67,7 +67,7 @@
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 767 |
+| 2026 | 768 |
 | 2025 | 2,440 |
 | 2024 | 458 |
 
@@ -75,7 +75,7 @@
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 39 |
+| 2026-11 | 40 |
 | 2026-10 | 44 |
 | 2026-09 | 73 |
 | 2026-08 | 108 |
@@ -114,6 +114,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-26 | 1 |
 | 2026-11-24 | 1 |
 | 2026-11-23 | 1 |
 | 2026-11-16 | 1 |

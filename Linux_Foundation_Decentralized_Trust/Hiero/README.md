@@ -3,9 +3,9 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1283486767546237040
 - **Total Messages in Category:** 2,193
-- **Last 30 Days:** 36
-- **Last 90 Days:** 175
-- **Last 365 Days:** 1,483
+- **Last 30 Days:** 34
+- **Last 90 Days:** 173
+- **Last 365 Days:** 1,482
 - **First Message:** 2024-09-11
 - **Last Message:** 2026-11-24
 
@@ -14,10 +14,10 @@
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [hiero-sdk-python](hiero-sdk-python_1336494517544681563.md) | 2026-11-17 | 6 | 17 | 310 | 537 |
-| [hiero-general](hiero-general_1289954446712770600.md) | 2026-11-16 | 6 | 21 | 251 | 303 |
-| [hiero-maintainers](hiero-maintainers_1283487103006543952.md) | 2026-11-10 | 8 | 51 | 158 | 217 |
+| [hiero-general](hiero-general_1289954446712770600.md) | 2026-11-16 | 6 | 20 | 251 | 303 |
+| [hiero-maintainers](hiero-maintainers_1283487103006543952.md) | 2026-11-10 | 7 | 50 | 158 | 217 |
 | [hiero-website](hiero-website_1458790070986215567.md) | 2026-10-02 | 0 | 7 | 179 | 179 |
-| [hiero-announcements](hiero-announcements_1283487046484234270.md) | 2026-11-24 | 5 | 19 | 108 | 171 |
+| [hiero-announcements](hiero-announcements_1283487046484234270.md) | 2026-11-24 | 4 | 19 | 108 | 171 |
 | [hiero-solo-action](hiero-solo-action_1337046798472052776.md) | 2026-08-31 | 0 | 6 | 6 | 131 |
 | [solo](solo_1364886813017247775.md) | 2026-09-14 | 0 | 2 | 40 | 108 |
 | [hiero-sdk-community](hiero-sdk-community_1460295344620572907.md) | 2026-10-29 | 2 | 8 | 77 | 77 |
@@ -36,7 +36,7 @@
 | [hiero-sdk-go](hiero-sdk-go_1337424630289404015.md) | 2026-11-07 | 1 | 2 | 11 | 12 |
 | [hiero-sdk-java](hiero-sdk-java_1337424581652381696.md) | 2026-09-07 | 0 | 1 | 5 | 11 |
 | [hiero-gfi](hiero-gfi_1466829260919673056.md) | 2026-02-12 | 0 | 0 | 9 | 9 |
-| [hiero-sdk-v3-playground](hiero-sdk-v3-playground_1441095054944112710.md) | 2026-06-25 | 0 | 0 | 5 | 6 |
+| [hiero-sdk-v3-playground](hiero-sdk-v3-playground_1441095054944112710.md) | 2026-06-25 | 0 | 0 | 4 | 6 |
 | [hiero-sdk-tck](hiero-sdk-tck_1336034637310464031.md) | 2025-04-29 | 0 | 0 | 0 | 4 |
 | [hedera-dev-announcements-xp](hedera-dev-announcements-xp_1444905832025423892.md) | 2025-12-09 | 0 | 0 | 2 | 2 |
 | [hiero-sdk-swift](hiero-sdk-swift_1337424716238946344.md) | 2025-03-06 | 0 | 0 | 0 | 1 |
@@ -47,9 +47,9 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [JessicaG](https://github.com/jwagantall) | 10 | lfdt-ca, LFDT Staff |
-| 2 | [hendrik.ebbers](https://github.com/hendrikebbers) | 5 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
-| 3 | mayanksinha17 | 4 | — |
+| 1 | [JessicaG](https://github.com/jwagantall) | 9 | lfdt-ca, LFDT Staff |
+| 2 | mayanksinha17 | 4 | — |
+| 3 | [hendrik.ebbers](https://github.com/hendrikebbers) | 4 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
 | 4 | [Daniel Marvin](https://github.com/danielmarv) | 4 | Project Maintainer, Hiero maintainer |
 | 5 | Derik Muñoz | 3 | — |
 
@@ -57,7 +57,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [JessicaG](https://github.com/jwagantall) | 55 | lfdt-ca, LFDT Staff |
+| 1 | [JessicaG](https://github.com/jwagantall) | 54 | lfdt-ca, LFDT Staff |
 | 2 | [Daniel Marvin](https://github.com/danielmarv) | 28 | Project Maintainer, Hiero maintainer |
 | 3 | [explorer3](https://github.com/exploreriii) | 14 | Project Maintainer, Hiero maintainer |
 | 4 | [hendrik.ebbers](https://github.com/hendrikebbers) | 13 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
@@ -70,7 +70,7 @@
 | 1 | [explorer3](https://github.com/exploreriii) | 433 | Project Maintainer, Hiero maintainer |
 | 2 | [JessicaG](https://github.com/jwagantall) | 171 | lfdt-ca, LFDT Staff |
 | 3 | Ang | 107 | Project Maintainer, Hiero maintainer |
-| 4 | [hendrik.ebbers](https://github.com/hendrikebbers) | 55 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
+| 4 | [hendrik.ebbers](https://github.com/hendrikebbers) | 54 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
 | 5 | [Roger](https://github.com/rbarker-dev) | 51 | Project Maintainer, Hiero maintainer |
 
 ### All Time

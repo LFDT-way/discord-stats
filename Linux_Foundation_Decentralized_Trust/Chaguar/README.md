@@ -2,19 +2,19 @@
 
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 1570380738673512528
-- **Total Messages in Category:** 455
-- **Last 30 Days:** 57
-- **Last 90 Days:** 113
-- **Last 365 Days:** 405
+- **Total Messages in Category:** 456
+- **Last 30 Days:** 58
+- **Last 90 Days:** 114
+- **Last 365 Days:** 403
 - **First Message:** 2025-10-14
-- **Last Message:** 2026-11-25
+- **Last Message:** 2026-11-26
 
 ## Channels in Category
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fabric-x](fabric-x_1427642480504999976.md) | 2026-11-25 | 4 | 32 | 324 | 374 |
-| [chaguar-discuss](chaguar-discuss_1570380938897006664.md) | 2026-11-25 | 49 | 49 | 49 | 49 |
+| [fabric-x](fabric-x_1427642480504999976.md) | 2026-11-25 | 4 | 32 | 321 | 374 |
+| [chaguar-discuss](chaguar-discuss_1570380938897006664.md) | 2026-11-26 | 50 | 50 | 50 | 50 |
 | [fabric-x-evm](fabric-x-evm_1550488625576415232.md) | 2026-11-20 | 4 | 32 | 32 | 32 |
 
 ## Most Active Users
@@ -43,7 +43,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Yoav Tock](https://github.com/tock-ibm) | 57 | TAC member, Project Maintainer, Fabric Maintainer |
+| 1 | [Yoav Tock](https://github.com/tock-ibm) | 56 | TAC member, Project Maintainer, Fabric Maintainer |
 | 2 | [Ry Jones](https://github.com/ryjones) | 49 | lfdt-ca, LFDT Staff |
 | 3 | EliMbadi | 39 | — |
 | 4 | Aaradhy Chinche | 31 | — |
@@ -57,20 +57,20 @@
 | 2 | [Ry Jones](https://github.com/ryjones) | 51 | lfdt-ca, LFDT Staff |
 | 3 | EliMbadi | 39 | — |
 | 4 | [arner](https://github.com/arner) | 36 | Project Maintainer, Fabric Maintainer |
-| 5 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 31 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
+| 5 | [Marcus Brandenburger](https://github.com/mbrandenburger) | 32 | TAC member, Fabric Maintainer, lab stewards, Project Maintainer |
 
 ## Yearly Traffic
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 368 |
+| 2026 | 369 |
 | 2025 | 87 |
 
 ## Monthly Traffic
 
 | Month | Messages |
 | --- | --- |
-| 2026-11 | 57 |
+| 2026-11 | 58 |
 | 2026-10 | 14 |
 | 2026-09 | 42 |
 | 2026-08 | 28 |
@@ -89,6 +89,7 @@
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-26 | 1 |
 | 2026-11-25 | 3 |
 | 2026-11-23 | 4 |
 | 2026-11-20 | 9 |

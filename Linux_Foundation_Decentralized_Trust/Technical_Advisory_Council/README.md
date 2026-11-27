@@ -3,8 +3,8 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category ID:** 941383941217222708
 - **Total Messages in Category:** 2,669
-- **Last 30 Days:** 45
-- **Last 90 Days:** 142
+- **Last 30 Days:** 43
+- **Last 90 Days:** 137
 - **Last 365 Days:** 393
 - **First Message:** 2022-02-10
 - **Last Message:** 2026-11-25
@@ -13,7 +13,7 @@
 
 | Channel Name | Last Message | 30d | 90d | 365d | Total |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [tac](tac_941384040316018790.md) | 2026-11-25 | 45 | 142 | 375 | 2,616 |
+| [tac](tac_941384040316018790.md) | 2026-11-25 | 43 | 137 | 375 | 2,616 |
 | [automated-pipelines](automated-pipelines_1156961689971998782.md) | 2026-04-15 | 0 | 0 | 18 | 52 |
 | [tac-announcements](tac-announcements_941399554731966564.md) | 2022-02-17 | 0 | 0 | 0 | 1 |
 
@@ -23,7 +23,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [hendrik.ebbers](https://github.com/hendrikebbers) | 13 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
+| 1 | [hendrik.ebbers](https://github.com/hendrikebbers) | 11 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
 | 2 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 6 | lfdt-ca, LFDT Staff |
 | 3 | [Ry Jones](https://github.com/ryjones) | 6 | lfdt-ca, LFDT Staff |
 | 4 | [JessicaG](https://github.com/jwagantall) | 5 | lfdt-ca, LFDT Staff |
@@ -33,7 +33,7 @@
 
 | Rank | User | Messages | Roles |
 | ---: | :--- | ---: | :--- |
-| 1 | [Arun S M](https://github.com/arsulegai) | 40 | TAC member, Chapter Leader |
+| 1 | [Arun S M](https://github.com/arsulegai) | 37 | TAC member, Chapter Leader |
 | 2 | [hendrik.ebbers](https://github.com/hendrikebbers) | 19 | Hiero maintainer, TAC member, SIG leader, Project Maintainer |
 | 3 | [davidwboswell](https://github.com/davidwboswell) | 15 | lfdt-ca, LFDT Staff |
 | 4 | [Sean Bohan (LFDT Staff)](https://github.com/SeanBohan) | 13 | lfdt-ca, LFDT Staff |

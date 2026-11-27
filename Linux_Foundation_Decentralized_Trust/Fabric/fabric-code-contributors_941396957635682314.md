@@ -3,22 +3,26 @@
 - **Guild:** Linux Foundation Decentralized Trust
 - **Category:** Fabric
 - **Channel ID:** 941396957635682314
-- **Total Messages:** 602
-- **Last 30 Days:** 0
-- **Last 90 Days:** 0
-- **Last 365 Days:** 7
+- **Total Messages:** 603
+- **Last 30 Days:** 1
+- **Last 90 Days:** 1
+- **Last 365 Days:** 8
 - **First Message:** 2022-02-12
-- **Last Message:** 2026-05-09
+- **Last Message:** 2026-11-26
 
 ## Most Active Users
 
 ### Last 30 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | Vishva | 1 | — |
 
 ### Last 90 Days
 
-_No activity in this period._
+| Rank | User | Messages | Roles |
+| ---: | :--- | ---: | :--- |
+| 1 | Vishva | 1 | — |
 
 ### Last 365 Days
 
@@ -27,7 +31,8 @@ _No activity in this period._
 | 1 | Somesh | 4 | — |
 | 2 | [bestbeforetoday](https://github.com/bestbeforetoday) | 1 | Project Maintainer, Fabric Maintainer |
 | 3 | [jtonline](https://github.com/jt-nti) | 1 | Project Maintainer, Fabric Maintainer |
-| 4 | Shaurya Mishra | 1 | — |
+| 4 | Vishva | 1 | — |
+| 5 | Shaurya Mishra | 1 | — |
 
 ### All Time
 
@@ -43,7 +48,7 @@ _No activity in this period._
 
 | Year | Messages |
 | --- | --- |
-| 2026 | 6 |
+| 2026 | 7 |
 | 2025 | 98 |
 | 2024 | 75 |
 | 2023 | 158 |
@@ -53,6 +58,7 @@ _No activity in this period._
 
 | Month | Messages |
 | --- | --- |
+| 2026-11 | 1 |
 | 2026-05 | 1 |
 | 2026-04 | 4 |
 | 2026-02 | 1 |
@@ -98,6 +104,7 @@ _No activity in this period._
 
 | Date | Messages |
 | --- | --- |
+| 2026-11-26 | 1 |
 | 2026-05-09 | 1 |
 | 2026-04-20 | 1 |
 | 2026-04-18 | 1 |
